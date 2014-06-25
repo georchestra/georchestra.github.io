@@ -17,9 +17,35 @@
         </svg>
       </a>
       <div class="trigger">
-        {% for page in site.pages %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endfor %}
+        <!--
+        Better idea: have translations of base pages into _data/translations.yaml file, and use them based on page.lang
+        
+        
+          <a class="page-link" href="/software">{{ site.data.translations[page.lang].Software }}</a>
+          <a class="page-link" href="/project">{{ site.data.translations[page.lang].Project }}</a>
+          <a class="page-link" href="/community">{{ site.data.translations[page.lang].Community }}</a>
+          <a class="page-link" href="/blog">{{ site.data.translations[page.lang].Blog }}</a>
+        -->
+        
+        {% if page.lang == "en" or page.lang == "" %}  
+          <a class="page-link" href="/software">Software</a>
+          <a class="page-link" href="/project">Project</a>
+          <a class="page-link" href="/community">Community</a>
+          <a class="page-link" href="/blog">Blog</a>
+        {% endif %}
+        {% if page.lang == "fr" %}
+          <a class="page-link" href="/fr/logiciel">Logiciel</a>
+          <a class="page-link" href="/fr/projet">Projet</a>
+          <a class="page-link" href="/fr/communaute">Communauté</a>
+          <a class="page-link" href="/fr/blog">Blog</a>
+        {% endif %}
+        {% if page.lang == "es" %}
+          <a class="page-link" href="/es/logiciel">Logiciel</a>
+          <a class="page-link" href="/es/projet">Projet</a>
+          <a class="page-link" href="/es/communaute">Communauté</a>
+          <a class="page-link" href="/es/blog">Blog</a>
+        {% endif %}
+
       </div>
     </nav>
 
