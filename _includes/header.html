@@ -13,18 +13,52 @@
         </svg>
       </a>
       <div class="trigger">
+      
+      {% if page.id contains "/blog/" %}
+      
+        {% for post in site.posts %}
+        
+            {% if post.myid == page.myid and post.lang == "en" %}
+                {% assign post_url_en = post.url %}
+            {% endif %}
+            {% if post.myid == page.myid and post.lang == "fr" %}
+                {% assign post_url_fr = post.url %}
+            {% endif %}
+            {% if post.myid == page.myid and post.lang == "es" %}
+                {% assign post_url_es = post.url %}
+            {% endif %}
+
+        {% endfor %}
+      
+      
         {% if page.lang == "en" or page.lang == "" %}
-          <a class="lang-link" href="">fr</a>
-          <a class="lang-link" href="">es</a>
+          <a class="lang-link" href="{{ post_url_fr }}">fr</a>
+          <a class="lang-link" href="{{ post_url_es }}">es</a>
         {% endif %}
         {% if page.lang == "fr" %}
-          <a class="lang-link" href="">en</a>
-          <a class="lang-link" href="">es</a>
+          <a class="lang-link" href="{{ post_url_en }}">en</a>
+          <a class="lang-link" href="{{ post_url_es }}">es</a>
         {% endif %}
         {% if page.lang == "es" %}
-          <a class="lang-link" href="">en</a>
-          <a class="lang-link" href="">fr</a>
+          <a class="lang-link" href="{{ post_url_en }}">en</a>
+          <a class="lang-link" href="{{ post_url_fr }}">fr</a>
         {% endif %}
+
+      {% else %}
+      
+        {% if page.lang == "en" or page.lang == "" %}
+          <a class="lang-link" href="/{{site.data.idmapping[page.myid].fr}}.html">fr</a>
+          <a class="lang-link" href="/{{site.data.idmapping[page.myid].es}}.html">es</a>
+        {% endif %}
+        {% if page.lang == "fr" %}
+          <a class="lang-link" href="/{{site.data.idmapping[page.myid].en}}.html">en</a>
+          <a class="lang-link" href="/{{site.data.idmapping[page.myid].es}}.html">es</a>
+        {% endif %}
+        {% if page.lang == "es" %}
+          <a class="lang-link" href="/{{site.data.idmapping[page.myid].en}}.html">en</a>
+          <a class="lang-link" href="/{{site.data.idmapping[page.myid].fr}}.html">fr</a>
+        {% endif %}
+      {% endif %}
       </div>
     </nav>
 
@@ -56,25 +90,25 @@
         -->
         
         {% if page.lang == "en" or page.lang == "" %}
-          <a class="page-link" href="/project">Project</a>
-          <a class="page-link" href="/software">Software</a>
-          <a class="page-link" href="/documentation">Documentation</a>
-          <a class="page-link" href="/community">Community</a>
-          <a class="page-link" href="/blog">Blog</a>
+          <a class="page-link" href="/project.html">Project</a>
+          <a class="page-link" href="/software.html">Software</a>
+          <a class="page-link" href="/documentation.html">Documentation</a>
+          <a class="page-link" href="/community.html">Community</a>
+          <a class="page-link" href="/blog.html">Blog</a>
         {% endif %}
         {% if page.lang == "fr" %}
-          <a class="page-link" href="/fr/projet">Projet</a>
-          <a class="page-link" href="/fr/logiciel">Logiciel</a>
-          <a class="page-link" href="/fr/documentation">Documentation</a>
-          <a class="page-link" href="/fr/communaute">Communauté</a>
-          <a class="page-link" href="/fr/blog">Blog</a>
+          <a class="page-link" href="/fr/projet.html">Projet</a>
+          <a class="page-link" href="/fr/logiciel.html">Logiciel</a>
+          <a class="page-link" href="/fr/documentation.html">Documentation</a>
+          <a class="page-link" href="/fr/communaute.html">Communauté</a>
+          <a class="page-link" href="/fr/blog.html">Blog</a>
         {% endif %}
         {% if page.lang == "es" %}
-          <a class="page-link" href="/es/projet">Projet</a>
-          <a class="page-link" href="/es/logiciel">Logiciel</a>
-          <a class="page-link" href="/es/documentation">Documentation</a>
-          <a class="page-link" href="/es/communaute">Communauté</a>
-          <a class="page-link" href="/es/blog">Blog</a>
+          <a class="page-link" href="/es/projet.html">Projet</a>
+          <a class="page-link" href="/es/logiciel.html">Logiciel</a>
+          <a class="page-link" href="/es/documentation.html">Documentation</a>
+          <a class="page-link" href="/es/communaute.html">Communauté</a>
+          <a class="page-link" href="/es/blog.html">Blog</a>
         {% endif %}
 
       </div>

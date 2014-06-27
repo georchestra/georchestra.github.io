@@ -1,0 +1,29 @@
+community:
+  en: community
+  fr: fr/communaute
+  es: es/comunidad
+
+documentation:
+  en: documentation
+  fr: fr/documentation
+  es: es/documentation
+
+project:
+  en: project
+  fr: fr/projet
+  es: es/projet
+  
+software:
+  en: software
+  fr: fr/logiciel
+  es: es/software
+  
+blog:
+  en: blog
+  fr: fr/blog
+  es: es/blog
+  
+index:
+  en: index
+  fr: fr/index
+  es: es/index
