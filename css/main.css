@@ -147,6 +147,13 @@ a:visited { color: #205caa; }
   background-color: #fff;
 }
 
+.page-content p {
+  margin: 1.35em 0 0;
+}
+
+.page-content ul {
+  padding-left: 30px;
+}
 
 /* Home styles */
 /* ----------------------------------------------------------*/
