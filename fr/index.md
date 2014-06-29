@@ -11,6 +11,7 @@ Cette base est complétée par une suite de modules indépendants et interopéra
 
  * un catalogue de métadonnées, basé sur [GeoNetwork](http://geonetwork-opensource.org/),
  * un serveur cartographique : [GeoServer](http://geoserver.org/),
+ * un serveur de tuiles : [GeoWebCache](http://geowebcache.org/),
  * un visualiseur et éditeur,
  * un extracteur, 
  * et plusieurs autres modules permettant d'administrer la solution.
