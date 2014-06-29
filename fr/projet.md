@@ -5,5 +5,4 @@ title: Projet
 myid: project
 ---
 
-  <h1>Projet</h1>
 
