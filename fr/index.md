@@ -9,7 +9,7 @@ geOrchestra est une [Infrastructure de Données Spatiales](http://fr.wikipedia.o
 Au coeur de geOrchestra se trouve un proxy de sécurité et un système d'[authentification unique](http://fr.wikipedia.org/wiki/Authentification_unique) (CAS).
 Cette base est complétée par une suite de modules indépendants et interopérables, parmi lesquels il est possible de choisir pour composer une Infrastructure de Données Spatiales "à la carte" :
 
- * un catalogue, basé sur [GeoNetwork](http://geonetwork-opensource.org/),
+ * un catalogue de métadonnées, basé sur [GeoNetwork](http://geonetwork-opensource.org/),
  * un serveur cartographique : [GeoServer](http://geoserver.org/),
  * un visualiseur et éditeur,
  * un extracteur, 
