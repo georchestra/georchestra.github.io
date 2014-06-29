@@ -4,10 +4,4 @@ lang: es
 myid: index
 ---
 
-<div class="home">
-
 Inicio geOrchestra Español
-
-
-</div>
-

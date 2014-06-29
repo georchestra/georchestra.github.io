@@ -5,5 +5,4 @@ title: Software
 myid: software
 ---
 
-  <h1>Software</h1>
 
