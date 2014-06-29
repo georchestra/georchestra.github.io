@@ -4,16 +4,17 @@ lang: fr
 myid: index
 ---
 
-geOrchestra est une [Infrastructure de Données Spatiales](http://fr.wikipedia.org/wiki/Spatial_Data_Infrastructure) **libre**, **interopérable** et **modulaire**, créée en 2009 pour répondre aux exigences de la directive INSPIRE en Europe. 
+geOrchestra est une [Infrastructure de Données Spatiales](http://fr.wikipedia.org/wiki/Spatial_Data_Infrastructure) **libre**, **interopérable** et **modulaire**, créée en 2009 pour répondre aux exigences de la directive [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) en Europe. 
 
-geOrchestra est composé d’une suite de modules indépendants et interopérables :
+Au coeur de geOrchestra se trouve un proxy de sécurité et un système d'[authentification unique](http://fr.wikipedia.org/wiki/Authentification_unique) (CAS).
+Cette base est complétée par une suite de modules indépendants et interopérables, parmi lesquels il est possible de choisir pour composer une Infrastructure de Données Spatiales "à la carte" :
 
- * un catalogue, basé sur GeoNetwork,
- * un serveur cartographique : GeoServer,
+ * un catalogue, basé sur [GeoNetwork](http://geonetwork-opensource.org/),
+ * un serveur cartographique : [GeoServer](http://geoserver.org/),
  * un visualiseur et éditeur,
  * un extracteur, 
  * et plusieurs autres modules permettant d'administrer la solution.
 
-La communication entre modules utilise principalement les standards de l’OGC, mais également des API REST.
+La communication entre modules utilise principalement les standards de l'[OGC](http://fr.wikipedia.org/wiki/Open_Geospatial_Consortium), mais également des API [REST](http://fr.wikipedia.org/wiki/Representational_State_Transfer).
 
-D'abord Bretonne, puis Française, cette IDS s'exporte maintenant à travers le monde avec des instances en Bolivie, au Nicaragua, en Suisse et Inde.
+D'extension initialement Bretonne, puis Française, geOrchestra s'exporte maintenant [à travers le monde](http://sdi.georchestra.org/mapfishapp/?wmc=app/contexts/relief.wmc) avec des instances en Bolivie, au Nicaragua, en Suisse et en Inde.
