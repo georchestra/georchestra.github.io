@@ -6,7 +6,7 @@ myid: index
 
 geOrchestra est une [Infrastructure de Données Spatiales](http://fr.wikipedia.org/wiki/Spatial_Data_Infrastructure) **libre**, **interopérable** et **modulaire**, créée en 2009 pour répondre aux exigences de la directive [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) en Europe. 
 
-Au coeur de geOrchestra se trouve un proxy de sécurité et un système d'[authentification unique](http://fr.wikipedia.org/wiki/Authentification_unique) (CAS).
+Au coeur de geOrchestra se trouve un proxy de sécurité et un système d'[authentification unique](http://fr.wikipedia.org/wiki/Authentification_unique).
 Cette base est complétée par une suite de modules indépendants et interopérables, parmi lesquels il est possible de choisir pour composer une Infrastructure de Données Spatiales "à la carte" :
 
  * un catalogue de métadonnées, basé sur [GeoNetwork](http://geonetwork-opensource.org/),
