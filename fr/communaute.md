@@ -17,8 +17,8 @@ Toutes les formes de contributions sont donc les bienvenues :
  * financement de nouvelles fonctionnalités.
 
 
-Comment obtenir de l'aide ?
-===========================
+## Comment obtenir de l'aide ?
+
 
 Si vous êtes familier d'IRC, n'hésitez pas à nous rejoindre sur le canal **#georchestra** (serveur **freenode**).
 
@@ -30,8 +30,7 @@ Sinon, le projet dispose de deux **listes de discussions**, que vous pouvez rejo
 Pour **contacter le PSC**, utilisez l'adresse psc@georchestra.org. Aucun support ne sera fourni à cette adresse.
 
 
-Qui utilise geOrchestra ?
-=========================
+## Qui utilise geOrchestra ?
 
 Des Etats :
 
