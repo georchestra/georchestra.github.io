@@ -5,8 +5,15 @@
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
+{% if page_url_en and page.lang != 'en' %}
+    <link rel="alternate" hreflang="en" href="{{ page_url_en }}" />
+{% endif %}
+{% if page_url_fr and page.lang != 'fr' %}
+    <link rel="alternate" hreflang="fr" href="{{ page_url_fr }}" />
+{% endif %}
+{% if page_url_es and page.lang != 'es' %}
+    <link rel="alternate" hreflang="es" href="{{ page_url_es }}" />
+{% endif %}
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
 </head>

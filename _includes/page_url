@@ -1,0 +1,22 @@
+{% for p in site.posts %}
+    {% if p.myid == page.myid and p.lang == "en" %}
+        {% assign page_url_en = p.url %}
+    {% endif %}
+    {% if p.myid == page.myid and p.lang == "fr" %}
+        {% assign page_url_fr = p.url %}
+    {% endif %}
+    {% if p.myid == page.myid and p.lang == "es" %}
+        {% assign page_url_es = p.url %}
+    {% endif %}
+{% endfor %}
+{% for p in site.pages %}
+    {% if p.myid == page.myid and p.lang == "en" %}
+        {% assign page_url_en = p.url %}
+    {% endif %}
+    {% if p.myid == page.myid and p.lang == "fr" %}
+        {% assign page_url_fr = p.url %}
+    {% endif %}
+    {% if p.myid == page.myid and p.lang == "es" %}
+        {% assign page_url_es = p.url %}
+    {% endif %}
+{% endfor %}
