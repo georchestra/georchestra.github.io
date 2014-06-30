@@ -3,8 +3,8 @@ layout: page
 lang: fr
 title: Projet
 myid: project
+excerpt: Historique, valeurs, rencontres et comité de pilotage du projet
 ---
-
 ## Historique
 
 Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructure de Données Spatiales de la région Bretagne était en cours de développement.

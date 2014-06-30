@@ -9,6 +9,8 @@ myid: 20140625
 
 Le site web geOrchestra fait peau neuve !
 
+<!--more-->
+
 Basé sur des technologies libres ([Jekyll](http://jekyllrb.com/)), il regroupe désormais au même endroit blog et pages descriptives du projet, au sein d'un site véritablement multilingue (anglais, français & espagnol).
 Au passage, nous souhaitons ici remercier GitHub pour leur hébergement sans faille.
 
