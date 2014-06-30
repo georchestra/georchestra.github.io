@@ -42,7 +42,7 @@ Des régions :
  * Région Aquitaine, via le projet [PIGMA](http://www.pigma.org) mis en place par le [GIP ATGeRI](http://www.gipatgeri.fr/),
  * Région Picardie, via le partenariat [GéoPicardie](http://www.geopicardie.fr/portail/), 
  * Région Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
- * Région Auvergne, grâce au GIP du Centre [Régional Auvergnat de l'Information Géographique](http://craig.fr/),
+ * Région Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/),
  
 Des agglomérations:
 
