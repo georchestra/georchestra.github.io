@@ -4,7 +4,7 @@ email: psc@georchestra.org
 description: "geOrchestra is the free, modular, interoperable & secure Spatial Data Infrastructure made by people for people"
 username: georchestra
 baseurl: ""
-url: "http://georchestra.org"
+url: "http://georchestra.github.io"
 port: 4001
 
 # Build settings
