@@ -14,8 +14,12 @@
 {% if page_url_es and page.lang != 'es' %}
     <link rel="alternate" hreflang="es" href="{{ page_url_es | prepend: site.baseurl | prepend: site.url }}" />
 {% endif %}
-
-    <link rel="alternate" href="{{ page.lang | prepend: "/" | prepend: site.baseurl }}/feed.xml" title="Blog - {{ site.title }}" type="application/rss+xml">
+{% if page.lang == 'en' %}
+    {% assign base = "/" %}
+{% else %}
+    {% assign base = page.lang | prepend: "/" %}
+{% endif %}
+    <link rel="alternate" href="{{ "/feed.xml" | prepend: base | prepend: site.baseurl }}" title="Blog - {{ site.title }}" type="application/rss+xml">
 
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
