@@ -17,4 +17,4 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
  * un module pour gérer les utilisateurs et les groupes depuis un navigateur ("ldapadmin"),
  * un module pour obtenir des statistiques d'utilisation de l'IDS ("analytics").
  
-Une plateforme geOrchestra expose des services standards de découverte (CSW), visualisation (WMS, WMTS), stylage (SLD), interrogation (WFS), édition (WFS-T), voire traitement (WPS) de données géographiques, ainsi que les outils web pour les consommer. Elle est interopère parfaitement avec des logiciels SIG comme QGIS.
+Une plateforme geOrchestra expose des services standards de découverte (CSW), visualisation (WMS, WMTS), stylage (SLD), interrogation (WFS), édition (WFS-T), voire traitement (WPS) de données géographiques, ainsi que les outils web pour les consommer. Elle est parfaitement interopèrable avec des logiciels SIG comme QGIS ou ArcGIS.
