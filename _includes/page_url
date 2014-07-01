@@ -1,3 +1,4 @@
+{% capture cache %}
 {% for p in site.posts %}
     {% if p.uid == page.uid and p.lang == "en" %}
         {% assign page_url_en = p.url %}
@@ -20,3 +21,4 @@
         {% assign page_url_es = p.url %}
     {% endif %}
 {% endfor %}
+{% endcapture %}{% assign cache = nil %}
