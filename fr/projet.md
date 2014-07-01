@@ -7,22 +7,22 @@ excerpt: Historique, valeurs, rencontres et comité de pilotage du projet
 ---
 ## Historique
 
-Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructure de Données Spatiales de la région Bretagne était en cours de développement.
-De concert entre la maîtrise d'oeuvre et la maîtrise d'ouvrage, il a été décidé d'ouvrir le code source du projet de manière à en faire profiter le plus grand nombre.
-Sur cette base, un comité de pilotage ("PSC") initial s'est constitué avec pour objectif de gérer l'avenir du projet.
+Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructure de Données Spatiales de la Bretagne était en cours de développement.
+La maîtrise d'oeuvre et la maîtrise d'ouvrage ont décidé de placer le code source du projet sous licence libre afin d'en faire profiter le plus grand nombre.
+Un comité de pilotage ("PSC") s'est constitué pour construire le projet libre, animer sa communauté, encadrer ses évolutions.
 
-Le choix de l'ouverture sous licence [GPL](http://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) était judicieux, puisque depuis lors, un grand nombre d'acteurs ont pu étudier, installer et configurer tout ou partie de la suite logicielle pour leurs propres besoins.
+Le choix de l'ouverture sous licence [GPL](http://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) était judicieux puisque, par la suite, un grand nombre d'acteurs ont pu étudier, installer et adapter tout ou partie de la suite logicielle pour leurs propres besoins.
 
-Le code source du projet, initialement hébergé sur le SVN de la région Bretagne, a été migré vers [GitHub](https://github.com/georchestra) au cours de l'année 2012.
-Ceci a permis une plus grande ouverture du code source, et, de fait, des apports extérieurs importants. La facilité de contribution liée à la plateforme GitHub a également permis d'accélérer et d'industrialiser les développements.
+Initialement hébergé sur un dépôt de sources en Bretagne, le code source du projet a été migré vers [GitHub](https://github.com/georchestra) au cours de l'année 2012.
+Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
 
 ## Valeurs
 
-Ouverture, Respect, Egalité, OGC, XML
+Ouverture, Modularité, Interopérabilité
 
 ## Rencontres
 
-Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, et pour définir les priorités en terme de développements.
+Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
 
 Les éditions précédentes du "geoCom" se sont tenues :
 
@@ -32,7 +32,7 @@ Les éditions précédentes du "geoCom" se sont tenues :
 
 ## Comité de pilotage
 
-Le comité de pilotage actuel est composé de 8 membres :
+Le comité de pilotage est composé de 8 membres :
 
  * Lydie Vinsonneau, Région Bretagne
  * Fabrice Phung, DREAL

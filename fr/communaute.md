@@ -7,7 +7,7 @@ uid: community
 
 Le projet geOrchestra est un projet communautaire : chacun y trouvera ce que d'autres apportent.
 
-Toutes les formes de contributions sont donc les bienvenues :
+Toutes les formes de contributions sont les bienvenues :
 
  * participation aux listes de discussion, 
  * rédaction de documentation, 
@@ -16,7 +16,7 @@ Toutes les formes de contributions sont donc les bienvenues :
  * contributions au code, que ce soit sous forme de patchs ou de "[pull request](https://help.github.com/articles/creating-a-pull-request)", 
  * financement de nouvelles fonctionnalités.
 
-Retrouvez la [liste des contributeurs](https://github.com/orgs/georchestra/members) qui ont le droit de commit sur github.
+Retrouvez la [liste des contributeurs](https://github.com/orgs/georchestra/members) qui ont le droit de commit sur GitHub.
 
 
 ## Comment obtenir de l'aide ?
@@ -40,11 +40,11 @@ Des Etats :
 
 Des régions :
 
- * Région Bretagne, via le partenariat [GeoBretagne](http://www.geobretagne.fr),
- * Région Aquitaine, via le projet [PIGMA](http://www.pigma.org) mis en place par le [GIP ATGeRI](http://www.gipatgeri.fr/),
- * Région Picardie, via le partenariat [GéoPicardie](http://www.geopicardie.fr/portail/), 
- * Région Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
- * Région Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/),
+ * la Bretagne, via le partenariat [GeoBretagne](http://www.geobretagne.fr),
+ * l'Aquitaine, via le projet [PIGMA](http://www.pigma.org) mis en place par le [GIP ATGeRI](http://www.gipatgeri.fr/),
+ * la Picardie, via le partenariat [GéoPicardie](http://www.geopicardie.fr/portail/), 
+ * l'Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
+ * l'Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/).
  
 Des agglomérations:
 
@@ -54,9 +54,10 @@ Des agglomérations:
 
 Des organismes ou unités de recherche :
 
- * UMR SAS INRA (Agrocampus Ouest à Rennes)
+ * UMR SAS INRA (Agrocampus Ouest à Rennes),
  * UMR LISAH INRA (Supagro à Montpellier),
- * INRA Champenoux.
+ * INRA,
+ * Université Pierre et Marie Curie
 
 ... et bien d'autres encore.
 
