@@ -4,7 +4,7 @@ title:  "geOcom2014: registration is now open"
 date:   2014-04-15 18:53:13
 categories: geocom
 lang: en
-myid: 20140415
+uid: 20140415
 ---
 
 <div class="post-content">

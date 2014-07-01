@@ -2,7 +2,7 @@
 layout: page
 lang: fr
 title: Documentation
-myid: documentation
+uid: documentation
 ---
 
 La documentation est actuellement centralisée sur le dépôt du code source à l'adresse suivante : [https://github.com/georchestra/georchestra/blob/master/README.md](https://github.com/georchestra/georchestra/blob/master/README.md).

@@ -4,7 +4,7 @@ title:  "geOcom2014 : inscriptions ouvertes"
 date:   2014-04-15 18:53:13
 categories: geocom
 lang: fr
-myid: 20140415
+uid: 20140415
 ---
 
 <div class="post-content">

@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: es
-myid: index
+uid: index
 ---
 
 Inicio geOrchestra Español

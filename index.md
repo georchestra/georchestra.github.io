@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: en
-myid: index
+uid: index
 ---
 
 Briefly describe, here, what is geOrchestra, why it's great and why you should join.

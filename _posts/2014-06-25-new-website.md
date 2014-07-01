@@ -4,7 +4,7 @@ title:  "New website !"
 date:   2014-06-25 18:53:13
 categories: jekyll update
 lang: en
-myid: 20140625
+uid: 20140625
 ---
 
 Checkout our brand new geOrchestra website !

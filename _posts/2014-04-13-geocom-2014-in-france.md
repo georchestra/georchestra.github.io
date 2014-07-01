@@ -4,7 +4,7 @@ title:  "geOcom 2014 in France"
 date:   2014-04-13 10:40:13
 categories: community
 lang: en
-myid: 20140413
+uid: 20140413
 ---
 
 <div class="post-content">

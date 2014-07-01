@@ -2,7 +2,7 @@
 layout: page
 lang: fr
 title: Communauté
-myid: community
+uid: community
 ---
 
 Le projet geOrchestra est un projet communautaire : chacun y trouvera ce que d'autres apportent.

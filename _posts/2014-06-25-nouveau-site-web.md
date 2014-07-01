@@ -4,7 +4,7 @@ title:  "Nouveau site web !"
 date:   2014-06-25 18:53:13
 categories: jekyll
 lang: fr
-myid: 20140625
+uid: 20140625
 ---
 
 Le site web geOrchestra fait peau neuve !

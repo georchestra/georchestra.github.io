@@ -2,7 +2,7 @@
 layout: page
 lang: fr
 title: Projet
-myid: project
+uid: project
 excerpt: Historique, valeurs, rencontres et comité de pilotage du projet
 ---
 ## Historique

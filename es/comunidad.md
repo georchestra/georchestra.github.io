@@ -2,7 +2,7 @@
 layout: page
 lang: es
 title: Comunidad
-myid: community
+uid: community
 ---
 
 geOrchestra es una gran comunidad. Describa aquí.
