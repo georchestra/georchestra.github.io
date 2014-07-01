@@ -16,6 +16,8 @@ Toutes les formes de contributions sont donc les bienvenues :
  * contributions au code, que ce soit sous forme de patchs ou de "[pull request](https://help.github.com/articles/creating-a-pull-request)", 
  * financement de nouvelles fonctionnalités.
 
+Retrouvez la [Liste des contributeurs](https://github.com/orgs/georchestra/members) qui ont le droit de commit sur github.
+
 
 ## Comment obtenir de l'aide ?
 
