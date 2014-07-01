@@ -29,14 +29,15 @@ Sinon, le projet dispose de deux **listes de discussions**, que vous pouvez rejo
  * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) est la liste généraliste sur geOrchestra,
  * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) est la liste consacrée aux développements et questions techniques autour de geOrchestra.
  
-Pour **contacter le PSC**, utilisez l'adresse psc@georchestra.org. Aucun support ne sera fourni à cette adresse.
+Pour **contacter le PSC**, utilisez l'adresse psc@georchestra.org. 
+Aucun support ne sera fourni à cette adresse.
 
 
 ## Qui utilise geOrchestra ?
 
 Des Etats :
 
- * Infrastructure de Données Spatiales Bolivienne via [GeoBolivia](http://geo.gob.bo/),
+ * la Bolivie, avec le projet [GeoBolivia](http://geo.gob.bo/),
 
 Des régions :
 
@@ -57,7 +58,7 @@ Des organismes ou unités de recherche :
  * UMR SAS INRA (Agrocampus Ouest à Rennes),
  * UMR LISAH INRA (Supagro à Montpellier),
  * INRA,
- * Université Pierre et Marie Curie
+ * Université Pierre et Marie Curie.
 
 ... et bien d'autres encore.
 
