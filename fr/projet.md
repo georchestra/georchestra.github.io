@@ -24,9 +24,9 @@ Ouverture, Modularité, Interopérabilité
 
 Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
 
-Les éditions précédentes du "geoCom" se sont tenues :
+Les éditions précédentes du "geOcom" se sont tenues :
 
- * à l'AgroCampus Rennes pour l'édition 2013,
+ * à Agrocampus Ouest, Rennes pour l'édition 2013,
  * au Centre Régional Auvergnat de l'Information Géographique (CRAIG) en 2014.
 
 
@@ -39,6 +39,6 @@ Le comité de pilotage est composé de 8 membres :
  * François Van Der Biest, Camptocamp
  * Pierre Mauduit, Camptocamp
  * Sylvain Lesage, Etat Bolivien
- * Rod Béra, AgroCampus Ouest
+ * Rod Béra, Agrocampus Ouest
  * Valérie Besand, DREAL
  * Landry Breuil, CRAIG
