@@ -1,7 +1,14 @@
-geOrchestra labellisé &quot;Territoire innovant&quot; pour sa déclinaison dans GéoBretagne
-    le vendredi  7 janvier 2011, 10:40 
-        
-    <div class="post-content"><p>Le forum des interconnectés de Lyon, dédié aux usages innovants des
+---
+layout: post
+title: "geOrchestra labellisé &quot;Territoire innovant&quot; pour sa déclinaison dans GéoBretagne"
+date: 2011-01-07 10:40:13
+lang: fr
+uid: 2011-01-07
+---
+
+<div class="post-content">
+
+<p>Le forum des interconnectés de Lyon, dédié aux usages innovants des
 collectivités en matière de nouvelles technologies, décerne chaque année ses
 <strong>labels « Territoire innovant »</strong> : ils distinguent les
 projets qui misent sur les nouvelles technologies pour développer un territoire
@@ -15,6 +22,6 @@ catégorie <strong>&quot;Performance et outils collaboratifs&quot;</strong>.</p>
 <p><a href="http://www.interconnectes.com/fr/live2010/" hreflang="fr">http://www.interconnectes.com/fr/live2010/</a> (Atelier 18 : sig au
 coeur de l'organisation/)</p>
 <p><a href="http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes">
-http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes</a></p></div>
+http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes</a></p>
 
-      </div>
+</div>

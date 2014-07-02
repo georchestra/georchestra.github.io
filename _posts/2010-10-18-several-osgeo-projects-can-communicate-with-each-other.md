@@ -1,7 +1,14 @@
-Several OSGeo projects can communicate with each other...  le lundi 18 octobre 2010, 21:32  
-    
-        
-    <div class="post-content"><p>A la question &quot;geOrchestra, c'est quoi&quot;, il est souvent difficile de donner
+---
+layout: post
+title: "Several OSGeo projects can communicate with each other..."
+date: 2010-10-18 21:32:13
+lang: fr
+uid: 2010-10-18
+---
+
+<div class="post-content">
+
+<p>A la question &quot;geOrchestra, c'est quoi&quot;, il est souvent difficile de donner
 une réponse concise. Répondre &quot;une infrastructure de données spatiale&quot;
 n'apporte rien de très concret.</p>
 <p>Un article wikipedia sur l'<a href="http://en.wikipedia.org/wiki/Open_Source_Geospatial_Foundation" hreflang="en">Open Source Geospatial Foundation</a> présente un <a href="http://upload.wikimedia.org/wikipedia/commons/0/09/GeoServer_GeoNetwork_with_web_app.svg" hreflang="en">croquis</a> fort intéressant. On y retrouve GeoServer,
@@ -27,6 +34,6 @@ charge (réalisé par GeoWebCache)</li>
 <li>enfin, faciliter la fabrication d'<a href="http://fr.wikipedia.org/wiki/Application_composite" hreflang="fr">applications
 composites</a> sans a-priori technologique pour desservir des besoins pointus à
 faible coûts. L'API mapfishapp est un bon début...</li>
-</ul></div>
+</ul>
 
-      </div>
+</div>
