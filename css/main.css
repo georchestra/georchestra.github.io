@@ -252,8 +252,10 @@ a:visited { color: #205caa; }
 
 .post code { padding: 1px 5px; }
 
+
 .post ul,
-.post ol { margin-left: 1.35em; }
+.post ol { margin-left: 0px; }
+
 
 .post pre code { border: none; }
 
@@ -268,6 +270,9 @@ a:visited { color: #205caa; }
 }
 
 .post pre.terminal code { background-color: #333; }
+
+
+ul.posts {padding-left: 0px;}
 
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
