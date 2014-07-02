@@ -1,18 +1,20 @@
+---
+layout: post
+title:  "geOrchestra aux journées finistériennes du libre 2010"
+date:   2010-09-19 20:48:13
+lang: fr
+uid: 2010-09-19
+---
 
-    <h2 id="p547251" class="post-title">geOrchestra aux journées finistériennes du libre 2010</h2>
-    
-    <p class="post-info">Par <a href="http://blog.georchestra.org/">adm</a>    le dimanche 19 septembre 2010, 22:01        - <a href="http://blog.georchestra.org/category/communaut%C3%A9">communautés</a>
-        - <a href="http://blog.georchestra.org/post/2010/09/19/geOrchestra-aux-journ%C3%A9es-finist%C3%A9riennes-du-libre-2010">Lien permanent</a>
-    </p>
-    
-    
-    
-          <div class="post-excerpt"><p><a href="/public/icons/jfl2010_affiche.jpeg"><img src="/public/icons/.jfl2010_affiche_t.jpg" alt="JFL2010" style="float:left; margin: 0 1em 1em 0;" title="JFL2010, sept. 2010" /></a> <a href="http://www.jfl2010.fr/">JFL 2010</a> : que ce soit par intérêt pour le
+<div class="post-excerpt">
+<p><a href="/public/icons/jfl2010_affiche.jpeg"><img src="/public/icons/.jfl2010_affiche_t.jpg" alt="JFL2010" style="float:left; margin: 0 1em 1em 0;" title="JFL2010, sept. 2010" /></a> <a href="http://www.jfl2010.fr/">JFL 2010</a> : que ce soit par intérêt pour le
 monde du libre, par curiosité sur le projet ou pour une explication sur les
 dessous techniques, nous serons très heureux de vous y rencontrer à l'occasion
-d'une <a href="http://www.jfl2010.fr/programme/#geobretagne">conférence-débat</a>.</p></div>
-        
-    <div class="post-content"><p>Lundi 4 octobre à partir de 20h à la maison des associations, 53, impasse de
+d'une <a href="http://www.jfl2010.fr/programme/#geobretagne">conférence-débat</a>.</p>
+</div>
+
+<div class="post-content">
+<p>Lundi 4 octobre à partir de 20h à la maison des associations, 53, impasse de
 l'Odet à Quimper (<a href="http://osm.org/go/erISLkIw9-">s'y rendre</a>)</p>
 <h4>GeoBretagne vers GeOchestra, un exemple de développement OpenSource en
 Bretagne</h4>
@@ -37,6 +39,6 @@ l'adullact, le 27/09</li>
 <li><strong><a href="http://www.jfl2010.fr/programme/#openstreetmap">OpenStreetMap</a></strong>,
 présentation et atelier le 20/10</li>
 <li><a href="http://www.jfl2010.fr/programme/">tous les autres</a></li>
-</ul></div>
+</ul>
+</div>
 
-      </div>

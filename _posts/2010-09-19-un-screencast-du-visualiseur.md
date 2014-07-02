@@ -1,9 +1,16 @@
-Vidéo du visualiseur le dimanche 19 septembre 2010, 12:20
-    
-          <div class="post-excerpt"><p>Cette vidéo présente le visualiseur mapfishapp et l'utilisation des styleur
-et requêteur.</p></div>
-        
-    <div class="post-content"><div style="text-align: center;"><object type="application/x-shockwave-flash" data="http://blog.georchestra.org/?pf=player_flv.swf" width="500" height="376"><param name="movie" value="http://blog.georchestra.org/?pf=player_flv.swf" />
+---
+layout: post
+title:  "Vidéo du visualiseur"
+date:   2010-09-19 12:20:13
+lang: fr
+uid: 2010-09-19
+---
+
+<div class="post-excerpt">
+<p>Cette vidéo présente le visualiseur mapfishapp et l'utilisation des styleur et requêteur.</p>
+</div>
+
+<div class="post-content"><div style="text-align: center;"><object type="application/x-shockwave-flash" data="http://blog.georchestra.org/?pf=player_flv.swf" width="500" height="376"><param name="movie" value="http://blog.georchestra.org/?pf=player_flv.swf" />
 <param name="wmode" value="transparent" />
 <param name="allowFullScreen" value="true" />
 <param name="FlashVars" value="title=geOrchestra%20:%20visualiseur%20styleur%20requeteur&amp;margin=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;buttonovercolor=ff9900&amp;slidercolor1=cccccc&amp;slidercolor2=999999&amp;sliderovercolor=0066cc&amp;flv=http://blog.georchestra.org/public/screencasts/mapfishapp.flv&amp;width=400&amp;height=300" /></object></div>
@@ -50,6 +57,6 @@ reçoit un flux GML qui est ensuite affiché en vecteur sur la carte et en
 valeurs dans un tableau. Il est possible de sélectionner des objets sur la
 carte, ils sont alors surlignés dans le tableau, et vice-versa.</p>
 </blockquote>
-<p>Les commentaires sont ouverts !</p></div>
+<p>Les commentaires sont ouverts !</p>
 
-      </div>
+</div>
