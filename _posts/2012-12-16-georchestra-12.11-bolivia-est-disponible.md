@@ -6,14 +6,15 @@ lang: fr
 uid: 2012-12-16
 ---
 
-<div class="post-content">
-
 <p>Le PSC est heureux d'annoncer la sortie de geOrchestra 12.11 (surnommée
 'Bolivia') avec 11 bugs corrigés et 21 améliorations depuis la version
 précédente. Cette version recevra des corrections de bugs jusqu'à ce que la
 suivante soit publiée, ce qui est programmé pour fin Février. Cette version a
 été en grande partie supportée par la communauté geOrchestra. Merci à tous les
 contributeurs.</p>
+
+<!--more-->
+
 <p>Améliorations majeures :</p>
 <ul>
 <li>utilisation de git pour faciliter les contributions. Github héberge
@@ -35,4 +36,3 @@ l'internationalisation, et sont traduits en français, espagnol et anglais
 télécharger, installer et rapporter les problèmes sur la liste
 georchestra@googlegroups.com. Le lien de téléchargement est <a href="https://github.com/georchestra/georchestra/archive/12.11.tar.gz" hreflang="en">https://github.com/georchestra/georchestra/archive/12.11.tar.gz</a></p>
 
-</div>

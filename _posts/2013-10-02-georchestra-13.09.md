@@ -6,12 +6,12 @@ lang: es
 uid: 2013-10-02
 ---
 
-<div class="post-content">
-
 <p>El comite director de geOrchestra tiene el agrado de anunciar la salida de
 geOrchestra 13.09. Esta sexta versión brinda numerosas novedades y
 correcciones. La versión 13.09 geOrchestra esta en demostración sobre <a href="http://sdi.georchestra.org/mapfishapp/?lang=es" hreflang="es">http://sdi.georchestra.org/</a>.</p>
 <p><strong>Spanish &amp; English translations in this same post</strong></p>
+
+<!--more-->
 
 <p>Esta versión mayor fue sostenida por los proyectos GeoPicardie, PIGMA,
 CIGALsace, GeoBretagne y CRAIG. Gracias igualmente a todos l@s contribuidores,
@@ -83,5 +83,3 @@ evoluciones e instrucciones de actualización.</p>
 código fuente esta en acceso libre</a> con el bugtracker y todas las ramas de
 los contribuidores. El código, sin dependencias externas, <a href="http://www.ohloh.net/p/georchestra" hreflang="en">esta analizado
 periodicamente por Ohloh</a> . ¡La comunidad esta en buen camino!</p>
-
-</div>

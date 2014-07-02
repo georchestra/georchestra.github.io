@@ -6,15 +6,15 @@ lang: fr
 uid: 2010-10-01-b
 ---
 
-<div class="post-excerpt">
-
 <p><img src="/public/icons/.osm_logo_t.jpg" alt="openstreetmap" style="float:left; margin: 0 1em 1em 0;" title="openstreetmap, sept. 2010" /> On ne
 présente plus <a href="http://www.openstreetmap.fr/">OpenStreetMap</a>, le
 projet de données libres qui rivalise avec les <a href="http://code.google.com/intl/fr/apis/maps/terms.html">fournisseurs de données
 propriétaires</a>. La suite d'outils OpenStreetMap utilisant <a href="http://www.postgis.fr/">postGIS</a>, ses données sont donc naturellement
-exposées aux services OGC et IDS comme geOrchestra.</p></div>
-        
-    <div class="post-content"><p>Le souhait de livrer les composants geOrchestra accompagnés de données
+exposées aux services OGC et IDS comme geOrchestra.</p>
+
+<!--more-->
+
+<p>Le souhait de livrer les composants geOrchestra accompagnés de données
 abondantes, libres et prêtes à l'emploi pourrait voir le jour. Grâce à <a href="http://code.google.com/p/mapserver-utils/">mapserver-utils</a> de Thomas
 Bonfort et aux contributions de Pierre Mauduit, il est possible de fabriquer
 des rendus de haute qualité, exposés en WMS ou WFS, et dans les projections
@@ -120,5 +120,3 @@ SIG.</strong> En attendant de découvrir toutes les possibilités offertes par
 cet apport, on ne peut que remercier la communauté des <em>mappers</em> et les
 contributeurs qui ont aidé au montage. <a href="http://geobretagne.fr/mapfishapp">GeoBretagne bénéficie déjà du fond
 OpenStreetMap</a>.</p>
-
-</div>

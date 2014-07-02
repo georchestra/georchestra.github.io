@@ -6,7 +6,7 @@ lang: fr
 uid: 2011-09-01-20-13
 ---
 
-    <div class="post-content"><p>Dans quelques jours, <a href="http://developer.yahoo.com/maps/" hreflang="en">l'API Yahoo sera fermée</a>. Yahoo recommande à ses utilisateurs de se
+<p>Dans quelques jours, <a href="http://developer.yahoo.com/maps/" hreflang="en">l'API Yahoo sera fermée</a>. Yahoo recommande à ses utilisateurs de se
 tourner vers <a href="http://api.maps.ovi.com/" hreflang="en">celle de
 Nokia</a>. Et dans un <a href="http://trac.osgeo.org/openlayers/ticket/3481" hreflang="en">ticket d'OpenLayers</a> on trouve :</p>
 <p><q>Finally, the GoogleNG layer violates the overall intent of the terms of
@@ -16,6 +16,9 @@ Finalement, la couche google viole l'esprit des <a href="http://code.google.com/
 utiliser l'interface <a href="google%20maps" title="google maps">google
 maps</a> complète. Le fait est que vous ne pouvez utiliser les tuiles
 directement.</p>
+
+<!--more-->
+
 <p>La consommation directe des tuiles google par OpenLayers, une voie
 pressentie pour le support gmaps dans geOrchestra sans embarquer toute l'API
 Google, n'est donc plus possible. Dans les conditions d'utilisation de google
@@ -39,4 +42,4 @@ create a substantial economic burden as determined by Google in its reasonable
 good faith judgment</q>. Une lecture critique des conditions d'utilisation
 s'avère dans tous les cas indispensable avant d'engager les développements.</p>
 <p>En investissant principalement sur les normes OGC, on se met à l'abri de ces
-risques.</p></div>
+risques.</p>

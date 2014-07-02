@@ -16,8 +16,13 @@ fonctionnelle de GitHub, et par le protocole git qui facilite beaucoup
 les<br />
 contributions. Attention, les développements sont toujours <a href="http://repository.georchestra.org/svn-georchestra/trunk/">effectués sur
 le<br />
-dépôt subversion</a> et le code sur GitHub n'est encore qu'une copie. Les<br />
-dépôts suivants ont été ouverts :<br />
+dépôt subversion</a> et le code sur GitHub n'est encore qu'une copie.
+
+
+<!--more-->
+
+
+Les dépôts suivants ont été ouverts :<br />
 <br />
 <br />
 <br />

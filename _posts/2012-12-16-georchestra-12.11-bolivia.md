@@ -6,13 +6,14 @@ lang: es
 uid: 2012-12-16
 ---
 
-<div class="post-content">
-
 <p>El PSC tiene el agrado de anunciar la salida de geOrchestra 12.11 (nombrada
 'Bolivia') con 11 bugs corregidos y 21 mejoras desde la versión anterior. Esta
 versión recibirá correcciones de bugs hasta que la siguiente sea publicada, lo
 que esta programado para fines de febrero. Esta versión fue mayormente
 soportada por la comunidad geOrchestra. Gracias a todos los contribuidores.</p>
+
+<!--more-->
+
 <p>Mejoras mayores:</p>
 <ul>
 <li>uso de git para facilitar las contribuciones. Github ya aloja el arbol de
@@ -33,5 +34,3 @@ equipo GeoBolivia).</li>
 <p>Más detalles aquí: <a href="http://applis-bretagne.fr/redmine/versions/show/96" hreflang="en">http://applis-bretagne.fr/redmine/versions/show/96</a> No duden en
 descargar, instalar y reportar los problemas sobre la lista
 georchestra@googlegroups.com. El vínculo de descarga es <a href="https://github.com/georchestra/georchestra/archive/12.11.tar.gz" hreflang="en">https://github.com/georchestra/georchestra/archive/12.11.tar.gz</a></p>
-
-</div>

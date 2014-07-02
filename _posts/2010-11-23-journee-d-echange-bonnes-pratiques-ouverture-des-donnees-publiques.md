@@ -6,11 +6,7 @@ lang: fr
 uid: 2010-11-23
 ---
 
-<div class="post-content">
-
 <p>La Fing, l’ePSIplateform, la Métropole de Rennes, la Région Bretagne,
 e-megalis et le GFII organisent une <a href="http://fing.org/?1e-Rencontre-europeenne-en-France" hreflang="fr">journée
 d’échanges autour des bonnes pratiques d’ouverture et de réutilisation des
 données publiques</a>. Participez à la première rencontre européenne organisée en France, en français et en anglais (traduction simultanée).</p>
-
-</div>

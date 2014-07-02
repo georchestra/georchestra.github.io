@@ -6,14 +6,15 @@ lang: fr
 uid: 2012-06-12-b
 ---
 
-<div class="post-content">
-
 Le visualiseur geOrchestra permet la consultation du catalogue de la
 plate-forme selon des arbres de mots-clefs ou des listes de données extraites
 des capacités de services. Ces interfaces sont appréciées des spécialistes qui
 maîtrisent ces notions, et c'est là leur principal défaut : il faut savoir à
 l'avance où chercher pour trouver. Des utilisateurs ont souhaités une interface
-plus intuitive. L'explorateur de catalogues est né de ce besoin.<br />
+plus intuitive. L'explorateur de catalogues est né de ce besoin.
+
+<!--more-->
+
 <br />
 <div style="text-align: center"><img style="max-width: 800px;" src="http://blog.georchestra.org/public/mapfishapp-cswbrowser.png" width="519" height="328" /><br />
 <div style="text-align: left">Son cheminement :<br />
@@ -40,5 +41,3 @@ subtilités de CSW et améliorer la pertinence des résultats, cet explorateur d
 couches est une avancée intéressante qui montre bien l'intérêt des services de
 découverte INSPIRE.</p>
 <p>Réalisation Camptocamp dans le cadre de GéoBretagne</p>
-
-</div>

@@ -5,17 +5,16 @@ title: Blog
 uid: blog
 ---
 
-  <h1>Billets</h1>
+<ul class="posts">
+{% for post in site.posts limit:30 %}
+    {% if post.lang == "fr" %}
+  <li>
+    <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {{ post.excerpt }}
+  </li>
+    {% endif %}
+{% endfor %}
+</ul>
 
-  <ul class="posts">
-    {% for post in site.posts %}
-        {% if post.lang == "fr" %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-        {% endif %}
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">s'abonner <a href="{{ "/fr/feed.xml" | prepend: site.baseurl }}">par RSS</a></p>
+<p class="rss-subscribe">s'abonner <a href="{{ "/fr/feed.xml" | prepend: site.baseurl }}">par RSS</a></p>

@@ -9,6 +9,8 @@ uid: 20140625
 
 Checkout our brand new geOrchestra website !
 
+<!--more-->
+
 Based on free software ([Jekyll](http://jekyllrb.com/)), it features a blog and static pages at the same place, with full multilingual content (english, french & spanish).
 We'd like to thank GitHub for their awesome hosting.
 

@@ -6,12 +6,13 @@ lang: fr
 uid: 2012-10-14
 ---
 
-<div class="post-content">
-
 <p>Le projet geOrchestra est maintenant hébergé sur GitHub. Cette migration a
 mobilisé notre communauté. Comme cela a été démontré avec
 l'internationalisation des modules visualiseurs et extracteur, ce déménagement
 a pour vocation de faciliter les contributions.</p>
+
+<!--more-->
+
 <p>Les sources ont été éclatées dans plusieurs dépôts rassemblés sous
 l'<a href="https://github.com/georchestra" hreflang="fr">organisation
 geOrchestra</a>. On y trouve :</p>
@@ -27,4 +28,3 @@ mais est placé en lecture seule; les nouvelles fonctionnalités seront
 dorénavant implémentées sur GitHub.</p>
 <p>Merci à tous les georchestriens pour leur travail !</p>
 
-</div>

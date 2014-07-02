@@ -6,13 +6,15 @@ lang: fr
 uid: 2011-12-17-21-14
 ---
 
-<div class="post-content">
-
 Le 15 décembre, <a href="http://www.pigma.org/">PIGMA</a> (Plateforme
 d'Information Géographique Mutualisée en Aquitaine) est entrée en service en
 version 2 avec un catalogue comportant plus de 1100 jeux de données. Reposant
 sur geOrchestra, l'IDS PIGMA en utilise tous les modules : catalogue,
-visualiseur, extracteur, serveur OGC. Ce projet a fortement contribué à la mise
+visualiseur, extracteur, serveur OGC. 
+
+<!--more-->
+
+Ce projet a fortement contribué à la mise
 à jour des bibliothèques, aux corrections de bugs et à l'ajout de
 fonctionnalités :<br />
 <br />
@@ -35,5 +37,3 @@ qualité reposant sur CSW</li>
 Les développements réalisés dans le cadre de PIGMA donneront lieu à une version
 &quot;taguée&quot; de geOrchestra en janvier 2012.<br />
 <br />
-
-</div>

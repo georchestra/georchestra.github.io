@@ -6,10 +6,12 @@ lang: fr
 uid: 2011-10-21
 ---
 
-<div class="post-excerpt"><p>Les résolutions fixes proposées par les services tuilés sont un obstacle à
-l'interopérabilité. Une solution se profile côté client dans OpenLayers.</p></div>
+<p>Les résolutions fixes proposées par les services tuilés sont un obstacle à
+l'interopérabilité. Une solution se profile côté client dans OpenLayers.</p>
 
-<div class="post-content"><p>Extrait traduit d'un article Camptocamp (<a href="http://www.camptocamp.com/en/blog/2011/10/openlayers-client-zoom-feature/trackback/" hreflang="en">voir le billet</a>).</p>
+<!--more-->
+
+<p>Extrait traduit d'un article Camptocamp (<a href="http://www.camptocamp.com/en/blog/2011/10/openlayers-client-zoom-feature/trackback/" hreflang="en">voir le billet</a>).</p>
 <blockquote>
 <p>Jusqu'à aujourd'hui, OpenLayers ne permettait pas l'affichage d'une couche
 tuilée dans des résolutions non supportées par le service de tuilage de la
@@ -29,4 +31,4 @@ fonctionnalité est disponible en ligne. <a href="http://elemoine.github.com/ope
 <p>Merci à Swisstopo pour avoir financé ce travail. Et remerciements spéciaux à
 Andreas Hocevar pour son aide et support, et pour le patch “positionnement de
 tuile basé sur pourcentages&quot; sur lequel ce travail est fondé.</p>
-</blockquote></div>
+</blockquote>

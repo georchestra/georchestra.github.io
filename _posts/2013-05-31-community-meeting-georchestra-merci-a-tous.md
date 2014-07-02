@@ -13,6 +13,9 @@ Rennes-Strasbourg-Amiens-La Paz, ce coup d'essai pour la communauté a été ric
 en découvertes, échanges et constructions. La roadmap geOrchestra a été
 établie. Le PSC publiera prochainement les actes et les présentations sur le
 blog.</p>
+
+<!--more-->
+
 <p><strong>Un grand merci aux organisateurs, aux animateurs et aux
 participants</strong> parfois venus de loin avec leur sac à dos et leur envie
 de contribuer ! Et à la prochaine.</p>

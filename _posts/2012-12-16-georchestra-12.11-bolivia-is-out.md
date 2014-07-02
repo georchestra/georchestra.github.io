@@ -6,14 +6,15 @@ lang: en
 uid: 2012-12-16
 ---
 
-<div class="post-content">
-
 <p>All,</p>
 <p>The PSC is pleased to announce the release of geOrchestra 12.11 (aka
 'Bolivia' ) with 11 bugs fixed and 21 improvements since the previous one. This
 release will receive bug fixes until the next stable one will be out, which is
 planned for the end of February. This release was mainly supported by the
 geOrchestra community. Thanks to all contributors !</p>
+
+<!--more-->
+
 <p>BTW, we've got a new logo :</p>
 <p><img src="http://www.georchestra.org/fr/_static/georchestra_logo.png" alt="" /></p>
 <p>Major improvements :</p>
@@ -36,5 +37,3 @@ french, spanish, english translations (kudos to the GeoBolivia Team), <img src="
 <p>More details here : <a href="http://applis-bretagne.fr/redmine/versions/show/96" hreflang="en">http://applis-bretagne.fr/redmine/versions/show/96</a> Feel free to
 download, install and report problems on the georchestra@googlegroups.com list.
 Download link is <a href="https://github.com/georchestra/georchestra/archive/12.11.tar.gz" hreflang="en">https://github.com/georchestra/georchestra/archive/12.11.tar.gz</a></p>
-
-</div>
