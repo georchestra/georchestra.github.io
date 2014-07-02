@@ -1,0 +1,55 @@
+Vidéo du visualiseur le dimanche 19 septembre 2010, 12:20
+    
+          <div class="post-excerpt"><p>Cette vidéo présente le visualiseur mapfishapp et l'utilisation des styleur
+et requêteur.</p></div>
+        
+    <div class="post-content"><div style="text-align: center;"><object type="application/x-shockwave-flash" data="http://blog.georchestra.org/?pf=player_flv.swf" width="500" height="376"><param name="movie" value="http://blog.georchestra.org/?pf=player_flv.swf" />
+<param name="wmode" value="transparent" />
+<param name="allowFullScreen" value="true" />
+<param name="FlashVars" value="title=geOrchestra%20:%20visualiseur%20styleur%20requeteur&amp;margin=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;buttonovercolor=ff9900&amp;slidercolor1=cccccc&amp;slidercolor2=999999&amp;sliderovercolor=0066cc&amp;flv=http://blog.georchestra.org/public/screencasts/mapfishapp.flv&amp;width=400&amp;height=300" /></object></div>
+<p>Les étapes suivies dans cette démo et les dessous techniques :</p>
+<ul>
+<li><strong>00:10 - déplacements et recentrage de la carte</strong></li>
+</ul>
+<blockquote>
+<p>les tuiles constituant chaque couche sont fabriquées par des services WMS et
+affichées par mapfishapp. Le chargement par tuile permet de travailler avec une
+grande surface d'affichage, et soulage le travail du serveur lorsque les fonds
+sont prétuilés - c'est le cas ici pour les photographies aériennes. Le service
+en ligne <a href="http://www.geonames.org/">geonames</a> est utilisé pour
+recentrer la carte sur un toponyme. <a href="http://www.geonames.org/">geonames</a> est une base de données en ligne
+librement accessible et contenant plus de 7 millions de toponymes sur le monde
+entier.</p>
+</blockquote>
+<ul>
+<li><strong>00:25 - sélection des couches raster</strong></li>
+</ul>
+<blockquote>
+<p>mapfishapp peut ajouter des couches provenant de services WMS dont on
+connaît l'adresse, ou de couches WMS référencées dans un catalogue de données
+interrogeable par le protocole CSW. L'utilisateur peut régler l'opacité de
+chaque couche. L'ensemble peut ensuite être sauvegardé dans un fichier au
+format Web Map Context, et être rechargé ultérieurement.</p>
+</blockquote>
+<ul>
+<li><strong>00:36 - fabrication d'un style personnalisé</strong></li>
+</ul>
+<blockquote>
+<p>la couche est interrogée par WFS:describeFeatureType pour en récupérer les
+attributs. Un document SLD est ensuite fabriqué puis stocké sur le serveur
+mapfishapp. Lorsque la couche est réclamée au serveur WMS, celui-ci télécharge
+d'abord le document SLD puis fabrique une carte personnalisée en fonction des
+filtres et styles.</p>
+</blockquote>
+<ul>
+<li><strong>02:44 - sélection géographique</strong></li>
+</ul>
+<blockquote>
+<p>le requêteur fabrique des requêtes WFS géométriques et/ou attributaires. Il
+reçoit un flux GML qui est ensuite affiché en vecteur sur la carte et en
+valeurs dans un tableau. Il est possible de sélectionner des objets sur la
+carte, ils sont alors surlignés dans le tableau, et vice-versa.</p>
+</blockquote>
+<p>Les commentaires sont ouverts !</p></div>
+
+      </div>

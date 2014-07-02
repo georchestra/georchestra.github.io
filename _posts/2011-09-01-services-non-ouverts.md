@@ -1,0 +1,39 @@
+Investir ou pas sur les API/services non ouvertes le jeudi  1 septembre 2011, 20:13
+    
+        
+    <div class="post-content"><p>Dans quelques jours, <a href="http://developer.yahoo.com/maps/" hreflang="en">l'API Yahoo sera fermée</a>. Yahoo recommande à ses utilisateurs de se
+tourner vers <a href="http://api.maps.ovi.com/" hreflang="en">celle de
+Nokia</a>. Et dans un <a href="http://trac.osgeo.org/openlayers/ticket/3481" hreflang="en">ticket d'OpenLayers</a> on trouve :</p>
+<p><q>Finally, the GoogleNG layer violates the overall intent of the terms of
+service that to use the tiles, you've got to use the whole map interface. The
+whole point is that you can't use the tiles directly.</q>. Traduction:
+Finalement, la couche google viole l'esprit des <a href="http://code.google.com/intl/fr-FR/apis/maps/terms.html" hreflang="en">conditions d'utilisation</a> pour l'utilisation des tuiles, vous devez
+utiliser l'interface <a href="google%20maps" title="google maps">google
+maps</a> complète. Le fait est que vous ne pouvez utiliser les tuiles
+directement.</p>
+<p>La consommation directe des tuiles google par OpenLayers, une voie
+pressentie pour le support gmaps dans geOrchestra sans embarquer toute l'API
+Google, n'est donc plus possible. Dans les conditions d'utilisation de google
+maps, on lit en effet :</p>
+<p><q>(a) No Access to Maps API(s) except through the Service. You must not
+access or use the Maps API(s) or any Content through any technology or means
+other than those provided in the Service, or through other explicitly
+authorized means Google may designate. For example, you must not access map
+tiles or imagery through interfaces or channels (including undocumented Google
+interfaces) other than the Maps API(s).</q></p>
+<p>Le <a href="http://csm-bretagne.fr/redmine/issues/1590" hreflang="fr">ticket
+1590</a> prévoit que geOrchestra utilise les fonds google ou autres car ce
+besoin a été plusieurs fois exprimé : google couvre la terre entière, donc
+des périmètres d'étude bien éloignés de la zone INSPIRE... Mais ces
+évolutions|abandons|subtilités de licence posent question.</p>
+<p>Il apparaît risqué d'investir sur des API dépendantes d'une décision du
+fournisseur, cf <q>Google may, at any time, terminate its legal agreement with
+you or cease providing all or any part of the Service immediately without any
+notice if:<a href="..." title="...">...</a>(d) providing the Service could
+create a substantial economic burden as determined by Google in its reasonable
+good faith judgment</q>. Une lecture critique des conditions d'utilisation
+s'avère dans tous les cas indispensable avant d'engager les développements.</p>
+<p>En investissant principalement sur les normes OGC, on se met à l'abri de ces
+risques.</p></div>
+
+      </div>
