@@ -9,7 +9,7 @@ uid: 2013-10-02
 <p>The Project Steering Committee of geOrchestra is proud to announce the
 release of geOrchestra 13.09. In this sixth release you will find a number of
 new features, improvements and corrections. geOrchestra 13.09 is available at
-<a href="http://sdi.georchestra.org/mapfishapp/?lang=en" hreflang="en">http://sdi.georchestra.org/</a>.</p>
+<a href="http://sdi.georchestra.org/mapfishapp/?lang=en" hreflang="en">http://sdi.georchestra.org/</a>.
 </p>
 
 <!--more-->

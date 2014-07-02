@@ -9,7 +9,6 @@ uid: 2013-10-02
 <p>El comite director de geOrchestra tiene el agrado de anunciar la salida de
 geOrchestra 13.09. Esta sexta versión brinda numerosas novedades y
 correcciones. La versión 13.09 geOrchestra esta en demostración sobre <a href="http://sdi.georchestra.org/mapfishapp/?lang=es" hreflang="es">http://sdi.georchestra.org/</a>.</p>
-<p><strong>Spanish &amp; English translations in this same post</strong></p>
 
 <!--more-->
 
