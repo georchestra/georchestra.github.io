@@ -1,8 +1,12 @@
-GitHub : on y vient le mardi 12 juin 2012, 09:19  
-    
-    
-        
-    <div class="post-content"><img style="max-width: 800px; float: left; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1338956357" width="79" height="79" /><br />
+---
+layout: post
+title: "GitHub : on y vient"
+date: 2012-06-12 09:19:13
+lang: fr
+uid: 2012-06-12-a
+---
+
+<img style="max-width: 800px; float: left; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1338956357" width="79" height="79" /><br />
 <br />
 Le projet geOrchestra <a href="https://github.com/georchestra">teste<br />
 actuellement GitHub</a> avec pour objectif d'en faire le futur dépôt de<br />

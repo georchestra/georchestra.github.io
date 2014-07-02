@@ -1,4 +1,10 @@
-le vendredi 31 mai 2013, 11:52      
+---
+layout: post
+title: "geOrchestra Community Meeting - merci à tous !"
+date: 2013-05-31 11:52:13
+lang: fr
+uid: 2013-05-31
+---
 
 <p>Le geOrchestra Community Meeting s'est parfaitement déroulé les 29 et 30
 mai. Grâce à l'appui de l'Agrocampus Ouest et au concours de tous les
@@ -24,7 +30,4 @@ matin)</li>
 <li>les photos sur <a href="http://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/" title="http://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/">http://www.flickr.com/photos/fvande...</a></li>
 <li>le <a href="https://www.pigma.org/reunions-nationales">reportage
 complet</a> sur la plateforme PIGMA</li>
-</ul></div>
-
-      </div>
-
+</ul>

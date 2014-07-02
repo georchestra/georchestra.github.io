@@ -1,6 +1,11 @@
-Investir ou pas sur les API/services non ouvertes le jeudi  1 septembre 2011, 20:13
-    
-        
+---
+layout: post
+title: "Investir ou pas sur les API/services non ouvertes"
+date: 2011-09-01 20:13:13
+lang: fr
+uid: 2011-09-01-20-13
+---
+
     <div class="post-content"><p>Dans quelques jours, <a href="http://developer.yahoo.com/maps/" hreflang="en">l'API Yahoo sera fermée</a>. Yahoo recommande à ses utilisateurs de se
 tourner vers <a href="http://api.maps.ovi.com/" hreflang="en">celle de
 Nokia</a>. Et dans un <a href="http://trac.osgeo.org/openlayers/ticket/3481" hreflang="en">ticket d'OpenLayers</a> on trouve :</p>
@@ -35,5 +40,3 @@ good faith judgment</q>. Une lecture critique des conditions d'utilisation
 s'avère dans tous les cas indispensable avant d'engager les développements.</p>
 <p>En investissant principalement sur les normes OGC, on se met à l'abri de ces
 risques.</p></div>
-
-      </div>

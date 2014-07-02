@@ -1,7 +1,14 @@
-Les WPS, le mariage du calcul scientifique et de la géomatique
-  le lundi 14 février 2011, 13:19   
-        
-    <div class="post-content"><p><strong>Qu'est-ce qu'un WPS (Web Processing Service) ?</strong> <em>&quot;Un
+---
+layout: post
+title: "Les WPS, le mariage du calcul scientifique et de la géomatique"
+date: 2011-02-14 13:19:13
+lang: fr
+uid: 2011-02-14
+---
+
+<div class="post-content">
+
+<p><strong>Qu'est-ce qu'un WPS (Web Processing Service) ?</strong> <em>&quot;Un
 service de traitement Web donne accès à des calculs et à des modèles qui
 traitent des données à référence spatiale. Un service de traitement Web peut
 être configuré pour offrir tout type de fonctionnalité SIG à des clients reliés
@@ -23,6 +30,6 @@ simplement utiliser toute la puissance de calcul de services WPS :</p>
 XHTML YouTube embed code</a></div>
 <p>Merci à Hervé Squividant pour cette vidéo et ce travail.</p>
 <p>Une perspective est de pouvoir implémenter cette architecture dans
-geOrchestra.</p></div>
+geOrchestra.</p>
 
-      </div>
+</div>

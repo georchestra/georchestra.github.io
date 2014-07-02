@@ -1,7 +1,14 @@
-zoom sur l'explorateur de catalogue   le mardi 12 juin 2012, 12:09 
-    
-        
-    <div class="post-content">Le visualiseur geOrchestra permet la consultation du catalogue de la
+---
+layout: post
+title: "Zoom sur l'explorateur de catalogue"
+date: 2012-06-12 12:09:13
+lang: fr
+uid: 2012-06-12-b
+---
+
+<div class="post-content">
+
+Le visualiseur geOrchestra permet la consultation du catalogue de la
 plate-forme selon des arbres de mots-clefs ou des listes de données extraites
 des capacités de services. Ces interfaces sont appréciées des spécialistes qui
 maîtrisent ces notions, et c'est là leur principal défaut : il faut savoir à
@@ -33,7 +40,5 @@ subtilités de CSW et améliorer la pertinence des résultats, cet explorateur d
 couches est une avancée intéressante qui montre bien l'intérêt des services de
 découverte INSPIRE.</p>
 <p>Réalisation Camptocamp dans le cadre de GéoBretagne</p>
-</div>
-</div>
 
-      </div>
+</div>

@@ -1,10 +1,15 @@
-OpenLayers Client Zoom : une solution pour les services tuilés
-   le vendredi 21 octobre 2011, 17:30 
-    
-          <div class="post-excerpt"><p>Les résolutions fixes proposées par les services tuilés sont un obstacle à
+---
+layout: post
+title: "OpenLayers Client Zoom : une solution pour les services tuilés"
+date: 2011-10-21 17:30:13
+lang: fr
+uid: 2011-10-21
+---
+
+<div class="post-excerpt"><p>Les résolutions fixes proposées par les services tuilés sont un obstacle à
 l'interopérabilité. Une solution se profile côté client dans OpenLayers.</p></div>
-        
-    <div class="post-content"><p>Extrait traduit d'un article CampToCamp (<a href="http://www.camptocamp.com/en/blog/2011/10/openlayers-client-zoom-feature/trackback/" hreflang="en">voir le billet</a>).</p>
+
+<div class="post-content"><p>Extrait traduit d'un article Camptocamp (<a href="http://www.camptocamp.com/en/blog/2011/10/openlayers-client-zoom-feature/trackback/" hreflang="en">voir le billet</a>).</p>
 <blockquote>
 <p>Jusqu'à aujourd'hui, OpenLayers ne permettait pas l'affichage d'une couche
 tuilée dans des résolutions non supportées par le service de tuilage de la
@@ -25,5 +30,3 @@ fonctionnalité est disponible en ligne. <a href="http://elemoine.github.com/ope
 Andreas Hocevar pour son aide et support, et pour le patch “positionnement de
 tuile basé sur pourcentages&quot; sur lequel ce travail est fondé.</p>
 </blockquote></div>
-
-      </div>
