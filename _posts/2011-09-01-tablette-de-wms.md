@@ -6,7 +6,7 @@ lang: fr
 uid: 2011-09-01-21-26
 ---
 
-<p><a href="/public/screenshots/P1030587.JPG"><img src="/public/screenshots/.P1030587_s.jpg" alt="wms on tablet" style="float:left; margin: 0 1em 1em 0;" title="wms on tablet, sept. 2011" /></a></p>
+<p><a href="/public/screenshots/P1030587.JPG"><img src="/public/screenshots/P1030587.JPG" alt="wms on tablet" style="width:400px; float:left; margin: 0 1em 1em 0;" title="wms on tablet, sept. 2011" /></a></p>
 <p>Non, geOrchestra n'a pas été porté sur mobile (mais ça vient). Cet écran
 présente la superposition d'un flux WMS (PLU, parcelles cadastrales) avec un
 fond bing maps, le tout sur une tablette Asus/Android. Ceci grâce à

@@ -6,7 +6,7 @@ lang: fr
 uid: 2012-06-12-a
 ---
 
-<img style="max-width: 800px; float: left; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1338956357" width="79" height="79" /><br />
+<img style="max-width: 800px; float: left; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" src="/public/octocat.png" width="79" height="79" /><br />
 <br />
 Le projet geOrchestra <a href="https://github.com/georchestra">teste<br />
 actuellement GitHub</a> avec pour objectif d'en faire le futur dépôt de<br />
