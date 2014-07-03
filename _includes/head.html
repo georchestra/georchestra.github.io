@@ -4,16 +4,16 @@
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {{ site.title }}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
-    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url}}" />
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl | prepend: site.url}}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% if page_url_en and page.lang != 'en' %}
-    <link rel="alternate" hreflang="en" href="{{ page_url_en | prepend: site.baseurl | prepend: site.url}}" />
+    <link rel="alternate" hreflang="en" href="{{ page_url_en | prepend: site.baseurl | prepend: site.url}}">
 {% endif %}
 {% if page_url_fr and page.lang != 'fr' %}
-    <link rel="alternate" hreflang="fr" href="{{ page_url_fr | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" hreflang="fr" href="{{ page_url_fr | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
 {% if page_url_es and page.lang != 'es' %}
-    <link rel="alternate" hreflang="es" href="{{ page_url_es | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" hreflang="es" href="{{ page_url_es | prepend: site.baseurl | prepend: site.url }}">
 {% endif %}
 {% if page.lang == 'en' %}
     {% assign base = "" %}
