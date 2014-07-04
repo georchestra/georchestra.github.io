@@ -16,6 +16,6 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
  * un visualiseur de données géographiques avancé qui remplit également la fonction d'éditeur d'objets géographiques,
  * un extracteur, qui permet de télécharger des archives contenant les données géographiques issues de services OGC,
  * une console d'administration des utilisateurs et des groupes ("ldapadmin"),
- * un module pour obtenir des statistiques d'utilisation de l'IDS ("analytics").
+ * un module présentant les statistiques d'utilisation de l'IDS ("analytics").
  
-Une plateforme geOrchestra expose des services standards de découverte (CSW), visualisation (WMS, WMTS), stylage (SLD), interrogation (WFS), édition (WFS-T), voire traitement (WPS) de données géographiques, ainsi que les outils web pour les consommer. Elle est parfaitement interopèrable avec des logiciels SIG comme QGIS ou ArcGIS.
+Une plateforme geOrchestra expose des services standards de découverte ([CSW](http://www.opengeospatial.org/standards/cat)), visualisation ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), stylage ([SLD](http://www.opengeospatial.org/standards/sld)), interrogation ([WFS](http://www.opengeospatial.org/standards/wfs)), édition ([WFS-T](http://www.opengeospatial.org/standards/wfs)), voire traitement ([WPS](http://www.opengeospatial.org/standards/wps)) de données géographiques, ainsi que les outils web pour les consommer. Elle est parfaitement interopèrable avec des logiciels SIG comme [QGIS](http://www.qgis.org/) ou [ArcGIS](http://www.arcgis.com/).
