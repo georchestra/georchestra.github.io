@@ -4,7 +4,7 @@ title:  "New website !"
 date:   2014-06-25 18:53:13
 categories: jekyll update
 lang: en
-uid: 20140625
+uid: 2014-06-25
 ---
 
 Checkout our brand new geOrchestra website !
@@ -12,7 +12,7 @@ Checkout our brand new geOrchestra website !
 <!--more-->
 
 Based on free software ([Jekyll](http://jekyllrb.com/)), it features a blog and static pages at the same place, with full multilingual content (english, french & spanish).
-We'd like to thank GitHub for their awesome hosting.
+For those who are interested, or who'd like to contribute, the source code can be found in the [georchestra/georchestra.github.io](https://github.com/georchestra/georchestra.github.io) repository.
 
 Jekyll offers powerful support for code snippets, here in ruby:
 
@@ -23,3 +23,5 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+To finish with, we'd like to thank GitHub for their awesome hosting.
