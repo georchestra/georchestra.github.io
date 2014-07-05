@@ -19,8 +19,8 @@ testeurs, traducteurs de la communauté geOrchestra. A noter que la communauté
 ne travaille pas que sur le noyau logiciel : propositions d'addons,
 entraide sur les listes, événement GeoCom et enseignement font partie du
 paysage.</p>
-<p><a href="/public/screenshots/13.09/georchestra_commits.png"><img src="/public/screenshots/13.09/.georchestra_commits_m.jpg" alt="georchestra_commits.png" style="display:block; margin:0 auto;" title="georchestra_commits.png, oct. 2013" /></a></p>
-<p>geOrchestra maintient sont objectif de suivre de près les versions stables
+<p><a href="/public/screenshots/13.09/georchestra_commits.png"><img src="/public/screenshots/13.09/georchestra_commits_m.jpg" alt="georchestra_commits.png" style="display:block; margin:0 auto;" title="georchestra_commits.png, oct. 2013" /></a></p>
+<p>geOrchestra maintient son objectif de suivre de près les versions stables
 de GeoServer, GeoNetwork, OpenLayers. Ces projets connaissent un coup
 d'accélération remarquable, rendant la tâche hardue, mais cela ouvre des
 horizons intéressants : W3DS, CSS styling, WPS ...</p>
@@ -34,7 +34,7 @@ directement des fichiers Shapefile, MIF/MID, GML ou KML, voire TAB et GPX,
 chargés depuis leur navigateur.</p>
 <p>Le module d'impression sait consommer l'ensemble de ces couches et produit
 désormais un fichier PDF plus conforme à ce qui est visible à l'écran.</p>
-<p><a href="/public/screenshots/13.09/viewer_annotation.png"><img src="/public/screenshots/13.09/.viewer_annotation_m.jpg" alt="viewer_annotation.png" style="display:block; margin:0 auto;" title="viewer_annotation.png, oct. 2013" /></a></p>
+<p><a href="/public/screenshots/13.09/viewer_annotation.png"><img src="/public/screenshots/13.09/viewer_annotation_m.jpg" alt="viewer_annotation.png" style="display:block; margin:0 auto;" title="viewer_annotation.png, oct. 2013" /></a></p>
 <p>Pour apprivoiser les catalogues volumineux, l'explorateur de données du
 visualiseur est équipée d'un petit analyseur de syntaxe :
 <em>@producteur</em> va rechercher les données chez un producteur,
@@ -50,7 +50,7 @@ affichée.</p>
 Exemple : le bouton &quot;appliquer&quot; sur l'éditeur de styles (SLD) en fait un
 vrai outil interactif : on peut tester visuellement le résultat sans
 quitter l'interface de contrôle.</p>
-<p><a href="/public/screenshots/13.09/viewer_styler.png"><img src="/public/screenshots/13.09/.viewer_styler_m.jpg" alt="viewer_styler.png" style="display:block; margin:0 auto;" title="viewer_styler.png, oct. 2013" /></a></p>
+<p><a href="/public/screenshots/13.09/viewer_styler.png"><img src="/public/screenshots/13.09/viewer_styler_m.jpg" alt="viewer_styler.png" style="display:block; margin:0 auto;" title="viewer_styler.png, oct. 2013" /></a></p>
 <h2>Côté administrateur</h2>
 <p>Le nouveau module <em>ldapadmin</em> permet, côté frontend,
 l'auto-enregistrement des utilisateurs (éventuellement avec modération) et la
@@ -72,13 +72,13 @@ cartes, mais également d'accéder aux couches du GeoPortail IGN.</p>
 liées dans l'archive à télécharger. De plus les extractions vers KML,
 TIF+TFW/TAB ont été ajoutées. L'authentification depuis les clients lourds a
 été améliorée.</p>
-<p><a href="/public/screenshots/13.09/viewer_layers.png"><img src="/public/screenshots/13.09/.viewer_layers_m.jpg" alt="viewer_layers.png" style="display:block; margin:0 auto;" title="viewer_layers.png, oct. 2013" /></a></p>
+<p><a href="/public/screenshots/13.09/viewer_layers.png"><img src="/public/screenshots/13.09/viewer_layers_m.jpg" alt="viewer_layers.png" style="display:block; margin:0 auto;" title="viewer_layers.png, oct. 2013" /></a></p>
 <h2>Côté réutilisation</h2>
 <p>L'effort de traduction se poursuit : tous les développements autour de
 geOrchestra doivent permettre l'internationalisation. Des non-développeurs ont
 apporté leur contribution (cf traduction en Russe du visualiseur), qu'ils en
 soient ici remerciés !</p>
-<p><a href="/public/screenshots/13.09/viewer_en.png"><img src="/public/screenshots/13.09/.viewer_en_s.jpg" alt="Viewer, EN translation" style="display:block; margin:0 auto;" title="Viewer, EN translation, oct. 2013" /></a> <a href="/public/screenshots/13.09/viewer_fr.png"><img src="/public/screenshots/13.09/.viewer_fr_s.jpg" alt="Viewer, FR translation" style="display:block; margin:0 auto;" title="Viewer, FR translation, oct. 2013" /></a> <a href="/public/screenshots/13.09/viewer_es.png"><img src="/public/screenshots/13.09/.viewer_es_s.jpg" alt="Viewer, ES translation" style="display:block; margin:0 auto;" title="Viewer, ES translation, oct. 2013" /></a> <a href="/public/screenshots/13.09/viewer_ru.png"><img src="/public/screenshots/13.09/.viewer_ru_s.jpg" alt="Viewer, RU translation" style="display:block; margin:0 auto;" title="Viewer, RU translation, oct. 2013" /></a></p>
+<p><a href="/public/screenshots/13.09/viewer_en.png"><img src="/public/screenshots/13.09/viewer_en_s.jpg" alt="Viewer, EN translation" style="display:block; margin:0 auto;" title="Viewer, EN translation, oct. 2013" /></a> <a href="/public/screenshots/13.09/viewer_fr.png"><img src="/public/screenshots/13.09/viewer_fr_s.jpg" alt="Viewer, FR translation" style="display:block; margin:0 auto;" title="Viewer, FR translation, oct. 2013" /></a> <a href="/public/screenshots/13.09/viewer_es.png"><img src="/public/screenshots/13.09/viewer_es_s.jpg" alt="Viewer, ES translation" style="display:block; margin:0 auto;" title="Viewer, ES translation, oct. 2013" /></a> <a href="/public/screenshots/13.09/viewer_ru.png"><img src="/public/screenshots/13.09/viewer_ru_s.jpg" alt="Viewer, RU translation" style="display:block; margin:0 auto;" title="Viewer, RU translation, oct. 2013" /></a></p>
 <p>Enfin, des variables globales supplémentaires, telles que le nom de
 plateforme ou le mail de l'administrateur, permettent de centraliser davantage
 la configuration tout en conservant des modules séparés.</p>

@@ -13,4 +13,4 @@ uid: 2011-12-17-22-44
 Cette traduction vient d'être ajoutée aux sources de GeoServer. 
 Retrouvez-la facilement grâce au lien figurant en marge droite de ce blog.
 
-A propos d'interface francisée, vous pouvez voir en direct <a href="https://www.transifex.net/projects/p/geoserver_22x/r/all-resources/">l'état d'avancement</a> de la traduction grâce à <a href="https://www.transifex.net/">transifex.net</a>. Exemple pour l'interface WMS : <a href="https://www.transifex.net/projects/p/geoserver_22x/widgets/"><img style="max-width: 800px;" src="https://www.transifex.net/projects/p/geoserver_22x/resource/wms/chart/image_png" /></a>
+A propos d'interface francisée, vous pouvez voir en direct <a href="https://www.transifex.net/projects/p/geoserver_22x/r/all-resources/">l'état d'avancement</a> de la traduction grâce à <a href="https://www.transifex.net/">transifex.net</a>.
