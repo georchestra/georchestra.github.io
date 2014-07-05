@@ -11,7 +11,7 @@ Toutes les formes de contributions sont les bienvenues :
 
  * participation aux [listes](https://groups.google.com/group/georchestra?hl=fr) [de discussion](https://groups.google.com/group/georchestra-dev?hl=fr), 
  * rédaction de [documentation](https://github.com/georchestra/georchestra/blob/master/README.md), 
- * amélioration de ce site web,
+ * amélioration de [ce site web](https://github.com/georchestra/georchestra.github.io),
  * [rapport de bugs](https://github.com/georchestra/georchestra/issues) et propositions de nouvelles fonctionnalités,
  * contributions au code, que ce soit sous forme de patchs ou de "[pull request](https://help.github.com/articles/creating-a-pull-request)", 
  * financement de [nouvelles fonctionnalités](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
