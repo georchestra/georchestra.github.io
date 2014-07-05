@@ -19,7 +19,7 @@ testeurs, traducteurs de la communauté geOrchestra. A noter que la communauté
 ne travaille pas que sur le noyau logiciel : propositions d'addons,
 entraide sur les listes, événement GeoCom et enseignement font partie du
 paysage.</p>
-<p><a href="/public/screenshots/13.09/georchestra_commits.png"><img src="/public/screenshots/13.09/georchestra_commits.png" alt="georchestra_commits.png" style="display:block; margin:0 auto;" title="georchestra_commits.png, oct. 2013" /></a></p>
+<p><a href="/public/screenshots/13.09/georchestra_commits.png"><img src="/public/screenshots/13.09/georchestra_commits.png" alt="georchestra_commits.png" style="width: 600px; display:block; margin:0 auto;" title="georchestra_commits.png, oct. 2013" /></a></p>
 <p>geOrchestra maintient son objectif de suivre de près les versions stables
 de GeoServer, GeoNetwork, OpenLayers. Ces projets connaissent un coup
 d'accélération remarquable, rendant la tâche hardue, mais cela ouvre des
@@ -50,7 +50,7 @@ affichée.</p>
 Exemple : le bouton &quot;appliquer&quot; sur l'éditeur de styles (SLD) en fait un
 vrai outil interactif : on peut tester visuellement le résultat sans
 quitter l'interface de contrôle.</p>
-<p><a href="/public/screenshots/13.09/viewer_styler.png"><img src="/public/screenshots/13.09/viewer_styler.png" alt="viewer_styler.png" style="display:block; margin:0 auto;" title="viewer_styler.png, oct. 2013" /></a></p>
+<p><a href="/public/screenshots/13.09/viewer_styler.png"><img src="/public/screenshots/13.09/viewer_styler.png" alt="viewer_styler.png" style="width: 600px; display:block; margin:0 auto;" title="viewer_styler.png, oct. 2013" /></a></p>
 <h2>Côté administrateur</h2>
 <p>Le nouveau module <em>ldapadmin</em> permet, côté frontend,
 l'auto-enregistrement des utilisateurs (éventuellement avec modération) et la
