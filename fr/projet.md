@@ -30,14 +30,14 @@ Les éditions précédentes du "geOcom" se sont tenues :
 
 Le comité de pilotage est composé de 8 membres :
 
- * Lydie Vinsonneau, Région Bretagne
- * Fabrice Phung, DREAL
- * François Van Der Biest, Camptocamp
- * Pierre Mauduit, Camptocamp
- * Sylvain Lesage, Etat Bolivien
- * Rod Béra, Agrocampus Ouest
- * Valérie Besand, DREAL
- * Landry Breuil, CRAIG
+ * Lydie Vinsonneau, [Région Bretagne](http://www.bretagne.fr/)
+ * Fabrice Phung, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
+ * François Van Der Biest, [Camptocamp](http://www.camptocamp.com/)
+ * Pierre Mauduit, [Camptocamp](http://www.camptocamp.com/)
+ * Sylvain Lesage, [Etat Bolivien](http://geo.gob.bo/)
+ * Rod Béra, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * Valérie Besand, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
+ * Landry Breuil, [CRAIG](http://craig.fr/)
 
 ## Valeurs
 
