@@ -15,9 +15,8 @@ plus intuitive. L'explorateur de catalogues est né de ce besoin.
 
 <!--more-->
 
-<br />
-<div style="text-align: center"><img style="max-width: 800px;" src="http://blog.georchestra.org/public/mapfishapp-cswbrowser.png" width="519" height="328" /><br />
-<div style="text-align: left">Son cheminement :<br />
+<div style="text-align: center"><img style="max-width: 800px;" src="http://blog.georchestra.org/public/mapfishapp-cswbrowser.png" width="519" height="328" />
+<div style="text-align: left">Son cheminement :
 <ul>
 <li>on choisit éventuellement un catalogue parmi ceux proposés dans le menu
 déroulant. Cette liste limitée est pilotée par la configuration js du
