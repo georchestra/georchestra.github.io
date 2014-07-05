@@ -16,10 +16,6 @@ Le choix de l'ouverture sous licence [GPL](http://fr.wikipedia.org/wiki/Licence_
 Initialement hébergé sur un dépôt de sources en Bretagne, le code source du projet a été migré vers [GitHub](https://github.com/georchestra) au cours de l'année 2012.
 Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
 
-## Valeurs
-
-Ouverture, Modularité, Interopérabilité
-
 ## Rencontres
 
 Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
@@ -42,3 +38,7 @@ Le comité de pilotage est composé de 8 membres :
  * Rod Béra, Agrocampus Ouest
  * Valérie Besand, DREAL
  * Landry Breuil, CRAIG
+
+## Valeurs
+
+Ouverture, Modularité, Interopérabilité
