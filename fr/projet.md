@@ -22,8 +22,8 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 
 Les éditions précédentes du "geOcom" se sont tenues :
 
- * à Agrocampus Ouest, Rennes pour l'édition 2013,
- * au Centre Régional Auvergnat de l'Information Géographique (CRAIG) en 2014.
+ * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013,
+ * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014.
 
 
 ## Comité de pilotage
