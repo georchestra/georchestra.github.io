@@ -6,7 +6,7 @@ lang: fr
 uid: 2010-10-01-b
 ---
 
-<p><img src="/public/icons/osm_logo.png" alt="openstreetmap" style="float:left; margin: 0 1em 1em 0;" title="openstreetmap, sept. 2010" /> On ne
+<p><img src="/public/icons/osm_logo.png" alt="openstreetmap" style="width:70px;float:left; margin: 0 1em 1em 0;" title="openstreetmap, sept. 2010" /> On ne
 présente plus <a href="http://www.openstreetmap.fr/">OpenStreetMap</a>, le
 projet de données libres qui rivalise avec les <a href="http://code.google.com/intl/fr/apis/maps/terms.html">fournisseurs de données
 propriétaires</a>. La suite d'outils OpenStreetMap utilisant <a href="http://www.postgis.fr/">postGIS</a>, ses données sont donc naturellement
