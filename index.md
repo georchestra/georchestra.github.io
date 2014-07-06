@@ -4,15 +4,15 @@ lang: en
 uid: index
 ---
 
-geOrchestra is a **free**, **modular** et **interoperable** [Spatial Data Infrastructure](http://en.wikipedia.org/wiki/Spatial_Data_Infrastructure), born in 2009 to meet the requirements of the [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) directive in Europe. 
+geOrchestra is a **free**, **modular** et **interoperable** [Spatial Data Infrastructure](http://en.wikipedia.org/wiki/Spatial_Data_Infrastructure) software born in 2009 to meet the requirements of the [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) directive in Europe.
 
-geOrchestra's core features a security proxy and a [single sign on authentication system](http://en.wikipedia.org/wiki/Single_sign-on).
+geOrchestra's core features a security proxy and a [single-sign-on authentication system](http://en.wikipedia.org/wiki/Single_sign-on).
 Next to this core are independant and interoperable modules to build your own Spatial Data Infrastructure :
 
  * a metadata catalog based on [GeoNetwork](http://geonetwork-opensource.org/),
- * a map and features server: [GeoServer](http://geoserver.org/),
- * map tile server: [GeoWebCache](http://geowebcache.org/),
- * a viewer and a feature editor,
+ * a map and features server : [GeoServer](http://geoserver.org/),
+ * a map tile server: [GeoWebCache](http://geowebcache.org/),
+ * an advanced web map viewer,
  * a data extractor,
  * and several other admin-oriented modules.
 

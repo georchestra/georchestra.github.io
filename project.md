@@ -7,7 +7,7 @@ excerpt: Story, values, meetings and project steering committee
 ---
 ## Story
 
-The geOrchestra project started 2009 when the Britanny spatial data infrastructure was under construction. Users and developpers decided to place the source code under FOSS. An independant project steering committee was appointed to drive the project, address the emerging community, vote changes.
+The geOrchestra project started 2009 when the Brittany spatial data infrastructure was under construction. Users and developpers decided to place the source code under FOSS. An independant project steering committee was appointed to drive the project, address the emerging community, vote changes.
 
 Subsequently, many people studied, adapted, translated geOrchestra modules for their own needs.
 
