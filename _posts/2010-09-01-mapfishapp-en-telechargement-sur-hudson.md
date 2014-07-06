@@ -11,11 +11,11 @@ et performant d'<a href="http://fr.wikipedia.org/wiki/Int%C3%A9gration_continue"
 continue</a>. Branché sur le dépôt <a href="http://repository.georchestra.org/svn-georchestra/">svn de geOrchestra</a>,
 Hudson construit maintenant quotidiennement les branches du visualiseur
 mapfishapp et <a href="http://csm-bretagne.fr/hudson/job/mapfishapp-custom/">propose en
-téléchargement les archive war résultantes</a>.
+téléchargement les archive war résultantes</a>.</p>
 
 <!--more-->
 
-Sont actuellement disponibles :</p>
+<p>Sont actuellement disponibles :</p>
 <ul>
 <li>le trunk, sur lequel camptocamp porte les corrections de bugs et
 évolutions,</li>

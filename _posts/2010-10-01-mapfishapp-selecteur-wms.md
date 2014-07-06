@@ -12,17 +12,19 @@ déclenche un getCapabilities et liste les couches du serveur.
 
 <!--more-->
 
-La liste des
-serveurs provient d'un flux JSON ressemblant à ceci :</p>
-<pre>
+La liste des serveurs provient d'un flux JSON ressemblant à ceci :</p>
+~~~ json
 {
   servers: [
     {&quot;name&quot;: &quot;GeoLittoral&quot;, &quot;url&quot;: &quot;http://geolittoral.application.equipement.gouv.fr/wms/metropole&quot;},
     {&quot;name&quot;: &quot;GeoBretagne.fr&quot;, &quot;url&quot;: &quot;http://geobretagne.fr/geoserver/wms&quot;}
   ]
 }
-</pre>
-<p>Le fichier de conf javascript permet de modifier l'origine de ce flux avec
-le paramètre <code>GEOR.custom.WMS_LIST_URL</code>. Cette fonctionnalité est
-disponible à partir du <a href="http://csm-bretagne.fr/hudson/view/georchestra/job/mapfishapp-custom/17/" hreflang="en">build #17</a>.</p>
-<p><a href="/public/screenshots/wms-selector.png"><img src="/public/screenshots/.wms-selector_s.jpg" alt="sélecteur wms" title="sélecteur wms, oct. 2010" /></a></p>
+~~~
+
+<p>Le fichier de conf javascript permet de modifier l'origine de ce flux avec le paramètre <code>GEOR.custom.WMS_LIST_URL</code>. </p>
+
+<p>
+Cette fonctionnalité est disponible à partir du <a href="http://csm-bretagne.fr/hudson/view/georchestra/job/mapfishapp-custom/17/" hreflang="en">build #17</a>.</p>
+
+<p><a href="/public/screenshots/wms-selector.png"><img src="/public/screenshots/wms-selector.png" alt="sélecteur wms" title="sélecteur wms, oct. 2010" /></a></p>

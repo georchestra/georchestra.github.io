@@ -6,7 +6,7 @@ lang: fr
 uid: 2010-10-01-b
 ---
 
-<p><img src="/public/icons/.osm_logo_t.jpg" alt="openstreetmap" style="float:left; margin: 0 1em 1em 0;" title="openstreetmap, sept. 2010" /> On ne
+<p><img src="/public/icons/osm_logo.jpg" alt="openstreetmap" style="float:left; margin: 0 1em 1em 0;" title="openstreetmap, sept. 2010" /> On ne
 présente plus <a href="http://www.openstreetmap.fr/">OpenStreetMap</a>, le
 projet de données libres qui rivalise avec les <a href="http://code.google.com/intl/fr/apis/maps/terms.html">fournisseurs de données
 propriétaires</a>. La suite d'outils OpenStreetMap utilisant <a href="http://www.postgis.fr/">postGIS</a>, ses données sont donc naturellement
@@ -30,7 +30,7 @@ osm</a>, <a href="http://maps.qualitystreetmap.org/?zoom=12&amp;lat=6066711.4462
 google</a> et <a href="http://maps.qualitystreetmap.org/?zoom=12&amp;lat=6066711.44625&amp;lon=-373896.02136&amp;layers=00BF00">
 bing</a>. Ils offrent un rendu agréable et homogène à toutes les échelles grâce
 à plus de 170 classes décrites.</p>
-<p><a href="/public/screenshots/style_osm.png"><img src="/public/screenshots/.style_osm_t.jpg" alt="osm style osm" title="osm style osm, sept. 2010" /></a> <a href="/public/screenshots/style_bing.png"><img src="/public/screenshots/.style_bing_t.jpg" alt="osm style bing" title="osm style bing, sept. 2010" /></a> <a href="/public/screenshots/style_google.png"><img src="/public/screenshots/.style_google_t.jpg" alt="osm style google" title="osm style google, sept. 2010" /></a></p>
+<p><a href="/public/screenshots/style_osm.png"><img src="/public/screenshots/style_osm.png" alt="osm style osm" title="osm style osm, sept. 2010" /></a> <a href="/public/screenshots/style_bing.png"><img src="/public/screenshots/style_bing.png" alt="osm style bing" title="osm style bing, sept. 2010" /></a> <a href="/public/screenshots/style_google.png"><img src="/public/screenshots/style_google.png" alt="osm style google" title="osm style google, sept. 2010" /></a></p>
 <h3>Intégration dans geOrchestra</h3>
 <p>Les données &quot;france&quot; d'OpenStreetMap comptent 11,2 millions d'objets. La
 problématique est de conserver un niveau de performance acceptable tout en ne
