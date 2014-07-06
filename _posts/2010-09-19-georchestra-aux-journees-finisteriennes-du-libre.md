@@ -6,12 +6,14 @@ lang: fr
 uid: 2010-09-19
 ---
 
-<p><a href="/public/icons/jfl2010_affiche.jpeg"><img src="/public/icons/jfl2010_affiche.jpeg" alt="JFL2010" style="float:left; margin: 0 1em 1em 0;" title="JFL2010, sept. 2010" /></a> <a href="http://www.jfl2010.fr/">JFL 2010</a> : que ce soit par intérêt pour le
+<p><a href="http://www.jfl2010.fr/">JFL 2010</a> : que ce soit par intérêt pour le
 monde du libre, par curiosité sur le projet ou pour une explication sur les
 dessous techniques, nous serons très heureux de vous y rencontrer à l'occasion
 d'une <a href="http://www.jfl2010.fr/programme/#geobretagne">conférence-débat</a>.</p>
 
 <!--more-->
+
+<a href="/public/icons/jfl2010_affiche.jpeg"><img src="/public/icons/jfl2010_affiche.jpeg" alt="JFL2010" style="float:left; margin: 0 1em 1em 0;" title="JFL2010, sept. 2010" /></a> 
 
 <p>Lundi 4 octobre à partir de 20h à la maison des associations, 53, impasse de
 l'Odet à Quimper (<a href="http://osm.org/go/erISLkIw9-">s'y rendre</a>)</p>

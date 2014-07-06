@@ -7,7 +7,7 @@ uid: 2010-10-18
 ---
 
 <p>A la question &quot;geOrchestra, c'est quoi&quot;, il est souvent difficile de donner
-une réponse concise. Répondre &quot;une infrastructure de données spatiale&quot;
+une réponse concise.</p><p>Répondre &quot;une infrastructure de données spatiale&quot;
 n'apporte rien de très concret.</p>
 
 <!--more-->
