@@ -7,7 +7,7 @@ excerpt: Story, values, meetings and project steering committee
 ---
 ## Story
 
-The geOrchestra project started 2009 when the Brittany spatial data infrastructure was under construction. Users and developpers decided to place the source code under FOSS. An independant project steering committee was appointed to drive the project, address the emerging community, vote changes.
+The geOrchestra project started 2009 when the Brittany spatial data infrastructure was under construction. Users and developers decided to place the source code under FOSS. An independant project steering committee was appointed to drive the project, address the emerging community, vote changes.
 
 Subsequently, many people studied, adapted, translated geOrchestra modules for their own needs.
 
@@ -15,7 +15,7 @@ Initially hosted on a brittany software repository, the source code moved to [Gi
 
 ## Meetings
 
-Every year, users and developpers of the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap. Previous events took place :
+Every year, users and developers of the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap. Previous events took place :
 
  * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
  * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014
@@ -27,9 +27,9 @@ The steering committee features 8 members :
 
  * Lydie Vinsonneau, SDI operator
  * Fabrice Phung, SDI operator
- * François Van Der Biest, developper, release manager
- * Pierre Mauduit, developper, sysadmin
- * Sylvain Lesage, SDI operator, developper
+ * François Van Der Biest, developer, release manager
+ * Pierre Mauduit, developer, sysadmin
+ * Sylvain Lesage, SDI operator, developer
  * Rod Béra, reseacher, teacher
  * Valérie Besand, data admin
  * Landry Breuil, SDI operator, sysadmin
