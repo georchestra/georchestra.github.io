@@ -14,10 +14,10 @@ Basé sur des technologies libres ([Jekyll](http://jekyllrb.com/)), il regroupe 
 <!--more-->
 
 Pour les curieux, ou pour ceux qui souhaiteraient y contribuer, le code source est disponible sur le dépôt [georchestra/georchestra.github.io](https://github.com/georchestra/georchestra.github.io).
-Utiliser GitHub pour ce site nous permet de bénéficier d'outils dédiés et adapté, tels que ce merveilleux [tableu Kanban](https://huboard.com/georchestra/georchestra.github.io), dont les post-its sont synchronisés avec les tickets GitHub !
+Utiliser GitHub pour ce site nous permet de bénéficier d'outils dédiés et adaptés, tels que ce merveilleux [tableau Kanban](https://huboard.com/georchestra/georchestra.github.io), dont les post-its sont synchronisés avec les tickets GitHub !<br/>
 Pour finir, proposer un nouveau post est maintenant ouvert à tous, et peut se faire via une pull request !
 
-Pour revenir sur Jekyll, l'évantail des possibilités est large en terme de personnalisation...
+Pour revenir sur Jekyll, l'évantail des possibilités est large en terme de personnalisation...<br />
 Celui-ci offre notamment un support étendu pour afficher des blocs de code, par exemple ici en ruby :
 
 {% highlight ruby %}
