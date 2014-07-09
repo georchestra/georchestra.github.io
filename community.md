@@ -41,6 +41,7 @@ Research and education:
 
  * UMR SAS INRA (Agrocampus Ouest à Rennes)
  * UMR LISAH INRA (Supagro à Montpellier)
+ * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
  * INRA
  * Université Pierre et Marie Curie
 
