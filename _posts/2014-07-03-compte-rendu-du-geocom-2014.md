@@ -9,6 +9,8 @@ uid: 2014-07-03
 
 Ce geoCom 2014 s'est tenu dans d'excellentes conditions à Clermont Ferrand., réunissant administrateurs de plateformes actuelles ou futures : PIGMA, CRAIG, CIGAL, GéoBretagne, GeoSAS, l'INRA Nancy, l'agglomération du Puy en Velay, de Moulins, de Vienne, de Clermont Ferrand, Rennes Métropole, l'université de Clermont; les développeurs de CampToCamp; et les membres du PSC geOrchestra. Les objectifs : se connaître et échanger, capitaliser les bonnes pratiques, construire ensemble la feuille de route. 10 sujets votés se sont succédés avec pour chacun une mise en situation, un temps d'échange et la collecte des souhaits d'évolution.
 
+<!--more-->
+
 Malheureusement, la webconférence nous a fait faux bond et nous en sommes désolés pour ceux qui voulaient suivre à distance.
 
 Merci à tous les participants et présentateurs pour leur venue, leur engagement, leurs contributions, et à l'année prochaine !
