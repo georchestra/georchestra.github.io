@@ -9,6 +9,8 @@ uid: 2014-07-09
 
 Le processus de migration de GeoServer 2.3.2 (utilisé par geOrchestra depuis la version 13.06) à GeoServer 2.5.1 au sein de geOrchestra est en cours.
 
+<!--more-->
+
 Ce saut de plusieurs versions majeures de GeoServer apporte son lot de nouveautés au projet geOrchestra.  
 Citons notamment :
 
