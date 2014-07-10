@@ -11,6 +11,7 @@ Le processus de migration de GeoServer 2.3.2 (utilisé par geOrchestra depuis la
 
 Ce saut de plusieurs versions majeures de GeoServer apporte son lot de nouveautés au projet geOrchestra.  
 Citons notamment :
+
  * une meilleure gestion du cache client pour les tuiles issues du GeoWebCache intégré,
  * un service CSW intégré plus complet,
  * de meilleures performances sur les couches vecteur servies par postgis.
