@@ -1,0 +1,12 @@
+---
+---
+/ * TEAM * /
+
+PSC geOrchestra
+https://twitter.com/georchestra
+
+/ * SITE * /
+
+This site was built from scratch (well, not really, we started from Jekyll site template) in June / July 2014.
+The main lang is French, but English and Spanish are supported too.
+Hand-crafted with free software and love.
