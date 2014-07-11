@@ -22,7 +22,7 @@
     {% assign base = page.lang | prepend: "/" %}
 {% endif %}
     <link rel="alternate" href="{{ "/feed.xml" | prepend: base | prepend: site.baseurl }}" title="Blog - {{ site.title }}" type="application/rss+xml">
-    <link type="text/plain" rel="author" href="{{ "humans.txt" | prepend: site.baseurl | prepend: site.url }}" />
+    <link type="text/plain" rel="author" href="{{ "/humans.txt" | prepend: site.baseurl | prepend: site.url }}" />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 </head>
