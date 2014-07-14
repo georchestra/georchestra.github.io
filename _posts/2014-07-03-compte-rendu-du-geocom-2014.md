@@ -18,6 +18,8 @@ Merci à tous les participants et présentateurs pour leur venue, leur engagemen
 Restitution des sujets
 ----------------------
 
+Retrouvez les présentations sur la [page de l'événement](http://www.craig.fr/reunions/1229-georchestra-community-meeting), mise en ligne par le CRAIG. 
+
 Les visualiseurs
 ----------------
 
