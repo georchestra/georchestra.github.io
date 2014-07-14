@@ -17,16 +17,14 @@ Merci à tous les participants et présentateurs pour leur venue, leur engagemen
 
 Restitution des sujets: retrouvez les présentations sur la [page de l'événement](http://www.craig.fr/reunions/1229-georchestra-community-meeting), mise en ligne par le CRAIG. 
 
-Les visualiseurs
-=================
+# Les visualiseurs
 
 Cas de réutilisation les plus visibles, ils sont un élément clé pour valoriser l'IDS et les données. La série s/mviewer est présentée. On partage un gros besoin de *simplicité* pour proposer à une cible donnée exactement ce dont elle a besoin, quitte à multiplier les formes de visualiseurs au-dessus de l'IDS. Mais on affiche aussi un souhait d'interopérabilité pour passer d'un visualiseur à l'autre sans perdre le contexte, et ainsi couvrir toute une gamme d'usages sans dupliquer l'information. Dans tous les cas, on conserve le lien vers la donnée et la métadonnée.
 
 Tendances : "gros doigts"/"fisher price", contextes, pas de "mode", personnalisation couleur/logo/layout
 
 
-Le fond OpenStreetMap mutualisé
-================================
+# Le fond OpenStreetMap mutualisé
 
 Aujourd'hui, Picardie et Bretagne proposent sept fonds de plan OSM France entière selon WMS & co au moins en projections 2154 et 3857. La charge est lourde à porter pour ces plateformes régionales, le trafic France entière est important (livré de base avec certains clients). Nous souhaitons donc trouver un hébergement et une administration communs pour délivrer ce service à plusieurs.
 
@@ -37,8 +35,7 @@ Le CRAIG pourrait libérer un hébergement, et le savoir-faire Bretagne + Picard
 => tendances : hébergement unique, imposm3, SSD, administration à plusieurs, cahier des charges commun pour les styles.
 
 
-Une IDS "INSPIRE compliant"
-============================
+# Une IDS "INSPIRE compliant"
 
 Après un exposé des devoirs d'une IDS face à INSPIRE, on échange sur le ressenti de chaque plateforme. Les metadata party, c'est bien; mais l'effet est court et la relance doit être permanente.  
 Les produits d'appel comme s/mviewer sont incitatifs.
@@ -54,16 +51,14 @@ Pour le téléchargement, les avis divergent sur l'intérêt de proposer en sus 
 => tendances : assurance qualité, capitalisation des pratiques, veille sur les groupes de travail.
 
 
-Sécurité des données
-=====================
+# Sécurité des données
 
 Le module optionnel GeoFence permet un contrôle extrêmement fin pouvant aller jusqu'à limiter l'accès à certains objets, attributs, périmètres géographiques, au prix d'une multiplication importante du nombre de règles. Le module peut contrôler un nuage d'instances de GeoServer. Dans la communauté, certains sont concernés par un contrôle fin, d'autres non. On mentionne aussi la possibilité de limiter l'usage de données non personnelles par les conditions d'utilisation, sans implémenter de filtrage d'accès.
 
 => tendances : améliorer l'ergonomie de GeoFence, conserver ce module optionnel.
 
 
-Performance
-============
+# Performance
 
 Une méthode à effets (et coûts) croissants est exposée : supervision, limites de sécurité, optimisation http/images/styles/données, tuilage, navigateurs récents, scalabilité verticale/horizontale de l'hébergement. Pour la continuité de service, la répartition de charge GeoServer et la relance automatique donnent de très bons résultats et réduisent beaucoup la charge d'administration.
 
@@ -75,8 +70,8 @@ Les lectures toujours indispensables :
 => tendances : ajout d'une [offre Nagios](https://github.com/georchestra/nagios) à geOrchestra, partager les test cases.
 
 
-WPS
-=====
+# WPS
+
 
 Illustration très parlante et de saison (Silo vs geOrchestra FC) sur la nécessité d'associer plusieurs services OGC pour fabriquer et exposer des traitements comme le calcul dynamique de bassins versants à partir d'un semis de points issus d'une donnée elle-même exposée.
 
@@ -86,24 +81,21 @@ Après les WPS, il faut s'intéresser à des services plus spécialisés comme S
 
 
 
-Mutualisation des formations
-=============================
+# Mutualisation des formations
 
 Après la présentation d'une maquette de site qui serait le réceptacle commun des ressources autour de geOrchestra, les participants échangent sur le capital à mettre en commun car l'accompagnement est jugé par tous indispensable. Il faudrait, dans les ressources produites par chacun, atteindre une granularité adaptée pour permettre la réutilisation de fragments.
 
 => tendances : site commun, le PSC reçoit et partage, licence ouverte sur les ressources.
 
 
-Relations geOrchestra/OSM/HOT
-=============================
+# Relations geOrchestra/OSM/HOT
 
 Après présentation du projet HOT qui ouvre sur un contexte bien plus large que nos plateformes locales, on comprend l'intérêt que peut représenter une IDS sachant faire le pont (bidirectionnel ?) entre les données OSM et les SIG. Ce pont serait également utile pour mieux échanger avec les communautés 'non SIG'.
 
 => tendances : support OSM bidirectionnel, internationalisation.
 
 
-Code Sprint du samedi
-=====================
+# Code Sprint du samedi
 
 En fait de code sprint, le PSC a plutôt analysé et factorisé les tendances développées au cours du geoCom pour façonner la feuille de route stratégique de geOrchestra :
 
