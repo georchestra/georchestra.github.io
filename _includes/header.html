@@ -13,21 +13,23 @@
         </svg>
       </a>
       <div class="trigger">
-        {% if page.lang == "en" or page.lang == "" %}
-          <a class="lang-link" href="{{ page_url_fr }}">fr</a>
-          <a class="lang-link" href="{{ page_url_es }}">es</a>
-          {% assign base = "" %}
-        {% endif %}
-        {% if page.lang == "fr" %}
-          <a class="lang-link" href="{{ page_url_en }}">en</a>
-          <a class="lang-link" href="{{ page_url_es }}">es</a>
-          {% assign base = "fr/" %}
-        {% endif %}
-        {% if page.lang == "es" %}
-          <a class="lang-link" href="{{ page_url_en }}">en</a>
-          <a class="lang-link" href="{{ page_url_fr }}">fr</a>
-          {% assign base = "es/" %}
-        {% endif %}
+        {% if page.lang == "en" or page.lang == "" %}{% if page_url_fr %}
+            <a class="lang-link" href="{{ page_url_fr }}">fr</a>
+        {% endif %}{% if page_url_es %}
+            <a class="lang-link" href="{{ page_url_es }}">es</a>
+        {% endif %}{% assign base = "" %}{% endif %}
+
+        {% if page.lang == "fr" %}{% if page_url_en %}
+            <a class="lang-link" href="{{ page_url_en }}">en</a>
+        {% endif %}{% if page_url_es %}
+            <a class="lang-link" href="{{ page_url_es }}">es</a>
+        {% endif %}{% assign base = "fr/" %}{% endif %}
+
+        {% if page.lang == "es" %}{% if page_url_en %}
+            <a class="lang-link" href="{{ page_url_en }}">en</a>
+        {% endif %}{% if page_url_fr %}
+            <a class="lang-link" href="{{ page_url_fr }}">fr</a>
+        {% endif %}{% assign base = "es/" %}{% endif %}
       </div>
     </nav>
 
