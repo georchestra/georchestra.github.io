@@ -16,7 +16,7 @@ geOrchestra community. Thanks to all contributors !</p>
 <!--more-->
 
 <p>BTW, we've got a new logo :</p>
-<p><img src="http://www.georchestra.org/fr/_static/georchestra_logo.png" alt="" /></p>
+<p><img src="/public/logos/georchestra_logo.png" alt="" /></p>
 <p>Major improvements :</p>
 <ul>
 <li>use of git to ease contributions. Github now hosts the geOrchestra source
