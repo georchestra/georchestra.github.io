@@ -2,8 +2,7 @@
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {% for page in site.pages %}
-  {% if page.lang == "fr" %}
+  {% for page in site.pages %} {% if page.lang == "fr" %}
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
     {% include page_url %}
@@ -16,10 +15,8 @@
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
-  {% endif %}
-  {% endfor %}
-  {% for page in site.posts %}
-  {% if page.lang == "fr" %}
+  {% endif %}{% endfor %}
+  {% for page in site.posts %} {% if page.lang == "fr" %}
   <url>
     <loc>{{ site.url }}{{ site.baseurl }}{{ page.url }}</loc>
     {% include post_url %}
@@ -33,6 +30,5 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
-  {% endif %}
-  {% endfor %}
+  {% endif %} {% endfor %}
 </urlset>
