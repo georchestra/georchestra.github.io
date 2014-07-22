@@ -16,7 +16,7 @@ geOrchestra ofrece módulos independientes e interoperables para construir su pr
  * un visor de mapas web con consultas, estilos y funciones de edición,
  * un extractor de datos para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
  * un usuario y administrador de grupo ("ldapadmin"),
- * Un analizador de registro para ver las estadísticas de uso de datos ("analytics").
+ * un analizador de registro para ver las estadísticas de uso de datos ("analytics").
 
 Una plataforma geOrchestra brinda servicios web estándar para descubrir ([CSW](http://www.opengeospatial.org/standards/cat)), vistas ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), simbolización ([SLD](http://www.opengeospatial.org/standards/sld)), consulta y descarga ([WFS](http://www.opengeospatial.org/standards/wfs)), edición ([WFS-T](http://www.opengeospatial.org/standards/wfs)), e incluso de proceso ([WPS](http://www.opengeospatial.org/standards/wps)) las características geográficas. También proporciona potentes aplicaciones web que hacen uso de estos servicios (y eventualmente, la combinación de ellos). Interopera perfectamente con programas SIG como [QGIS](http://www.qgis.org/) y [ArcGIS](http://www.arcgis.com/).
 
