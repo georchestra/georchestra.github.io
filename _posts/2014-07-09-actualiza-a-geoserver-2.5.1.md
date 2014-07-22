@@ -6,19 +6,19 @@ categories: labs geoserver
 lang: es
 uid: 2014-07-09
 ---
-geOrchestra esta migrando de GeoServer 2.3.2 (utilizado desde 13.06) utilizado desde el último estable (en el momento de escribir) 2.5.1 
+geOrchestra esta migrando de GeoServer 2.3.2 (utilizado desde 13.06) utilizado desde el último estable (momento de escribir) 2.5.1 
 
 <!--more-->
 
-This update brings a lot of new features and bug fixes.
-To state a few:
+Esta actualización trae un montón de nuevas características y correcciones de errores
+Indicamos algunos:
 
- * better client-cache handling for tiles served by the integrated GeoWebCache,
- * a more complete embedded CSW service,
- * higher performances on vector layers served by postgis.
+ * Mejor manejo del client-cache integrado para tiles servido por el GeoWebCache, integrado
+ * un servicio mas completo de CSW incrustado
+ * un mayor rendimiento en las capas vectoriales servidos por postgis.
  * ...
 
-We have successfully compiled and deployed the latest version of GeoServer stable on the [geOrchestra demo server](http://sdi.georchestra.org/geoserver/web/) with the following options: app-schema, authkey, charts, control-flow, css, csw, dds, dxf, feature-aggregate, feature-pregeneralized, gdal, geoxacml, imagemap, inspire, istyler, libjpeg-turbo, mysql, ogr, pyramid, script, spatialite, wps, w3ds.
+Hemos compilado y desplegado satisfactoriamente la última versión de GeoServer estable en el [geOrchestra demo server](http://sdi.georchestra.org/geoserver/web/) con las siguientes opciones: app-schema, authkey, charts, control-flow, css, csw, dds, dxf, feature-aggregate, feature-pregeneralized, gdal, geoxacml, imagemap, inspire, istyler, libjpeg-turbo, mysql, ogr, pyramid, script, spatialite, wps, w3ds.
 
 This improvement will ship with geOrchestra 14.12, at the end of the year.
 In the following weeks, we'll check that integration with the other components of the geOrchestra suite is good, and that no regression occur.
