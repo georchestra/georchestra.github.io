@@ -5,12 +5,10 @@ title: Documentacion
 uid: documentation
 ---
 
-Installation documentation is now part of the source repository on [https://github.com/georchestra/georchestra/blob/master/README.md](https://github.com/georchestra/georchestra/blob/master/README.md).
+Documentación de instalación es ahora parte del repositorio de código fuente en [https://github.com/georchestra/georchestra/blob/master/README.md](https://github.com/georchestra/georchestra/blob/master/README.md).
 
-The **reference manuals** of the underlying standalone modules are also valuable sources of information:
+Los **manuales de referencia** de los módulos independientes subyacentes también son valiosas fuentes de información:
 
- * on the [GeoServer website](http://docs.geoserver.org/2.3.2/user/) for the 2.3.2 version,
- * on the [GeoNetwork website](http://geonetwork-opensource.org/manuals/2.10.3/eng/users/index.html) for the 2.10 version,
- * on the [GeoWebCache website](http://geowebcache.org/docs/1.5.1/) for the 1.5.1 version.
-
-
+  * En el [sitio web de GeoServer] (http://docs.geoserver.org/2.3.2/user/) para la versión 2.3.2,
+  * En el [sitio web de GeoNetwork] (http://geonetwork-opensource.org/manuals/2.10.3/eng/users/index.html) para la versión 2.10,
+  * En el [sitio web de GeoWebCache] (http://geowebcache.org/docs/1.5.1/) para la versión 1.5.1.
