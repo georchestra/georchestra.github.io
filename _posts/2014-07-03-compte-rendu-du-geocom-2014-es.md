@@ -107,22 +107,21 @@ Ahora que los servicios pesados están en funcionamiento, se debe hacerlos acces
 Las vías exploradas por s / mviewer mostraron muy buenos resultados: adopción inmediata, nexo conservado con las herramientas expertas, connexión social. Su diseño no es perenne, pero ya son compatibles, disponibles y su evolución se puede coordinar. Los principios desarrollados por estas herramientas impulsarán la reformulación a largo plazo del visualizador avanzado.
 
 
-### Extension de la communauté
+### Ampliación de la comunidad
 
-La question de savoir si geOrchestra doit investir pour être davantage réutilisé, ou au contraire doit se concentrer sur quelques "grosses" plateformes, a été tranchée en faveur d'une extension.
+La cuestión de saber si geOrchestra debe invertir para ser reutilizado (ampliación de la comunidad), o si a contrario debe centrarse en unas pocas plataformas "grandes", se dirimió a favor de la ampliación. 
 
-Le gros travail de factorisation a été assumé par les plateformes régionales. Nous pouvons maintenant viser une plus grande généricité des distributions.
+El duro trabajo de factorización fue asumido por las plataformas regionales. Ahora podemos apuntar a distribuciones más genéricas. 
 
-L'extension de la communauté va cependant générer une plus grande charge d'accompagnement à compenser en amont par la capitalisation des bonnes pratiques.
+Sin embargo, la ampliación de la comunidad va a generar una mayor carga de soporte para compensar la capitalización aguas arriba de las buenas prácticas.
+
+### Nexos con otras comunidades
+
+Se trata de ampliar la audiencias de los principales usuarios de los servicios a otras comunidades, profesionales o no. Esto requiere aplicacióne o conexiones especializadas: aplicaciones de negocio, OpenStreetMap, raster, TJS ... 
+
+Estas extensiones no son necesariamente en geOrchestra (noción de "contrib"), pero que están suficientemente coordinadas para ser compatibles y reutilizables.
 
 
-### Liens avec d'autres communautés
+### Eficiencia y calidad
 
-Il s'agit d'étendre l'audience de primo-utilisateurs des services vers d'autres communautés, professionnelles ou non. Pour cela il faut des applicatifs ou des connexions spécialisées : applicatifs métiers, OpenStreetMap, raster, TJS...
-
-Ces extensions ne sont pas forcément dans geOrchestra (notion de "contrib"), mais elles sont suffisamment concertées pour être compatibles et réutilisables.
-
-
-### Efficacité et qualité
-
-INSPIRE est atteint "manuellement", ce qui consomme du temps. Une fois l'IDS opérationnelle, il est souhaitable de miser sur des outils de vérification qualité et d'autocorrection. Ces outils permettront de prendre le contrôle du stock de données et métadonnées. Le bénéfice sera ressenti par les administrateurs (gain de temps, adaptation) comme par les utilisateurs (meilleure uniformité et réponse à leurs souhaits).
+INSPIRE se logra "manualmente", lo que lleva tiempo. Una vez la IDE operativa, es deseable centrarse en herramientas de control de calidad y de auto-corrección. Estas herramientas permiten tomar el control del stock de datos y metadatos. El beneficio será sentido por los administradores (ahorro de tiempo, adaptación) como por los usuarios (mejor coherencia y respuesta a sus demandas).
