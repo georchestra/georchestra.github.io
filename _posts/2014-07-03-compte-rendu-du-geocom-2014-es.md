@@ -17,7 +17,7 @@ Desgraciadamente, la webconferencia no funcionó y los sentimos mucho por l@s qu
 
 <!--more-->
 
-Restitución de temas tratados: encuentre las presentaciones en la página [page de l'événement](http://www.craig.fr/reunions/1229-georchestra-community-meeting), puesta en línea por el CRAIG. 
+Restitución de temas tratados: encuentre las presentaciones en la [pagina del l'evento](http://www.craig.fr/reunions/1229-georchestra-community-meeting), puesta en línea por el CRAIG. 
 
 ## Los Visualizadores
 
@@ -40,25 +40,24 @@ El CRAIG podría liberar un alojamiento y la experiencia de Bretaña + Picardía
 
 ## Una IDE "INSPIRE compliant"
 
-Après un exposé des devoirs d'une IDS face à INSPIRE, on échange sur le ressenti de chaque plateforme. Les metadata party, c'est bien; mais l'effet est court et la relance doit être permanente.  
-Les produits d'appel comme s/mviewer sont incitatifs.
+Después de describir las obligaciones de una IDE frente a la directiva européa INSPIRE, intercambiamos el sentimiento de cada plataforma. Las "metadata party", esta bién; pero el efecto es corto y los recordatorios deben ser permanentes. 
+Los productos llamativos como s/mviewer estimulantes. 
 
-L'évolution vers GeoNetwork3 est déjà programmée pour geOrchestra, on espère une nette amélioration de l'ergonomie pour l'administrateur.
+La evolución hacia GeoNetwork3 ya está programada para geOrchestra,se espera una marcada mejora en la ergonomía para el administrador. 
 
-La géopublication est très utilisée par certains mais les services REST GeoServer mériteraient un approfondissement (directory of shapefiles, metadatas...) pour une meilleure intégration et délégation.
+El geopublishing es utilizado por algunos, pero los servicios de REST GeoServer  merecen una profundización (directory of shapefiles, metadatas...) para una mejor integración y delegación.
 
-La communauté ressent également le besoin d'outils qualité neutres et plus ergonomiques que les validateurs officiels.
+La comunidad también siente la necesidad de herramientas de verificación de calidad neutrales y más ergonómicos que los validadores oficiales. 
 
-Pour le téléchargement, les avis divergent sur l'intérêt de proposer en sus le téléchargement dit "simple" par atom.
+Para descargas, las opiniones difieren sobre el valor de ofrecer ademas la descarga  "simple" via atom.
+=> tendencias : seguro de qualidad, capitalización de buenas practicas, seguimiento sobre los grupos de trabajo.
 
-=> tendances : assurance qualité, capitalisation des pratiques, veille sur les groupes de travail.
 
+## Seguridad de datos
 
-## Sécurité des données
+El módulo GeoFence opcional permite un control extremadamente preciso para limitar el acceso a ciertos objetos, atributos, perímetros geográficos, a costa de un aumento significativo en el número de reglas. El módulo puede controlar nube de instancias de GeoServer. En la comunidad, algunos necesitan un control fino, otros no. También se menciona la posibilidad de limitar el uso de los datos no personales por las condiciones de uso, sin implementar el filtrado de acceso.
 
-Le module optionnel GeoFence permet un contrôle extrêmement fin pouvant aller jusqu'à limiter l'accès à certains objets, attributs, périmètres géographiques, au prix d'une multiplication importante du nombre de règles. Le module peut contrôler un nuage d'instances de GeoServer. Dans la communauté, certains sont concernés par un contrôle fin, d'autres non. On mentionne aussi la possibilité de limiter l'usage de données non personnelles par les conditions d'utilisation, sans implémenter de filtrage d'accès.
-
-=> tendances : améliorer l'ergonomie de GeoFence, conserver ce module optionnel.
+=> tendencias: mejorar la usabilidad de GeoFence, mantener este módulo como opcional.
 
 
 ## Performance
