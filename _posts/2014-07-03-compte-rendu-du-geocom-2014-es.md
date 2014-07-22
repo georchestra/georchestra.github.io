@@ -62,24 +62,24 @@ El módulo GeoFence opcional permite un control extremadamente preciso para limi
 
 ## Performance
 
-Une méthode à effets (et coûts) croissants est exposée : supervision, limites de sécurité, optimisation http/images/styles/données, tuilage, navigateurs récents, scalabilité verticale/horizontale de l'hébergement. Pour la continuité de service, la répartition de charge GeoServer et la relance automatique donnent de très bons résultats et réduisent beaucoup la charge d'administration.
+Un método con efectos (y costos) crecientes es expuesto: la supervisión, los límites de seguridad, optimización http / images / estilos / datos, tiling, navegadores modernos, escalabilidad horizontal / vertical del alojamiento. Para la continuidad del servicio, balanceo de carga GeoServer y el reinicio automático dan muy buenos resultados y reducen en gran medida la carga administrativa.
 
-Les lectures toujours indispensables :
+Lecturas indispensables:
 * GeoServer in production http://docs.geoserver.org/stable/en/user/production/index.html
 * GeoServer on steroid http://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/
 * GeoServer in production http://boundlessgeo.com/whitepaper/geoserver-production-2/
 
-=> tendances : ajout d'une [offre Nagios](https://github.com/georchestra/nagios) à geOrchestra, partager les test cases.
+=> tendencias : adición de una [oferta Nagios](https://github.com/georchestra/nagios) a geOrchestra, compartir los test cases.
 
 
 ## WPS
 
 
-Illustration très parlante et de saison (Silo vs geOrchestra FC) sur la nécessité d'associer plusieurs services OGC pour fabriquer et exposer des traitements comme le calcul dynamique de bassins versants à partir d'un semis de points issus d'une donnée elle-même exposée.
+Ilustración muy elocuente y de temporada futbolisdtica (Silo vs geOrchestra  FC) dedicada a la necesidad de combinar varios servicios OGC para producir y exhibir tratamientos como cálculos dinámicos, tales como cuencas a partir de un conjunto de puntos estraidos de un datos ya expuesto.
 
-Après les WPS, il faut s'intéresser à des services plus spécialisés comme SOS et TJS. Et surtout ne pas négliger les rasters de données, fortement méconnus et sous exploités.
+Después de los WPS, debemos mirar a los servicios más especializados, como SOS y TJS. Y antes que todo no olvidarnos de los rasters de datos, en gran medida desconocidos y subutilizados.
 
-=> tendances : SOS, TJS, exploiter les rasters.
+=> tendencias : SOS, TJS, explotar los rasters.
 
 
 
