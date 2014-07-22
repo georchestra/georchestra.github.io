@@ -5,13 +5,13 @@ title: Comunidad
 uid: community
 ---
 
-geOrchestra es un proyecto impulsado por la comunidad . Cualquier persona puede contribuir, y cada contribución puede ser reutilizado libremente por todos.
+geOrchestra es un proyecto impulsado por la comunidad. Cualquier persona puede contribuir, y cada contribución puede ser reutilizado libremente por todos.
 
 Las contribuciones pueden ser de diferentes formas:
 
  * participando en las [listas de correo](https://groups.google.com/group/georchestra?hl=en),
  * escribiendo o mejorando la  [documentación](https://github.com/georchestra/georchestra/blob/master/README.md),
- * ayudando a mejorar [este sitio Web](https://github.com/georchestra/georchestra.github.io),
+ * ayudando a mejorar [este sitio web](https://github.com/georchestra/georchestra.github.io),
  * creando [informes de errores](https://github.com/georchestra/georchestra/issues) y enviando solicitudes de mejoras,
  * contribuyendo al código, ya sean parches o "[pull requests](https://help.github.com/articles/creating-a-pull-request)",
  * financiando [nuevas características](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
