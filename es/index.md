@@ -4,7 +4,7 @@ lang: es
 uid: index
 ---
 
-geOrchestra es un software de [Infraestructura de Datos Espaciales](http://en.wikipedia.org/wiki/Spatial_Data_Infrastructure) **libre**, **modular** e **interoperable** nacida en 2009 para cumplir con los requisitos de la directiva [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) en Europa.
+geOrchestra es un software de [Infraestructura de Datos Espaciales](http://en.wikipedia.org/wiki/Spatial_Data_Infrastructure) **libre**, **modular** e **interoperable** nacida en 2009 para cumplir con los requerimientos de la directiva [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) en Europa.
 
 El núcleo de geOrchestra cuenta con un proxy de seguridad y un [sistema de autenticación single-sign-on](http://en.wikipedia.org/wiki/Single_sign-on).
 Junto a este núcleo son módulos independientes e interoperables para construir su propia Infraestructura de Datos Espaciales:
