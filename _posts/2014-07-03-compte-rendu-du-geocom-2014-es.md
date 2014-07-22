@@ -83,19 +83,18 @@ Después de los WPS, debemos mirar a los servicios más especializados, como SOS
 
 
 
-## Mutualisation des formations
+## Puesta en común de capacitaciones 
 
-Après la présentation d'une maquette de site qui serait le réceptacle commun des ressources autour de geOrchestra, les participants échangent sur le capital à mettre en commun car l'accompagnement est jugé par tous indispensable. Il faudrait, dans les ressources produites par chacun, atteindre une granularité adaptée pour permettre la réutilisation de fragments.
+Después de la presentación de un prototipo de sitio que seria el recipiente  compartido de los recursos creados entorno a geOrchestra, los participantes comparten entorno al capital a compartirse, ya que el acompañamiento y soporte es considerado esencial por todos. Sería necesario alcanzar, en los recursos producidos por cada uno, una granularidad suficiente como para permitir una reutilización de fragmentos.
 
-=> tendances : site commun, le PSC reçoit et partage, licence ouverte sur les ressources.
+ => tendencias: sitio común, el PSC recibe y comparte, licencia abierta sobre los recursos.
 
 
-## Relations geOrchestra/OSM/HOT
+## Relaciones geOrchestra/OSM/HOT
 
-Après présentation du projet HOT qui ouvre sur un contexte bien plus large que nos plateformes locales, on comprend l'intérêt que peut représenter une IDS sachant faire le pont (bidirectionnel ?) entre les données OSM et les SIG. Ce pont serait également utile pour mieux échanger avec les communautés 'non SIG'.
+Después de la presentación del proyecto HOT que abre a un contexto mucho más amplio que nuestras plataformas locales, es comprensible el interés que implica una IDE que sepa hacer un puente bidireccional entre datos OSM y SIG. Este puente también sería útil para interactuar mejor con la comunidades 'no SIG' 
 
-=> tendances : support OSM bidirectionnel, internationalisation.
-
+=> tendencias: soporte OSM bidireccional, internacionalización.
 
 ## Code Sprint du samedi
 
