@@ -7,17 +7,17 @@ uid: project
 
 ## Historia
 
-El proyecto geOrchestra comenzó en 2009 cuando cuando la Infraestructura de Datos Espaciales Británica estaba en construcción. Los usuarios y desarrolladores decidieron colocar el código fuente bajo una licencia de código abierto. Un comité ejecutivo independiente del proyecto fue designado para manejar el proyecto, dirigir la comunidad emergente, y votar los cambios.
+El proyecto geOrchestra comenzó en 2009 cuando la Infraestructura de Datos Espaciales de Bretaña estaba en construcción. Los usuarios y desarrolladores decidieron colocar el código fuente bajo una licencia de código abierto. Un comité ejecutivo independiente del proyecto fue designado para manejar el proyecto, dirigir la comunidad emergente, y elegir los cambios mediante voto.
 
-Subsecuentemente, mucha gente estudio, adapto y tradujo los módulos de geOrchestra adaptandolo a sus propias necesidades.
+Posteriormente, mucha gente ha estudiado, adaptado y traducido los módulos de geOrchestra a sus propias necesidades.
 
-Inicialmente alojado sobre un repositorio británico de software, el código fue trasladado finalmente a  [GitHub](https://github.com/georchestra) en el año 2012. 
+Inicialmente alojado sobre un repositorio de software en Bretaña, y finalmente en el año 2012 el código fue trasladado  a  [GitHub](https://github.com/georchestra). 
 
-Con el código mucho mas accesible y obviamente mas fácil de contribuir. Los commits incrementaron drásticamente.
+Con el código mucho mas accesible y por lo tanto mas fácil de contribuir. Los commits incrementaron espectacularmente.
 
 ## Reuniones
 
-Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas practicas y elaborar un plan de trabajo.
+Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas prácticas y elaborar un plan de trabajo.
 
 
 Eventos anteriores:
