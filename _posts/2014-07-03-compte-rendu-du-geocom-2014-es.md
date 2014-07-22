@@ -24,21 +24,21 @@ Restitución de temas tratados: encuentre las presentaciones en la página [page
 Se trata de los casos de reutilización mas visibles, son un elmento clave para valorizar la IDE y los datos.  
 La série s/mviewer es presentada. Los usuarios comparten un gran necesidad de *simplicidad* para proponer a un tipo de usuario determinado exactamente lo que necesita, sin importar una multiplicación de los vizualizadores conectados a una IDE. Pero también se comparte un deseo de interoperabilidad para poder pasar de un visulizador al otro sin perder el contexto, y así cubrir toda una gama de usos sin duplicar la información. En todos los casos se mantiene el enlace hacia el dato y el metadato. 
 
-Tendances : "gros doigts"/"fisher price", contextes, pas de "mode", personnalisation couleur/logo/layout
+Tendencias : "dedos grandes"/"fisher price", contextos, sin "modo", personalización coulor/logo/layout
 
 
-## Le fond OpenStreetMap mutualisé
+## El fondo OpenStreetMap mutualizado
 
-Aujourd'hui, Picardie et Bretagne proposent sept fonds de plan OSM France entière selon WMS & co au moins en projections 2154 et 3857. La charge est lourde à porter pour ces plateformes régionales, le trafic France entière est important (livré de base avec certains clients). Nous souhaitons donc trouver un hébergement et une administration communs pour délivrer ce service à plusieurs.
+Hoy, las regiones Picardía y Bretaña ofrecen siete fondos cartográficos OSM de Francia entera en WMS & co, al menos en las proyecciones 2154 y 3857. La carga es difícil de soportar para estas plataformas regionales, el tráfico toda Francia es importante  (suministrado con algunos básicos clientes). Queremos encontrar el alojamiento y la administración común de proporcionar este servicio entre varios.
 
-Pour produire des cartes seules, la base pèse 20 Go. Pour servir aussi des données attributaires il faut 200 Go - geOrchestra peut servir ces données en flux sans problème. Le stockage en base doit être extrêmement performant. L'expiration des tuiles doit être outillée. Il faut s'attendre à des pointes de 1000 t/s, 200 mbps.
+Para producir sólo mapas, la base pesa 20 Go. Para servir también datos atributarios se requiere 200GB - geOrchestra puede servir a estos flujos de datos sin problemas. El almacenamiento en base debe ser extremadamente eficiente. El vencimiento de las baldozas (tiles) debe ser automatizado. Se espera un trafico máximo de 1.000 t/s, 200 mbps. 
 
-Le CRAIG pourrait libérer un hébergement, et le savoir-faire Bretagne + Picardie est à disposition.
+El CRAIG podría liberar un alojamiento y la experiencia de Bretaña + Picardía está disponible.
 
-=> tendances : hébergement unique, imposm3, SSD, administration à plusieurs, cahier des charges commun pour les styles.
+=> tendencias : alojamiento único, imposm3, SSD, administración compartida, terminos de referencia comun para los estilos.
 
 
-## Une IDS "INSPIRE compliant"
+## Una IDE "INSPIRE compliant"
 
 Après un exposé des devoirs d'une IDS face à INSPIRE, on échange sur le ressenti de chaque plateforme. Les metadata party, c'est bien; mais l'effet est court et la relance doit être permanente.  
 Les produits d'appel comme s/mviewer sont incitatifs.
