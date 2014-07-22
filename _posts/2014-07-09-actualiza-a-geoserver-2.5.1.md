@@ -21,9 +21,9 @@ To state a few:
 
 We have successfully compiled and deployed the latest version of GeoServer stable on the [geOrchestra demo server](http://sdi.georchestra.org/geoserver/web/) with the following options: app-schema, authkey, charts, control-flow, css, csw, dds, dxf, feature-aggregate, feature-pregeneralized, gdal, geoxacml, imagemap, inspire, istyler, libjpeg-turbo, mysql, ogr, pyramid, script, spatialite, wps, w3ds.
 
-This improvement will ship with geOrchestra 14.12, at the end of the year.
-In the following weeks, we'll check that integration with the other components of the geOrchestra suite is good, and that no regression occur.
+Esta mejora se embarcará con geOrchestra 14.12, al final del año.
+En las próximas semanas, vamos a comprobar que la integración con los otros componentes de la suite geOrchestra es bueno, y que no se produzca una regresión.
 
-For the most adventurous of you, it is possible to test this new build by checking out the [2.5.1-georchestra](https://github.com/georchestra/geoserver/tree/2.5.1-georchestra) branch in the [georchestra/geoserver](https://github.com/georchestra/geoserver/) repository with help from the [#677](https://github.com/georchestra/georchestra/issues/677) issue.  
+Para los más aventureros como tú, es posible probar esta nueva construcción revisando en la rama [2.5.1-georchestra](https://github.com/georchestra/geoserver/tree/2.5.1-georchestra) en el repositorio [georchestra/geoserver](https://github.com/georchestra/geoserver/) con la ayuda de la edición [#677](https://github.com/georchestra/georchestra/issues/677).
 
-This is work from Florent Gravin, [Camptocamp](http://www.camptocamp.com/geospatial/), with support from [GeoBretagne](http://cms.geobretagne.fr/). GeoFence was not tested with this new GeoServer build.
+Este es un trabajo de Florent Gravin, [Camptocamp](http://www.camptocamp.com/geospatial/), con el apoyo de [GeoBretagne](http://cms.geobretagne.fr/). GeoFence no ha sido probado con esta nueva construcción GeoServer.
