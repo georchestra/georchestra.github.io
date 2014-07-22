@@ -6,16 +6,7 @@ categories: labs geoserver
 lang: es
 uid: 2014-07-09
 ---
-
-layout: post
-title:  "Upgrade to GeoServer 2.5.1"
-date:   2014-07-09 11:47:13
-categories: labs geoserver
-lang: en
-uid: 2014-07-09
----
-
-geOrchestra is currently migrating from GeoServer 2.3.2 (used since 13.06) to latest stable (at the time of writing) 2.5.1.
+geOrchestra esta migrando de GeoServer 2.3.2 (utilizado desde 13.06) utilizado desde el último estable (en el momento de escribir) 2.5.1 
 
 <!--more-->
 
