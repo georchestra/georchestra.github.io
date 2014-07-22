@@ -7,19 +7,22 @@ lang: fr
 uid: 2014-07-03
 ---
 
-Ce geoCom 2014 s'est tenu dans d'excellentes conditions à Clermont Ferrand, réunissant administrateurs de plateformes actuelles ou futures : PIGMA, CRAIG, CIGAL, GéoBretagne, GeoSAS, l'INRA Nancy, l'agglomération du Puy en Velay, de Moulins, de Vienne, de Clermont Ferrand, Rennes Métropole, l'université de Clermont; les développeurs de Camptocamp; et les membres du PSC geOrchestra.  
-Les objectifs : se connaître et échanger, capitaliser les bonnes pratiques, construire ensemble la feuille de route. 10 sujets votés se sont succédés avec pour chacun : une mise en situation, un temps d'échange et la collecte des souhaits d'évolution.
+Este GeoCOM 2014 se celebró en excelentes condiciones en Clermont Ferrand, reunió a los directores presentes o futuras plataformas: PIGMA, CRAIG, CIGAL, GéoBretagne, GeoSAS, INRA de Nancy, la aglomeración de Puy en Velay Moulins, Vienne, Clermont Ferrand, Rennes, Universidad de Clermont; desarrolladores Camptocamp; y los miembros del PSC geOrchestra.
 
-Malheureusement, la webconférence nous a fait faux bond et nous en sommes désolés pour ceux qui voulaient suivre à distance.  
-Merci à tous les participants et présentateurs pour leur venue, leur engagement, leurs contributions, et à l'année prochaine !
+Objetivos: conocer y compartir, construir sobre las buenas prácticas, construir juntos la hoja de ruta. 10 temas votados han sido tratados con para cada uno: un escenario, un tiempo de intercambio y la recolección de las aspiraciones de evolución del proyecto.
+
+Desgraciadamente, la webconferencia no funcionó y los sentimos mucho por l@s que querian seguir los debates a distancia   
+
+¡Gracias a todos los participantes y panelistas por venir, su compromiso y sus contribuciones, hasta el año que viene!
 
 <!--more-->
 
-Restitution des sujets: retrouvez les présentations sur la [page de l'événement](http://www.craig.fr/reunions/1229-georchestra-community-meeting), mise en ligne par le CRAIG. 
+Restitución de temas tratados: encuentre las presentaciones en la página [page de l'événement](http://www.craig.fr/reunions/1229-georchestra-community-meeting), puesta en línea por el CRAIG. 
 
-## Les visualiseurs
+## Los Visualizadores
 
-Cas de réutilisation les plus visibles, ils sont un élément clé pour valoriser l'IDS et les données. La série s/mviewer est présentée. On partage un gros besoin de *simplicité* pour proposer à une cible donnée exactement ce dont elle a besoin, quitte à multiplier les formes de visualiseurs au-dessus de l'IDS. Mais on affiche aussi un souhait d'interopérabilité pour passer d'un visualiseur à l'autre sans perdre le contexte, et ainsi couvrir toute une gamme d'usages sans dupliquer l'information. Dans tous les cas, on conserve le lien vers la donnée et la métadonnée.
+Se trata de los casos de reutilización mas visibles, son un elmento clave para valorizar la IDE y los datos.  
+La série s/mviewer es presentada. Los usuarios comparten un gran necesidad de *simplicidad* para proponer a un tipo de usuario determinado exactamente lo que necesita, sin importar una multiplicación de los vizualizadores conectados a una IDE. Pero también se comparte un deseo de interoperabilidad para poder pasar de un visulizador al otro sin perder el contexto, y así cubrir toda una gama de usos sin duplicar la información. En todos los casos se mantiene el enlace hacia el dato y el metadato. 
 
 Tendances : "gros doigts"/"fisher price", contextes, pas de "mode", personnalisation couleur/logo/layout
 
