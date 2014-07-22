@@ -21,7 +21,7 @@ To state a few:
 
 We have successfully compiled and deployed the latest version of GeoServer stable on the [geOrchestra demo server](http://sdi.georchestra.org/geoserver/web/) with the following options: app-schema, authkey, charts, control-flow, css, csw, dds, dxf, feature-aggregate, feature-pregeneralized, gdal, geoxacml, imagemap, inspire, istyler, libjpeg-turbo, mysql, ogr, pyramid, script, spatialite, wps, w3ds.
 
-Esta mejora se embarcará con geOrchestra 14.12, al final del año. En las próximas semanas, vamos a comprobar que la integración con los otros componentes de la suite geOrchestra es bueno, y que no se produzca una regresión.
+Esta mejora se embarcará con geOrchestra 14.12, al final del año. En las próximas semanas, vamos a comprobar que la integración con los otros componentes de la suite geOrchestra esta bien, y que no se produzca una regresión.
 
 Para los más aventureros como tú, es posible probar esta nueva construcción revisando en la rama [2.5.1-georchestra](https://github.com/georchestra/geoserver/tree/2.5.1-georchestra) en el repositorio [georchestra/geoserver](https://github.com/georchestra/geoserver/) con la ayuda de la edición [#677](https://github.com/georchestra/georchestra/issues/677).
 
