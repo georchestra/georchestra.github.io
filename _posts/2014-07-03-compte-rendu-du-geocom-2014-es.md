@@ -96,17 +96,15 @@ Después de la presentación del proyecto HOT que abre a un contexto mucho más 
 
 => tendencias: soporte OSM bidireccional, internacionalización.
 
-## Code Sprint du samedi
+## Code Sprint del sabado
 
-En fait de code sprint, le PSC a plutôt analysé et factorisé les tendances développées au cours du geoCom pour façonner la feuille de route stratégique de geOrchestra :
+En vez de code sprint, el PSC se dedicó mas bién a analizar y factorizar las tendencias desarrolladas durante el geoCom para definir la hoha de ruta estratégica de GeOrchestra : 
 
-### Simplicité
+### Simplicdad
 
-Maintenant que les services lourds sont opérationnels il faut les rendre accessibles. Pour adresser chaque cible il faut des outils très simples, personnalisables, tout en mutualisant l'effort de conception et de développement.
+Ahora que los servicios pesados están en funcionamiento, se debe hacerlos accesibles. Para alcanzar todo tipo de público, se necesitan herramientas muy simples, adaptables, al mismo tiempo que hay que compartir los esfuerzos  de concepción y desarrollo. 
 
-Les pistes explorées par s/mviewer ont montré de bons très résultats : adoption immédiate, lien conservé avec les outils experts, ciblage, connexion sociale. Leur conception n'est pas pérenne mais ils sont déjà compatibles, disponibles et leur évolution peut être concertée.
-
-Les principes développés par ces outils devront alimenter la refonte long terme du visualiseur avancé.
+Las vías exploradas por s / mviewer mostraron muy buenos resultados: adopción inmediata, nexo conservado con las herramientas expertas, connexión social. Su diseño no es perenne, pero ya son compatibles, disponibles y su evolución se puede coordinar. Los principios desarrollados por estas herramientas impulsarán la reformulación a largo plazo del visualizador avanzado.
 
 
 ### Extension de la communauté
