@@ -5,37 +5,38 @@ title: Proyecto
 uid: project
 ---
 
-## Story
+## Historia
 
-The geOrchestra project started back in 2009 when the Brittany spatial data infrastructure was under construction. Users and developers decided to place the source code under an open licence. An independant project steering committee was appointed to drive the project, address the emerging community, and vote changes.
+El proyecto geOrchestra comenzó en 2009 cuando cuando la Infraestructura de Datos Espaciales Británica estaba en construcción. Los usuarios y desarrolladores decidieron colocar el código fuente bajo una licencia de código abierto. Un comité ejecutivo independiente del proyecto fue designado para manejar el proyecto, dirigir la comunidad emergente, y votar los cambios.
 
-Subsequently, many people studied, adapted, and translated geOrchestra modules for their own needs.
+Subsecuentemente, mucha gente estudio, adapto y tradujo los módulos de geOrchestra adaptandolo a sus propias necesidades.
 
-Initially hosted on a Brittany-hosted software repository, the source code finally moved to [GitHub](https://github.com/georchestra) in 2012. This greatly improved code accessibility and obviously made contributions easier. The commit rates grew up dramatically.
+Inicialmente alojado sobre un repositorio británico de software, el código fue trasladado finalmente a  [GitHub](https://github.com/georchestra) en el año 2012. 
 
-## Meetings
+Con el código mucho mas accesible y obviamente mas fácil de contribuir. Los commits incrementaron drásticamente.
 
-Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap. 
+## Reuniones
 
-Previous events took place:
-
- * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
- * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014
+Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas practicas y elaborar un plan de trabajo.
 
 
-## Steering committee
+Eventos anteriores:
 
-The steering committee features 8 members:
+  * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
+  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014
 
- * Lydie Vinsonneau, SDI operator,
- * Fabrice Phung, SDI operator,
- * François Van Der Biest, developer, release manager,
- * Pierre Mauduit, developer, sysadmin,
- * Sylvain Lesage, SDI operator, developer,
- * Rod Béra, reseacher, teacher,
- * Valérie Besand, data admin,
- * Landry Breuil, SDI operator, sysadmin.
+## Comité Directivo
 
-## Values
+El comité directivo cuenta con 8 miembros:
+  * Lydie Vinsonneau, operador SDI,
+  * Fabrice Phung, operador SDI,
+  * François Van Der Biest, desarrollador, director de versiones,
+  * Pierre Mauduit, desarrollador, administrador de sistemas,
+  * Sylvain Lesage, operador SDI, desarrollador,
+  * Rod Béra, investigador, capacitador,
+  * Valérie Besand, data admin,
+  * Landry Breuil, operador SDI, administrador de sistemas.
 
-geOrchestra's guidelines are: free and opensource, modularity, interoperability
+## Valores
+
+Las directrices de geOrchestra son: libre y de código abierto, la modularidad, interoperabilidad
