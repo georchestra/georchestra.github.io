@@ -22,8 +22,8 @@ Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar dife
 
 Eventos anteriores:
 
-  * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
-  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014
+  * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, Francia, 2013,
+  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014
 
 ## Comité Directivo
 
@@ -34,7 +34,7 @@ El comité directivo cuenta con 8 miembros:
   * Pierre Mauduit, desarrollador, administrador de sistemas,
   * Sylvain Lesage, operador SDI, desarrollador,
   * Rod Béra, investigador, capacitador,
-  * Valérie Besand, data admin,
+  * Valérie Besand, administrador de datos,
   * Landry Breuil, operador SDI, administrador de sistemas.
 
 ## Valores
