@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} - {{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="google-site-verification" content="b4iV0TLmFCWJMpKBRakyJUE6LzKRmgIUe1exnETF2sM" />
     <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
