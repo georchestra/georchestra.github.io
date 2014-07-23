@@ -28,6 +28,7 @@ Eventos anteriores:
 ## Comité Directivo
 
 El comité directivo cuenta con 8 miembros:
+
   * Lydie Vinsonneau, operador SDI,
   * Fabrice Phung, operador SDI,
   * François Van Der Biest, desarrollador, director de versiones,
