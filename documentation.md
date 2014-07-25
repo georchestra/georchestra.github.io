@@ -5,7 +5,8 @@ title: Documentation
 uid: documentation
 ---
 
-Installation documentation is now part of the source repository on [https://github.com/georchestra/georchestra/blob/master/README.md](https://github.com/georchestra/georchestra/blob/master/README.md).
+The installation and configuration documentation is now part of the source repository.  
+Please refer to the [README](https://github.com/georchestra/georchestra/blob/master/README.md) and explore the links.
 
 The **reference manuals** of the underlying standalone modules are also valuable sources of information:
 
