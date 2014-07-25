@@ -5,7 +5,8 @@ title: Documentation
 uid: documentation
 ---
 
-La documentation d'installation est actuellement centralisée sur le dépôt du code source à l'adresse suivante : [https://github.com/georchestra/georchestra/blob/master/README.md](https://github.com/georchestra/georchestra/blob/master/README.md).
+La documentation d'installation et de configuration est centralisée sur le dépôt du code source, en langue anglaise.
+Vous pouvez y accéder depuis le fichier [README](https://github.com/georchestra/georchestra/blob/master/README.md) à la racine du projet.
 
 Il toujours utile de consulter les **documentations publiques** de référence des différents projets communautaires sous-jacents:
 
