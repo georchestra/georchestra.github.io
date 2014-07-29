@@ -39,13 +39,13 @@ Urban area level:
 
 Research and education:
 
- * UMR SAS INRA (Agrocampus Ouest à Rennes)
- * UMR LISAH INRA (Supagro à Montpellier)
+ * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, à Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
+ * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, à Montpellier) 
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
- * INRA
+ * [INRA](http://www.inra.fr/)
  * Université Pierre et Marie Curie
 
-... and much more we don't know about. Please contact us to register your geOrchestra !
+... and many more we don't know about. Please contact us to register your geOrchestra !
 
 
 ## Who develops geOrchestra ?
