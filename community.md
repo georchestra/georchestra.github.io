@@ -5,7 +5,8 @@ title: Community
 uid: community
 ---
 
-geOrchestra is a community-driven project. Anyone can contribute, and each contribution may be reused freely by everyone.
+geOrchestra is a community-driven project.  
+Anyone can contribute, and each contribution may be reused freely by everyone.
 
 Contributions may take several forms:
 
