@@ -39,8 +39,8 @@ Urban area level:
 
 Research and education:
 
- * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, à Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
- * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, à Montpellier) 
+ * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
+ * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, Montpellier) 
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
  * [INRA](http://www.inra.fr/)
  * Université Pierre et Marie Curie

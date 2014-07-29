@@ -39,10 +39,10 @@ Nivel Urbano:
 
 Investigación y educación:
 
- * UMR SAS INRA (Agrocampus Ouest à Rennes)
- * UMR LISAH INRA (Supagro à Montpellier)
- * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) vía [indigeo](http://www.indigeo.fr/)
- * INRA
+ * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
+ * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, Montpellier) 
+ * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
+ * [INRA](http://www.inra.fr/)
  * Université Pierre et Marie Curie
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
