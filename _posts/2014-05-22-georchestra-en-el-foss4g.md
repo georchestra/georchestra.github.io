@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "geOrchestra au FOSS4G-fr 2014"
+title:  "geOrchestra en el FOSS4G-fr 2014"
 date:   2014-05-22 13:52:13
 categories: foss4gfr
-lang: fr
+lang: es
 uid: 2014-05-22
 ---
 

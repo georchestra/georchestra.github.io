@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Compte-rendu du geOcom 2014"
+title:  "Informe de geOcom 2014"
 date:   2014-07-03 18:49:13
 categories: geocom
-lang: fr
+lang: es
 uid: 2014-07-03
 ---
 
