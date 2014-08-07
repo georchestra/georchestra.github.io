@@ -54,7 +54,7 @@ Contactez nous pour vous faire connaître !
 ## Qui développe geOrchestra ?
 
 
-La [liste des commiters](https://github.com/orgs/georchestra/members) n'offre qu'un aperçu des contributeurs réguliers.
+La [liste des commiters](https://github.com/orgs/georchestra/people) n'offre qu'un aperçu des contributeurs réguliers.
 
 L'écosystème GitHub autorise en effet les contributions de manière très large, via le système des "Pull Request". 
 Ces contributions externes au code sont toujours relues et testées de manière intensive, ce qui conduit soit à leur acceptation et intégration au code ("merge"), soit à une demande de retravail.
