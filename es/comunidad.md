@@ -51,7 +51,7 @@ Investigación y educación:
 ## Quién desarrolla geOrchestra ?
 
 
-La [lista de contribuidores](https://github.com/orgs/georchestra/members) solo permite dar una visión parcial.
+La [lista de contribuidores](https://github.com/orgs/georchestra/people) solo permite dar una visión parcial.
 
 El ecosistema GitHub permite amplias contribuciones principalmente a través del principio de "Pull Request". Estas contribuciones son intensamente revisados y probados, que finalmente llevan a su aceptación e integración ("merge").
 
