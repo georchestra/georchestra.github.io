@@ -52,7 +52,7 @@ Research and education:
 ## Who develops geOrchestra ?
 
 
-The [commiters list](https://github.com/orgs/georchestra/members) only gives a partial view.
+The [commiters list](https://github.com/orgs/georchestra/people) only gives a partial view.
 
 The GitHub ecosystem allows wide contributions via the "Pull Request" principle. These contributions are always intensively reviewed and tested, eventually leading to their acceptance and integration ("merge").
 
