@@ -18,4 +18,4 @@ Junto a este núcleo cuenta con módulos independientes e interoperables para co
 
 Los módulos interactúan usando interfaces [OGC](http://en.wikipedia.org/wiki/Open_Geospatial_Consortium) o [REST APIs](http://en.wikipedia.org/wiki/Representational_State_Transfer).
 
-Inicialmente cubriendo Gran Bretaña, luego a Francia, geOrchestra ahora [se extiende en todo el mundo](http://sdi.georchestra.org/mapfishapp/?wmc=app/contexts/relief.wmc) con las IDEs en Bolivia, Nicaragua, Suiza y la India.
+Inicialmente cubriendo Bretaña, luego a Francia, geOrchestra ahora [se extiende en todo el mundo](http://sdi.georchestra.org/mapfishapp/?wmc=app/contexts/relief.wmc) con las IDEs en Bolivia, Nicaragua, Suiza y la India.
