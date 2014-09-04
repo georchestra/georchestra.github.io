@@ -17,5 +17,26 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
  * un extracteur, qui permet de télécharger des archives contenant les données géographiques issues de services OGC,
  * une console d'administration des utilisateurs et des groupes ("ldapadmin"),
  * un module présentant les statistiques d'utilisation de l'IDS ("analytics").
- 
+
+#### Services Web
+
 Une plateforme geOrchestra expose des services standards de découverte ([CSW](http://www.opengeospatial.org/standards/cat)), visualisation ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), stylage ([SLD](http://www.opengeospatial.org/standards/sld)), interrogation ([WFS](http://www.opengeospatial.org/standards/wfs)), édition ([WFS-T](http://www.opengeospatial.org/standards/wfs)), voire traitement ([WPS](http://www.opengeospatial.org/standards/wps)) de données géographiques, ainsi que les outils web pour les consommer. Elle est parfaitement interopérable avec des logiciels SIG comme [QGIS](http://www.qgis.org/) ou [ArcGIS](http://www.arcgis.com/).
+
+
+#### Versions
+
+Sauf exceptions, nous publions une nouvelle [version](https://github.com/georchestra/georchestra/releases) tous les 6 mois, en suivant un [calendrier public](https://github.com/georchestra/georchestra/milestones). Chaque version est supportée pendant au moins 12 mois.
+
+Version       | Docs                                                                                          | Sortie        | Fin de vie
+------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+14.06         | [Blog](/blog/2014/07/10/version-14.06/)                                                       | 2014-07-10    | 2015-07
+14.01         | [Blog](/blog/2014/02/03/version-14.01/)                                                       | 2014-01-30    | 2015-01
+13.09         | [Blog](/blog/2013/10/02/georchestra-version-13.09/)                                           | 2013-10-02    | 2014-10
+13.06         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1306) | 2013-06-27    | **2014-06**
+13.02         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1302) | 2013-03-25    | **2014-03**
+12.11         | [Blog](/blog/2012/12/16/georchestra-12.11-bolivia-est-disponible/)                            | 2012-12-13    | **2013-12**
+12.06         | [Blog](/blog/2011/12/17/pigma-nouvelle-plateforme-georchestra/)                               | 2012-07-25    | **2013-07**
+11.10         | -                                                                                             | 2011-12-16    | **2012-12**
+
+Les versions ci-dessus sont portées par des branches qui dérivent de la branche master en date de la sortie. 
+Tout bogue est corrigé sur la plus ancienne branche supportée apportant la fonctionnalité, puis porté sur les branches les plus récentes (jusque master) par des "merge en cascade". Nous vous invitons à jeter un oeil à la [vue "réseau" du dépôt geOrchestra](https://github.com/georchestra/georchestra/network) pour en voir l'illustration.
