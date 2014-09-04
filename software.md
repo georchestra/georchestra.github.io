@@ -38,5 +38,9 @@ Version       | Docs                                                            
 12.06         | -                                                                                             | 2012-07-25    | **2013-07**
 11.10         | -                                                                                             | 2011-12-16    | **2012-12**
 
-The above releases are hosted on branches forked from the master branch at the release date. 
-Bugs are fixed on the oldest supported branch bringing the feature, and ported to later branches (up to master) via cascading merges. You may refer to the [geOrchestra repository network](https://github.com/georchestra/georchestra/network) for a graphical view of the above.
+The above releases are hosted on branches forked from the master branch at the release date.  
+
+Bugs are fixed on the oldest supported branch bringing the feature, and ported to later branches (up to master) via cascading merges. You may refer to the [geOrchestra repository network](https://github.com/georchestra/georchestra/network) for a graphical view of the above.  
+
+New features are merged into the master branch, which means they'll be available in the next stable version.
+The [sdi.georchestra.org](http://sdi.georchestra.org/) demo site is maintained up-to-date with the master branch, in order to showcase these new features.

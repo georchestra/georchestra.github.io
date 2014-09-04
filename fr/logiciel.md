@@ -38,5 +38,9 @@ Version       | Docs                                                            
 12.06         | [Blog](/blog/2011/12/17/pigma-nouvelle-plateforme-georchestra/)                               | 2012-07-25    | **2013-07**
 11.10         | -                                                                                             | 2011-12-16    | **2012-12**
 
-Les versions ci-dessus sont portées par des branches qui dérivent de la branche master en date de la sortie. 
-Tout bogue est corrigé sur la plus ancienne branche supportée apportant la fonctionnalité, puis porté sur les branches les plus récentes (jusque master) par des "merge en cascade". Nous vous invitons à jeter un oeil à la [vue "réseau" du dépôt geOrchestra](https://github.com/georchestra/georchestra/network) pour en voir l'illustration.
+Les versions ci-dessus sont portées par des branches qui dérivent de la branche master en date de la sortie.  
+
+Tout bogue est corrigé sur la plus ancienne branche supportée apportant la fonctionnalité, puis porté sur les branches les plus récentes (jusque master) par des "merge en cascade". Nous vous invitons à jeter un oeil à la [vue "réseau" du dépôt geOrchestra](https://github.com/georchestra/georchestra/network) pour en voir l'illustration.  
+
+Toute nouvelle fonctionnalité est implémentée sur la branche master, ce qui signifie qu'elle sera disponible pour la prochaine version stable. 
+Le site de démonstration [sdi.georchestra.org](http://sdi.georchestra.org/) est maintenu à jour sur la branche master, ce qui permet de montrer ces fonctionnalités qui apparaîtront dans la prochaine version.
