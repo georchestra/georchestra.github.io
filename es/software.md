@@ -18,5 +18,29 @@ geOrchestra ofrece módulos independientes e interoperables para construir su pr
  * un usuario y administrador de grupo ("ldapadmin"),
  * un analizador de registro para ver las estadísticas de uso de datos ("analytics").
 
-Una plataforma geOrchestra brinda servicios web estándar para descubrir ([CSW](http://www.opengeospatial.org/standards/cat)), vistas ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), simbolización ([SLD](http://www.opengeospatial.org/standards/sld)), consulta y descarga ([WFS](http://www.opengeospatial.org/standards/wfs)), edición ([WFS-T](http://www.opengeospatial.org/standards/wfs)), e incluso de proceso ([WPS](http://www.opengeospatial.org/standards/wps)) las características geográficas. También proporciona potentes aplicaciones web que hacen uso de estos servicios (y eventualmente, la combinación de ellos). Interopera perfectamente con programas SIG como [QGIS](http://www.qgis.org/) y [ArcGIS](http://www.arcgis.com/).
+#### Servicios web
 
+La plataforma geOrchestra brinda servicios web estándar, para descubrir ([CSW](http://www.opengeospatial.org/standards/cat)), vistas ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), simbolización ([SLD](http://www.opengeospatial.org/standards/sld)), consulta y descarga ([WFS](http://www.opengeospatial.org/standards/wfs)), edición ([WFS-T](http://www.opengeospatial.org/standards/wfs)), e incluso de proceso ([WPS](http://www.opengeospatial.org/standards/wps)) las características geográficas. También proporciona potentes aplicaciones web que hacen uso de estos servicios (y eventualmente, la combinación de ellos). Interopera perfectamente con programas SIG como [QGIS](http://www.qgis.org/) y [ArcGIS](http://www.arcgis.com/).
+
+#### Lanzamientos
+
+[Lanzamientos](https://github.com/georchestra/georchestra/releases) se publican cada 6 meses, a raiz de un [calendario previsto](https://github.com/georchestra/georchestra/milestones). 
+Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un apoyo diferente.
+
+Version       | Docs                                                                                          | Released      | End of life 
+------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+14.06         | [Blog](/blog/2014/07/10/release-14.06/)                                                       | 2014-07-10    | 2015-07
+14.01         | [Blog](/blog/2014/02/03/release-14.01/)                                                       | 2014-01-30    | 2015-01
+13.09         | [Blog](/blog/2013/10/02/georchestra-release-13.09/)                                           | 2013-10-02    | 2014-10
+13.06         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1306) | 2013-06-27    | **2014-06**
+13.02         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1302) | 2013-03-25    | **2014-03**
+12.11         | [Blog](/blog/2012/12/16/georchestra-12.11-bolivia-is-out/)                                    | 2012-12-13    | **2013-12**
+12.06         | -                                                                                             | 2012-07-25    | **2013-07**
+11.10         | -                                                                                             | 2011-12-16    | **2012-12**
+
+Las versiones anteriores son alojadas en ramas bifurcadas de la rama principal, de acuerdo a la fecha de vencimiento.
+
+Los errores fijos en la rama más antigua son soportadas, trayendo las caracteristicas a las ramas posteriores(hasta master) mediante la fusión en cascada. Puede hacer referencia a [geOrchestra repository network](https://github.com/georchestra/georchestra/network) para una vista gráfica.
+
+Las nuevas caracteristicas se combinan en la rama principal, lo que significa que estarán disponibles en la proxima versión estable.
+El sdi.georchestra.org](http://sdi.georchestra.org/) sitio de demostración se mantiene al día con la rama master, con el objetivo de mostrar las nuevas caracteristicas.
