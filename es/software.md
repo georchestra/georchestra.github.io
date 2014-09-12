@@ -43,4 +43,4 @@ Las versiones anteriores son alojadas en ramas bifurcadas de la rama principal, 
 Los errores fijos en la rama más antigua son soportadas, trayendo las caracteristicas a las ramas posteriores(hasta master) mediante la fusión en cascada. Puede hacer referencia a [geOrchestra repository network](https://github.com/georchestra/georchestra/network) para una vista gráfica.
 
 Las nuevas caracteristicas se combinan en la rama principal, lo que significa que estarán disponibles en la proxima versión estable.
-El sdi.georchestra.org](http://sdi.georchestra.org/) sitio de demostración se mantiene al día con la rama master, con el objetivo de mostrar las nuevas caracteristicas.
+El [sdi.georchestra.org](http://sdi.georchestra.org/) sitio de demostración se mantiene al día con la rama master, con el objetivo de mostrar las nuevas caracteristicas.
