@@ -9,14 +9,14 @@ Au coeur de geOrchestra se trouve un proxy de sécurité basé sur [Spring Secur
 
 geOrchestra propose en standard une suite de modules, indépendants et interopérables, avec lesquels on compose son Infrastructure de Données Spatiales "à la carte" :
 
- * un catalogue de métadonnées, basé sur [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
+ * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/blob/georchestra-14.06/README.md), basé sur [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
  * un serveur cartographique : [GeoServer](http://geoserver.org/) version 2.3.2,
- * un module de gestion avancée des droits d'accès aux données : [GeoFence](https://github.com/geosolutions-it/geofence),
+ * un [module de gestion avancée des droits d'accès aux données](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md) : [GeoFence](https://github.com/geosolutions-it/geofence),
  * un serveur de tuiles : [GeoWebCache](http://geowebcache.org/) version 1.5.1,
- * un visualiseur de données géographiques avancé qui remplit également la fonction d'éditeur d'objets géographiques,
- * un extracteur, qui permet de télécharger des archives contenant les données géographiques issues de services OGC,
- * une console d'administration des utilisateurs et des groupes ("ldapadmin"),
- * un module présentant les statistiques d'utilisation de l'IDS ("analytics").
+ * un [visualiseur de données géographiques avancé](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) qui remplit également la fonction d'éditeur d'objets géographiques,
+ * un [extracteur](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md), qui permet de télécharger des archives contenant les données géographiques issues de services OGC,
+ * une [console d'administration des utilisateurs et des groupes](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
+ * un [module présentant les statistiques d'utilisation](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) de l'IDS ("analytics").
 
 #### Services Web
 

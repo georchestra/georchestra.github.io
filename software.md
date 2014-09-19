@@ -9,14 +9,14 @@ geOrchestra's core relies on a security proxy based on [Spring Security](http://
 
 geOrchestra provides independant and interoperable modules to build your own custom spatial data infrastructure:
 
- * a data catalog based on [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
+ * a [data catalog](https://github.com/georchestra/geonetwork/blob/georchestra-14.06/README.md) based on [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
  * a map and feature server: [GeoServer](http://geoserver.org/) version 2.3.2,
- * an advanced data access list manager: [GeoFence](https://github.com/geosolutions-it/geofence),
+ * an advanced data access list manager](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geosolutions-it/geofence),
  * a map tiles server: [GeoWebCache](http://geowebcache.org/) version 1.5.1,
- * an advanced web map viewer with query, styling, editing functions,
- * a data extractor to extract, reproject and download datasets from OGC services,
- * a user and group manager ("ldapadmin"),
- * a log parser to display data usage statistics ("analytics").
+ * an [advanced web map viewer](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) with query, styling, editing functions,
+ * a [data extractor](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) to extract, reproject and download datasets from OGC services,
+ * a [user and group manager](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
+ * a [module to display data usage statistics](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
 #### Web Services
 

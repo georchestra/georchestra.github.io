@@ -9,14 +9,14 @@ El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Sec
 
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
   
- * un catálogo de datos basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 2.10,
+ * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-14.06/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 2.10,
  * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.3.2,
- * un gestor avanzado de listas de acceso a datos: [GeoFence](https://github.com/geosolutions-it/geofence),
+ * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geosolutions-it/geofence),
  * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.5.1,
- * un visor de mapas web con consultas, estilos y funciones de edición,
- * un extractor de datos para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
- * un usuario y administrador de grupo ("ldapadmin"),
- * un analizador de registro para ver las estadísticas de uso de datos ("analytics").
+ * un [visor de mapas web](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) con consultas, estilos y funciones de edición,
+ * un [extractor de datos](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
+ * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
+ * un [modulo para ver las estadísticas de uso de datos](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
 #### Servicios web
 
