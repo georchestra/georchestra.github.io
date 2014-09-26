@@ -18,6 +18,20 @@ geOrchestra provides independant and interoperable modules to build your own cus
  * a [user and group manager](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
  * a [module to display data usage statistics](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
+#### License
+
+All geOrchestra modules are available under the terms of the [GNU GPL v3](https://github.com/georchestra/georchestra/blob/master/LICENSE.txt) license, except:
+ * JASIG CAS - [Apache License, version 2.0](https://github.com/Jasig/cas/blob/master/LICENSE),
+ * GeoNetwork & GeoServer - [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html),
+ * GeoWebCache - [LGPL](http://www.gnu.org/licenses/lgpl.html).
+
+Our main libraries are using a mix of licenses, compatible with the [Open Source definition](http://opensource.org/osd):
+ * GeoTools - [LGPL](http://www.gnu.org/licenses/lgpl.html),
+ * OpenLayers & GeoExt - BSD-style,
+ * ExtJS - [GPL v3](https://github.com/probonogeek/extjs/blob/3.x/license.txt),
+ * proj4js - [MIT](https://github.com/proj4js/proj4js/blob/master/LICENSE.md),
+ * [wicked-good-xpath](https://code.google.com/p/wicked-good-xpath/) - [MIT](http://www.opensource.org/licenses/mit-license.php).
+
 #### Web Services
 
 A geOrchestra platform advertises standard web services to discover ([CSW](http://www.opengeospatial.org/standards/cat)), view ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), symbolize ([SLD](http://www.opengeospatial.org/standards/sld)), query and download ([WFS](http://www.opengeospatial.org/standards/wfs)), edit ([WFS-T](http://www.opengeospatial.org/standards/wfs)), and even process ([WPS](http://www.opengeospatial.org/standards/wps)) geographical features. It also provides powerful web applications making use of these services (and eventually combining them). It interoperates perfectly with GIS softwares such as [QGIS](http://www.qgis.org/) and [ArcGIS](http://www.arcgis.com/).

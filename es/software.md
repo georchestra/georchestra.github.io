@@ -18,6 +18,20 @@ geOrchestra ofrece módulos independientes e interoperables para construir su pr
  * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
  * un [modulo para ver las estadísticas de uso de datos](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
+#### License
+
+All geOrchestra modules are available under the terms of the [GNU GPL v3](https://github.com/georchestra/georchestra/blob/master/LICENSE.txt) license, except:
+ * JASIG CAS - [Apache License, version 2.0](https://github.com/Jasig/cas/blob/master/LICENSE),
+ * GeoNetwork & GeoServer - [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html),
+ * GeoWebCache - [LGPL](http://www.gnu.org/licenses/lgpl.html).
+
+Our main libraries are using a mix of licenses, compatible with the [Open Source definition](http://opensource.org/osd):
+ * GeoTools - [LGPL](http://www.gnu.org/licenses/lgpl.html),
+ * OpenLayers & GeoExt - BSD-style,
+ * ExtJS - [GPL v3](https://github.com/probonogeek/extjs/blob/3.x/license.txt),
+ * proj4js - [MIT](https://github.com/proj4js/proj4js/blob/master/LICENSE.md),
+ * [wicked-good-xpath](https://code.google.com/p/wicked-good-xpath/) - [MIT](http://www.opensource.org/licenses/mit-license.php).
+
 #### Servicios web
 
 La plataforma geOrchestra brinda servicios web estándar, para descubrir ([CSW](http://www.opengeospatial.org/standards/cat)), vistas ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), simbolización ([SLD](http://www.opengeospatial.org/standards/sld)), consulta y descarga ([WFS](http://www.opengeospatial.org/standards/wfs)), edición ([WFS-T](http://www.opengeospatial.org/standards/wfs)), e incluso de proceso ([WPS](http://www.opengeospatial.org/standards/wps)) las características geográficas. También proporciona potentes aplicaciones web que hacen uso de estos servicios (y eventualmente, la combinación de ellos). Interopera perfectamente con programas SIG como [QGIS](http://www.qgis.org/) y [ArcGIS](http://www.arcgis.com/).

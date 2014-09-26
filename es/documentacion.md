@@ -5,7 +5,7 @@ title: Documentacion
 uid: documentation
 ---
 
-La documentación de la instalación y configuratión es ahora parte del repositorio de código fuente, en idioma Inglés. 
+La documentación de la instalación y configuratión es ahora parte del repositorio de [código fuente](https://github.com/georchestra/georchestra/), en idioma Inglés. 
 Puede acceder a ella desde el archivo [README](https://github.com/georchestra/georchestra/blob/master/README.md) en la raíz del proyecto.
  
 Los **manuales de referencia** de los módulos independientes subyacentes también son valiosas fuentes de información:

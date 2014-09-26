@@ -5,7 +5,7 @@ title: Documentation
 uid: documentation
 ---
 
-La documentation d'installation et de configuration est centralisée sur le dépôt du code source, en langue anglaise.
+La documentation d'installation et de configuration est centralisée sur le [dépôt du code source](https://github.com/georchestra/georchestra/), en langue anglaise.
 Vous pouvez y accéder depuis le fichier [README](https://github.com/georchestra/georchestra/blob/master/README.md) à la racine du projet.
 
 Par ailleurs, il est toujours utile de consulter les **documentations publiques** de référence des différents projets communautaires sous-jacents:
