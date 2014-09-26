@@ -21,11 +21,13 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
 #### License
 
 Les modules de geOrchestra sont tous disponibles selon les termes de la licence [GNU GPL v3](https://github.com/georchestra/georchestra/blob/master/LICENSE.txt), sauf :
+
  * JASIG CAS - [Apache License, version 2.0](https://github.com/Jasig/cas/blob/master/LICENSE),
  * GeoNetwork & GeoServer - [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html),
  * GeoWebCache - [LGPL](http://www.gnu.org/licenses/lgpl.html).
 
-Les librairies principales utilisent une variété de licenses compatibles avec la definition de l'[Open Source](http://opensource.org/osd):
+Les librairies principales utilisent une variété de licenses compatibles avec la definition de l'[Open Source](http://opensource.org/osd) :
+
  * GeoTools - [LGPL](http://www.gnu.org/licenses/lgpl.html),
  * OpenLayers & GeoExt - BSD-style,
  * ExtJS - [GPL v3](https://github.com/probonogeek/extjs/blob/3.x/license.txt),
