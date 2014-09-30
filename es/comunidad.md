@@ -33,7 +33,7 @@ Nivel SubNacional:
 
 Nivel Urbano:
 
- * [Rennes Agglomération](http://metropole.rennes.fr/) (Francia)
+ * [Rennes Métropole](http://metropole.rennes.fr/) (Francia)
  * [Asociación de Municipios Productivos del Norte](http://www.amupnor.com/ide) (Nicaragua)
  * [ViennAgglo](http://www.paysviennois.fr/) (Francia)
 

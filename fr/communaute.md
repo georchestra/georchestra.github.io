@@ -34,7 +34,7 @@ Des régions :
  
 Des agglomérations:
 
- * [Rennes Agglomération](http://metropole.rennes.fr/) en France,
+ * [Rennes Métropole](http://metropole.rennes.fr/) en France,
  * [Asociación de Municipios Productivos del Norte](http://www.amupnor.com/ide) au Nicaragua,
  * [ViennAgglo](http://www.paysviennois.fr/) en France. 
 

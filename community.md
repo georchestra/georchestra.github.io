@@ -34,7 +34,7 @@ Subnational level:
 
 Urban area level:
 
- * [Rennes Agglomération](http://metropole.rennes.fr/) (France)
+ * [Rennes Métropole](http://metropole.rennes.fr/) (France)
  * [Asociación de Municipios Productivos del Norte](http://www.amupnor.com/ide) (Nicaragua)
  * [ViennAgglo](http://www.paysviennois.fr/) (France)
 
