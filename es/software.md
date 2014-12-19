@@ -31,8 +31,7 @@ Our main libraries are using a mix of licenses, compatible with the [Open Source
  * GeoTools - [LGPL](http://www.gnu.org/licenses/lgpl.html),
  * OpenLayers & GeoExt - BSD-style,
  * ExtJS - [GPL v3](https://github.com/probonogeek/extjs/blob/3.x/license.txt),
- * proj4js - [MIT](https://github.com/proj4js/proj4js/blob/master/LICENSE.md),
- * [wicked-good-xpath](https://code.google.com/p/wicked-good-xpath/) - [MIT](http://www.opensource.org/licenses/mit-license.php).
+ * proj4js - [MIT](https://github.com/proj4js/proj4js/blob/master/LICENSE.md).
 
 #### Servicios web
 
