@@ -47,7 +47,7 @@ Version       | Docs                                                            
 14.12         |                                                                                               | 2015-01-xx    | 2016-01
 14.06         | [Blog](/blog/2014/07/10/version-14.06-es/)                                                    | 2014-07-10    | 2015-07
 14.01         | [Blog](/blog/2014/02/03/release-14.01/)                                                       | 2014-01-30    | 2015-01
-13.09         | [Blog](/blog/2013/10/02/georchestra-13.09/)                                                   | 2013-10-02    | 2014-10
+13.09         | [Blog](/blog/2013/10/02/georchestra-13.09/)                                                   | 2013-10-02    | **2014-10**
 13.06         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1306) | 2013-06-27    | **2014-06**
 13.02         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1302) | 2013-03-25    | **2014-03**
 12.11         | [Blog](/blog/2012/12/16/georchestra-12.11-bolivia/)                                           | 2012-12-13    | **2013-12**
