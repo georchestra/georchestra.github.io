@@ -9,8 +9,8 @@ Au coeur de geOrchestra se trouve un proxy de sécurité basé sur [Spring Secur
 
 geOrchestra propose en standard une suite de modules, indépendants et interopérables, avec lesquels on compose son Infrastructure de Données Spatiales "à la carte" :
 
- * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/blob/georchestra-14.06/README.md), basé sur [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
- * un serveur cartographique : [GeoServer](http://geoserver.org/) version 2.3.2,
+ * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/blob/georchestra-14.12/README.md), basé sur [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
+ * un serveur cartographique : [GeoServer](http://geoserver.org/) version 2.5.4,
  * un [module de gestion avancée des droits d'accès aux données](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md) : [GeoFence](https://github.com/geosolutions-it/geofence),
  * un serveur de tuiles : [GeoWebCache](http://geowebcache.org/) version 1.5.1,
  * un [visualiseur de données géographiques avancé](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) qui remplit également la fonction d'éditeur d'objets géographiques,
@@ -44,6 +44,7 @@ Sauf exceptions, nous publions une nouvelle [version](https://github.com/georche
 
 Version       | Docs                                                                                          | Sortie        | Fin de vie
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+14.12         |                                                                                               | 2015-01-xx    | 2016-01
 14.06         | [Blog](/blog/2014/07/10/version-14.06/)                                                       | 2014-07-10    | 2015-07
 14.01         | [Blog](/blog/2014/02/03/version-14.01/)                                                       | 2014-01-30    | 2015-01
 13.09         | [Blog](/blog/2013/10/02/georchestra-version-13.09/)                                           | 2013-10-02    | 2014-10

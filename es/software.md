@@ -9,8 +9,8 @@ El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Sec
 
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
   
- * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-14.06/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 2.10,
- * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.3.2,
+ * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-14.12/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 2.10,
+ * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.5.4,
  * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geosolutions-it/geofence),
  * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.5.1,
  * un [visor de mapas web](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) con consultas, estilos y funciones de edición,
@@ -44,6 +44,7 @@ Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un ap
 
 Version       | Docs                                                                                          | Released      | End of life 
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+14.12         |                                                                                               | 2015-01-xx    | 2016-01
 14.06         | [Blog](/blog/2014/07/10/version-14.06-es/)                                                    | 2014-07-10    | 2015-07
 14.01         | [Blog](/blog/2014/02/03/release-14.01/)                                                       | 2014-01-30    | 2015-01
 13.09         | [Blog](/blog/2013/10/02/georchestra-13.09/)                                                   | 2013-10-02    | 2014-10
