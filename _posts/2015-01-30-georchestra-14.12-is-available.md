@@ -6,7 +6,7 @@ lang: en
 uid: 2015-01-30
 ---
 
-The PSC is pleased to announce the immediate release of *geOrchestra14.12*, 6th version we're producing version notes. We're keeping the pace of a new version every 6 months (within few days) thanks to our developers' tenacity and support from customer SDIs.
+The PSC is pleased to announce the immediate release of *geOrchestra 14.12*, 6th version we're producing version notes. We're keeping the pace of a new version every 6 months (within few days) thanks to our developers' tenacity and support from customer SDIs.
 
 This version seeks to be more intuitive for end-users and easier to integrate for administrators - an outcome of numerous reports and suggestions logged into the [bugtracker](https://github.com/georchestra/georchestra/issues) (600 tickets since October 2012).
 
