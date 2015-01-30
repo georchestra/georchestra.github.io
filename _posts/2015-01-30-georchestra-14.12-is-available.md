@@ -84,15 +84,15 @@ Moreover, the project now proposes configuration examples as the [htdocs](https:
 
 The deployment of a geOrchestra SDI can now be done in 4 different ways (!) :
 
- * pour du développement ou pour un besoin de démonstration ponctuel, il est possible d'utiliser des **containers Docker**, créés à partir des recettes proposées dans le dépôt [georchestra/docker](https://github.com/georchestra/docker).
- * pour un déploiement rapide de tous les composants de l'IDS, y compris geofence, il est désormais possible d'utiliser le [playbook ansible](https://github.com/landryb/georchestra-ansible) contribué par Landry Breuil, du [CRAIG](http://craig.fr/).
- * pour une mise en place du middleware nécessaire à l'IDS (apache, tomcat, postgresql, openldap), il existe depuis peu un autre [playbook ansible](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master) contribué par Daniel Quisbert de [GeoBolivia](http://geo.gob.bo/) et Juan Coronel, Daniel Jimenez de l'[ADSIB](http://www.adsib.gob.bo/).
- * comme toujours, en construisant les WARs du projet sur un profil personnalisé et en les déployant sur une infrastructure dédiée, en suivant la [documentation actualisée](https://github.com/georchestra/georchestra/blob/master/README.md). L'architecture proposée par défaut repose sur plusieurs instances tomcat et permet la **montée en charge** de l'IDS.
+ * For development needs or temporary demo **Docker containers** can be used, generated from recipes available in-store [georchestra/docker](https://github.com/georchestra/docker).
+ * For a quick deployment of all of the SDI's components (including GeoFence), the [ansible playbook ansible](https://github.com/landryb/georchestra-ansible) can now be used, a trontribution by Landry Breuil from [CRAIG](http://craig.fr/).
+ * To set up the middleware the SDI relies on (apache, tomcat, postgresql, openldap), there is an other (recent) [ansible playbook](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master), contributed by Daniel Quisbert from [GeoBolivia](http://geo.gob.bo/), and Juan Coronel and Daniel Jimenez both from [ADSIB](http://www.adsib.gob.bo/).
+ * As usual, by building the project's WARs onto a bespoke profile, then deploying them on a dedicated infrastructure, as explained the [updated documentation](https://github.com/georchestra/georchestra/blob/master/README.md). The default architecture relies on several tomcat instances thus allowing the SDI's **scalability**.
 
 
-## Côté communauté
+## Community-side
 
-Le  développement est toujours aussi dynamique; [OpenHub](https://www.openhub.net/p/georchestra) relève 1250 commits et 12  contributeurs sur les 12 derniers mois (en baisse car l'automne 2013 a été particulièrement intense). 
+Development remains as dynamic; [OpenHub](https://www.openhub.net/p/georchestra) lists 1250 commits and 12  contributors during the last 12 months (with a decrease, however, as automn 2013 was especially intense). 
 
 La liste [georchestra-dev](https://groups.google.com/forum/#!forum/georchestra-dev) est principalement fréquentée par les francophones avec quelques discussions en anglais.
 N'hésitez pas à poster dans votre langue !
