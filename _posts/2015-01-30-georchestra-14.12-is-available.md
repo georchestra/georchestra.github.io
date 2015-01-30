@@ -49,40 +49,40 @@ A new add-on activates **Google Streetview** to display a terrain view or visual
 
 <img src="http://geobretagne.fr/pub/geOrchestra_screenshot/outil_streetview.jpg" alt="" />
 
-Il faut également noter la nouvelle possibilité de **placer le composant généré par un addon (bouton, onglet, champ de formulaire ...) où on le souhaite dans l'interface**.
+Also worth noting is the ability to **place add-on-generated components (button, tab, form field ...) wherever pleased**.
 
-Côté téléchargement, les rasters sont maintenant extraits dans leur **résolution native** pour peu que leur fiche de métadonnée mentionne cette valeur. 
-Les courriels de notification ont également été améliorés.
+On the download side, rasters are now extracted with **native resolution** when the metadata documents this value.
+Notification e-mails were improved, too.
 
-Pour finir, les **traductions espagnoles, françaises, allemandes** sont maintenues à jour grâce à nos branches internationales :)
-
-
-## Côté moteur
-
-GeoServer passe en version **2.5.4** (décembre 2014) avec le support optionnel de GeoFence.
-
-Parmi les notes de version cumulées entre GeoServer 2.3.2 et 2.5.4, on notera principalement:
-
- * la possibilité de configurer le délai de rétention en cache client des tuiles du GeoWebCache intégré (GEOS-4760)
- * un meilleur référencement des couches OGC dans le service CSW optionel (GEOS-6012)
- * des performances améliorées sur les couches vectorielles servies par PostGIS (GEOS-5027)
- * une prise en compte des liens vers les fiches de métadonnées dans les capabilities WFS (GEOS-3387)
- * une meilleure compatibilité avec WMS 1.3.0 du GeoWebCache intégré (GEOS-5685)
- * et bien d'autres encore ...
-
-Enfin, la sécurité du système a été renforcée au niveau des proxies OGC.
+Finally, **spanish, french, and german, translations** are now kept up-to-date thanks to our international branches :)
 
 
-## Côté admin
+## Engine-side
 
-La stabilité des builds a été améliorée, à travers la mise en place d'un [dépôt maven dédié au projet](http://sdi.georchestra.org/maven/repository/), et avec la détection des erreurs de build javascript.
+GeoServer moves to version **2.5.4** (December 2014) with an optional GeoFence support.
 
-De plus, le projet propose désormais des exemples de configuration comme le répertoire [htdocs](https://github.com/georchestra/htdocs), ainsi que des répertoires minimaux de configuration pour [GeoServer](https://github.com/georchestra/geoserver_minimal_datadir) et [GeoNetwork](https://github.com/georchestra/geonetwork_minimal_datadir).
+Amongst the version notes cumulated from GeoServer 2.3.2 to 2.5.4, can we list:
+
+ * Configurable time for the retention of the integrated GeoWebCache tiles in the client's cache (GEOS-4760)
+ * a better referencing of OGC layers in the optional CSW service (GEOS-6012)
+ * improved performances on PosGIS-served vector layers (GEOS-5027)
+ * WFS capabilities take links to metadata sheets into account (GEOS-3387)
+ * better compatibility of the integrated GeoWebCache with WMS 1.3.0 (GEOS-5685)
+ * and a lot more ...
+
+Also, system security was tightened especially at the OGC proxies level.
 
 
-## Côté système
+## Admin-side
 
-Le déploiement d'une IDS geOrchestra peut désormais se faire selon 4 modalités (!) :
+Build stability was improved through a new [project-dedicated maven store](http://sdi.georchestra.org/maven/repository/) and javascript build-error detection.
+
+Moreover, the project now proposes configuration examples as the [htdocs](https://github.com/georchestra/htdocs) directory, and minimal configuration directories for [GeoServer](https://github.com/georchestra/geoserver_minimal_datadir) and [GeoNetwork](https://github.com/georchestra/geonetwork_minimal_datadir).
+
+
+## System-side
+
+The deployment of a geOrchestra SDI can now be done in 4 different ways (!) :
 
  * pour du développement ou pour un besoin de démonstration ponctuel, il est possible d'utiliser des **containers Docker**, créés à partir des recettes proposées dans le dépôt [georchestra/docker](https://github.com/georchestra/docker).
  * pour un déploiement rapide de tous les composants de l'IDS, y compris geofence, il est désormais possible d'utiliser le [playbook ansible](https://github.com/landryb/georchestra-ansible) contribué par Landry Breuil, du [CRAIG](http://craig.fr/).
