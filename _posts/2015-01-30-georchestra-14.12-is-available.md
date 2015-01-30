@@ -6,7 +6,7 @@ lang: en
 uid: 2015-01-30
 ---
 
-The PSC is pleased to announce the immediate release of *geOrchestra 14.12*, 6th version we're producing version notes. We're keeping the pace of a new version every 6 months (within few days) thanks to our developers' tenacity and support from customer SDIs.
+The PSC is pleased to announce the immediate release of **geOrchestra 14.12**, 6th version since we're producing release notes. We're keeping the pace of a new version every 6 months (within few days) thanks to our developers' tenacity and support from customer SDIs.
 
 This version seeks to be more intuitive for end-users and easier to integrate for administrators - an outcome of numerous reports and suggestions logged into the [bugtracker](https://github.com/georchestra/georchestra/issues) (600 tickets since October 2012).
 
@@ -28,26 +28,26 @@ There is a new option in each layer's menu to display the layers' entry points a
 
 <img src="http://geobretagne.fr/pub/geOrchestra_screenshot/3-2_adresse_service_346.jpg" alt="layer information" />
 
-Full-text search of data series present in catalogues is now possible from the viewer, which**can exploit service metadata** to discover services which are not described in the data metadata, thus increasing geOrchestra's compatibility with third party SDIs.
+Full-text search of data series present in catalogues is now possible from the viewer, which **can exploit service metadata** to discover services which are not described in the data metadata, thus increasing geOrchestra's compatibility with third party SDIs.
 
 A map context can now be referenced in a metadata fron the catalogue. 
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vX67NfFrj4o" frameborder="0" allowfullscreen></iframe>
 
-**Contexts are better described** : title & summary are displayed on download, and key-words filtering also an option.
+**Contexts are better described**: title & summary are displayed on download, and key-words filtering also an option.
 Contexts get increasingly used to exchange maps between applications or SDIs (e.g. mobile viewer).
 
-Amongst advanced tools : a geometry from a layer can be used as a spatial filter on another layer. 
+Amongst advanced tools: a geometry from a layer can be used as a spatial filter on another layer. 
 One can for instance extract houses from a given area [screenshot].
 
-**Improved printing** : it now support rotation and PNG export (amongst others). 
-General layout was rethought to give the map more room.
+**Improved printing**: it now supports rotation and PNG export (amongst others). 
+The general layout was rethought to give the map more room.
 
 The viewer could already load specialised add-ons to provide extra functions.
 Some already use "profile along a line", "watershed delineation", "annotation"...  
 A new add-on activates **Google Streetview** to display a terrain view or visualise in StreetView.  
 
-<img src="http://geobretagne.fr/pub/geOrchestra_screenshot/outil_streetview.jpg" alt="" />
+<img src="http://geobretagne.fr/pub/geOrchestra_screenshot/outil_streetview.jpg" alt="streetview" />
 
 Also worth noting is the ability to **place add-on-generated components (button, tab, form field ...) wherever pleased**.
 
@@ -61,11 +61,11 @@ Finally, **spanish, french, and german, translations** are now kept up-to-date t
 
 GeoServer moves to version **2.5.4** (December 2014) with an optional GeoFence support.
 
-Amongst the version notes cumulated from GeoServer 2.3.2 to 2.5.4, can we list:
+Amongst the release notes cumulated from GeoServer 2.3.2 to 2.5.4, can we list:
 
  * Configurable time for the retention of the integrated GeoWebCache tiles in the client's cache (GEOS-4760)
  * a better referencing of OGC layers in the optional CSW service (GEOS-6012)
- * improved performances on PosGIS-served vector layers (GEOS-5027)
+ * improved performances on PostGIS-served vector layers (GEOS-5027)
  * WFS capabilities take links to metadata sheets into account (GEOS-3387)
  * better compatibility of the integrated GeoWebCache with WMS 1.3.0 (GEOS-5685)
  * and a lot more ...
@@ -75,7 +75,7 @@ Also, system security was tightened especially at the OGC proxies level.
 
 ## Admin-side
 
-Build stability was improved through a new [project-dedicated maven store](http://sdi.georchestra.org/maven/repository/) and javascript build-error detection.
+Build stability was improved through a new [project-dedicated maven repository](http://sdi.georchestra.org/maven/repository/) and javascript build-error detection.
 
 Moreover, the project now proposes configuration examples as the [htdocs](https://github.com/georchestra/htdocs) directory, and minimal configuration directories for [GeoServer](https://github.com/georchestra/geoserver_minimal_datadir) and [GeoNetwork](https://github.com/georchestra/geonetwork_minimal_datadir).
 
@@ -84,10 +84,10 @@ Moreover, the project now proposes configuration examples as the [htdocs](https:
 
 The deployment of a geOrchestra SDI can now be done in 4 different ways (!) :
 
- * For development needs or temporary demo **Docker containers** can be used, generated from recipes available in-store [georchestra/docker](https://github.com/georchestra/docker).
+ * For development needs or temporary demo, **Docker containers** can be used, generated from recipes available in-store [georchestra/docker](https://github.com/georchestra/docker).
  * For a quick deployment of all of the SDI's components (including GeoFence), the [ansible playbook ansible](https://github.com/landryb/georchestra-ansible) can now be used, a contribution by Landry Breuil from [CRAIG](http://craig.fr/).
  * To set up the middleware the SDI relies on (apache, tomcat, postgresql, openldap), there is an other (recent) [ansible playbook](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master), contributed by Daniel Quisbert from [GeoBolivia](http://geo.gob.bo/), and Juan Coronel and Daniel Jimenez both from [ADSIB](http://www.adsib.gob.bo/).
- * As usual, by building the project's WARs onto a bespoke profile, then deploying them on a dedicated infrastructure, as explained the [updated documentation](https://github.com/georchestra/georchestra/blob/master/README.md). The default architecture relies on several tomcat instances thus allowing the SDI's **scalability**.
+ * As usual, by building the project's WARs onto a bespoke profile, then deploying them on a dedicated infrastructure, as explained in the [updated documentation](https://github.com/georchestra/georchestra/blob/master/README.md). The default architecture relies on several tomcat instances, thus allowing the SDI's **scalability**.
 
 
 ## Community-side
