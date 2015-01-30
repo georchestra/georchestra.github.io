@@ -85,7 +85,7 @@ Moreover, the project now proposes configuration examples as the [htdocs](https:
 The deployment of a geOrchestra SDI can now be done in 4 different ways (!) :
 
  * For development needs or temporary demo **Docker containers** can be used, generated from recipes available in-store [georchestra/docker](https://github.com/georchestra/docker).
- * For a quick deployment of all of the SDI's components (including GeoFence), the [ansible playbook ansible](https://github.com/landryb/georchestra-ansible) can now be used, a trontribution by Landry Breuil from [CRAIG](http://craig.fr/).
+ * For a quick deployment of all of the SDI's components (including GeoFence), the [ansible playbook ansible](https://github.com/landryb/georchestra-ansible) can now be used, a contribution by Landry Breuil from [CRAIG](http://craig.fr/).
  * To set up the middleware the SDI relies on (apache, tomcat, postgresql, openldap), there is an other (recent) [ansible playbook](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master), contributed by Daniel Quisbert from [GeoBolivia](http://geo.gob.bo/), and Juan Coronel and Daniel Jimenez both from [ADSIB](http://www.adsib.gob.bo/).
  * As usual, by building the project's WARs onto a bespoke profile, then deploying them on a dedicated infrastructure, as explained the [updated documentation](https://github.com/georchestra/georchestra/blob/master/README.md). The default architecture relies on several tomcat instances thus allowing the SDI's **scalability**.
 
