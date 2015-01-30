@@ -92,21 +92,21 @@ The deployment of a geOrchestra SDI can now be done in 4 different ways (!) :
 
 ## Community-side
 
-Development remains as dynamic; [OpenHub](https://www.openhub.net/p/georchestra) lists 1250 commits and 12  contributors during the last 12 months (with a decrease, however, as automn 2013 was especially intense). 
+Development remains as dynamic as usual; [OpenHub](https://www.openhub.net/p/georchestra) lists 1250 commits and 12  contributors during the last 12 months (with a decrease, however, as automn 2013 was especially intense). 
 
-La liste [georchestra-dev](https://groups.google.com/forum/#!forum/georchestra-dev) est principalement fréquentée par les francophones avec quelques discussions en anglais.
-N'hésitez pas à poster dans votre langue !
+The [georchestra-dev](https://groups.google.com/forum/#!forum/georchestra-dev) list is currently mainly visited by french-speakers with infrequent discussions in english.
+Feel free to post in your language!
 
-Effet du très convivial geOcom 2014, les participants à la liste sont plus nombreux, et les questions de plus en plus pointues. 
-Le **geOcom 2015 aura lieu en Alsace** probablement en juin. Nous espérons vous y rencontrer !
+As an outcome of the most convivial geOcom 2014, list participants are more numerous and questions become increasingly sharp. 
+**geOcom 2015 will take place in Alsace** around June. We're looking forward to meeting you there!
 
 
-## Pour aller plus loin ...
+## Carrying on further...
 
-Consultez les [notes de version](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1412-stable-version) qui fournissent des informations détaillées pour la mise à jour. 
+Please consult the [version notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1412-stable-version): they contain detailed information about the current update. 
 
-Pensez également à visiter :
+Do also have a look at:
 
- * l'[intégration continue](https://sdi.georchestra.org/ci/),
- * le [bugtracker](https://github.com/georchestra/georchestra/issues),
- * le [tableau Kanban du projet](https://huboard.com/georchestra/georchestra).
+ * [continuous integration](https://sdi.georchestra.org/ci/),
+ * [bugtracker](https://github.com/georchestra/georchestra/issues),
+ * [the project's Kanban board](https://huboard.com/georchestra/georchestra).
