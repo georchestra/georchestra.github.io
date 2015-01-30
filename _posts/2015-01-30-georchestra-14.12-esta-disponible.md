@@ -6,108 +6,95 @@ lang: es
 uid: 2015-01-30
 ---
 
-Le PSC a le plaisir de vous annoncer la sortie immédiate de **geOrchestra 14.12**, 6ème version depuis qu'on fait des notes de version. 
-Le rythme d'une version tous les 6 mois est toujours maintenu à quelques jours près grâce à la ténacité des développeurs et au soutien permanent des plateformes utilisatrices.
+La PSC se complace en anunciar la inmediata disponibilidad de **geOrchestra 14,12**, sexto lanzamiento desde que hacemos notas de la versión.El ritmo de una versión cada 6 meses aún se mantiene gracias a la tenacidad de los desarrolladores y el apoyo continuo de las plataformas de usuarios.
 
-Cette version se veut à la fois plus simple pour les utilisateurs finaux et plus facile à intégrer pour les administrateurs - fruit des nombreux rapports et suggestions recensés sur le [bugtracker](https://github.com/georchestra/georchestra/issues) (600 tickets depuis octobre 2012).  
-Une [documentation d'installation](https://github.com/georchestra/georchestra/blob/master/README.md) complète et pas à pas accompagne désormais les primo-installants.
+Esta versión es a la vez más simple para los usuarios finales y más fácil para los administradores para integrar - el fruto de muchos informes y sugerencias que figuran en el [bugtracker](https://github.com/georchestra/georchestra/issues) (600 tickets después de octubre 2012).
+La [documentación de instalación](https://github.com/georchestra/georchestra/blob/master/README.md) completa paso a paso ahora acompañada con su pre-instalación.
 
 <!--more-->
 
 
-## Côté outils
+## Utilidades
 
-Désormais, une seule fenêtre présente tous les services OGC prédéfinis : **WMS**, **WFS**, **WMTS**.
+Ahora, una ventana muestra todos los servicios predefinidos OGC: **WMS**, **WFS**, **WMTS**.
 
 <img src="http://geobretagne.fr/pub/geOrchestra_screenshot/1-2_service_ogc_718.jpg" alt="layer finder" />
 
-Ces services sont configurés dans des fichiers externes, partageables entre instances, voire générés par des applicatifs tiers. 
-Un filtre bien pratique accélère la découverte des services.
+Estos servicios están configurados en archivos externos, compartida entre instancias o generados por aplicaciones de terceros. Un filtro práctico acelera la visualización de los servicios.
 
-Une nouvelle option dans le menu de chaque couche permet d'afficher à tout moment les points d'entrée d'une couche pour les copier/coller vers son SIG. 
+Una nueva opción en el menú de cada capa se muestra en todo momento los puntos de entrada de una capa para copiar/pegar en su SIG.
 
 <img src="http://geobretagne.fr/pub/geOrchestra_screenshot/3-2_adresse_service_346.jpg" alt="layer information" />
 
-Depuis le visualiseur, la recherche plein texte de séries de données dans les catalogues peut **exploiter les métadonnées de service** pour découvrir un service non décrit dans la métadonnée de donnée.
-geOrchestra augmente ainsi la compatibilité avec les IDS tierces.
+Para el visualizador, el texto completo de conjuntos de datos de búsqueda en catálogos pueden **explotar los servivios de metadatos** para mostrar un servicio no descrito en los metadatos. Así geOrchestra aumenta la compatibilidad con los IDS de terceros.
 
-Un contexte de carte peut être référencé dans une métadonnée du catalogue. 
+Un mapa de contexto puede hacer referencia a un catálogo de metadatos.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vX67NfFrj4o" frameborder="0" allowfullscreen></iframe>
 
-Les **contextes sont mieux décrits** : titre & résumé affichés au chargement, ainsi que possibilité de filtrage sur mots clés.
-Ces contextes sont de plus en plus utilisés pour envoyer des cartes entre plateformes ou entre outils (visualiseur mobile par exemple).
+Los **ajustes se describen mejor**: título y resumen aparecen en la capacidad de carga y el filtrado de palabras clave. Estos contextos se utilizan cada vez más para enviar paquetes entre plataformas o entre herramientas (visualizador móvil, por ejemplo).
 
-Dans les fonctions avancées : une géométrie extraite d'une première couche peut servir de filtre spatial sur une autre. 
-On peut donc par exemple extraire les maisons dans une zone donnée [screenshot].
+En las características avanzadas: una geometría extraída de una primera capa puede servir como un filtro espacial sobre otro. Uno puede, por ejemplo, extraer los hogares en un área determinada [screenshot].
 
-L'**impression est améliorée** : support de la rotation & export PNG notamment. 
-La mise en page a été revue afin de dégager plus de place pour la carte.
+La **impresión es mejorada**: soporte de rotación y exportación incluyendo PNG. El diseño ha sido revisado para liberar más espacio para la hoja.
 
-Pour rappel, le visualiseur peut charger des addons spécialisés de manière à étendre ses fonctionnalités de base.
-Certains utilisent déjà "calcul de profil en long", "génération de bassin versant", "annotation"...  
-Un nouvel addon active **Google Streetview** pour afficher une vue terrain et basculer vers StreetView.  
+En resumen, el visualizador puede cargar addons especializados con el fin de ampliar su funcionalidad básica. Algunos ya usan "cálculo del perfil longitudinal", "generación de las cuencas hidrográficas", "anotación" ... Un nuevo addon activa **Google Streetview** para mostrar una vista de campo y cambiar a Street View.
 
 <img src="http://geobretagne.fr/pub/geOrchestra_screenshot/outil_streetview.jpg" alt="" />
 
-Il faut également noter la nouvelle possibilité de **placer le composant généré par un addon (bouton, onglet, champ de formulaire ...) où on le souhaite dans l'interface**.
+También hay que destacar la nueva posibilidad de **colocar el componente que genera un addon (botón, tabulaciones, campo ...) donde más te guste en la interfaz**.
 
-Côté téléchargement, les rasters sont maintenant extraits dans leur **résolution native** pour peu que leur fiche de métadonnée mentionne cette valeur. 
-Les courriels de notification ont également été améliorés.
+Descargar, el raster ahora se extrae en su **resolución nativa** , siempre y cuando su hoja de metadatos mencione ese valor. Los correos electrónicos de notificación también se han mejorado.
 
-Pour finir, les **traductions espagnoles, françaises, allemandes** sont maintenues à jour grâce à nos branches internationales :)
-
-
-## Côté moteur
-
-GeoServer passe en version **2.5.4** (décembre 2014) avec le support optionnel de GeoFence.
-
-Parmi les notes de version cumulées entre GeoServer 2.3.2 et 2.5.4, on notera principalement:
-
- * la possibilité de configurer le délai de rétention en cache client des tuiles du GeoWebCache intégré (GEOS-4760)
- * un meilleur référencement des couches OGC dans le service CSW optionel (GEOS-6012)
- * des performances améliorées sur les couches vectorielles servies par PostGIS (GEOS-5027)
- * une prise en compte des liens vers les fiches de métadonnées dans les capabilities WFS (GEOS-3387)
- * une meilleure compatibilité avec WMS 1.3.0 du GeoWebCache intégré (GEOS-5685)
- * et bien d'autres encore ...
-
-Enfin, la sécurité du système a été renforcée au niveau des proxies OGC.
+Por último, las **traducciones español, francés, alemán** se mantienen hasta la fecha a través de nuestras filiales internacionales :)
 
 
-## Côté admin
+## Motor
 
-La stabilité des builds a été améliorée, à travers la mise en place d'un [dépôt maven dédié au projet](http://sdi.georchestra.org/maven/repository/), et avec la détection des erreurs de build javascript.
+GeoServer pasa a la versión **2.5.4** (diciembre de 2014) con la opción de geofence de apoyo.
 
-De plus, le projet propose désormais des exemples de configuration comme le répertoire [htdocs](https://github.com/georchestra/htdocs), ainsi que des répertoires minimaux de configuration pour [GeoServer](https://github.com/georchestra/geoserver_minimal_datadir) et [GeoNetwork](https://github.com/georchestra/geonetwork_minimal_datadir).
+Entre las notas de la versión acumuladas de GeoServer 2.3.2 y 2.5.4, principalmente observamos:
 
+ * la posibilidad de configurar el período de retención en la caché del cliente los tiles GeoWebCache integrado (GEOS-4760)
+ * mejor referenciación a las capas OGC CSW en los servicios CSW opcional (GEOS-6012)
+ * mejor rendimiento en las capas vectoriales atendidas por PostGIS (GEOS-5027)
+ * teniendo en cuenta los enlaces a las fichas de metadatos en las capacidades WFS (GEOS-3387)
+ * una mejor compatibilidad con el WMS 1.3.0 GeoWebCache integrado (GEOS-5685)
+ * y muchos más ...
 
-## Côté système
-
-Le déploiement d'une IDS geOrchestra peut désormais se faire selon 4 modalités (!) :
-
- * pour du développement ou pour un besoin de démonstration ponctuel, il est possible d'utiliser des **containers Docker**, créés à partir des recettes proposées dans le dépôt [georchestra/docker](https://github.com/georchestra/docker).
- * pour un déploiement rapide de tous les composants de l'IDS, y compris geofence, il est désormais possible d'utiliser le [playbook ansible](https://github.com/landryb/georchestra-ansible) contribué par Landry Breuil, du [CRAIG](http://craig.fr/).
- * pour une mise en place du middleware nécessaire à l'IDS (apache, tomcat, postgresql, openldap), il existe depuis peu un autre [playbook ansible](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master) contribué par Daniel Quisbert de [GeoBolivia](http://geo.gob.bo/) et Juan Coronel, Daniel Jimenez de l'[ADSIB](http://www.adsib.gob.bo/).
- * comme toujours, en construisant les WARs du projet sur un profil personnalisé et en les déployant sur une infrastructure dédiée, en suivant la [documentation actualisée](https://github.com/georchestra/georchestra/blob/master/README.md). L'architecture proposée par défaut repose sur plusieurs instances tomcat et permet la **montée en charge** de l'IDS.
-
-
-## Côté communauté
-
-Le  développement est toujours aussi dynamique; [OpenHub](https://www.openhub.net/p/georchestra) relève 1250 commits et 12  contributeurs sur les 12 derniers mois (en baisse car l'automne 2013 a été particulièrement intense). 
-
-La liste [georchestra-dev](https://groups.google.com/forum/#!forum/georchestra-dev) est principalement fréquentée par les francophones avec quelques discussions en anglais.
-N'hésitez pas à poster dans votre langue !
-
-Effet du très convivial geOcom 2014, les participants à la liste sont plus nombreux, et les questions de plus en plus pointues. 
-Le **geOcom 2015 aura lieu en Alsace** probablement en juin. Nous espérons vous y rencontrer !
+Por último, la seguridad del sistema se ha fortalecido en los proxies OGC.
 
 
-## Pour aller plus loin ...
+## Administración
 
-Consultez les [notes de version](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1412-stable-version) qui fournissent des informations détaillées pour la mise à jour. 
+La estabilidad en las contrucciones se ha mejorado a través de la introducción de un [repositorio maven dedicado al proyecto](http://sdi.georchestra.org/maven/repository/), y la detección de errores javascript en la construcción.
 
-Pensez également à visiter :
+Además, el proyecto ahora proporciona ejemplos de configuración para el directorio [htdocs](https://github.com/georchestra/htdocs) y directorios de configuración mínima para [GeoServer](https://github.com/georchestra/geoserver_minimal_datadir) y [GeoNetwork](https://github.com/georchestra/geonetwork_minimal_datadir) .
 
- * l'[intégration continue](https://sdi.georchestra.org/ci/),
- * le [bugtracker](https://github.com/georchestra/georchestra/issues),
- * le [tableau Kanban du projet](https://huboard.com/georchestra/georchestra).
+## Sistema
+
+El despliegue de una geOrchestra IDS ahora se puede hacer en 4 partes (!):
+
+ * para el desarrollo o para una necesidad de una sola vez para demostrar que es posible utilizar **contenedores Docker** , creados a partir de las recetas que se ofrecen en la presentación [geOrchestra/docker](https://github.com/georchestra/docker).
+ * para el despliegue rápido de todos los componentes de los IDS, incluyendo geofence, ahora es posible utilizar el [ansible playbook](https://github.com/landryb/georchestra-ansible) aportado por Landry Breuil, de [CRAIG](http://craig.fr/).
+ * para la implementación del middleware necesario para IDS (Apache, Tomcat, PostgreSQL, OpenLDAP), se hizo un poco más de [ansible playbook](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master) aportado por Daniel Quisbert de [GeoBolivia](http://geo.gob.bo/) y Juan Coronel, Daniel Jiménez de [ADSIB](http://www.adsib.gob.bo/).
+ * como siempre, por la construcción del WAR del proyecto en un perfil personalizado y desplegarlos en una infraestructura dedicada, a raíz de la [documentación actualizada](https://github.com/georchestra/georchestra/blob/master/README.md). La arquitectura propuesta se basa en varias instancias tomcat por defecto y **permite la escalabilidad** de IDS.
+
+## Comunidad
+
+El desarrollo es todavía fuerte; [OpenHub](https://www.openhub.net/p/georchestra) reporta 1250 commits y 12 contribuyentes durante los últimos 12 meses (hacia abajo desde la caída de 2013 fue particularmente intensa).
+
+La lista [georchestra-dev](https://groups.google.com/forum/#!forum/georchestra-dev) es frecuentado principalmente con discusiones en Inglés. No dudes en publicar en su idioma!
+
+Muy amable Efecto GeoCOM 2014, los participantes en la lista son más numerosas, y las preguntas más puntiaguda. El **geOcom 2015 se llevará a cabo en Alsace**, probablemente en junio. Esperamos contar con tu presencia!
+
+
+## Para ir más lejos ...
+
+Consulte las [notes de la version](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1412-stable-version) que ofrecen información detallada para la actualización.
+
+También recuerda visitar:
+
+ * [integración continua](https://sdi.georchestra.org/ci/),
+ * [bugtracker](https://github.com/georchestra/georchestra/issues),
+ * [proyecto Kanban](https://huboard.com/georchestra/georchestra).
