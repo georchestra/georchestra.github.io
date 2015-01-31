@@ -85,7 +85,7 @@ Moreover, the project now proposes configuration examples as the [htdocs](https:
 The deployment of a geOrchestra SDI can now be done in 4 different ways (!) :
 
  * For development needs or temporary demo, **Docker containers** can be used, generated from recipes available in-store [georchestra/docker](https://github.com/georchestra/docker).
- * For a quick deployment of all of the SDI's components (including GeoFence), the [ansible playbook ansible](https://github.com/landryb/georchestra-ansible) can now be used, a contribution by Landry Breuil from [CRAIG](http://craig.fr/).
+ * For a quick deployment of all of the SDI's components (including GeoFence), the [ansible playbook](https://github.com/landryb/georchestra-ansible) can now be used, a contribution by Landry Breuil from [CRAIG](http://craig.fr/).
  * To set up the middleware the SDI relies on (apache, tomcat, postgresql, openldap), there is an other (recent) [ansible playbook](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master), contributed by Daniel Quisbert from [GeoBolivia](http://geo.gob.bo/), and Juan Coronel and Daniel Jimenez both from [ADSIB](http://www.adsib.gob.bo/).
  * As usual, by building the project's WARs onto a bespoke profile, then deploying them on a dedicated infrastructure, as explained in the [updated documentation](https://github.com/georchestra/georchestra/blob/master/README.md). The default architecture relies on several tomcat instances, thus allowing the SDI's **scalability**.
 
@@ -103,10 +103,10 @@ As an outcome of the most convivial geOcom 2014, list participants are more nume
 
 ## Carrying on further...
 
-Please consult the [version notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1412-stable-version): they contain detailed information about the current update. 
+Please consult the [release notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1412-stable-version): they contain detailed information about the current update. 
 
-Do also have a look at:
+Do also have a look at our:
 
  * [continuous integration](https://sdi.georchestra.org/ci/),
  * [bugtracker](https://github.com/georchestra/georchestra/issues),
- * [the project's Kanban board](https://huboard.com/georchestra/georchestra).
+ * [project's Kanban board](https://huboard.com/georchestra/georchestra).
