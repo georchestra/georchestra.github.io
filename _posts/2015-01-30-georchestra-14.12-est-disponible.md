@@ -19,14 +19,14 @@ Une [documentation d'installation](https://github.com/georchestra/georchestra/bl
 
 Désormais, une seule fenêtre présente tous les services OGC prédéfinis : **WMS**, **WFS**, **WMTS**.
 
-<img src="http://geobretagne.fr/pub/geOrchestra_screenshot/1-2_service_ogc_718.jpg" alt="layer finder" />
+<img src="/public/posts/2015-01-31/about.jpg" alt="layer finder" />
 
 Ces services sont configurés dans des fichiers externes, partageables entre instances, voire générés par des applicatifs tiers. 
 Un filtre bien pratique accélère la découverte des services.
 
 Une nouvelle option dans le menu de chaque couche permet d'afficher à tout moment les points d'entrée d'une couche pour les copier/coller vers son SIG. 
 
-<img src="http://geobretagne.fr/pub/geOrchestra_screenshot/3-2_adresse_service_346.jpg" alt="layer information" />
+<img src="/public/posts/2015-01-31/layerfinder.jpg" alt="layer information" />
 
 Depuis le visualiseur, la recherche plein texte de séries de données dans les catalogues peut **exploiter les métadonnées de service** pour découvrir un service non décrit dans la métadonnée de donnée.
 geOrchestra augmente ainsi la compatibilité avec les IDS tierces.
@@ -48,7 +48,7 @@ Pour rappel, le visualiseur peut charger des addons spécialisés de manière à
 Certains utilisent déjà "calcul de profil en long", "génération de bassin versant", "annotation"...  
 Un nouvel addon active **Google Streetview** pour afficher une vue terrain et basculer vers StreetView.  
 
-<img src="http://geobretagne.fr/pub/geOrchestra_screenshot/outil_streetview.jpg" alt="" />
+<img src="/public/posts/2015-01-31/streetview.jpg" alt="streetview" />
 
 Il faut également noter la nouvelle possibilité de **placer le composant généré par un addon (bouton, onglet, champ de formulaire ...) où on le souhaite dans l'interface**.
 
