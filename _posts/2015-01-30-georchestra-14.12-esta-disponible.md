@@ -18,13 +18,13 @@ La [documentación de instalación](https://github.com/georchestra/georchestra/b
 
 Ahora, una ventana muestra todos los servicios predefinidos OGC: **WMS**, **WFS**, **WMTS**.
 
-<img src="/public/posts/2015-01-31/about.jpg" alt="layer finder" />
+<img src="/public/posts/2015-01-30/about.jpg" alt="layer finder" />
 
 Estos servicios están configurados en archivos externos, compartida entre instancias o generados por aplicaciones de terceros. Un filtro práctico acelera la visualización de los servicios.
 
 Una nueva opción en el menú de cada capa se muestra en todo momento los puntos de entrada de una capa para copiar/pegar en su SIG.
 
-<img src="/public/posts/2015-01-31/layerfinder.jpg" alt="layer information" />
+<img src="/public/posts/2015-01-30/layerfinder.jpg" alt="layer information" />
 
 Para el visualizador, el texto completo de conjuntos de datos de búsqueda en catálogos pueden **explotar los servivios de metadatos** para mostrar un servicio no descrito en los metadatos. Así geOrchestra aumenta la compatibilidad con los IDS de terceros.
 
@@ -40,7 +40,7 @@ La **impresión es mejorada**: soporte de rotación y exportación incluyendo PN
 
 En resumen, el visualizador puede cargar addons especializados con el fin de ampliar su funcionalidad básica. Algunos ya usan "cálculo del perfil longitudinal", "generación de las cuencas hidrográficas", "anotación" ... Un nuevo addon activa **Google Streetview** para mostrar una vista de campo y cambiar a Street View.
 
-<img src="/public/posts/2015-01-31/streetview.jpg" alt="streetview" />
+<img src="/public/posts/2015-01-30/streetview.jpg" alt="streetview" />
 
 También hay que destacar la nueva posibilidad de **colocar el componente que genera un addon (botón, tabulaciones, campo ...) donde más te guste en la interfaz**.
 
