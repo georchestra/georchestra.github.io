@@ -18,13 +18,13 @@ La [documentación de instalación](https://github.com/georchestra/georchestra/b
 
 Ahora, una ventana muestra todos los servicios predefinidos OGC: **WMS**, **WFS**, **WMTS**.
 
-<img src="/public/posts/2015-01-30/about.jpg" alt="layer finder" />
+<img src="/public/posts/2015-01-30/layerfinder.jpg" alt="layer finder" />
 
 Estos servicios están configurados en archivos externos, compartida entre instancias o generados por aplicaciones de terceros. Un filtro práctico acelera la visualización de los servicios.
 
 Una nueva opción en el menú de cada capa se muestra en todo momento los puntos de entrada de una capa para copiar/pegar en su SIG.
 
-<img src="/public/posts/2015-01-30/layerfinder.jpg" alt="layer information" />
+<img src="/public/posts/2015-01-30/about.jpg" alt="layer information" />
 
 Para el visualizador, el texto completo de conjuntos de datos de búsqueda en catálogos pueden **explotar los servivios de metadatos** para mostrar un servicio no descrito en los metadatos. Así geOrchestra aumenta la compatibilidad con los IDS de terceros.
 
