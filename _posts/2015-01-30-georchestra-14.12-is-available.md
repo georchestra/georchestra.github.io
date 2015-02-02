@@ -34,7 +34,7 @@ A map context can now be referenced in a metadata from the catalogue.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/vX67NfFrj4o" frameborder="0" allowfullscreen></iframe>
 
-**Contexts are better described**: title & summary are displayed on download, and key-word filtering is also an option.
+**Contexts are better described**: title and summary are displayed on download, and key-word filtering is also an option.
 Contexts get increasingly used to exchange maps between applications or SDIs (e.g. mobile viewer).
 
 Amongst advanced tools: a geometry from a layer can be used as a spatial filter on another layer. 
