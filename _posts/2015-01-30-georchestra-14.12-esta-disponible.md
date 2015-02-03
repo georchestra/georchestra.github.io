@@ -34,7 +34,7 @@ Un mapa de contexto puede hacer referencia a un catálogo de metadatos.
 
 Los **ajustes se describen mejor**: título y resumen aparecen en la capacidad de carga y el filtrado de palabras clave. Estos contextos se utilizan cada vez más para enviar paquetes entre plataformas o entre herramientas (visualizador móvil, por ejemplo).
 
-En las características avanzadas: una geometría extraída de una primera capa puede servir como un filtro espacial sobre otro. Uno puede, por ejemplo, extraer los hogares en un área determinada [screenshot].
+En las características avanzadas: una geometría extraída de una primera capa puede servir como un filtro espacial sobre otro. Uno puede, por ejemplo, extraer los hogares en un área determinada.
 
 La **impresión es mejorada**: soporte de rotación y exportación incluyendo PNG. El diseño ha sido revisado para liberar más espacio para la hoja.
 
