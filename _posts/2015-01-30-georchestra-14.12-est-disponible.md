@@ -39,7 +39,7 @@ Les **contextes sont mieux décrits** : titre & résumé affichés au chargement
 Ces contextes sont de plus en plus utilisés pour envoyer des cartes entre plateformes ou entre outils (visualiseur mobile par exemple).
 
 Dans les fonctions avancées : une géométrie extraite d'une première couche peut servir de filtre spatial sur une autre. 
-On peut donc par exemple extraire les maisons dans une zone donnée [screenshot].
+On peut donc par exemple extraire les maisons dans une zone donnée.
 
 L'**impression est améliorée** : support de la rotation & export PNG notamment. 
 La mise en page a été revue afin de dégager plus de place pour la carte.
