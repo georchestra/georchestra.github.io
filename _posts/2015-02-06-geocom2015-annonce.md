@@ -31,11 +31,7 @@ En 2014, le [CRAIG nous a réuni à Clermont Ferrand](http://www.craig.fr/reunio
 
 Nous sommes heureux de vous annoncer que la dynamique se poursuit en 2015. Le partenariat [CIGAL](http://www.cigalsace.org/) (Coopération pour l'Information Géographique en Alsace) a accepté (grand grand merci à eux) d'accueillir le GeoCom 2015 à Strasbourg, France. Les dates pressenties sont du 22 au 24 juin. L'événement est bien sûr gratuit et toutes les personnes intéressées par geOrchestra y sont chaleureusement invitées.
 
-Nous avons besoin de votre participation à la construction des sujets pour mieux cerner les attentes et influencer la feuille de route en conséquence. Nous vous remercions de remplir le sondage suivant :
-
-* [https://sdi.georchestra.org/limesurvey/index.php/446666/lang-fr](https://sdi.georchestra.org/limesurvey/index.php/446666/lang-fr) ( [en](https://sdi.georchestra.org/limesurvey/index.php/446666/lang-en),
-[es](https://sdi.georchestra.org/limesurvey/index.php/446666/lang-es)
-)
+Nous avons besoin de votre participation à la construction des sujets pour mieux cerner les attentes et influencer la feuille de route en conséquence. Nous vous remercions de remplir ce [sondage](https://sdi.georchestra.org/limesurvey/index.php/446666/lang-fr).
 
 A bientôt au GeoCom 2015.
 
