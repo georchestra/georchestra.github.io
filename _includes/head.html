@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width">
     <meta name="google-site-verification" content="b4iV0TLmFCWJMpKBRakyJUE6LzKRmgIUe1exnETF2sM" />
     <meta name="description" content="{{ page.excerpt | strip_html | strip_newlines }}">
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+    <meta property="og:type" content="{% if is_post == 'true' %}article{% else %}website{% endif %}" />
+    <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
+    <meta property="og:image" content="http://www.georchestra.org/public/logos/georchestra_logo.png" />
+    <meta property="og:image:width" content="520" />
+    <meta property="og:image:height" content="150" />
+    <meta property="og:image:type" content="image/png" />
     <link rel="icon" sizes="16x16 24x24 32x32 64x64" type="image/vnd.microsoft.icon" href="{{ "/favicon.ico?v=3" | prepend: site.baseurl | prepend: site.url}}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 {% if page_url_en and page.lang != 'en' %}

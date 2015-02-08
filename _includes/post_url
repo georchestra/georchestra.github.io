@@ -2,7 +2,11 @@
 {% assign page_url_en = nil %}
 {% assign page_url_fr = nil %}
 {% assign page_url_es = nil %}
+{% assign is_post = "false" %}
 {% for p in site.posts %}
+    {% if p.uid == page.uid %}
+        {% assign is_post = "true" %}
+    {% endif %}
     {% if p.uid == page.uid and p.lang == "en" %}
         {% assign page_url_en = p.url %}
     {% endif %}
