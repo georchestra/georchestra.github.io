@@ -2,7 +2,7 @@
 layout: default
 lang: en
 uid: index
-excerpt: geOrchestra is a free, modular, interoperable & secure Spatial Data Infrastructure
+excerpt: geOrchestra is a free, modular, interoperable & secure Spatial Data Infrastructure (SDI)
 ---
 
 geOrchestra is a **free**, **modular** and **interoperable** [Spatial Data Infrastructure](http://en.wikipedia.org/wiki/Spatial_Data_Infrastructure) software born in 2009 to meet the requirements of the [INSPIRE](http://fr.wikipedia.org/wiki/Infrastructure_for_Spatial_Information_in_the_European_Community) directive in Europe.
