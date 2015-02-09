@@ -71,5 +71,5 @@ Sinon, le projet dispose de deux **listes de discussions**, que vous pouvez rejo
  * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) est la liste généraliste sur geOrchestra,
  * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) est la liste consacrée aux développements et questions techniques autour de geOrchestra.
  
-Pour **contacter le PSC**, utilisez l'adresse psc@georchestra.org.<br /> 
+Pour **contacter le Project Steering Committee**, utilisez l'adresse psc@georchestra.org.<br /> 
 Aucun support ne sera fourni à cette adresse.

@@ -65,5 +65,5 @@ El Proyecto cuenta con dos **listas de correos**, al que puede unirse libremente
  * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) es la lista de propósito general sobre geOrchestra,
  * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) es la lista mas técnica y orientado al desarrollo
 
-Usar psc@georchestra.org para llegar al PSC.<br />
+Usar psc@georchestra.org para llegar al Project Steering Committee.<br />
 No se prestará apoyo en esta dirección.

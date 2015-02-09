@@ -66,6 +66,6 @@ The project runs two **mailing lists**, which you can freely join to ask for hel
  * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) is the general purpose list about geOrchestra,
  * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the more tech and dev-oriented list
 
-Use psc@georchestra.org to reach the PSC.<br />
+Use psc@georchestra.org to reach the Project Steering Committee.<br />
 No support will be provided at this address.
 
