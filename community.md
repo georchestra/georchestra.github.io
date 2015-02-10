@@ -37,14 +37,18 @@ Urban area level:
  * [Rennes Métropole](http://metropole.rennes.fr/) (France)
  * [Asociación de Municipios Productivos del Norte](http://www.amupnor.com/ide) (Nicaragua)
  * [ViennAgglo](http://www.paysviennois.fr/) (France)
+ * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) (France)
 
 Research and education:
 
- * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
- * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, Montpellier) 
+ * [INRA](http://www.inra.fr/) at different places in France (Nancy, Rennes, Montpellier)
+   * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
+   * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, Montpellier)
+   * [UMR EEF](https://www6.nancy.inra.fr/eef/) (INRA - Université de Lorraine)
+ * [UMR Théma](http://thema.univ-fcomte.fr/) (Besançon)
+ * [UMS BBEES](http://bbees.mnhn.fr/) at the French "Musée National d'Histoire Naturelle", Paris
+ * [UMR Sisyphe](http://www.sisyphe.upmc.fr/) at "Université Pierre et Marie Curie", Paris.
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
- * [INRA](http://www.inra.fr/)
- * Université Pierre et Marie Curie
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !
 
