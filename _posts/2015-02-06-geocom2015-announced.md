@@ -18,7 +18,7 @@ Project [GeoBolivia](http://geo.gob.bo/) who invited the PSC in 2012 made us awa
 
 <img src="/public/posts/2015-02-06/equipogeobolivia-48779.jpg" width="320" alt="bolivia2012" />
 
-Then followed the first GeoCom (2013) in Rennes, France, hosted by Agrocampus Ouest](http://geowww.agrocampus-ouest.fr/). Exposing together state, regional, council, and research, SDIs genuinely fuelled our reflections, from which stemmed the implementation of professional add-ons and a dedication to share different tools for different audiences.
+Then followed the first GeoCom (2013) in Rennes, France, hosted by [Agrocampus Ouest](http://geowww.agrocampus-ouest.fr/). Exposing together state, regional, council, and research, SDIs genuinely fuelled our reflections, from which stemmed the implementation of professional add-ons and a dedication to share different tools for different audiences.
 
 <img src="/public/AGROCAMPUS.jpg" alt="" width="320" alt="agrocampus ouest 2013" />
 
