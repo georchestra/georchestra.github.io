@@ -22,7 +22,7 @@ Las contribuciones pueden ser de diferentes formas:
 Nivel Estatal:
 
 * Estado Plurinacional de Bolivia con [GeoBolivia](http://geo.gob.bo/)
-* Ademas, varias instancias nacionales e internacionales basadas en La Paz se encuentran en fase de testeo de geOrchestra para sus IDE internas. Ver [mapa de instituciones] (http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747)
+* Ademas, varias instancias nacionales e internacionales basadas en La Paz se encuentran en fase de testeo de geOrchestra para sus IDE internas. Ver [mapa de instituciones](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747)
 
 
 Nivel SubNacional:
