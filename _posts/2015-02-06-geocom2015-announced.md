@@ -29,7 +29,7 @@ In 2014, [CRAIG brought us together](http://www.craig.fr/reunions/1229-georchest
 
 ## Heading to Alsace
 
-We happily announce the same dynamic for 2015. The [CIGAL](http://www.cigalsace.org/) (Cooperation Geographic Information in Alsace) partnership have agreed (many thanks to them!) to host GeoCom 2015 in Strasbourg, France. The proposed dates are 22-24 june. The event is obvioudly free and everyone interested in geOrchestra are warmly invited.
+We happily announce the same dynamic for 2015. The [CIGAL](http://www.cigalsace.org/) (Cooperation Geographic Information in Alsace) partnership have agreed (many thanks to them!) to host GeoCom 2015 in Strasbourg, France. The proposed dates are 22-24 june. The event is obviously free and everyone interested in geOrchestra are warmly invited.
 
 We need you to take your part in topic build-up to better target on expectations and consequently influence the roadmap. Thank you in advance for filling-in the [following poll](https://sdi.georchestra.org/limesurvey/index.php/446666/lang-en).
 
