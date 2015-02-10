@@ -34,4 +34,3 @@ Nous sommes heureux de vous annoncer que la dynamique se poursuit en 2015. Le pa
 Nous avons besoin de votre participation à la construction des sujets pour mieux cerner les attentes et influencer la feuille de route en conséquence. Nous vous remercions de remplir ce [sondage](https://sdi.georchestra.org/limesurvey/index.php/446666/lang-fr).
 
 A bientôt au GeoCom 2015.
-
