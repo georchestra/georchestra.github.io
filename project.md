@@ -35,7 +35,7 @@ The steering committee features 8 members:
  * François Van Der Biest, developer, release manager,
  * Pierre Mauduit, developer, sysadmin,
  * Sylvain Lesage, SDI operator, developer,
- * Rod Béra, reseacher, teacher,
+ * Rod Béra, researcher, teacher,
  * Valérie Besand, data admin,
  * Landry Breuil, SDI operator, sysadmin.
 
