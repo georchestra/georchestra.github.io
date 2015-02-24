@@ -19,6 +19,7 @@ Con el código mucho mas accesible y por lo tanto mas fácil de contribuir. Los 
 
 Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas prácticas y elaborar un plan de trabajo.
 
+Este año, [reunirse con nosotros](/blog/2015/02/06/geocom2015-announced/) el 22-24 de junio en Strasbourg, Francia.
 
 Eventos anteriores:
 

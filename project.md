@@ -18,6 +18,8 @@ Initially hosted on a Brittany-hosted software repository, the source code final
 
 Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap. 
 
+This year, [meet us](/blog/2015/02/06/geocom2015-announced/) on June 22-24th in Strasbourg, France.
+
 Previous events took place:
 
  * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
