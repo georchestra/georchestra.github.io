@@ -64,11 +64,12 @@ The GitHub ecosystem allows wide contributions via the "Pull Request" principle.
 ## How to find help ?
 
 We are always pleased to give a hand on the [#georchestra](https://kiwiirc.com/client/irc.freenode.net/georchestra) channel (**freenode** IRC server).
+You can join us th
 
 The project runs two **mailing lists**, which you can freely join to ask for help:
 
- * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) is the general purpose list about geOrchestra,
- * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the more tech and dev-oriented list
+ * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) is the main mailing list for users and data admin as well,
+ * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the developpers and sysadmin mailing list
 
 Use psc@georchestra.org to reach the Project Steering Committee.<br />
 No support will be provided at this address.
