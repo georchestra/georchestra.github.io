@@ -6,7 +6,7 @@ lang: fr
 uid: 2012-06-12-a
 ---
 
-<img style="max-width: 800px; float: left; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" src="/public/octocat.png" width="79" height="79" />
+<img style="max-width: 800px; float: left; margin-top: 10px; margin-bottom: 10px; margin-right: 10px;" src="/public/octocat.png" width="79" height="79" alt="github octocat" />
 
 Le projet geOrchestra <a href="https://github.com/georchestra">teste actuellement GitHub</a> avec pour objectif d'en faire le futur dépôt de sources. Ce transfert est motivé par le haut niveau de service et la richesse fonctionnelle de GitHub, et par le protocole git qui facilite beaucoup les contributions. Attention, les développements sont toujours <a href="http://repository.georchestra.org/svn-georchestra/trunk/">effectués sur le dépôt subversion</a> et le code sur GitHub n'est encore qu'une copie.
 

@@ -9,7 +9,7 @@ uid: 2013-03-24
 <p>Le project steering committee geOrchestra est heureux de vous inviter au
 premier geOrchestra Community Meeting qui se tiendra les 29 et 30 mai à
 l'Agrocampus Ouest, centre de formation et de recherche de Rennes, France.</p>
-<p><img src="/public/AGROCAMPUS.jpg" alt="" width="320" /></p>
+<p><img src="/public/AGROCAMPUS.jpg" alt="agrocampus rennes" width="320" /></p>
 
 <!--more-->
 

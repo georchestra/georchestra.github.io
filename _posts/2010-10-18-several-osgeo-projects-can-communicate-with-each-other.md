@@ -16,7 +16,7 @@ n'apporte rien de très concret.</p>
 GeoNetwork, OpenLayers... dialoguant en bidirectionnel grâce aux normes OGC. La
 légende : <q>Several OSGeo projects can communicate with each other</q>,
 plusieurs projets OSGeo peuvent communiquer entre eux.</p>
-<p><a href="http://en.wikipedia.org/wiki/File:GeoServer_GeoNetwork_with_web_app.svg" hreflang="en"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/349px-GeoServer_GeoNetwork_with_web_app.svg.png" alt="" /></a> <em>This file is licensed under the Creative Commons
+<p><a href="http://en.wikipedia.org/wiki/File:GeoServer_GeoNetwork_with_web_app.svg" hreflang="en"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/349px-GeoServer_GeoNetwork_with_web_app.svg.png" alt="GeoServer GeoNetwork with webapp" /></a> <em>This file is licensed under the Creative Commons
 Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic
 license.</em></p>
 <p>Ce schéma résume parfaitement l'approche engagée par les IDS comme <a href="http://www.easysdi.org/" hreflang="fr">EasySDI</a> ou geOrchestra: l'essentiel
