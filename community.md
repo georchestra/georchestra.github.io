@@ -64,7 +64,6 @@ The GitHub ecosystem allows wide contributions via the "Pull Request" principle.
 ## How to find help ?
 
 We are always pleased to give a hand on the [#georchestra](https://kiwiirc.com/client/irc.freenode.net/georchestra) channel (**freenode** IRC server).
-You can join us th
 
 The project runs two **mailing lists**, which you can freely join to ask for help:
 
