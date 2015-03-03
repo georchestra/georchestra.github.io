@@ -15,7 +15,7 @@ notifications:
     on_success: change
     on_failure: change
     channels:
-      - irc.freenode.org#georchestra
+      - irc.freenode.net#georchestra
     template:
       - "%{repository}#%{build_number} (%{branch}) %{message} %{build_url}"
 env:
