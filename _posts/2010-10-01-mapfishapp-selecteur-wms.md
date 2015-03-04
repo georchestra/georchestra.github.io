@@ -25,6 +25,6 @@ La liste des serveurs provient d'un flux JSON ressemblant à ceci :</p>
 <p>Le fichier de conf javascript permet de modifier l'origine de ce flux avec le paramètre <code>GEOR.custom.WMS_LIST_URL</code>. </p>
 
 <p>
-Cette fonctionnalité est disponible à partir du <a href="http://csm-bretagne.fr/hudson/view/georchestra/job/mapfishapp-custom/17/" hreflang="en">build #17</a>.</p>
+Cette fonctionnalité est disponible à partir du build #17.</p>
 
 <p><a href="/public/screenshots/wms-selector.png"><img src="/public/screenshots/wms-selector.png" alt="sélecteur wms" title="sélecteur wms, oct. 2010" /></a></p>

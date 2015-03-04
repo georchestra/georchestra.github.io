@@ -6,13 +6,13 @@ lang: fr
 uid: 2011-09-01-20-13
 ---
 
-<p>Dans quelques jours, <a href="http://developer.yahoo.com/maps/" hreflang="en">l'API Yahoo sera fermée</a>. Yahoo recommande à ses utilisateurs de se
+<p>Dans quelques jours, l'API Yahoo sera fermée. Yahoo recommande à ses utilisateurs de se
 tourner vers <a href="http://api.maps.ovi.com/" hreflang="en">celle de
 Nokia</a>. Et dans un <a href="http://trac.osgeo.org/openlayers/ticket/3481" hreflang="en">ticket d'OpenLayers</a> on trouve :</p>
 <p><q>Finally, the GoogleNG layer violates the overall intent of the terms of
 service that to use the tiles, you've got to use the whole map interface. The
 whole point is that you can't use the tiles directly.</q>. Traduction:
-Finalement, la couche google viole l'esprit des <a href="http://code.google.com/intl/fr-FR/apis/maps/terms.html" hreflang="en">conditions d'utilisation</a> pour l'utilisation des tuiles, vous devez
+Finalement, la couche google viole l'esprit des conditions d'utilisation pour l'utilisation des tuiles, vous devez
 utiliser l'interface google
 maps complète. Le fait est que vous ne pouvez utiliser les tuiles
 directement.</p>
@@ -29,8 +29,8 @@ other than those provided in the Service, or through other explicitly
 authorized means Google may designate. For example, you must not access map
 tiles or imagery through interfaces or channels (including undocumented Google
 interfaces) other than the Maps API(s).</q></p>
-<p>Le <a href="http://csm-bretagne.fr/redmine/issues/1590" hreflang="fr">ticket
-1590</a> prévoit que geOrchestra utilise les fonds google ou autres car ce
+<p>Le ticket
+1590 prévoit que geOrchestra utilise les fonds google ou autres car ce
 besoin a été plusieurs fois exprimé : google couvre la terre entière, donc
 des périmètres d'étude bien éloignés de la zone INSPIRE... Mais ces
 évolutions|abandons|subtilités de licence posent question.</p>

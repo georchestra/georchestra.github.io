@@ -21,5 +21,5 @@ développé avec la solution libre geOrchestra.
 Il fait partie des <strong>25 projets retenus</strong> sur les 100 projets concourants et figure dans la catégorie <strong>&quot;Performance et outils collaboratifs&quot;</strong>.</p>
 
 <p><em>Liens sur le web :</em></p>
-<p><a href="http://www.interconnectes.com/fr/live2010/" hreflang="fr">http://www.interconnectes.com/fr/live2010/</a> (Atelier 18 : sig au coeur de l'organisation/)</p>
+<p>http://www.interconnectes.com/fr/live2010/ (Atelier 18 : sig au coeur de l'organisation/)</p>
 <p><a href="http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes">http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes</a></p>

@@ -44,7 +44,7 @@ Investigación y educación:
 
  * [INRA](http://www.inra.fr/) at different places in France (Nancy, Rennes, Montpellier)
    * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
-   * [UMR LISAH](http://www.umr-lisah.fr/) (INRA - IRD - Supagro, Montpellier)
+   * [UMR LISAH](https://www.umr-lisah.fr/) (INRA - IRD - Supagro, Montpellier)
    * [UMR EEF](https://www6.nancy.inra.fr/eef/) (INRA - Université de Lorraine)
  * [UMR Théma](http://thema.univ-fcomte.fr/) (Besançon)
  * [UMS BBEES](http://bbees.mnhn.fr/) "Musée National d'Histoire Naturelle", Paris
