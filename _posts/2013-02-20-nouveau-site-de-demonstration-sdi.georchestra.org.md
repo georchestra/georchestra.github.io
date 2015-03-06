@@ -9,7 +9,7 @@ uid: 2013-02-20
 <p>Nous avons un site dédié pour les démos !</p>
 <p><a href="http://sdi.georchestra.org/" hreflang="fr">http://sdi.georchestra.org/</a> publiera les modules selon un calendrier
 régulier afin de tester et évaluer les nouvelles fonctionnalités. Nous
-utilisons <a href="http://sdi.georchestra.org/ci/" hreflang="en">une
+utilisons <a href="https://sdi.georchestra.org/ci/" hreflang="en" data-proofer-ignore>une
 intégration continue avec Jenkins</a> pour maintenir un dépôt local des
 sources, maintain a local repository, pour construire et déployer les modules
 et pour programmer des tâches. Le serveur à 4 coeurs est géré par les membres
