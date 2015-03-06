@@ -87,7 +87,7 @@ Le déploiement d'une IDS geOrchestra peut désormais se faire selon 4 modalité
 
  * pour du développement ou pour un besoin de démonstration ponctuel, il est possible d'utiliser des **containers Docker**, créés à partir des recettes proposées dans le dépôt [georchestra/docker](https://github.com/georchestra/docker).
  * pour un déploiement rapide de tous les composants de l'IDS, y compris geofence, il est désormais possible d'utiliser le [playbook ansible](https://github.com/landryb/georchestra-ansible) contribué par Landry Breuil, du [CRAIG](http://craig.fr/).
- * pour une mise en place du middleware nécessaire à l'IDS (apache, tomcat, postgresql, openldap), il existe depuis peu un autre [playbook ansible](https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master) contribué par Daniel Quisbert de [GeoBolivia](http://geo.gob.bo/) et Juan Coronel, Daniel Jimenez de l'[ADSIB](http://www.adsib.gob.bo/).
+ * pour une mise en place du middleware nécessaire à l'IDS (apache, tomcat, postgresql, openldap), il existe depuis peu un autre <a href="https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master" data-proofer-ignore>playbook ansible</a> contribué par Daniel Quisbert de [GeoBolivia](http://geo.gob.bo/) et Juan Coronel, Daniel Jimenez de l'[ADSIB](http://www.adsib.gob.bo/).
  * comme toujours, en construisant les WARs du projet sur un profil personnalisé et en les déployant sur une infrastructure dédiée, en suivant la [documentation actualisée](https://github.com/georchestra/georchestra/blob/master/README.md). L'architecture proposée par défaut repose sur plusieurs instances tomcat et permet la **montée en charge** de l'IDS.
 
 
@@ -108,6 +108,6 @@ Consultez les [notes de version](https://github.com/georchestra/georchestra/blob
 
 Pensez également à visiter :
 
- * l'[intégration continue](https://sdi.georchestra.org/ci/),
+ * l'<a href="https://sdi.georchestra.org/ci/" data-proofer-ignore>intégration continue</a>,
  * le [bugtracker](https://github.com/georchestra/georchestra/issues),
  * le [tableau Kanban du projet](https://huboard.com/georchestra/georchestra).

@@ -34,6 +34,6 @@ french, spanish, english translations (kudos to the GeoBolivia Team), <img src="
 <li>incorrect zoom level on WMC restored,</li>
 <li>SLD restored with WMC,</li>
 </ul>
-<p>More details here: http://applis-bretagne.fr/redmine/versions/show/96 Feel free to
+<p>More details here: http://applis-bretagne.fr/redmine/versions/show/96 - Feel free to
 download, install and report problems on the georchestra@googlegroups.com list.
 Download link is <a href="https://github.com/georchestra/georchestra/archive/12.11.tar.gz" hreflang="en">https://github.com/georchestra/georchestra/archive/12.11.tar.gz</a></p>
