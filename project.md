@@ -28,7 +28,7 @@ Previous events took place:
 
 ## Steering committee
 
-The steering committee features 8 members:
+The steering committee features 9 members:
 
  * **Lydie Vinsonneau**, SDI operator, [Brittany region](http://www.bretagne.fr/)
  * **Fabrice Phung**, SDI operator, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)

@@ -30,7 +30,7 @@ Les éditions précédentes du "geOcom" se sont tenues :
 
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 8 membres :
+Le comité de pilotage est composé de 9 membres :
 
  * **Lydie Vinsonneau**, gestionnaire d'IDS, [Région Bretagne](http://www.bretagne.fr/)
  * **Fabrice Phung**, gestionnaire d'IDS, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)

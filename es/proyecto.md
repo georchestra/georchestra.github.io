@@ -28,7 +28,7 @@ Eventos anteriores:
 
 ## Comité Directivo
 
-El comité directivo cuenta con 8 miembros:
+El comité directivo cuenta con 9 miembros:
 
  * **Lydie Vinsonneau**, operador SDI, [Bretaña](http://www.bretagne.fr/)
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
