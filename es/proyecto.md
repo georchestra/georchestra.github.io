@@ -30,14 +30,15 @@ Eventos anteriores:
 
 El comité directivo cuenta con 8 miembros:
 
-  * Lydie Vinsonneau, operador SDI,
-  * Fabrice Phung, operador SDI,
-  * François Van Der Biest, desarrollador, director de versiones,
-  * Pierre Mauduit, desarrollador, administrador de sistemas,
-  * Sylvain Lesage, operador SDI, desarrollador,
-  * Rod Béra, investigador, capacitador,
-  * Valérie Besand, administrador de datos,
-  * Landry Breuil, operador SDI, administrador de sistemas.
+ * **Lydie Vinsonneau**, operador SDI, [Bretaña](http://www.bretagne.fr/)
+ * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **François Van Der Biest**, desarrollador & director de versiones, [Camptocamp](http://www.camptocamp.com/)
+ * **Pierre Mauduit**, desarrollador & administrador de sistemas, [Camptocamp](http://www.camptocamp.com/)
+ * **Sylvain Lesage**, operador SDI & desarrollador, [ADSIB](http://www.adsib.gob.bo/)
+ * **Rod Béra**, investigador & capacitador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * **Valérie Besand**, administrador de datos, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
+ * **Louca Lerch**, geógrafo [Estado Plurinacional de Bolivia](http://geo.gob.bo/).
 
 ## Valores
 

@@ -30,14 +30,16 @@ Previous events took place:
 
 The steering committee features 8 members:
 
- * Lydie Vinsonneau, SDI operator,
- * Fabrice Phung, SDI operator,
- * François Van Der Biest, developer, release manager,
- * Pierre Mauduit, developer, sysadmin,
- * Sylvain Lesage, SDI operator, developer,
- * Rod Béra, researcher, teacher,
- * Valérie Besand, data admin,
- * Landry Breuil, SDI operator, sysadmin.
+ * **Lydie Vinsonneau**, SDI operator, [Brittany region](http://www.bretagne.fr/)
+ * **Fabrice Phung**, SDI operator, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **François Van Der Biest**, developer & release manager, [Camptocamp](http://www.camptocamp.com/)
+ * **Pierre Mauduit**, developer & sysadmin, [Camptocamp](http://www.camptocamp.com/)
+ * **Sylvain Lesage**, SDI operator & developer, [ADSIB](http://www.adsib.gob.bo/)
+ * **Rod Béra**, researcher & teacher, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * **Valérie Besand**, data admin, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **Landry Breuil**, SDI operator & sysadmin, [CRAIG](http://craig.fr/),
+ * **Louca Lerch**, geographer, [Plurinational State of Bolivia](http://geo.gob.bo/).
+
 
 ## Values
 

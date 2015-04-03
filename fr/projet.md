@@ -32,14 +32,15 @@ Les éditions précédentes du "geOcom" se sont tenues :
 
 Le comité de pilotage est composé de 8 membres :
 
- * Lydie Vinsonneau, [Région Bretagne](http://www.bretagne.fr/)
- * Fabrice Phung, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
- * François Van Der Biest, [Camptocamp](http://www.camptocamp.com/)
- * Pierre Mauduit, [Camptocamp](http://www.camptocamp.com/)
- * Sylvain Lesage, [Etat Bolivien](http://geo.gob.bo/)
- * Rod Béra, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
- * Valérie Besand, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
- * Landry Breuil, [CRAIG](http://craig.fr/)
+ * **Lydie Vinsonneau**, gestionnaire d'IDS, [Région Bretagne](http://www.bretagne.fr/)
+ * **Fabrice Phung**, gestionnaire d'IDS, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
+ * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
+ * **Sylvain Lesage**, gestionnaire d'IDS & développeur, [ADSIB](http://www.adsib.gob.bo/)
+ * **Rod Béra**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * **Valérie Besand**, administratrice de données, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
+ * **Louca Lerch**, géographe, [État plurinational de Bolivie](http://geo.gob.bo/).
 
 ## Valeurs
 
