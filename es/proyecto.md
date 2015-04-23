@@ -38,7 +38,7 @@ El comité directivo cuenta con 9 miembros:
  * **Rod Béra**, investigador & capacitador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Valérie Besand**, administrador de datos, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, geógrafo [Estado Plurinacional de Bolivia](http://geo.gob.bo/).
+ * **Louca Lerch**, geógrafo [GeoBolivia](http://geo.gob.bo/) y [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
 
 ## Valores
 
