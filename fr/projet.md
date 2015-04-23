@@ -40,7 +40,7 @@ Le comité de pilotage est composé de 9 membres :
  * **Rod Béra**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Valérie Besand**, administratrice de données, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) y [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
+ * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
 
 ## Valeurs
 
