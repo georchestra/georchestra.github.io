@@ -38,7 +38,7 @@ The steering committee features 9 members:
  * **Rod Béra**, researcher & teacher, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Valérie Besand**, data admin, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, SDI operator & sysadmin, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, geographer, [GeoBolivia](http://geo.gob.bo/) and [Université de Genève] (https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
+ * **Louca Lerch**, geographer, [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
 
 
 ## Values
