@@ -6,14 +6,14 @@ lang: fr
 uid: 2015-06-16
 ---
 
-La semaine dernière s'est tenu notre premier codesprint organisé. Grâce à l'Agrocampus Ouest nous avons bénéficié d'un cadre exceptionnel apprécié de 
+La semaine dernière s'est tenu notre premier codesprint organisé. Grâce à l'Agrocampus Ouest, nous avons bénéficié d'un [cadre exceptionnel](https://twitter.com/fvanderbiest/status/609283098170294273) apprécié de 
 tous les participants. Développeurs et administrateurs de données ont travaillé ensemble pendant deux jours sur l'avenir de geOrchestra.
 Nos sujets de sprint : les rasters, l'accompagnement des utilisateurs, la supervision et le packaging des applications.
 
 <!--more-->
 
 
-## Les raster
+## Les rasters
 
 Par méconnaissance de son potentiel, la donnée raster est le parent pauvre des IDS. Le groupe a souhaité montrer qu'elle peut être exploitée grâce au profil SLD.
 Le stylage raster n'entraîne aucun ralentissement : pourquoi s'en priver !
