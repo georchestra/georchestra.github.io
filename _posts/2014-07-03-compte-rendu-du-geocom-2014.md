@@ -63,6 +63,7 @@ Le module optionnel GeoFence permet un contrôle extrêmement fin pouvant aller 
 Une méthode à effets (et coûts) croissants est exposée : supervision, limites de sécurité, optimisation http/images/styles/données, tuilage, navigateurs récents, scalabilité verticale/horizontale de l'hébergement. Pour la continuité de service, la répartition de charge GeoServer et la relance automatique donnent de très bons résultats et réduisent beaucoup la charge d'administration.
 
 Les lectures toujours indispensables :
+
 * GeoServer in production http://docs.geoserver.org/stable/en/user/production/index.html
 * GeoServer on steroid http://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/
 * GeoServer in production http://boundlessgeo.com/whitepaper/geoserver-production-2/
