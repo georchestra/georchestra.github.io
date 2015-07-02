@@ -13,9 +13,17 @@ L'événement était retransmis en direct sur YouTube, ce qui a permis à plusie
 La première demi-journée du lundi était dédiée aux présentations des plateformes, et à des rappels sur "l'écosystème geOrchestra". 
 Elle s'est conclue sur un état des lieux par rapport à la feuille de route post-GeoCom 2014.
 
-La journée de mardi a fait l'objet d'une série d'interventions autour de trois thématiques principales : valorisation des services, publication de données et maintenance des plateformes.
+La journée de mardi a fait l'objet d'une série d'interventions autour de trois thématiques principales : valorisation des services, publication de données et maintenance des plateformes. Certaines des présentations sont accessibles en ligne:
 
-Enfin, le mercredi a été consacré à l'élboration commune de la feuille de route, que nous retranscrivons ici.
+  * [Intégrer une application tierce dans geOrchestra] (http://slides.com/sebastienpelhate/geocom2015)
+  * [Des couches aux objets avec elasticsearch] (http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
+  * [Inspirobot, scoring des métadonnées] (http://slides.com/lecault/inspirobot#/)
+  * [Monitoring des services] (http://jeoffreyjardin.fr/presentations/slides-supervisefr.html#/)
+  * [Geonetwork 3] (https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
+  * [Formation georchestra] (http://slides.com/stlejer-morvrini/deck/fullscreen)
+  * [Le site georchestra.org] (https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)
+  * 
+Enfin, le mercredi a été consacré à l'élaboration commune de la feuille de route, que nous retranscrivons ici.
 
 
 ## Interopérabilité : s'ouvrir aux autres entrepôts
