@@ -23,9 +23,9 @@ Enfin, le mercredi a été consacré à l'élboration commune de la feuille de r
 La connexion avec les services géographiques de base (visualisation, accès aux données, recherche de métadonnées) est acquise. La communauté souhaite maintenant s'interfacer avec d'autres systèmes d'informations maniant des données localisables. Le support des normes TJS, SOS, WPS permettrait de réduire les ruptures entre les systèmes. 
 De même, la possibilité d'échanger des données avec le monde OpenStreetMap concilierait davantage les IDS avec les bases de données contributives. Pour que ces sources soient mixées, analysées, partagées par les utilisateurs, il faut que les contextes (ie configurations de carte) supportent ces normes.
 
- * consommation de données par Table Joining Service x3
- * interrogation de capteurs via Sensor Observation Service x2
- * support générique des Web Processing Services x2
+ * consommation de données par Table Joining Service
+ * interrogation de capteurs via Sensor Observation Service
+ * support générique des Web Processing Services
  * contextes de carte supportant WMTS et autres interfaces (OWSContext)
  * échanges de données avec OpenStreetMap
 
@@ -35,9 +35,9 @@ De même, la possibilité d'échanger des données avec le monde OpenStreetMap c
 
 Dans IDS il y a "I" pour Infrastructure. Une infrastructure est constituée de modules multiples qu'il faut surveiller en permanence. Il faut fournir aux administrateurs des tableaux de bord complets, autant sur l'utilisation (la charge, l'usage) que sur le système (ie les conséquences de la charge), voire sur la qualité (appréciation des utilisateurs, signalement d'erreurs, qualité des informations).
 
- * architecture de reporting x4
+ * architecture de reporting
  * configuration de l'ensemble des modules accessible à l'administrateur de données
- * simplification de l'administration geofence x3
+ * simplification de l'administration geofence
  * Single Sign On sur des fédérations d'identité (Shibboleth)
 
 
@@ -45,10 +45,10 @@ Dans IDS il y a "I" pour Infrastructure. Une infrastructure est constituée de m
 
 Les évolutions vont dans le sens d'un gain de temps pour toutes les populations : utilisateurs, administrateurs, producteurs. Faire plus simple, donc pouvoir déléguer davantage pour gagner du temps, tout en conservant le paramétrage fin et la personnalisation indispensables à la performance.
 
- * délégation du workflow de publication (geonetwork, geoserver, module indépendant, QGIS...) x3
- * fonction de recherche unifiée sur données, métadonnées, contenus littéraux x2
- * styliseur enrichi, nouvelles classifications, prise en charge des rasters x2
- * console d'administration, notamment des utilisateurs x2
+ * délégation du workflow de publication (geonetwork, geoserver, module indépendant, QGIS...)
+ * fonction de recherche unifiée sur données, métadonnées, contenus littéraux
+ * styliseur enrichi, nouvelles classifications, prise en charge des rasters
+ * console d'administration, notamment des utilisateurs
  * header compatible avec la réutilisation des modules sur des sites tiers
  * saisie et conversion de métadonnées dans un tableur (module Zaphir CIGAL)
  * visualisation directe des métadonnées dans les visualiseurs
@@ -59,7 +59,7 @@ Les évolutions vont dans le sens d'un gain de temps pour toutes les populations
 
 L'accompagnement aussi doit être "libre". Les contenus structurés en "grains" rejoignent une offre de formation/accompagnement commune (un MOOC). La communauté doit développer un réflexe de partage des savoir-faire, en échangeant en amont sur les intentions pour que toute opportunité soit exploitable, et en informant en aval sur les réalisations.
 
- * tronc commun de formations bâti à partir des contenus existants x2
+ * tronc commun de formations bâti à partir des contenus existants
  * veille technologique et preuves de concept par les plateformes
  * partage et capitalisation des bonnes pratiques
  * mise à disposition des applicatifs tiers sur github
