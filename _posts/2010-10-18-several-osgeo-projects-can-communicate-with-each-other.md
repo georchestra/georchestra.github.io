@@ -19,7 +19,7 @@ plusieurs projets OSGeo peuvent communiquer entre eux.</p>
 <p><a href="http://en.wikipedia.org/wiki/File:GeoServer_GeoNetwork_with_web_app.svg" hreflang="en"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/GeoServer_GeoNetwork_with_web_app.svg/349px-GeoServer_GeoNetwork_with_web_app.svg.png" alt="GeoServer GeoNetwork with webapp" /></a> <em>This file is licensed under the Creative Commons
 Attribution-Share Alike 3.0 Unported, 2.5 Generic, 2.0 Generic and 1.0 Generic
 license.</em></p>
-<p>Ce schéma résume parfaitement l'approche engagée par les IDS comme <a href="http://www.easysdi.org/" hreflang="fr">EasySDI</a> ou geOrchestra: l'essentiel
+<p>Ce schéma résume parfaitement l'approche engagée par les IDS comme <a href="http://www.easysdi.org/fr/" hreflang="fr">EasySDI</a> ou geOrchestra: l'essentiel
 est de contribuer aux briques fondamentales, de les valoriser et de
 démultiplier leurs possibilités en les intégrant entre elles sans les dévoyer.
 geOrchestra se positionne très favorablement sur ce schéma :</p>
