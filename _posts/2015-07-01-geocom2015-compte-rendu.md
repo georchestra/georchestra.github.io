@@ -10,6 +10,8 @@ Du 22 au 24 juin, la Maison de l'Alsace a hébergé le GeoCom 2015, qui s'est d�
 Une quarantaine de personnes, issues de la communauté des utilisateurs, administrateurs et développeurs, ont pu se retrouver pour partager les pratiques et élaborer la feuille de route de l'année à venir. 
 L'événement était retransmis en direct sur YouTube, ce qui a permis à plusieurs personnes distantes de suivre les échanges. 
 
+<!--more-->
+
 <a href="/public/geocom2015/20150623_153316.JPG" hreflang="fr"><img src="/public/geocom2015/20150623_153316_mini.JPG" alt="geocom2015" style="float:right; margin: 0 0 1em 1em;" title="geocom 2015, la communauté" /></a>
 
 La première demi-journée du lundi était dédiée aux présentations des plateformes, et à des rappels sur "l'écosystème geOrchestra". 
@@ -17,13 +19,13 @@ Elle s'est conclue sur un état des lieux par rapport à la feuille de route pos
 
 La journée de mardi a fait l'objet d'une série d'interventions autour de trois thématiques principales : valorisation des services, publication de données et maintenance des plateformes. Certaines des présentations sont accessibles en ligne:
 
-  * [Intégrer une application tierce dans geOrchestra] (http://slides.com/sebastienpelhate/geocom2015)
-  * [Des couches aux objets avec ElasticSearch] (http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
-  * [Inspirobot, le scoring des métadonnées] (http://slides.com/lecault/inspirobot#/)
-  * [Monitoring des services] (http://jeoffreyjardin.fr/presentations/slides-supervisefr.html#/)
-  * [Geonetwork 3] (https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
-  * [Formation geOrchestra] (http://slides.com/stlejer-morvrini/deck/fullscreen)
-  * [Le site georchestra.org] (https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)
+ * [Intégrer une application tierce dans geOrchestra] (http://slides.com/sebastienpelhate/geocom2015)
+ * [Des couches aux objets avec ElasticSearch] (http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
+ * [Inspirobot, le scoring des métadonnées] (http://slides.com/lecault/inspirobot#/)
+ * [Monitoring des services] (http://jeoffreyjardin.fr/presentations/slides-supervisefr.html#/)
+ * [Geonetwork 3] (https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
+ * [Formation geOrchestra] (http://slides.com/stlejer-morvrini/deck/fullscreen)
+ * [Le site georchestra.org] (https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)
 
 Enfin, le mercredi a été consacré à l'élaboration commune de la feuille de route, que nous retranscrivons ici.
 
