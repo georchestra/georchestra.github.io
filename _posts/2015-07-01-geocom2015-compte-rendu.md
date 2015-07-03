@@ -87,4 +87,8 @@ Faire en sorte que l'IDS sache répondre aux enjeux actuels, soit en direct (mod
 
 ## Clôture du GeoCom 2015 par Marie-Christine Schott, Responsable du service SIG au Conseil Régional d'Alsace
 
-On se réjouit de découvrir une communauté dynamique rassemblant toutes les facettes et les compétences du partage de données. Il est important de rester vigilant car la disponibilité et la performance des applicatifs sont déterminants dans l'adoption de ces nouvelles pratiques de travail. Il faut profiter de cette communauté pour rester à l'écoute et réactifs face à des réformes institutionnelles d'envergure, et pour mieux répondre aux enjeux actuels.
+"On se réjouit de découvrir une communauté dynamique rassemblant toutes les facettes et les compétences du partage de données. Il est important de rester vigilant car la disponibilité et la performance des applicatifs sont déterminants dans l'adoption de ces nouvelles pratiques de travail. Il faut profiter de cette communauté pour rester à l'écoute et réactifs face à des réformes institutionnelles d'envergure, et pour mieux répondre aux enjeux actuels."
+
+## Pour finir
+
+Nous souhaitons encore remercier la Région Alsace et la Maison de l'Alsace pour l'accueil de l'événement, et nous vous donnons rendez vous l'an prochain à Bordeaux ! 
