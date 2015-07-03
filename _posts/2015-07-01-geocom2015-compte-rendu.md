@@ -22,7 +22,7 @@ La journée de mardi a fait l'objet d'une série d'interventions autour de trois
   * [Geonetwork 3] (https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
   * [Formation georchestra] (http://slides.com/stlejer-morvrini/deck/fullscreen)
   * [Le site georchestra.org] (https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)
-  * 
+
 Enfin, le mercredi a été consacré à l'élaboration commune de la feuille de route, que nous retranscrivons ici.
 
 
