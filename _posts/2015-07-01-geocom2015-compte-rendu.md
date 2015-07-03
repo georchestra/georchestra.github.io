@@ -17,7 +17,7 @@ L'événement était retransmis en direct sur YouTube, ce qui a permis à plusie
 La première demi-journée du lundi était dédiée aux présentations des plateformes, et à des rappels sur "l'écosystème geOrchestra". 
 Elle s'est conclue sur un état des lieux par rapport à la feuille de route post-GeoCom 2014.
 
-La journée de mardi a fait l'objet d'une série d'interventions autour de trois thématiques principales : valorisation des services, publication de données et maintenance des plateformes. Certaines des présentations sont accessibles en ligne:
+La journée de mardi a fait l'objet d'une série d'interventions autour de trois thématiques principales : **valorisation des services**, **publication de données** et **maintenance des plateformes**. Certaines des présentations sont accessibles en ligne:
 
  * [Intégrer une application tierce dans geOrchestra](http://slides.com/sebastienpelhate/geocom2015)
  * [Des couches aux objets avec ElasticSearch](http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
