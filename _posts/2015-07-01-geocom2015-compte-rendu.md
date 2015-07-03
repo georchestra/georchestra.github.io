@@ -10,6 +10,8 @@ Du 22 au 24 juin, la Maison de l'Alsace a hébergé le GeoCom 2015, qui s'est d�
 Une quarantaine de personnes, issues de la communauté des utilisateurs, administrateurs et développeurs, ont pu se retrouver pour partager les pratiques et élaborer la feuille de route de l'année à venir. 
 L'événement était retransmis en direct sur YouTube, ce qui a permis à plusieurs personnes distantes de suivre les échanges. 
 
+<a href="/public/geocom2015/20150623_153316.JPG" hreflang="fr"><img src="/public/geocom2015/20150623_153316_mini.JPG" alt="geocom2015" style="float:right; margin: 0 0 1em 1em;" title="geocom 2015, la communauté" /></a>
+
 La première demi-journée du lundi était dédiée aux présentations des plateformes, et à des rappels sur "l'écosystème geOrchestra". 
 Elle s'est conclue sur un état des lieux par rapport à la feuille de route post-GeoCom 2014.
 
