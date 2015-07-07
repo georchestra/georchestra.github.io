@@ -19,7 +19,7 @@ abondantes, libres et prêtes à l'emploi pourrait voir le jour. Grâce à <a hr
 Bonfort et aux contributions de Pierre Mauduit, il est possible de fabriquer
 des rendus de haute qualité, exposés en WMS ou WFS, et dans les projections
 utilisées par les SIG.</p>
-<p><a href="http://code.google.com/p/mapserver-utils/">mapserver-utils</a> a
+<p><a href="https://github.com/mapserver/basemaps">mapserver-utils</a> a
 décortiqué la sémiologie des cartes OpenStreetMap pour en ensuite construire
 une suite de styles mapserver. <a href="http://blog.geoserver.org/2009/01/30/geoserver-and-openstreetmap/">Des
 initiatives similaires</a> existent dans le monde geoserver.</p>
