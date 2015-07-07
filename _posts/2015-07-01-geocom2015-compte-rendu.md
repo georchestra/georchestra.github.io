@@ -67,7 +67,7 @@ Les évolutions vont dans le sens d'un gain de temps pour toutes les populations
  * amélioration de l'ergonomie de consultation et d'administration du catalogue (GeoNetwork 3, cswReader et mdReader)
 
 
-## Accompagnemement : partager le savoir
+## Accompagnement : partager le savoir
 
 L'accompagnement aussi doit être "libre". Les contenus structurés en "grains" rejoignent une offre de formation/accompagnement commune (un MOOC). La communauté doit développer un réflexe de partage des savoir-faire, en échangeant en amont sur les intentions pour que toute opportunité soit exploitable, et en informant en aval sur les réalisations.
 
