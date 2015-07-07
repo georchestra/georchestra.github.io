@@ -15,7 +15,7 @@ exposées aux services OGC et IDS comme geOrchestra.</p>
 <!--more-->
 
 <p>Le souhait de livrer les composants geOrchestra accompagnés de données
-abondantes, libres et prêtes à l'emploi pourrait voir le jour. Grâce à <a href="http://code.google.com/p/mapserver-utils/">mapserver-utils</a> de Thomas
+abondantes, libres et prêtes à l'emploi pourrait voir le jour. Grâce à <a href="https://github.com/mapserver/basemaps">mapserver-utils</a> de Thomas
 Bonfort et aux contributions de Pierre Mauduit, il est possible de fabriquer
 des rendus de haute qualité, exposés en WMS ou WFS, et dans les projections
 utilisées par les SIG.</p>
