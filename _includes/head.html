@@ -13,7 +13,7 @@
     <meta property="og:image:height" content="150" />
     <meta property="og:image:type" content="image/png" />
     <link rel="icon" sizes="16x16 24x24 32x32 64x64" type="image/vnd.microsoft.icon" href="{{ "/favicon.ico?v=3" | prepend: site.baseurl | prepend: site.url}}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" data-proofer-ignore>
 {% if page_url_en and page.lang != 'en' %}
     <link rel="alternate" hreflang="en" href="{{ page_url_en | prepend: site.baseurl | prepend: site.url}}">
 {% endif %}
