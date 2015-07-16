@@ -9,6 +9,7 @@ uid: 2015-07-13
 L'équipe geOrchestra est heureuse d'annoncer la sortie de geOrchestra 15.06
 
 Cette version apporte plusieurs améliorations décisives :
+
  * Un support complet de la toute récente version 8 de Debian aka "Jessie", ce qui garantit une durée d'exploitation plus longue pour votre serveur.
  * Les artefacts standard GeoServer peuvent désormais être utilisés en substitution au "GeoServer geOrchestra". Cela permettra un apport plus rapide des nouvelles fonctionnalités, et votre admistrateur sera un peu plus zen si une vulnérabilité critique est découverte dans GeoServer.
  * Des tests d'intégration sont lancés [à chaque fois](https://github.com/georchestra/georchestra/blob/15.06/.travis.yml) que du nouveau code est contribué à geOrchestra, grâce au nouveau service fourni par [travis-ci](https://travis-ci.org/georchestra/georchestra).
@@ -20,6 +21,7 @@ Cette version apporte plusieurs améliorations décisives :
 
 
 Entre autres améliorations :
+
  * mapfishapp : iD est maintenant le choix premier pour éditer la couche de fond OSM - voir [#992](https://github.com/georchestra/georchestra/issues/992),
  
  <img src="/public/posts/2015-07-13/id.png" alt="osm editor iD" />
