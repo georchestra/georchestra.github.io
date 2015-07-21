@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Compte rendu du GeoCom 2015"
+title: "Actas de la GeoCom 2015"
 date: 2015-07-01 16:00:00
-lang: fr
+lang: es
 uid: 2015-07-01
 ---
 
