@@ -13,7 +13,7 @@ La Maison de l'Alsacia fue sede de la GeoCom en 2015 del 22 al 24 de junio, que 
 <a href="/public/geocom2015/20150623_153316.JPG" hreflang="fr"><img src="/public/geocom2015/20150623_153316_mini.JPG" alt="geocom2015" style="float:right; margin: 0 0 1em 1em;" title="geocom 2015, la communauté" /></a>
 
 La primera jornada del lunes se dedicó a las presentaciones de las plataformas, y recordatorios sobre  el “ecosistema geOrchestra". Concluyó con un estado de situación puesto en perspectiva con los decisiones registradas en la hoja de ruta definida en al anterior GeoCom en en 2014.  
-El día martes se realizaron una serie de intervenciones en torno a tres temas principales: **valorización de servicios*, **la publicación de los datos**mantenimiento de plataformas**. Algunas de las presentaciones están disponibles en línea (en francés):
+El día martes se realizaron una serie de intervenciones en torno a tres temas principales: **valorización de servicios**, **la publicación de los datos**, **mantenimiento de plataformas**. Algunas de las presentaciones están disponibles en línea (en francés):
 
  * [Integrar aplicaciones de terceros en geOrchestra](http://slides.com/sebastienpelhate/geocom2015)
  * [Capas a objetos con Elasticsearch](http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
