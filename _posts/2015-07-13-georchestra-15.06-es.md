@@ -6,9 +6,9 @@ lang: es
 uid: 2015-07-13
 ---
 
-El equipo geOrchestra se complace en anunciar el lanzamiento de geOrchestra 15.06
+The geOrchestra team is pleased to announce the release of geOrchestra 15.06
 
-Cette version apporte plusieurs améliorations décisives :
+This release brings several key enhancements:
 
  * full support for the newer Debian 8 "Jessie", which means a longer life span for your server.
  * standard GeoServer artifacts can be used instead of the "geOrchestra flavoured GeoServer". Not only will this bring new features more quickly in, but this will also make your administrator more relax when a vulnerability is discovered in GeoServer.
