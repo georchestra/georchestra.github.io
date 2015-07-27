@@ -1,4 +1,5 @@
 language: ruby
+sudo: false
 git:
   depth: 1
 branch:
