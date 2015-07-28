@@ -5,6 +5,10 @@ title: Proyecto
 uid: project
 ---
 
+## Valores
+
+Las directrices de geOrchestra son: **libre y de código abierto**, la **modularidad**, **interoperabilidad**.
+
 ## Historia
 
 El proyecto geOrchestra comenzó en 2009 cuando la Infraestructura de Datos Espaciales de Bretaña estaba en construcción. Los usuarios y desarrolladores decidieron colocar el código fuente bajo una licencia de código abierto. Un comité ejecutivo independiente del proyecto fue designado para manejar el proyecto, dirigir la comunidad emergente, y elegir los cambios mediante voto.
@@ -39,7 +43,3 @@ El comité directivo cuenta con 9 miembros:
  * **Valérie Besand**, administrador de datos, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, geógrafo, [GeoBolivia](http://geo.gob.bo/) y [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
-
-## Valores
-
-Las directrices de geOrchestra son: libre y de código abierto, la modularidad, interoperabilidad

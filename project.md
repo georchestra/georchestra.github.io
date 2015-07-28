@@ -6,6 +6,10 @@ uid: project
 excerpt: Story, values, meetings and project steering committee
 ---
 
+## Values
+
+geOrchestra's guidelines are: **free and opensource**, **modularity**, **interoperability**.
+
 ## Story
 
 The geOrchestra project started back in 2009 when the Brittany spatial data infrastructure was under construction. Users and developers decided to place the source code under an open licence. An independant project steering committee was appointed to drive the project, address the emerging community, and vote changes.
@@ -39,8 +43,3 @@ The steering committee features 9 members:
  * **Valérie Besand**, data admin, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, SDI operator & sysadmin, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, geographer, [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
-
-
-## Values
-
-geOrchestra's guidelines are: free and opensource, modularity, interoperability

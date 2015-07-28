@@ -5,6 +5,11 @@ title: Projet
 uid: project
 excerpt: Historique, valeurs, rencontres et comité de pilotage du projet
 ---
+
+## Valeurs
+
+Les valeurs du projet geOrchestra : **Ouverture**, **Modularité**, **Interopérabilité**.
+
 ## Historique
 
 Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructure de Données Spatiales de la Bretagne était en cours de développement.
@@ -41,7 +46,3 @@ Le comité de pilotage est composé de 9 membres :
  * **Valérie Besand**, administratrice de données, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
-
-## Valeurs
-
-Ouverture, Modularité, Interopérabilité
