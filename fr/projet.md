@@ -25,13 +25,13 @@ Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieu
 
 Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
 
-Cette année, [rencontrez nous](/blog/2015/02/06/geocom2015-annonce/) du 22 au 24 juin à Strasbourg, France.
-
 Les éditions précédentes du "geOcom" se sont tenues :
 
  * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013,
- * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014.
-
+ * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014,
+ * à la Maison de l'Alsace, Strasbourg, en 2015.
+ 
+L'année prochaine à Bordeaux !
 
 ## Comité de pilotage
 

@@ -23,12 +23,13 @@ Con el código mucho mas accesible y por lo tanto mas fácil de contribuir. Los 
 
 Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas prácticas y elaborar un plan de trabajo.
 
-Este año, [reunirse con nosotros](/blog/2015/02/06/geocom2015-announced/) el 22-24 de junio en Strasbourg, Francia.
-
 Eventos anteriores:
 
   * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, Francia, 2013,
-  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014
+  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014,
+  * en "Maison de l'Alsace", Strasbourg, Francia, 2015.
+ 
+Nos vemos el próximo año en Burdeos!
 
 ## Comité Directivo
 

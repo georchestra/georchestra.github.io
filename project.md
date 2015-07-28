@@ -22,13 +22,13 @@ Initially hosted on a Brittany-hosted software repository, the source code final
 
 Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap. 
 
-This year, [meet us](/blog/2015/02/06/geocom2015-announced/) on June 22-24th in Strasbourg, France.
-
 Previous events took place:
 
  * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
- * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014
-
+ * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014,
+ * at the "Maison de l'Alsace", Strasbourg, France, in 2015.
+ 
+See you next year in Bordeaux !
 
 ## Steering committee
 
