@@ -44,7 +44,7 @@ Sauf exceptions, nous publions une nouvelle [version](https://github.com/georche
 
 Version       | Docs                                                                                          | Sortie        | Fin de vie
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
-15.06         |                                                                                               | 2015-07-10    | 2016-07
+15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-fr/)                                                | 2015-07-10    | 2016-07
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-est-disponible/)                                    | 2015-01-30    | 2016-01
 14.06         | [Blog](/blog/2014/07/10/version-14.06/)                                                       | 2014-07-10    | 2015-07
 14.01         | [Blog](/blog/2014/02/03/version-14.01/)                                                       | 2014-01-30    | **2015-01**

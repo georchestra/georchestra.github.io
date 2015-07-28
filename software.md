@@ -44,7 +44,7 @@ They are supported for 12 months, though older releases may have different suppo
 
 Version       | Docs                                                                                          | Released      | End of life 
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
-15.06         |                                                                                               | 2015-07-10    | 2016-07
+15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-en/)                                                | 2015-07-10    | 2016-07
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-is-available/)                                      | 2015-01-30    | 2016-01
 14.06         | [Blog](/blog/2014/07/10/release-14.06/)                                                       | 2014-07-10    | 2015-07
 14.01         | [Blog](/blog/2014/02/03/release-14.01/)                                                       | 2014-01-30    | **2015-01**
