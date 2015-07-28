@@ -21,8 +21,8 @@ Las contribuciones pueden ser de diferentes formas:
 
 Nivel Estatal:
 
-* Estado Plurinacional de Bolivia con [GeoBolivia](http://geo.gob.bo/)
-* Ademas, varias instancias nacionales e internacionales basadas en La Paz se encuentran en fase de testeo de geOrchestra para sus IDE internas. Ver [mapa de instituciones](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747)
+ * Estado Plurinacional de Bolivia con [GeoBolivia](http://geo.gob.bo/)
+ * Ademas, varias instancias nacionales e internacionales basadas en La Paz se encuentran en fase de testeo de geOrchestra para sus IDE internas. Ver [mapa de instituciones](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747)
 
 
 Nivel SubNacional:
@@ -50,6 +50,9 @@ Investigación y educación:
  * [UMS BBEES](http://bbees.mnhn.fr/) "Musée National d'Histoire Naturelle", Paris
  * [UMR Sisyphe](http://www.sisyphe.upmc.fr/) "Université Pierre et Marie Curie", Paris.
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
+
+Companies:
+ * [TerraNIS](http://terranis.fr/en/), a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains.
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
 

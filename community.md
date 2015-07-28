@@ -22,7 +22,8 @@ Contributions may take several forms:
 
 State level:
 
-* Plurinational state of Bolivia with [GeoBolivia](http://geo.gob.bo/)
+ * Plurinational state of Bolivia with [GeoBolivia](http://geo.gob.bo/)
+ * Several national and international organisations in La Paz are currently testing geOrchestra. Have a look at the [map](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747).
 
 Subnational level:
 
@@ -49,6 +50,9 @@ Research and education:
  * [UMS BBEES](http://bbees.mnhn.fr/) at the French "Musée National d'Histoire Naturelle", Paris
  * [UMR Sisyphe](http://www.sisyphe.upmc.fr/) at "Université Pierre et Marie Curie", Paris.
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
+
+Companies:
+ * [TerraNIS](http://terranis.fr/en/), a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains.
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !
 

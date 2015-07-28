@@ -23,6 +23,7 @@ Toutes les formes de contributions sont les bienvenues :
 Des Etats :
 
  * la Bolivie, avec le projet [GeoBolivia](http://geo.gob.bo/),
+ * plusieurs organisations nationales et internationales basées à La Paz sont en phase de test de geOrchestra. Voir la [carte](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747).
 
 Des régions :
 
@@ -49,6 +50,9 @@ Des organismes ou unités de recherche :
  * [UMS BBEES](http://bbees.mnhn.fr/), Musée National d'Histoire Naturelle, Paris
  * [UMR Sisyphe](http://www.sisyphe.upmc.fr/), Université Pierre et Marie Curie, Paris.
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
+
+Entreprises:
+ * [TerraNIS](http://terranis.fr/), une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement.
 
 ... et bien d'autres encore.
 
