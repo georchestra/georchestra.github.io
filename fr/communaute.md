@@ -52,6 +52,7 @@ Des organismes ou unités de recherche :
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
 
 Entreprises:
+
  * [TerraNIS](http://terranis.fr/), une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement.
 
 ... et bien d'autres encore.

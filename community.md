@@ -52,6 +52,7 @@ Research and education:
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
 
 Companies:
+
  * [TerraNIS](http://terranis.fr/en/), a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains.
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !
