@@ -51,7 +51,7 @@ Investigación y educación:
  * [UMR Sisyphe](http://www.sisyphe.upmc.fr/) "Université Pierre et Marie Curie", Paris.
  * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
 
-Companies:
+Empresas:
 
  * [TerraNIS](http://terranis.fr/en/), una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente.
 
