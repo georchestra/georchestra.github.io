@@ -6,7 +6,7 @@ lang: fr
 uid: 2015-07-01
 ---
 
-Du 22 au 24 juin, la Maison de l'Alsace a hébergé le GeoCom 2015, qui s'est déroulé dans d'excellentes conditions.
+Du 22 au 24 juin, la Région Alsace a hébergé le GeoCom 2015, qui s'est déroulé dans d'excellentes conditions.
 Une quarantaine de personnes, issues de la communauté des utilisateurs, administrateurs et développeurs, ont pu se retrouver pour partager les pratiques et élaborer la feuille de route de l'année à venir. 
 L'événement était retransmis en direct sur YouTube, ce qui a permis à plusieurs personnes distantes de suivre les échanges. 
 
@@ -40,7 +40,6 @@ De même, la possibilité d'échanger des données avec le monde OpenStreetMap c
  * support générique des Web Processing Services
  * contextes de carte supportant WMTS et autres interfaces (OWSContext)
  * échanges de données avec OpenStreetMap
-
 
 
 ## Gestion de plateforme : maîtriser la complexité
@@ -77,7 +76,6 @@ L'accompagnement aussi doit être "libre". Les contenus structurés en "grains" 
  * mise à disposition des applicatifs tiers sur github
 
 
-
 ## Métier : répondre aux enjeux
 
 Faire en sorte que l'IDS sache répondre aux enjeux actuels, soit en direct (modules métier en "contribution geOrchestra"), soit en montrant que c'est possible (produits d'appel, bonnes pratiques, API...)
@@ -89,12 +87,13 @@ Faire en sorte que l'IDS sache répondre aux enjeux actuels, soit en direct (mod
  * support des flux (Atom, WFS2) pour le géoportail de l'urbanisme
 
 
-## Clôture du GeoCom 2015 par Marie-Christine Schott, Responsable du service SIG au Conseil Régional d'Alsace
+## Clôture du GeoCom 2015 par Marie-Christine Schott, Responsable du service SIGS au Conseil Régional d'Alsace
 
 "On se réjouit de découvrir une communauté dynamique rassemblant toutes les facettes et les compétences du partage de données. Il est important de rester vigilant car la disponibilité et la performance des applicatifs sont déterminants dans l'adoption de ces nouvelles pratiques de travail. Il faut profiter de cette communauté pour rester à l'écoute et réactifs face à des réformes institutionnelles d'envergure, et pour mieux répondre aux enjeux actuels."
+
 
 ## Pour finir
 
 Retrouvez en [images](https://www.flickr.com/photos/fvanderbiest/sets/72157654956059600) et au format "[storify](https://storify.com/fvanderbiest/geocom-2015-strasbourg)" l'aventure GeoCom 2015. 
 
-Nous souhaitons encore remercier la Région Alsace et la Maison de l'Alsace pour l'accueil de l'événement, et nous vous donnons rendez vous l'an prochain à Bordeaux !
+Nous souhaitons encore remercier la Région Alsace et les partenaires CIGAL pour l'accueil de l'événement, et nous vous donnons rendez vous l'an prochain à Bordeaux !
