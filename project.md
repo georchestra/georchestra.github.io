@@ -26,7 +26,7 @@ Previous events took place:
 
  * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
  * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014,
- * at the "Maison de l'Alsace", Strasbourg, France, in 2015.
+ * at the "Maison de l'Alsace" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015.
  
 See you next year in Bordeaux !
 
