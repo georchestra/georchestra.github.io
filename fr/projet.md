@@ -29,7 +29,7 @@ Les éditions précédentes du "geOcom" se sont tenues :
 
  * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013,
  * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014,
- * à la Maison de l'Alsace, Strasbourg, en 2015.
+ * à la Maison de l'Alsace (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015.
  
 L'année prochaine à Bordeaux !
 
