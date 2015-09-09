@@ -27,7 +27,7 @@ Eventos anteriores:
 
   * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, Francia, 2013,
   * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014,
-  * en "Maison de l'Alsace", Strasbourg, Francia, 2015.
+  * en "Maison de l'Alsace" (asociación [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/), Strasbourg, Francia, 2015.
  
 Nos vemos el próximo año en Burdeos!
 
