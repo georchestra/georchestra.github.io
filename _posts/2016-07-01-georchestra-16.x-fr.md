@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "geOrchestra 16.x, quelques nouvelles"
-date:   2016-07-01 11:00:00
+date:   2016-01-07 11:00:00
 lang: fr
-uid: 2016-07-01
+uid: 2016-01-07
 ---
 
 geOrchestra publie habituellement une nouvelle version logicielle tous les six mois. Décembre-Janvier est une période de finalisation. Cependant, [le dernier GeoCom](/blog/2015/07/01/geocom2015-compte-rendu/) a mis en avant des évolutions significatives programmées pour la prochaine version. Nous devons donc prendre davantage de temps pour finaliser la version 15.12, qui arrivera plus tard dans l'année (et sera donc probablement renommée).
