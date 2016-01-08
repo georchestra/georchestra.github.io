@@ -27,8 +27,7 @@ Le serveur OGC passera sur la dernière version de [GeoServer](http://geoserver.
  * possibilité de saisir des urls de métadonnées pour les groupes de couches
  * possibilité de brider la plage de visibilité des groupes de couches
 
-Pour ce qui est de GeoFence, nous migrons à la dernière version 3.x, avec plusieurs évolutions financées concernant la délégation de gestion des espaces de travail et une meilleure intégration dans l'UI d'admin de GeoServe (voir [#1135](https://github.com/georchestra/georchestra/issues/1135#issuecomment-166624349)).  
-Ceux qui n'utilisent pas GeoFence pour gérer les droits sur les données peuvent déjà utiliser GeoServer en version standard.
+Pour ce qui est de GeoFence, nous migrons à la dernière version 3.x, avec plusieurs évolutions financées concernant la délégation de gestion des espaces de travail et une meilleure intégration dans l'UI d'admin de GeoServe (voir [#1135](https://github.com/georchestra/georchestra/issues/1135#issuecomment-166624349)). Ceux qui n'utilisent pas GeoFence pour gérer les droits sur les données peuvent déjà utiliser GeoServer en version standard.
 
 Pour le visualiseur, de nouveaux addons arrivent : changer rapidement de fond de plan, afficher la carte en plein écran ([#981](https://github.com/georchestra/georchestra/issues/981)), charger des données OpenStreetMap sur la carte ([#1031](https://github.com/georchestra/georchestra/issues/1031)), imprimer des atlas ([#1017](https://github.com/georchestra/georchestra/issues/1017)). 
 
