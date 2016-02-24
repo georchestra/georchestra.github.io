@@ -9,10 +9,10 @@ El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Sec
 
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
   
- * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-14.12/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 2.10,
- * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.5.4,
- * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geosolutions-it/geofence),
- * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.5.1,
+ * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-gn3-3.0.x/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 3.0.4,
+ * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.8.2,
+ * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
+ * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.8.0,
  * un [visor de mapas web](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) con consultas, estilos y funciones de edición,
  * un [extractor de datos](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
  * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
@@ -44,6 +44,7 @@ Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un ap
 
 Version       | Docs                                                                                          | Released      | End of life 
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+15.12         |                                                                                               | 2016-02-24    | 2017-02
 15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-es/)                                                | 2015-07-10    | 2016-07
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-esta-disponible/)                                   | 2015-01-30    | 2016-01
 14.06         | [Blog](/blog/2014/07/10/version-14.06-es/)                                                    | 2014-07-10    | 2015-07

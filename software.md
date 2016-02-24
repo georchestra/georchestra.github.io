@@ -9,10 +9,10 @@ geOrchestra's core relies on a security proxy based on [Spring Security](http://
 
 geOrchestra provides independant and interoperable modules to build your own custom spatial data infrastructure:
 
- * a [data catalog](https://github.com/georchestra/geonetwork/blob/georchestra-14.12/README.md) based on [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
- * a map and feature server: [GeoServer](http://geoserver.org/) version 2.5.4,
- * an [advanced data access list manager](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geosolutions-it/geofence),
- * a map tiles server: [GeoWebCache](http://geowebcache.org/) version 1.5.1,
+ * a [data catalog](https://github.com/georchestra/geonetwork/blob/georchestra-gn3-3.0.x/README.md) based on [GeoNetwork](http://geonetwork-opensource.org/) version 3.0.4,
+ * a map and feature server: [GeoServer](http://geoserver.org/) version 2.8.2,
+ * an [advanced data access list manager](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
+ * a map tiles server: [GeoWebCache](http://geowebcache.org/) version 1.8.0,
  * an [advanced web map viewer](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) with query, styling, editing functions,
  * a [data extractor](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) to extract, reproject and download datasets from OGC services,
  * a [user and group manager](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
@@ -44,9 +44,10 @@ They are supported for 12 months, though older releases may have different suppo
 
 Version       | Docs                                                                                          | Released      | End of life 
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+15.12         |                                                                                               | 2016-02-24    | 2017-02
 15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-en/)                                                | 2015-07-10    | 2016-07
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-is-available/)                                      | 2015-01-30    | 2016-01
-14.06         | [Blog](/blog/2014/07/10/release-14.06/)                                                       | 2014-07-10    | 2015-07
+14.06         | [Blog](/blog/2014/07/10/release-14.06/)                                                       | 2014-07-10    | **2015-07**
 14.01         | [Blog](/blog/2014/02/03/release-14.01/)                                                       | 2014-01-30    | **2015-01**
 13.09         | [Blog](/blog/2013/10/02/georchestra-release-13.09/)                                           | 2013-10-02    | **2014-10**
 13.06         | [Notes](https://github.com/georchestra/georchestra/blob/master/RELEASE_NOTES.md#version-1306) | 2013-06-27    | **2014-06**

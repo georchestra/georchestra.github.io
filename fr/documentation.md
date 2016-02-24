@@ -10,6 +10,6 @@ Vous pouvez y accéder depuis le fichier [README](https://github.com/georchestra
 
 Par ailleurs, il est toujours utile de consulter les **documentations publiques** de référence des différents projets communautaires sous-jacents:
 
- * sur le [site de GeoServer](http://docs.geoserver.org/2.5.x/en/user/) pour la version 2.5.4,
- * sur le [site de GeoNetwork](http://geonetwork-opensource.org/manuals/2.10.4/fra/users/index.html) pour la version 2.10,
- * sur le [site de GeoWebCache](http://geowebcache.org/docs/1.5.1/) pour la version 1.5.1.
+ * sur le [site de GeoServer](http://docs.geoserver.org/2.8.x/en/user/) pour la version 2.8.2,
+ * sur le [site de GeoNetwork](http://www.geonetwork-opensource.org/manuals/trunk/fra/users/index.html) pour la version 3.0.4,
+ * sur le [site de GeoWebCache](http://geowebcache.org/docs/1.8.0/) pour la version 1.8.0.
