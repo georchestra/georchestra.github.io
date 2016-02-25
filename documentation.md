@@ -3,6 +3,7 @@ layout: page
 lang: en
 title: Documentation
 uid: documentation
+permalink: /documentation.html
 ---
 
 The installation and configuration documentation is now part of the [source repository](https://github.com/georchestra/georchestra/).  

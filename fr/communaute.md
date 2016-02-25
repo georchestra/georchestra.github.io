@@ -3,6 +3,7 @@ layout: page
 lang: fr
 title: Communauté
 uid: community
+permalink: /fr/communaute.html
 ---
 
 Le projet geOrchestra est un projet communautaire : chacun y trouvera ce que d'autres apportent.

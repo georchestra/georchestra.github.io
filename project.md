@@ -4,6 +4,7 @@ lang: en
 title: Project
 uid: project
 excerpt: Story, values, meetings and project steering committee
+permalink: /project.html
 ---
 
 ## Values

@@ -3,6 +3,7 @@ layout: page
 lang: fr
 title: Documentation
 uid: documentation
+permalink: /fr/documentation.html
 ---
 
 La documentation d'installation et de configuration est centralisée sur le [dépôt du code source](https://github.com/georchestra/georchestra/), en langue anglaise.

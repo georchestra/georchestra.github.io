@@ -3,6 +3,7 @@ layout: page
 lang: es
 title: Documentacion
 uid: documentation
+permalink: /es/documentacion.html
 ---
 
 La documentación de la instalación y configuratión es ahora parte del repositorio de [código fuente](https://github.com/georchestra/georchestra/), en idioma Inglés. 

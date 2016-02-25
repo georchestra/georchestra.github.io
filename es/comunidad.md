@@ -3,6 +3,7 @@ layout: page
 lang: es
 title: Comunidad
 uid: community
+permalink: /es/comunidad.html
 ---
 
 geOrchestra es un proyecto impulsado por la comunidad. Cualquier persona puede contribuir, y cada contribución puede ser reutilizado libremente por todos.

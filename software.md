@@ -3,6 +3,7 @@ layout: page
 lang: en
 title: Software
 uid: software
+permalink: /software.html
 ---
 
 geOrchestra's core relies on a security proxy based on [Spring Security](http://projects.spring.io/spring-security/) and on a [single-sign-on system](http://en.wikipedia.org/wiki/Single_sign-on) using [CAS](http://www.jasig.org/cas).

@@ -3,6 +3,7 @@ layout: page
 lang: en
 title: Community
 uid: community
+permalink: /community.html
 ---
 
 geOrchestra is a community-driven project.  

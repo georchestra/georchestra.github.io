@@ -3,6 +3,7 @@ layout: page
 lang: es
 title: Software
 uid: software
+permalink: /es/software.html
 ---
 
 El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Security](http://projects.spring.io/spring-security/) y en un [Sistema single-sign-on](http://en.wikipedia.org/wiki/Single_sign-on) usando [CAS](http://www.jasig.org/cas).

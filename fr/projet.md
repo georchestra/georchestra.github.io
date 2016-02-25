@@ -4,6 +4,7 @@ lang: fr
 title: Projet
 uid: project
 excerpt: Historique, valeurs, rencontres et comité de pilotage du projet
+permalink: /fr/projet.html
 ---
 
 ## Valeurs

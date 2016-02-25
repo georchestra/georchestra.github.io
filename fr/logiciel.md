@@ -3,6 +3,7 @@ layout: page
 lang: fr
 title: Logiciel
 uid: software
+permalink: /fr/logiciel.html
 ---
 
 Au coeur de geOrchestra se trouve un proxy de sécurité basé sur [Spring Security](http://projects.spring.io/spring-security/) et un système d'[authentification unique](http://fr.wikipedia.org/wiki/Authentification_unique), implémenté par [CAS](http://www.jasig.org/cas).
