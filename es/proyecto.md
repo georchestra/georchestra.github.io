@@ -30,7 +30,7 @@ Eventos anteriores:
   * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014,
   * en "Maison de l'Alsace" (asociación [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, Francia, 2015.
  
-Nos vemos el próximo año en Burdeos!
+Nos vemos el próximo año en Burdeos (23-25 mayo de 2016) !
 
 ## Comité Directivo
 

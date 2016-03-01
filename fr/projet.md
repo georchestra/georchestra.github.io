@@ -32,7 +32,7 @@ Les éditions précédentes du "geOcom" se sont tenues :
  * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014,
  * à la Maison de l'Alsace (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015.
  
-L'année prochaine à Bordeaux !
+En 2016, RDV est pris à Bordeaux (23-25 mai) !
 
 ## Comité de pilotage
 

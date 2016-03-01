@@ -29,7 +29,7 @@ Previous events took place:
  * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014,
  * at the "Maison de l'Alsace" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015.
  
-See you next year in Bordeaux !
+In 2016, we meet in Bordeaux (may 23-25) !
 
 ## Steering committee
 
