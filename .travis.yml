@@ -10,7 +10,7 @@ before_install:
 - travis_retry gem install html-proofer
 rvm:
 - 2.1
-script: jekyll build --safe && htmlproof ./_site
+script: jekyll build --safe && htmlproofer ./_site
 notifications:
   irc:
     on_success: change
