@@ -48,6 +48,7 @@ Les WAR génériques nous permettent de décliner l'installation de geOrchestra 
 
 * faire reposer votre architecture sur les images Docker fournies par le [repository communautaire](https://hub.docker.com/u/georchestra/), que vous surchargerez pour appliquer votre personnalisation.
 
+Il est toujours possible de construire ses applications en y intégrant un profil de configuration spécifique, hérité de la [configuration template](https://github.com/georchestra/template), comme auparavant. Ce mode est plus complexe à mettre en oeuvre, mais permet de personnaliser l'IDS de manière plus poussée, par exemple par surcharge des fichiers css et images.
 
 ## Caveat
 
