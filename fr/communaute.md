@@ -37,7 +37,7 @@ Des régions :
 Des agglomérations:
 
  * [Rennes Métropole](http://metropole.rennes.fr/) en France,
- * [Asociación de Municipios Productivos del Norte](http://www.amupnor.com/ide) au Nicaragua,
+ * Asociación de Municipios Productivos del Norte au Nicaragua,
  * [ViennAgglo](http://www.paysviennois.fr/) en France. 
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) en France
 

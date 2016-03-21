@@ -37,7 +37,7 @@ Subnational level:
 Urban area level:
 
  * [Rennes Métropole](http://metropole.rennes.fr/) (France)
- * [Asociación de Municipios Productivos del Norte](http://www.amupnor.com/ide) (Nicaragua)
+ * Asociación de Municipios Productivos del Norte (Nicaragua)
  * [ViennAgglo](http://www.paysviennois.fr/) (France)
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) (France)
 

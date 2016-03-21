@@ -66,7 +66,6 @@ Les lectures toujours indispensables :
 
 * [GeoServer in production](http://docs.geoserver.org/stable/en/user/production/index.html) - doc officielle
 * [GeoServer on steroids](http://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/)
-* [GeoServer in production](http://boundlessgeo.com/whitepaper/geoserver-production-2/) - Boundless whitepaper
 
 => tendances : ajout d'une [offre Nagios](https://github.com/georchestra/nagios) à geOrchestra, partager les test cases.
 

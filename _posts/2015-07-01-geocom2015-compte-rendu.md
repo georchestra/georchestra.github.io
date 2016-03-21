@@ -20,9 +20,9 @@ Elle s'est conclue sur un état des lieux par rapport à la feuille de route pos
 La journée de mardi a fait l'objet d'une série d'interventions autour de trois thématiques principales : **valorisation des services**, **publication de données** et **maintenance des plateformes**. Certaines des présentations sont accessibles en ligne:
 
  * [Intégrer une application tierce dans geOrchestra](http://slides.com/sebastienpelhate/geocom2015)
- * [Des couches aux objets avec ElasticSearch](http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
+ * Des couches aux objets avec ElasticSearch
  * [Inspirobot, le scoring des métadonnées](http://slides.com/lecault/inspirobot#/)
- * [Monitoring des services](http://jeoffreyjardin.fr/presentations/slides-supervisefr.html#/)
+ * Monitoring des services
  * [Geonetwork 3](https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
  * [Formation geOrchestra](http://slides.com/stlejer-morvrini/deck/fullscreen)
  * [Le site georchestra.org](https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)

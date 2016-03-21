@@ -16,9 +16,9 @@ La primera jornada del lunes se dedicó a las presentaciones de las plataformas,
 El día martes se realizaron una serie de intervenciones en torno a tres temas principales: **valorización de servicios**, **la publicación de los datos**, **mantenimiento de plataformas**. Algunas de las presentaciones están disponibles en línea (en francés):
 
  * [Integrar aplicaciones de terceros en geOrchestra](http://slides.com/sebastienpelhate/geocom2015)
- * [Capas a objetos con Elasticsearch](http://jeoffreyjardin.fr/presentations/slides-elasticsearchfr.html#/)
+ * Capas a objetos con Elasticsearch
  * [Inspirobot, los metadatos de puntuación](http://slides.com/lecault/inspirobot#/)
- * [Monitoreo de servicios ](http://jeoffreyjardin.fr/presentations/slides-supervisefr.html#/)
+ * Monitoreo de servicios
  * [Geonetwork 3](https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
  * [Capacitación a GeOrchestra](http://slides.com/stlejer-morvrini/deck/fullscreen)
  * [La página georchestra.org ](https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)

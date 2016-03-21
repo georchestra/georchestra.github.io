@@ -79,7 +79,6 @@ plan d'accès depuis la rocade (Agrocampus Ouest)</a></li>
 <li><a href="http://www.breizhgo.com/" hreflang="fr">itinéraire transports en
 commun Bretagne (BreizhGo)</a></li>
 <li><a href="http://www.voyages-sncf.com/" hreflang="fr">horaires train (SNCF)</a></li>
-<li><a href="http://www.star.fr/fileadmin/documents/PDF/plans/de_reseau/Rennes_urb_complet.pdf" hreflang="fr">plan transports en commun (STAR)</a></li>
 <li><a href="http://www.rennes.aeroport.fr/Tous-les-vols/Vols-directs" hreflang="fr">vols directs</a></li>
 <li>nous contacter si vous avez des difficultés à venir :<br />
 geocom at georchestra point org</li>
