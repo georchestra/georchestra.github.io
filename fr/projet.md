@@ -38,7 +38,6 @@ En 2016, RDV est pris à Bordeaux (23-25 mai) !
 
 Le comité de pilotage est composé de 9 membres :
 
- * **Lydie Vinsonneau**, gestionnaire d'IDS, [Région Bretagne](http://www.bretagne.fr/)
  * **Fabrice Phung**, gestionnaire d'IDS, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
