@@ -36,7 +36,7 @@ En 2016, RDV est pris à Bordeaux (23-25 mai) !
 
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 9 membres :
+Le comité de pilotage est composé de 8 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
