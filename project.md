@@ -35,7 +35,6 @@ In 2016, we meet in Bordeaux (may 23-25) !
 
 The steering committee features 9 members:
 
- * **Lydie Vinsonneau**, SDI operator, [Brittany region](http://www.bretagne.fr/)
  * **Fabrice Phung**, SDI operator, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, developer & release manager, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, developer & sysadmin, [Camptocamp](http://www.camptocamp.com/)

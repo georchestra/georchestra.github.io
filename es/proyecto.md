@@ -36,7 +36,6 @@ Nos vemos el próximo año en Burdeos (23-25 mayo de 2016) !
 
 El comité directivo cuenta con 9 miembros:
 
- * **Lydie Vinsonneau**, operador SDI, [Bretaña](http://www.bretagne.fr/)
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, desarrollador & director de versiones, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, desarrollador & administrador de sistemas, [Camptocamp](http://www.camptocamp.com/)
