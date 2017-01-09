@@ -30,10 +30,9 @@ Les éditions précédentes du "geOcom" se sont tenues :
 
  * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013,
  * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014,
- * à la Maison de l'Alsace (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015.
+ * à la Maison de l'Alsace (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
+ * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016.
  
-En 2016, RDV est pris à Bordeaux (23-25 mai) !
-
 ## Comité de pilotage
 
 Le comité de pilotage est composé de 8 membres :
