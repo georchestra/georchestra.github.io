@@ -29,18 +29,24 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 Les éditions précédentes du "geOcom" se sont tenues :
 
  * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013,
- * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)) en 2014,
+ * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand en 2014,
  * à la Maison de l'Alsace (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
  * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016.
  
+ Pour 2017.. bientôt plus d'informations !
+ 
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 7 membres :
+Le comité de pilotage est composé de 11 membres :
 
- * **Fabrice Phung**, gestionnaire d'IDS, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](http://geobretagne.fr)
  * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
  * **Sylvain Lesage**, gestionnaire d'IDS & développeur, [ADSIB](http://www.adsib.gob.bo/)
  * **Rod Béra**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
+ * **Nicolas Chavent**, géographe, OpenStreetMap,  IDS Francophone Libre (IFL)
+ * **Stéphane Mevel-Vianney**, chef de projet [GéoBretagne](http://geobretagne.fr)
+ * **Ernest Chiarello**, gestionnaire d'IDS & administrateur système, [UMR ThéMA](http://thema.univ-fcomte.fr/)
+ * **Hervé Squividant**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
