@@ -35,13 +35,12 @@ Les éditions précédentes du "geOcom" se sont tenues :
  
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 8 membres :
+Le comité de pilotage est composé de 7 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
  * **Sylvain Lesage**, gestionnaire d'IDS & développeur, [ADSIB](http://www.adsib.gob.bo/)
  * **Rod Béra**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
- * **Valérie Besand**, administratrice de données, [DREAL](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
