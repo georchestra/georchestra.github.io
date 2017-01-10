@@ -47,6 +47,6 @@ Le comité de pilotage est composé de 11 membres :
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
  * **Nicolas Chavent**, géographe, OpenStreetMap,  IDS Francophone Libre (IFL)
- * **Stéphane Mevel-Vianney**, chef de projet [GéoBretagne](http://geobretagne.fr)
+ * **Stéphane Mével-Viannay**, chef de projet [GéoBretagne](http://geobretagne.fr)
  * **Ernest Chiarello**, gestionnaire d'IDS & administrateur système, [UMR ThéMA](http://thema.univ-fcomte.fr/)
  * **Hervé Squividant**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
