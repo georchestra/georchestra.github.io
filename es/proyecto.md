@@ -34,13 +34,17 @@ Nos vemos el próximo año en Burdeos (23-25 mayo de 2016) !
 
 ## Comité Directivo
 
-El comité directivo cuenta con 9 miembros:
+El comité directivo cuenta con 12 miembros:
 
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, desarrollador & director de versiones, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, desarrollador & administrador de sistemas, [Camptocamp](http://www.camptocamp.com/)
  * **Sylvain Lesage**, operador SDI & desarrollador, [ADSIB](http://www.adsib.gob.bo/)
  * **Rod Béra**, investigador & capacitador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
- * **Valérie Besand**, administrador de datos, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
  * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, geógrafo, [GeoBolivia](http://geo.gob.bo/) y [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
+ * **Nicolas Chavent**, geógrafo, OpenStreetMap,  IDS Francophone Libre (IFL)
+ * **Stéphane Mével-Viannay**, jefe de proyecto [GéoBretagne](http://geobretagne.fr)
+ * **Ernest Chiarello**, operador SDI & administrador de sistemas, [UMR ThéMA](http://thema.univ-fcomte.fr/)
+ * **Hervé Squividant**, profesor & investigador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](http://metropole.rennes.bzh/)

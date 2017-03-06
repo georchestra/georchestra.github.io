@@ -33,13 +33,17 @@ In 2016, we meet in Bordeaux (may 23-25) !
 
 ## Steering committee
 
-The steering committee features 9 members:
+The steering committee features 12 members:
 
- * **Fabrice Phung**, SDI operator, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
- * **François Van Der Biest**, developer & release manager, [Camptocamp](http://www.camptocamp.com/)
- * **Pierre Mauduit**, developer & sysadmin, [Camptocamp](http://www.camptocamp.com/)
- * **Sylvain Lesage**, SDI operator & developer, [ADSIB](http://www.adsib.gob.bo/)
- * **Rod Béra**, researcher & teacher, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
- * **Valérie Besand**, data admin, [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
- * **Landry Breuil**, SDI operator & sysadmin, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, geographer, [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
+ * **Fabrice Phung**, SDI operator at [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
+ * **François Van Der Biest**, developer & release manager at [Camptocamp](http://www.camptocamp.com/)
+ * **Pierre Mauduit**, developer & sysadmin at [Camptocamp](http://www.camptocamp.com/)
+ * **Sylvain Lesage**, SDI operator & developer at [ADSIB](http://www.adsib.gob.bo/)
+ * **Rod Béra**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * **Landry Breuil**, SDI operator & sysadmin at [CRAIG](http://craig.fr/),
+ * **Louca Lerch**, geographer at [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
+ * **Nicolas Chavent**, geographer, OpenStreetMap, IDS Francophone Libre (IFL)
+ * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](http://geobretagne.fr)
+ * **Ernest Chiarello**, SDI operator & sysadmin at [UMR ThéMA](http://thema.univ-fcomte.fr/)
+ * **Hervé Squividant**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
+ * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
