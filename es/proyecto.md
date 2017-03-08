@@ -26,11 +26,13 @@ Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar dife
 
 Eventos anteriores:
 
-  * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, Francia, 2013,
+  * en "Maison de l'Agriculture et de la Forêt d'Aquitaine" (asociación [PIGMA](https://www.pigma.org/)), Bordeaux, Francia, in 2016,
+  * en "Maison de l'Alsace" (asociación [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, Francia, 2015,
   * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014,
-  * en "Maison de l'Alsace" (asociación [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, Francia, 2015.
+  * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, Francia, 2013.
  
-Nos vemos el próximo año en Burdeos (23-25 mayo de 2016) !
+[Nos vemos el próximo año en Chambéry](https://twitter.com/georchestra/status/839516601816858625
+) (6-8 junio de 2017) !
 
 ## Comité Directivo
 

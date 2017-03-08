@@ -25,11 +25,12 @@ Every year, users and developers from the community meet in a different place to
 
 Previous events took place:
 
- * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013,
- * at Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014,
- * at the "Maison de l'Alsace" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015.
+ * at the "Maison de l'Agriculture et de la Forêt d'Aquitaine" (location of the [PIGMA](https://www.pigma.org/) partnership), Bordeaux, France, in 2016,
+ * at the "Maison de l'Alsace" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015,
+ * at "Centre Régional Auvergnat de l'Information Géographique" ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014,
+ * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013.
  
-In 2016, we meet in Bordeaux (may 23-25) !
+In 2017, [we meet in Chambéry](https://twitter.com/georchestra/status/839516601816858625) (June 6-8) !
 
 ## Steering committee
 
