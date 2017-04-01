@@ -34,7 +34,7 @@ In 2017, [we meet in Chambéry](https://twitter.com/georchestra/status/839516601
 
 ## Steering committee
 
-The steering committee features 12 members:
+The steering committee features 13 members:
 
  * **Fabrice Phung**, SDI operator at [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, developer & release manager at [Camptocamp](http://www.camptocamp.com/)
@@ -48,3 +48,4 @@ The steering committee features 12 members:
  * **Ernest Chiarello**, SDI operator & sysadmin at [UMR ThéMA](http://thema.univ-fcomte.fr/)
  * **Hervé Squividant**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Jean-Pascal Klipfel**, SDI operator at [CIGAL](https://www.cigalsace.org/portail/)

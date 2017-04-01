@@ -36,7 +36,7 @@ Eventos anteriores:
 
 ## Comité Directivo
 
-El comité directivo cuenta con 12 miembros:
+El comité directivo cuenta con 13 miembros:
 
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, desarrollador & director de versiones, [Camptocamp](http://www.camptocamp.com/)
@@ -50,3 +50,4 @@ El comité directivo cuenta con 12 miembros:
  * **Ernest Chiarello**, operador SDI & administrador de sistemas, [UMR ThéMA](http://thema.univ-fcomte.fr/)
  * **Hervé Squividant**, profesor & investigador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Jean-Pascal Klipfel**, operador SDI, [CIGAL](https://www.cigalsace.org/portail/)

@@ -37,7 +37,7 @@ Pour 2017, [nous nous retrouverons à Chambéry](https://twitter.com/georchestra
  
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 12 membres :
+Le comité de pilotage est composé de 13 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](http://geobretagne.fr)
  * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
@@ -51,3 +51,4 @@ Le comité de pilotage est composé de 12 membres :
  * **Ernest Chiarello**, gestionnaire d'IDS & administrateur système, [UMR ThéMA](http://thema.univ-fcomte.fr/)
  * **Hervé Squividant**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, géographe, chargé de mission, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Jean-Pascal Klipfel**, gestionnaire d'IDS, [CIGAL](https://www.cigalsace.org/portail/)
