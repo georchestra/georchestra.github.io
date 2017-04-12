@@ -33,6 +33,7 @@ Des régions :
  * la Picardie, via le partenariat [GéoPicardie](http://www.geopicardie.fr/portail/), 
  * l'Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
  * l'Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/).
+ * le Nord-Pas-de-Calais, via la Plateforme Publique de l’Information Géographique Nord-Pas de Calais (PPIGE) (https://www.ppige-npdc.fr/)
  
 Des agglomérations:
 
