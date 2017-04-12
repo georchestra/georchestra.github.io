@@ -33,6 +33,7 @@ Subnational level:
  * Picardie (France) with [GéoPicardie](http://www.geopicardie.fr/portail/) project
  * Alsace (France) with [CIGAL](http://www.cigalsace.org/portail/) partnership
  * Auvergne (France) with [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/).
+ * Nord-Pas-de-Calais (France), with  [PPIGE] (https://www.ppige-npdc.fr/)
 
 Urban area level:
 
