@@ -32,7 +32,8 @@ Subnational level:
  * Aquitaine (France) with [PIGMA](http://www.pigma.org) project by [GIP ATGeRI](http://www.gipatgeri.fr/)
  * Picardie (France) with [GéoPicardie](http://www.geopicardie.fr/portail/) project
  * Alsace (France) with [CIGAL](http://www.cigalsace.org/portail/) partnership
- * Auvergne (France) with [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/).
+ * Auvergne (France) with [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/)
+ * Nord-Pas-de-Calais (France), with [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
 
 Urban area level:
 

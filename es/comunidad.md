@@ -33,7 +33,7 @@ Nivel SubNacional:
  * Picardie (Francia) con el proyecto [GéoPicardie](http://www.geopicardie.fr/portail/) 
  * Alsace (Francia) en asociación con [CIGAL](http://www.cigalsace.org/portail/)
  * Auvergne (Francia) con [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/).
-
+ * Nord-Pas-de-Calais (Francia) con [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
 Nivel Urbano:
 
  * [Rennes Métropole](http://metropole.rennes.fr/) (Francia)
