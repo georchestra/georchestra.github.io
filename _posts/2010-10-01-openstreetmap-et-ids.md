@@ -25,10 +25,7 @@ une suite de styles mapserver. <a href="http://blog.geoserver.org/2009/01/30/geo
 initiatives similaires</a> existent dans le monde geoserver.</p>
 <h3>170 classes</h3>
 <p>Pierre Mauduit a réutilisé ce travail pour produire trois styles visibles
-sur qualitystreetmap.org : <a href="http://maps.qualitystreetmap.org/?zoom=12&amp;lat=6066711.44625&amp;lon=-373896.02136&amp;layers=B00F00">
-osm</a>, <a href="http://maps.qualitystreetmap.org/?zoom=12&amp;lat=6066711.44625&amp;lon=-373896.02136&amp;layers=0B0F00">
-google</a> et <a href="http://maps.qualitystreetmap.org/?zoom=12&amp;lat=6066711.44625&amp;lon=-373896.02136&amp;layers=00BF00">
-bing</a>. Ils offrent un rendu agréable et homogène à toutes les échelles grâce
+sur qualitystreetmap.org : osm, google et bing. Ils offrent un rendu agréable et homogène à toutes les échelles grâce
 à plus de 170 classes décrites.</p>
 <p><a href="/public/screenshots/style_osm.png"><img src="/public/screenshots/style_osm.png" alt="osm style osm" title="osm style osm, sept. 2010" /></a> <a href="/public/screenshots/style_bing.png"><img src="/public/screenshots/style_bing.png" alt="osm style bing" title="osm style bing, sept. 2010" /></a> <a href="/public/screenshots/style_google.png"><img src="/public/screenshots/style_google.png" alt="osm style google" title="osm style google, sept. 2010" /></a></p>
 <h3>Intégration dans geOrchestra</h3>

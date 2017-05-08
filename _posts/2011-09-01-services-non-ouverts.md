@@ -7,8 +7,8 @@ uid: 2011-09-01-20-13
 ---
 
 <p>Dans quelques jours, l'API Yahoo sera fermée. Yahoo recommande à ses utilisateurs de se
-tourner vers <a href="http://api.maps.ovi.com/" hreflang="en">celle de
-Nokia</a>. Et dans un <a href="http://trac.osgeo.org/openlayers/ticket/3481" hreflang="en">ticket d'OpenLayers</a> on trouve :</p>
+tourner vers celle de
+Nokia. Et dans un ticket d'OpenLayers (#3481) on trouve :</p>
 <p><q>Finally, the GoogleNG layer violates the overall intent of the terms of
 service that to use the tiles, you've got to use the whole map interface. The
 whole point is that you can't use the tiles directly.</q>. Traduction:

@@ -31,6 +31,5 @@ atelier Roadmap</a> (jeudi 30 mai matin)</li>
 synthèse des ateliers et organisation de la communauté</a> (jeudi 30 mai
 matin)</li>
 <li>les photos sur <a href="http://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/" title="http://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/">http://www.flickr.com/photos/fvande...</a></li>
-<li>le <a href="https://www.pigma.org/reunions-nationales">reportage
-complet</a> sur la plateforme PIGMA</li>
+<li>le reportage complet sur la plateforme PIGMA</li>
 </ul>

@@ -17,7 +17,7 @@ in Clermont-Ferrand, France, on June the 19th and 20th.</p>
 <!--more-->
 
 <p>Please help us create the best geOrchestra event : pick the talks you'd like
-to attend ! You can make your say here: <a href="http://framadate.org/ge61u7wm8hz3yk7w" hreflang="en">http://framadate.org/ge61u7wm8hz3yk7w</a></p>
+to attend ! You can make your say here: http://framadate.org/ge61u7wm8hz3yk7w</p>
 <p>The 8 talks which will receive the more votes will be chosen, so that we can
 release the program before the end of the month.</p>
 <p>Want to submit your own talk ? It's not too late, please contact us : psc at

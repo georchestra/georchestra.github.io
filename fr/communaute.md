@@ -28,11 +28,11 @@ Des Etats :
 
 Des régions :
 
- * la Bretagne, via le partenariat [GeoBretagne](http://www.geobretagne.fr),
- * l'Aquitaine, via le projet [PIGMA](http://www.pigma.org) mis en place par le [GIP ATGeRI](http://www.gipatgeri.fr/),
+ * la Bretagne, via le partenariat [GeoBretagne](https://geobretagne.fr),
+ * l'Aquitaine, via le projet [PIGMA](https://www.pigma.org) mis en place par le [GIP ATGeRI](https://www.gipatgeri.fr/),
  * la Picardie, via le partenariat [GéoPicardie](http://www.geopicardie.fr/portail/), 
  * l'Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
- * l'Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](http://craig.fr/).
+ * l'Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/).
  * le Nord-Pas-de-Calais, via la [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
  
 Des agglomérations:
