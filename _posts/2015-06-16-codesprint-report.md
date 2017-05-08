@@ -18,7 +18,7 @@ Nos sujets de sprint : les rasters, l'accompagnement des utilisateurs, la superv
 Par méconnaissance de son potentiel, la donnée raster est le parent pauvre des IDS. Le groupe a souhaité montrer qu'elle peut être exploitée grâce au profil SLD.
 Le stylage raster n'entraîne aucun ralentissement : pourquoi s'en priver !
 
-Un styleur raster intégré au [visualiseur geOrchestra](http://sdi.georchestra.org/mapfishapp) a été conçu. Reposant sur un workflow similaire au styleur vecteur
+Un styleur raster intégré au visualiseur geOrchestra a été conçu. Reposant sur un workflow similaire au styleur vecteur
 (trouver le Web Coverage Service, décrire les données, construire un formulaire, stocker le style, le rappeler, le partager),
 il permet le choix de la bande à traiter, la fabrication et l'application de la colormap.
 

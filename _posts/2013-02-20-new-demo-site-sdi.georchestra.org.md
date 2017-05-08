@@ -7,9 +7,9 @@ uid: 2013-02-20
 ---
 
 <p>We have a dedicated demo site !</p>
-<p><a href="https://sdi.georchestra.org/" hreflang="en" data-proofer-ignore>http://sdi.georchestra.org/</a> will publish modules builds on a regular
-basis to review and test the new features. We are using <a href="https://sdi.georchestra.org/ci/" hreflang="en" data-proofer-ignore>continuous integration with
-Jenkins</a> to maintain a local repository, to build and deploy the modules and
+<p>https://sdi.georchestra.org/ will publish modules builds on a regular
+basis to review and test the new features. We are using https://sdi.georchestra.org/ci/ continuous integration with
+Jenkins to maintain a local repository, to build and deploy the modules and
 to perform scheduled tasks. The 8-cores server is operated by the PSC
 members.</p>
 

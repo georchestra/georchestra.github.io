@@ -24,7 +24,7 @@ Contributions may take several forms:
 State level:
 
  * Plurinational state of Bolivia with [GeoBolivia](http://geo.gob.bo/)
- * Several national and international organisations in La Paz are currently testing geOrchestra. Have a look at the [map](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747).
+ * Several national and international organisations in La Paz are currently testing geOrchestra.
 
 Subnational level:
 

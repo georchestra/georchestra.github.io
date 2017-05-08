@@ -24,7 +24,7 @@ Toutes les formes de contributions sont les bienvenues :
 Des Etats :
 
  * la Bolivie, avec le projet [GeoBolivia](http://geo.gob.bo/),
- * plusieurs organisations nationales et internationales basées à La Paz sont en phase de test de geOrchestra. Voir la [carte](http://sdi.georchestra.org/mapfishapp/map/115616d003157b65fb55701c5b240747).
+ * plusieurs organisations nationales et internationales basées à La Paz sont en phase de test de geOrchestra.
 
 Des régions :
 

@@ -13,7 +13,7 @@ This release brings several key enhancements:
  * full support for the newer Debian 8 "Jessie", which means a longer life span for your server.
  * standard GeoServer artifacts can be used instead of the "geOrchestra flavoured GeoServer". Not only will this bring new features more quickly in, but this will also make your administrator more relax when a vulnerability is discovered in GeoServer.
  * integration tests are run [everytime](https://github.com/georchestra/georchestra/blob/15.06/.travis.yml) new code is contributed to geOrchestra, thanks to the free [travis-ci](https://travis-ci.org/georchestra/georchestra) service.
- * lighter artifacts. We achieved a 20 to 50% reduction of size by excluding useless documentation, examples and tests from the WAR file. This saves bandwidth (and time !) for those of you who pull the artifacts from our <a href="https://sdi.georchestra.org/ci/job/georchestra-template/" data-proofer-ignore>hosted CI</a>.
+ * lighter artifacts. We achieved a 20 to 50% reduction of size by excluding useless documentation, examples and tests from the WAR file. This saves bandwidth (and time !) for those of you who pull the artifacts from our hosted CI.
 
 <img src="/public/posts/2015-07-13/travis.png" alt="travis-ci" />
 

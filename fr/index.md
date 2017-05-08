@@ -20,4 +20,4 @@ Cette base est complétée par une suite de modules indépendants et interopéra
 
 La communication entre modules utilise principalement les standards de l'[OGC](http://fr.wikipedia.org/wiki/Open_Geospatial_Consortium), mais également des API [REST](http://fr.wikipedia.org/wiki/Representational_State_Transfer).
 
-D'extension initialement Bretonne, puis Française, geOrchestra s'exporte maintenant [à travers le monde](http://sdi.georchestra.org/mapfishapp/?wmc=app/contexts/relief.wmc) avec des instances en Bolivie, au Nicaragua, en Suisse et en Inde.
+D'extension initialement Bretonne, puis Française, geOrchestra s'exporte maintenant à travers le monde avec des instances en Bolivie, au Nicaragua, en Suisse et en Inde.

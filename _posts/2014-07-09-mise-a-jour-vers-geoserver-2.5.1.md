@@ -19,7 +19,7 @@ Citons notamment :
  * de meilleures performances sur les couches vecteur servies par postgis.
  * ...
 
-Nous avons réussi à compiler et déployer la dernière version stable de GeoServer sur la [plateforme de démonstration](http://sdi.georchestra.org/geoserver/web/) avec les options suivantes : app-schema, authkey, charts, control-flow, css, csw, dds, dxf, feature-aggregate, feature-pregeneralized, gdal, geoxacml, imagemap, inspire, istyler, libjpeg-turbo, mysql, ogr, pyramid, script, spatialite, wps, w3ds.
+Nous avons réussi à compiler et déployer la dernière version stable de GeoServer sur la plateforme de démonstration avec les options suivantes : app-schema, authkey, charts, control-flow, css, csw, dds, dxf, feature-aggregate, feature-pregeneralized, gdal, geoxacml, imagemap, inspire, istyler, libjpeg-turbo, mysql, ogr, pyramid, script, spatialite, wps, w3ds.
 
 Cette évolution sera livrée avec geOrchestra 14.12.  
 En effet, dans les semaines à venir, nous allons vérifier la bonne intégration de cette nouvelle version avec l'ensemble des composants de la suite geOrchestra.  

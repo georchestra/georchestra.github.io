@@ -75,7 +75,7 @@ Also, system security was tightened especially at the OGC proxy-level.
 
 ## Admin-side
 
-Build stability was improved through a new [project-dedicated maven repository](http://sdi.georchestra.org/maven/repository/) and javascript build-error detection.
+Build stability was improved through a new project-dedicated maven repository and javascript build-error detection.
 
 Moreover, the project now proposes configuration examples as the [htdocs](https://github.com/georchestra/htdocs) directory, and minimal configuration directories for [GeoServer](https://github.com/georchestra/geoserver_minimal_datadir) and [GeoNetwork](https://github.com/georchestra/geonetwork_minimal_datadir).
 
