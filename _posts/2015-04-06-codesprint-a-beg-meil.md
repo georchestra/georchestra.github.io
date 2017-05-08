@@ -24,7 +24,7 @@ Les objectifs :
 
 ## Organisation
 
-Le sprint se déroulera dans les locaux de l'[Agrocampus Ouest à Beg Meil](http://geobretagne.fr/m/?x=-443596&y=6083708&z=18&lb=1&title=codesprint+geOrchestra) les jeudi 11 et vendredi 12 juin 2015.
+Le sprint se déroulera dans les locaux de l'[Agrocampus Ouest à Beg Meil](https://geobretagne.fr/m/?x=-443596&y=6083708&z=18&lb=1&title=codesprint+geOrchestra) les jeudi 11 et vendredi 12 juin 2015.
 
 Un hébergement est possible (38.50€) et les repas peuvent être pris sur place (11€), à réserver avant. 
 

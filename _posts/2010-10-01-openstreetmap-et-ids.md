@@ -118,5 +118,5 @@ OpenStreetMap, <strong>geOrchestra se dote d'un référentiel cartographique
 libre, performant, prêt à l'emploi dans les projections utilisées par les
 SIG.</strong> En attendant de découvrir toutes les possibilités offertes par
 cet apport, on ne peut que remercier la communauté des <em>mappers</em> et les
-contributeurs qui ont aidé au montage. <a href="http://geobretagne.fr/mapfishapp">GeoBretagne bénéficie déjà du fond
+contributeurs qui ont aidé au montage. <a href="https://geobretagne.fr/mapfishapp">GeoBretagne bénéficie déjà du fond
 OpenStreetMap</a>.</p>

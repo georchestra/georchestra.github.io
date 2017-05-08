@@ -46,7 +46,7 @@ El comité directivo cuenta con 13 miembros:
  * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
  * **Louca Lerch**, geógrafo, [GeoBolivia](http://geo.gob.bo/) y [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
  * **Nicolas Chavent**, geógrafo, OpenStreetMap,  IDS Francophone Libre (IFL)
- * **Stéphane Mével-Viannay**, jefe de proyecto [GéoBretagne](http://geobretagne.fr)
+ * **Stéphane Mével-Viannay**, jefe de proyecto [GéoBretagne](https://geobretagne.fr)
  * **Ernest Chiarello**, operador SDI & administrador de sistemas, [UMR ThéMA](http://thema.univ-fcomte.fr/)
  * **Hervé Squividant**, profesor & investigador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](http://metropole.rennes.bzh/)

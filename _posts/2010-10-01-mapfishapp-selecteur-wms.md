@@ -17,7 +17,7 @@ La liste des serveurs provient d'un flux JSON ressemblant à ceci :</p>
 {
   servers: [
     {&quot;name&quot;: &quot;GeoLittoral&quot;, &quot;url&quot;: &quot;http://geolittoral.application.equipement.gouv.fr/wms/metropole&quot;},
-    {&quot;name&quot;: &quot;GeoBretagne.fr&quot;, &quot;url&quot;: &quot;http://geobretagne.fr/geoserver/wms&quot;}
+    {&quot;name&quot;: &quot;GeoBretagne.fr&quot;, &quot;url&quot;: &quot;https://geobretagne.fr/geoserver/wms&quot;}
   ]
 }
 ~~~

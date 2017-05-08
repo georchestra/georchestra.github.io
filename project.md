@@ -44,7 +44,7 @@ The steering committee features 13 members:
  * **Landry Breuil**, SDI operator & sysadmin at [CRAIG](http://craig.fr/),
  * **Louca Lerch**, geographer at [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
  * **Nicolas Chavent**, geographer, OpenStreetMap, IDS Francophone Libre (IFL)
- * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](http://geobretagne.fr)
+ * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](https://geobretagne.fr)
  * **Ernest Chiarello**, SDI operator & sysadmin at [UMR ThéMA](http://thema.univ-fcomte.fr/)
  * **Hervé Squividant**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
