@@ -34,12 +34,15 @@ Nivel SubNacional:
  * Alsace (Francia) en asociación con [CIGAL](https://www.cigalsace.org/portail/)
  * Auvergne (Francia) con [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/).
  * Nord-Pas-de-Calais (Francia) con [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
+ * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
+
 Nivel Urbano:
 
  * [Rennes Métropole](http://metropole.rennes.fr/) (Francia)
  * Asociación de Municipios Productivos del Norte (Nicaragua)
  * [ViennAgglo](http://www.paysviennois.fr/) (Francia)
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) (Francia)
+ * [Intermunicipal Community of Terras of Trás-os-Montes](https://ide.cim-ttm.pt/mapfishapp/), Portugal
 
 Investigación y educación:
 

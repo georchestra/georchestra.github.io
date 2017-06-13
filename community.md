@@ -34,6 +34,7 @@ Subnational level:
  * Alsace (France) with [CIGAL](https://www.cigalsace.org/portail/) partnership
  * Auvergne (France) with [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/)
  * Nord-Pas-de-Calais (France), with [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
+ * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
 
 Urban area level:
 
@@ -41,6 +42,7 @@ Urban area level:
  * Asociación de Municipios Productivos del Norte (Nicaragua)
  * [ViennAgglo](http://www.paysviennois.fr/) (France)
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) (France)
+ * [Intermunicipal Community of Terras of Trás-os-Montes](https://ide.cim-ttm.pt/mapfishapp/), Portugal
 
 Research and education:
 

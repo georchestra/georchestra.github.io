@@ -34,6 +34,7 @@ Des régions :
  * l'Alsace, via le partenariat [CIGAL](http://www.cigalsace.org/portail/),
  * l'Auvergne, grâce au GIP du [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/).
  * le Nord-Pas-de-Calais, via la [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
+ * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
  
 Des agglomérations:
 
@@ -41,6 +42,7 @@ Des agglomérations:
  * Asociación de Municipios Productivos del Norte au Nicaragua,
  * [ViennAgglo](http://www.paysviennois.fr/) en France. 
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) en France
+ * [Intermunicipal Community of Terras of Trás-os-Montes](https://ide.cim-ttm.pt/mapfishapp/), Portugal
 
 Des organismes ou unités de recherche :
 
