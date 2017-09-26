@@ -28,12 +28,11 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 
 Les éditions précédentes du "geOcom" se sont tenues :
 
- * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016.
- * à la Maison de l'Alsace (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
+ * à [CampToCamp](https://www.camptocamp.com), Chambéry, en 2017,
+ * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016,
+ * à la Maison de la Région (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
  * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand en 2014,
- * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013,
- 
-Pour 2017, [nous nous retrouverons à Chambéry](https://twitter.com/georchestra/status/839516601816858625), du 6 au 8 juin !
+ * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
  
 ## Comité de pilotage
 
