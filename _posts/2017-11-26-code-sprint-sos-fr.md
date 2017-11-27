@@ -1,0 +1,65 @@
+---
+layout: post
+title:  "Code Sprint SWE/SOS & Doc"
+date:   2017-11-26 19:33:13
+lang: fr
+uid: 2010-11-26
+---
+
+Pendant 3 jours, cette dernière semaine, s'est tenu le "Code Sprint SWE/SOS & Doc", au laboratoire d'innovation publique "Ti Lab", à Rennes.
+Une quinzaine de personnes, issues de la communauté geOrchestra et plus largement du monde de la recherche, se sont retrouvées autour de deux objectifs : se faire la main sur des données, standards et logiciels du "sensor web", et travailler sur la documentation de l'administrateur de plateforme geOrchestra.
+
+Retour sur l'événement, en mode compte rendu.
+
+<!--more-->
+
+Les capteurs, de plus en plus omniprésents, génèrent des séries de données temporelles géoréférencées. Etre en mesure de les acquérir, traiter, stocker & partager est un enjeu important, qu'une IDS doit désormais être en mesure d'adresser.
+L'OGC a d'ailleurs produit un certain nombre de standards (Observations & Measurements, SensorML, SensorThings, SOS, SPS...) à cet effet.
+
+L'objectif à court terme était donc, pour notre groupe d'une dizaine de personnes, de se familiariser avec les concepts, comprendre l'usage de ces nouveaux standards, et de tester leur effectivité en mettant en oeuvre un service et une application cliente sur la base de données fournies au début de l'expérimentation.
+A moyen terme, nous souhaitons ajouter à geOrchestra la capacité de servir et de consommer ces nouveaux types de données, en les croisant avec le patrimoine de données géoréférencées déjà présent sur une plateforme.
+
+Nous avons rapidement identifié le standard SOS comme premier objet d'intérêt pour notre IDS. Peut être un peu vite, car SensorThings, plus récent, se montre également très prometteur.
+
+Les services SOS sont moins répandus que nos classiques WMS, WFS ou même CSW. Pour preuve, nous n'en avons identifié qu'une petite dizaine dans le monde francophone, reposant notamment sur les logiciels [istSOS](http://www.istsos.org/), [52 North](), [Constellation]() ou encore [OpenSensorHub]().
+Nous vous en livrons quelques uns ci-dessous, à travers leurs documents de capacités:
+
+ * [Grand Lyon Velov](https://download.data.grandlyon.com/sos/velov?service=SOS&request=GetCapabilities) avec istSOS
+ * [Observatoire AMMA-CATCH](http://bd.amma-catch.org/amma-catchWS2/WS/sos/default?service=SOS&request=GetCapabilities) avec Constellation
+ * [Un service de test](http://sensiasoft.net:8181/sensorhub/sos?service=SOS&acceptVersions=2.0.0&request=GetCapabilities) avec OpenSensorHub
+ * [La démo](http://sensorweb.demo.52north.org/52n-sos-webapp/service?service=SOS&request=GetCapabilities) de 52 North
+
+Où l'on constate que ces services répondent à un certain nombre de sollicitations, telles que GetObservation, .... getResult et GetResultTemplate.
+ * GetCapabilities est le moyen --classique dans le monde OGC-- d'accéder aux capacités du service: publieur, offerings, etc
+ * ...
+ 
+Très vite, on se rend compte qu'il nous faut acquérir un nouveau vocable, pour entrer dans ce monde des capteurs... 
+ * une "Feature of Interest", aka FoI, est un objet du monde réel, dont on va s'intéresser aux évolutions d'une variable (ex: la température, pour le FoI "rivière Loire").
+ * une "Observed Property" ou encore "Phenomenon" est une propriété que l'on mesure à l'aide d'un capteur. Typiquement, on mesure la température, la luminosité, la hauteur d'eau...
+ * une "Procedure" : il peut s'agir soit d'un capteur physique, qui réalise la mesure, soit du résultat d'un calcul, par exemple une simulation numérique
+ * un "Result" est, sans surprise, la valeur de mesurée d'une "Observed Property"
+ * un "Phenomenon Time" indique l'heure associée au résultat de l'observation
+ * une "Observation" est effectuée sur une "Procedure" donnée, qui mesure une "Observed Property" d'une "Feature of Interest" à un certain "Phenomenon Time", elle est stockée dans le "Result". Ouf !
+
+Ces premières présentations effectuées, nous avons voulu installer et configurer un certain nombre de serveurs SOS: MapServer, OpenSensorHub, 52 North, ... 
+
+L'expérimentation avec MapServer est reproductible sur la base du dépôt [fvanderbiest/mapserver-sos-experiment](https://github.com/fvanderbiest/mapserver-sos-experiment) contenant données et configurations applicatives. Sur cette base, nous avons pu monter un serveur SOS 1.0.0 fonctionnel à partir des données fournies, assez rapidement (quelques heures), qui supporte GetObservation.
+Le service est cependant très limité : uniquement SOS 1.0.0 et il manque cruellement le support de getFeatureOfInterest ! 
+Pour finir, le support de SOS dans MapServer semble ancien, et assez peu maintenu.
+
+On installe très rapidement OpenSensorHub à partir du [binaire fourni](https://github.com/opensensorhub/osh-core/releases), et on accède facilement à une démonstration et une interface d'administration classieuse.
+La [documentation fournie](http://docs.opensensorhub.org/) est intéressante, mais insuffisante sur certains points, notamment la connection aux données. Le support de PostGreSQL est manquant pour le moment, seul ElasticSearch semble supporté actuellement. Nous n'irons donc pas plus loin dans le cadre du code sprint.
+
+52 North SOS s'installe sans mal dans un container de servlet (tomcat, jetty) avec un PostGreSQL/PostGIS pour la persistence. Il y crée très vite une bonne [cinquantaine de tables](https://wiki.52north.org/SensorWeb/SosDataModeling), reprenant les concepts exposés ci-dessus. L'enjeu est donc d'alimenter ces tables à partir des données de l'expérience. Une première approche, en mode "ETL" échoue, du fait de la complexité du schéma. La seconde est plus concluante, sur la base des requêtes InsertFeatureOfInterest, InsertSensor, InsertObservation, InsertResultTemplate, InsertResult, qui se scriptent relativement aisément.
+
+Côté client, OpenLayers 2 offre un support limité de SOS 1.0.0, grâce à une collection de classes de type protocole et formats. On réutilise donc l'[exemple fourni](http://dev.openlayers.org/releases/OpenLayers-2.13.1/examples/sos.html) pour consommer les services que nous venons de monter, ainsi que ceux précédemment identifiés. Les tentatives ne sont pas très concluantes dans le temps imparti, soit parce que MapServer ne supporte pas GetFeatureOfInterest, soit parce que nous n'arrivons pas à récupérer les observations (service Amma Catch).
+
+OpenSensorHub offre une bibliothèque cliente très complet pour interagir avec des services SOS et visualiser les données : [opensensorhub/osh-js](https://github.com/opensensorhub/osh-js). Les [exemples fournis](http://opensensorhub.github.io/osh-js/Showcase/) sont séduisants. On note surtout la possibilité:
+
+ * d’utiliser des websockets pour garder la communication ouverte entre client et serveur
+ * de créer des dashboards pour visualiser l’état des capteurs
+ * d’interagir avec des cartes.
+
+
+En parallèle, un autre groupe a réfléchi aux modalités d'écriture et de mise à disposition de la documentation dédiée aux administrateurs de plateformes geOrchestra.
+
