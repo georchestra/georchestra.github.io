@@ -14,24 +14,20 @@ Retour sur l'événement, en mode compte rendu.
 <!--more-->
 
 Les capteurs, de plus en plus omniprésents, génèrent des séries de données temporelles géoréférencées. Etre en mesure de les acquérir, traiter, stocker & partager est un enjeu important, qu'une IDS doit désormais être en mesure d'adresser.
-L'OGC a d'ailleurs produit un certain nombre de standards (Observations & Measurements, SensorML, SensorThings, SOS, SPS...) à cet effet.
+L'OGC a d'ailleurs produit un certain nombre de standards ([Observations & Measurements](http://www.opengeospatial.org/standards/om), [SensorML](http://www.opengeospatial.org/standards/sensorml), [SensorThings](http://www.opengeospatial.org/standards/sensorthings), [SOS](http://www.opengeospatial.org/standards/sos), [SPS](http://www.opengeospatial.org/standards/sps)...) à cet effet.
 
 L'objectif à court terme était donc, pour notre groupe d'une dizaine de personnes, de se familiariser avec les concepts, comprendre l'usage de ces nouveaux standards, et de tester leur effectivité en mettant en oeuvre un service et une application cliente sur la base de données fournies au début de l'expérimentation.
-A moyen terme, nous souhaitons ajouter à geOrchestra la capacité de servir et de consommer ces nouveaux types de données, en les croisant avec le patrimoine de données géoréférencées déjà présent sur une plateforme.
+A moyen terme, nous souhaiterions ajouter à geOrchestra la capacité de servir et de consommer ces nouveaux types de données, en les croisant avec le patrimoine de données géoréférencées déjà présent sur une plateforme.
 
 Nous avons rapidement identifié le standard SOS comme premier objet d'intérêt pour notre IDS. Peut être un peu vite, car SensorThings, plus récent, se montre également très prometteur.
 
-Les services SOS sont moins répandus que nos classiques WMS, WFS ou même CSW. Pour preuve, nous n'en avons identifié qu'une petite dizaine dans le monde francophone, reposant notamment sur les logiciels [istSOS](http://www.istsos.org/), [52 North](), [Constellation]() ou encore [OpenSensorHub]().
+Les services SOS sont moins répandus que nos classiques WMS, WFS ou même CSW. Pour preuve, nous n'en avons identifié qu'une petite dizaine dans le monde francophone, reposant notamment sur les logiciels [istSOS](http://www.istsos.org/), [52 North SOS](http://52north.org/communities/sensorweb/sos/), [Constellation](https://www.constellation-sdi.org/fr/) ou encore [OpenSensorHub](https://opensensorhub.org/).
 Nous vous en livrons quelques uns ci-dessous, à travers leurs documents de capacités:
 
  * [Grand Lyon Velov](https://download.data.grandlyon.com/sos/velov?service=SOS&request=GetCapabilities) avec istSOS
  * [Observatoire AMMA-CATCH](http://bd.amma-catch.org/amma-catchWS2/WS/sos/default?service=SOS&request=GetCapabilities) avec Constellation
  * [Un service de test](http://sensiasoft.net:8181/sensorhub/sos?service=SOS&acceptVersions=2.0.0&request=GetCapabilities) avec OpenSensorHub
  * [La démo](http://sensorweb.demo.52north.org/52n-sos-webapp/service?service=SOS&request=GetCapabilities) de 52 North
-
-Où l'on constate que ces services répondent à un certain nombre de sollicitations, telles que GetObservation, .... getResult et GetResultTemplate.
- * GetCapabilities est le moyen --classique dans le monde OGC-- d'accéder aux capacités du service: publieur, offerings, etc
- * ...
  
 Très vite, on se rend compte qu'il nous faut acquérir un nouveau vocable, pour entrer dans ce monde des capteurs... 
  * une "Feature of Interest", aka FoI, est un objet du monde réel, dont on va s'intéresser aux évolutions d'une variable (ex: la température, pour le FoI "rivière Loire").
@@ -52,7 +48,7 @@ La [documentation fournie](http://docs.opensensorhub.org/) est intéressante, ma
 
 52 North SOS s'installe sans mal dans un container de servlet (tomcat, jetty) avec un PostGreSQL/PostGIS pour la persistence. Il y crée très vite une bonne [cinquantaine de tables](https://wiki.52north.org/SensorWeb/SosDataModeling), reprenant les concepts exposés ci-dessus. L'enjeu est donc d'alimenter ces tables à partir des données de l'expérience. Une première approche, en mode "ETL" échoue, du fait de la complexité du schéma. La seconde est plus concluante, sur la base des requêtes InsertFeatureOfInterest, InsertSensor, InsertObservation, InsertResultTemplate, InsertResult, qui se scriptent relativement aisément.
 
-Côté client, OpenLayers 2 offre un support limité de SOS 1.0.0, grâce à une collection de classes de type protocole et formats. On réutilise donc l'[exemple fourni](http://dev.openlayers.org/releases/OpenLayers-2.13.1/examples/sos.html) pour consommer les services que nous venons de monter, ainsi que ceux précédemment identifiés. Les tentatives ne sont pas très concluantes dans le temps imparti, soit parce que MapServer ne supporte pas GetFeatureOfInterest, soit parce que nous n'arrivons pas à récupérer les observations (service Amma Catch).
+Côté client, OpenLayers 2 offre un support limité de SOS 1.0.0, grâce à une collection de classes de type protocole et formats. On réutilise donc l'[exemple fourni](http://dev.openlayers.org/releases/OpenLayers-2.13.1/examples/sos.html) pour consommer les services que nous venons de monter, ainsi que ceux précédemment identifiés. Les tentatives ne sont pas très concluantes dans le temps imparti, soit parce que MapServer ne supporte pas GetFeatureOfInterest, soit parce que nous n'arrivons pas à récupérer les observations (pour le service Amma Catch).
 
 OpenSensorHub offre une bibliothèque cliente très complet pour interagir avec des services SOS et visualiser les données : [opensensorhub/osh-js](https://github.com/opensensorhub/osh-js). Les [exemples fournis](http://opensensorhub.github.io/osh-js/Showcase/) sont séduisants. On note surtout la possibilité:
 
@@ -60,6 +56,7 @@ OpenSensorHub offre une bibliothèque cliente très complet pour interagir avec 
  * de créer des dashboards pour visualiser l’état des capteurs
  * d’interagir avec des cartes.
 
+Pour finir, un [compte rendu](https://docs.google.com/document/d/19EdIPI3Hj1ZrjsSUWwBPtviQka56ZDzXxBEKk6m-U1A/edit?usp=sharing) de l'atelier SOS a été écrit à plusieurs mains.
 
 En parallèle, un autre groupe a réfléchi aux modalités d'écriture et de mise à disposition de la documentation dédiée aux administrateurs de plateformes geOrchestra.
-
+La documentation a été amorcée sur [gitbook](https://georchestra.gitbooks.io/data-admin/content/fr/), elle mérite désormais d'être enrichie lors de futurs sprints. Un [compte rendu](https://docs.google.com/document/d/1sCprrc1c_FgEhDWs5EySGGal8CQN61BUCK3Q_gae_B0/edit) détaillé de la session "documentation" est également disponible.
