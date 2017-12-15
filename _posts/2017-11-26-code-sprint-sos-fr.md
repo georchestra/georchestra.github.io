@@ -30,12 +30,12 @@ Nous vous en livrons quelques uns ci-dessous, à travers leurs documents de capa
  * [La démo](http://sensorweb.demo.52north.org/52n-sos-webapp/service?service=SOS&request=GetCapabilities) de 52 North
  
 Très vite, on se rend compte qu'il nous faut acquérir un nouveau vocable, pour entrer dans ce monde des capteurs... 
- * une "Feature of Interest", aka FoI, est un objet du monde réel, dont on va s'intéresser aux évolutions d'une variable (ex: la température, pour le FoI "rivière Loire").
- * une "Observed Property" ou encore "Phenomenon" est une propriété que l'on mesure à l'aide d'un capteur. Typiquement, on mesure la température, la luminosité, la hauteur d'eau...
- * une "Procedure" : il peut s'agir soit d'un capteur physique, qui réalise la mesure, soit du résultat d'un calcul, par exemple une simulation numérique
- * un "Result" est, sans surprise, la valeur de mesurée d'une "Observed Property"
- * un "Phenomenon Time" indique l'heure associée au résultat de l'observation
- * une "Observation" est effectuée sur une "Procedure" donnée, qui mesure une "Observed Property" d'une "Feature of Interest" à un certain "Phenomenon Time", elle est stockée dans le "Result". Ouf !
+ * une "**Feature of Interest**", aka FoI, est un objet du monde réel, dont on va s'intéresser aux évolutions d'une variable (ex: la température, pour le FoI "rivière Loire").
+ * une "**Observed Property**" ou encore "**Phenomenon**" est une propriété que l'on mesure à l'aide d'un capteur. Typiquement, on mesure la température, la luminosité, la hauteur d'eau...
+ * une "**Procedure**" : il peut s'agir soit d'un capteur physique, qui réalise la mesure, soit du résultat d'un calcul, par exemple une simulation numérique
+ * un "**Result**" est, sans surprise, la valeur de mesurée d'une "**Observed Property**"
+ * un "**Phenomenon Time**" indique l'heure associée au résultat de l'observation
+ * une "**Observation**" est effectuée sur une "**Procedure**" donnée, qui mesure une "**Observed Property**" d'une "**Feature of Interest**" à un certain "**Phenomenon Time**", elle est stockée dans le "**Result**". Ouf !
 
 Ces premières présentations effectuées, nous avons voulu installer et configurer un certain nombre de serveurs SOS: MapServer, OpenSensorHub, 52 North, ... 
 
