@@ -19,7 +19,7 @@ L'OGC a d'ailleurs produit un certain nombre de standards ([Observations & Measu
 L'objectif à court terme était donc de se familiariser avec les concepts, comprendre l'usage de ces nouveaux standards, et de tester leur effectivité en mettant en œuvre un service et une application cliente sur la base de données fournies au début de l'expérimentation.
 A moyen terme, nous souhaiterions ajouter à geOrchestra la capacité de servir et de consommer ces nouveaux types de données, en les croisant avec le patrimoine de données géoréférencées déjà présent sur une plateforme.
 
-Nous avons rapidement identifié le standard SOS comme premier objet d'intérêt. Peut être un peu vite, car SensorThings, plus récent, se montre également très prometteur.
+Nous avons rapidement identifié le standard SOS comme premier objet d'intérêt. Peut être un peu vite, car [SensorThings](https://github.com/opengeospatial/sensorthings), plus récent, se montre également très prometteur.
 
 Les services SOS sont moins répandus que nos classiques services WMS, WFS ou même CSW. Pour preuve, nous n'en avons identifié qu'une petite dizaine dans le monde francophone, reposant notamment sur les logiciels [istSOS](http://www.istsos.org/), [52 North SOS](http://52north.org/communities/sensorweb/sos/), [Constellation](https://www.constellation-sdi.org/fr/) ou encore [OpenSensorHub](https://opensensorhub.org/).
 Nous vous en livrons quelques uns ci-dessous, à travers leurs documents de capacités:
