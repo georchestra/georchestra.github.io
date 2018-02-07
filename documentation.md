@@ -11,6 +11,6 @@ Please refer to the [README](https://github.com/georchestra/georchestra/blob/mas
 
 The **reference manuals** of the underlying standalone modules are also valuable sources of information:
 
- * on the [GeoServer website](http://docs.geoserver.org/2.8.x/en/user/) for the 2.8.2 version,
- * on the [GeoNetwork website](http://www.geonetwork-opensource.org/manuals/trunk/eng/users/index.html) for the 3.0.4 version,
- * on the [GeoWebCache website](http://geowebcache.org/docs/1.8.0/) for the 1.8.0 version.
+ * on the [GeoServer website](http://docs.geoserver.org/2.12.x/en/user/) for the 2.12 version,
+ * on the [GeoNetwork website](https://www.geonetwork-opensource.org/manuals/3.4.x/en/) for the 3.4 version,
+ * on the [GeoWebCache website](http://geowebcache.org/docs/1.8.1/) for the 1.8 version.

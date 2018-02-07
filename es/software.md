@@ -9,11 +9,11 @@ permalink: /es/software.html
 El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Security](http://projects.spring.io/spring-security/) y en un [Sistema single-sign-on](http://en.wikipedia.org/wiki/Single_sign-on) usando [CAS](http://www.jasig.org/cas).
 
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
-  
- * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-gn3-3.0.x/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 3.0.4,
- * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.8.2,
+
+ * un [catálogo de datos](https://github.com/georchestra/geonetwork/blob/georchestra-gn3-3.0.x/README.md) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 3.4,
+ * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.12.1,
  * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
- * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.8.0,
+ * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.8.1,
  * un [visor de mapas web](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) con consultas, estilos y funciones de edición,
  * un [extractor de datos](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
  * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
@@ -40,13 +40,14 @@ La plataforma geOrchestra brinda servicios web estándar, para descubrir ([CSW](
 
 #### Lanzamientos
 
-[Lanzamientos](https://github.com/georchestra/georchestra/releases) se publican cada 6 meses, a raiz de un [calendario previsto](https://github.com/georchestra/georchestra/milestones). 
+[Lanzamientos](https://github.com/georchestra/georchestra/releases) se publican cada 6 meses, a raiz de un [calendario previsto](https://github.com/georchestra/georchestra/milestones).
 Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un apoyo diferente.
 
-Version       | Docs                                                                                          | Released      | End of life 
+Version       | Docs                                                                                          | Released      | End of life
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | 2019-02
 16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | 2018-02
-15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | 2017-02
+15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | **2017-02**
 15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-es/)                                                | 2015-07-10    | **2016-07**
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-esta-disponible/)                                   | 2015-01-30    | **2016-01**
 14.06         | [Blog](/blog/2014/07/10/version-14.06-es/)                                                    | 2014-07-10    | **2015-07**
