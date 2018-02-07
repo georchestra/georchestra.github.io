@@ -10,13 +10,13 @@ Au coeur de geOrchestra se trouve un proxy de sécurité basé sur [Spring Secur
 
 geOrchestra propose en standard une suite de modules, indépendants et interopérables, avec lesquels on compose son Infrastructure de Données Spatiales "à la carte" :
 
- * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/blob/georchestra-gn3-3.0.x/README.md), basé sur [GeoNetwork](http://geonetwork-opensource.org/) version 2.10,
- * un serveur cartographique : [GeoServer](http://geoserver.org/) version 2.8.2,
+ * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/blob/georchestra-gn3-3.0.x/README.md), basé sur [GeoNetwork](http://geonetwork-opensource.org/) version 3.4.0,
+ * un serveur cartographique : [GeoServer](http://geoserver.org/) version 2.12.1,
  * un [module de gestion avancée des droits d'accès aux données](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md) : [GeoFence](https://github.com/geoserver/geofence),
- * un serveur de tuiles : [GeoWebCache](http://geowebcache.org/) version 1.8.0,
+ * un serveur de tuiles : [GeoWebCache](http://geowebcache.org/) version 1.8.1,
  * un [visualiseur de données géographiques avancé](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) qui remplit également la fonction d'éditeur d'objets géographiques,
  * un [extracteur](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md), qui permet de télécharger des archives contenant les données géographiques issues de services OGC,
- * une [console d'administration des utilisateurs et des groupes](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
+ * une [console d'administration des utilisateurs, roles et organismes](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
  * un [module présentant les statistiques d'utilisation](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) de l'IDS ("analytics").
 
 #### License
@@ -45,8 +45,9 @@ Sauf exceptions, nous publions une nouvelle [version](https://github.com/georche
 
 Version       | Docs                                                                                          | Sortie        | Fin de vie
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | 2019-02
 16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | 2018-02
-15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | 2017-02
+15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | **2017-02**
 15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-fr/)                                                | 2015-07-10    | **2016-07**
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-est-disponible/)                                    | 2015-01-30    | **2016-01**
 14.06         | [Blog](/blog/2014/07/10/version-14.06/)                                                       | 2014-07-10    | **2015-07**
@@ -62,4 +63,4 @@ Les versions ci-dessus sont portées par des branches qui dérivent de la branch
 
 Tout bogue est corrigé sur la plus ancienne branche supportée apportant la fonctionnalité, puis porté sur les branches les plus récentes (jusque master) par des "merge en cascade". Nous vous invitons à jeter un oeil à la [vue "réseau" du dépôt geOrchestra](https://github.com/georchestra/georchestra/network) pour en voir l'illustration.  
 
-Toute nouvelle fonctionnalité est implémentée sur la branche master, ce qui signifie qu'elle sera disponible pour la prochaine version stable. 
+Toute nouvelle fonctionnalité est implémentée sur la branche master, ce qui signifie qu'elle sera disponible pour la prochaine version stable.
