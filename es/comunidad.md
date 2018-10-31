@@ -43,6 +43,8 @@ Nivel Urbano:
  * [ViennAgglo](http://www.paysviennois.fr/) (Francia)
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) (Francia)
  * [Intermunicipal Community of Terras of Trás-os-Montes](https://ide.cim-ttm.pt/mapfishapp/), Portugal
+ * [Município de Oeiras](https://oeiras30mais.municipia.pt/), Portugal
+ * [Municipality of Nordeste, São Miguel Island](https://sigweb.cmnordeste.pt/), Portugal
 
 Investigación y educación:
 
