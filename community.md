@@ -24,7 +24,7 @@ Contributions may take several forms:
 State level:
 
  * Plurinational state of Bolivia with [GeoBolivia](http://geo.gob.bo/)
- * Several national and international organisations in La Paz are currently testing geOrchestra.
+ * Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa, with [GeoTiticaca](http://geotiticaca.org)
 
 Subnational level:
 
@@ -60,6 +60,10 @@ Research and education:
 Companies:
 
  * [TerraNIS](http://terranis.fr/en/), a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains.
+
+International organizations:
+
+ * [FAO representation in Bolivia](http://geofao.org.bo/)
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !
 

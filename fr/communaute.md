@@ -21,10 +21,10 @@ Toutes les formes de contributions sont les bienvenues :
 ## Qui utilise geOrchestra ?
 
 
-Des Etats :
+Des États :
 
  * la Bolivie, avec le projet [GeoBolivia](http://geo.gob.bo/),
- * plusieurs organisations nationales et internationales basées à La Paz sont en phase de test de geOrchestra.
+ * Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa, via [GeoTiticaca](http://geotiticaca.org)
 
 Des régions :
 
@@ -60,6 +60,10 @@ Des organismes ou unités de recherche :
 Entreprises:
 
  * [TerraNIS](http://terranis.fr/), une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement.
+
+Organisations internatioanles:
+
+ * [Représentation de la FAO en Bolivie](http://geofao.org.bo/)
 
 ... et bien d'autres encore.
 

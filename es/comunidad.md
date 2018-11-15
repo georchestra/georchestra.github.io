@@ -23,8 +23,7 @@ Las contribuciones pueden ser de diferentes formas:
 Nivel Estatal:
 
  * Estado Plurinacional de Bolivia con [GeoBolivia](http://geo.gob.bo/)
- * Ademas, varias instancias nacionales e internacionales basadas en La Paz se encuentran en fase de testeo de geOrchestra para sus IDE internas. 
-
+ * Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa, con [GeoTiticaca](http://geotiticaca.org)
 
 Nivel SubNacional:
 
@@ -60,6 +59,10 @@ Investigación y educación:
 Empresas:
 
  * [TerraNIS](http://terranis.fr/en/), una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente.
+
+Organizaciones internacionales:
+
+ * [Representación de la FAO en Bolivia](http://geofao.org.bo/)
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
 
