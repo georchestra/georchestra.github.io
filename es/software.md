@@ -16,7 +16,7 @@ geOrchestra ofrece módulos independientes e interoperables para construir su pr
  * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.8.1,
  * un [visor de mapas web](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) con consultas, estilos y funciones de edición,
  * un [extractor de datos](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
- * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
+ * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("ldapadmin"),
  * un [modulo para ver las estadísticas de uso de datos](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
 #### License

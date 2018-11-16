@@ -59,7 +59,7 @@ Investigación y educación:
 
 Empresas:
 
- * [TerraNIS](http://terranis.fr/en/), una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente.
+ * [TerraNIS](http://terranis.fr/), una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente.
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
 

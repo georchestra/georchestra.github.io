@@ -16,7 +16,7 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
  * un serveur de tuiles : [GeoWebCache](http://geowebcache.org/) version 1.8.1,
  * un [visualiseur de données géographiques avancé](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) qui remplit également la fonction d'éditeur d'objets géographiques,
  * un [extracteur](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md), qui permet de télécharger des archives contenant les données géographiques issues de services OGC,
- * une [console d'administration des utilisateurs, roles et organismes](https://github.com/georchestra/georchestra/blob/master/ldapadmin/README.md) ("ldapadmin"),
+ * une [console d'administration des utilisateurs, roles et organismes](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("ldapadmin"),
  * un [module présentant les statistiques d'utilisation](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) de l'IDS ("analytics").
 
 #### License
