@@ -15,6 +15,7 @@ Contributions may take several forms:
  * writing or improving the [documentation](https://github.com/georchestra/georchestra/blob/master/README.md),
  * helping improve [this website](https://github.com/georchestra/georchestra.github.io),
  * creating [bug reports](https://github.com/georchestra/georchestra/issues) and submitting enhancement requests,
+ * reporting security issues (in that case, please **do not fill a bug report** and instead send a mail to <psc@georchestra.org>),
  * contributions to the code, either patches or "[pull requests](https://help.github.com/articles/creating-a-pull-request)",
  * funding for [new features](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
 
