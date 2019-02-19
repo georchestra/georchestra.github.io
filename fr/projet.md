@@ -28,6 +28,7 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 
 Les éditions précédentes du "geOcom" se sont tenues :
 
+ * à l'Hôtel de région Hauts de France ([Géopicardie](http://www.geopicardie.fr/portail/)), Amiens, en 2018,
  * à [CampToCamp](https://www.camptocamp.com), Chambéry, en 2017,
  * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016,
  * à la Maison de la Région (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
