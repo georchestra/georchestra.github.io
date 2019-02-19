@@ -25,6 +25,7 @@ Every year, users and developers from the community meet in a different place to
 
 Previous events took place:
 
+ * at the "Hotel de Région" (location of the [Géopicardie](https://www.geopicardie.fr/portail/) partnership), Amiens, France, in 2018,
  * at [CampToCamp](https://www.camptocamp.com/), Chambéry, France, in 2017,
  * at the "Maison de l'Agriculture et de la Forêt d'Aquitaine" (location of the [PIGMA](https://www.pigma.org/) partnership), Bordeaux, France, in 2016,
  * at the "Maison de la Région" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015,
