@@ -17,6 +17,7 @@ The secondary theme will be the standardized production of documentation for pla
 ## When ?
 From monday 20 november noon to wednesday 22 noon.
 
+<!--more-->
 
 ## Where ?
 In Rennes<br />

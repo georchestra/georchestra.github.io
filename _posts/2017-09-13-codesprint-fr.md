@@ -17,6 +17,7 @@ Le thème secondaire concernera la production normalisée de la documentation en
 ## Quand ?
 Du lundi 20 novembre midi au mercredi 22 novembre midi.
 
+<!--more-->
 
 ## Où ?
 A Rennes<br />
