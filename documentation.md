@@ -14,3 +14,11 @@ The **reference manuals** of the underlying standalone modules are also valuable
  * on the [GeoServer website](http://docs.geoserver.org/2.12.x/en/user/) for the 2.12 version,
  * on the [GeoNetwork website](https://www.geonetwork-opensource.org/manuals/3.4.x/en/) for the 3.4 version,
  * on the [GeoWebCache website](http://geowebcache.org/docs/1.8.1/) for the 1.8 version.
+
+## OID registry
+
+The geOrchestra project [has been assigned](https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers)
+an Object Identifier (OID): `1.3.6.1.4.1.53611`. It is particularly useful to
+manage custom LDAP objects specific to geOrchestra. Below this root OID, the
+geOrchestra community maintains its own
+[OID registry]({{ site.baseurl }}{% link oid.md %}).
