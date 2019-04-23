@@ -45,8 +45,10 @@ Sauf exceptions, nous publions une nouvelle [version](https://github.com/georche
 
 Version       | Docs                                                                                          | Sortie        | Fin de vie
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
-17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | 2019-02
-16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | 2018-02
+19.04         | [Release](https://github.com/georchestra/georchestra/releases/tag/v19.04)                     | 2018-02-07    | 2020-04
+18.06         | [Release](https://github.com/georchestra/georchestra/releases/tag/v18.06)                     | 2018-02-07    | 2019-06
+17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | **2019-02**
+16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | **2018-02**
 15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | **2017-02**
 15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-fr/)                                                | 2015-07-10    | **2016-07**
 14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-est-disponible/)                                    | 2015-01-30    | **2016-01**
