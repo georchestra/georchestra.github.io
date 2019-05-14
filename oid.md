@@ -30,6 +30,13 @@ An auxiliary LDAP object class, representing a geOrchestra user.
 - partial OID: `1.1.1`
 - complete OID: `1.3.6.1.4.1.53611.1.1.1`
 
+### 1.1.2 - georchestraOrg
+
+An auxiliary LDAP object class, representing a geOrchestra organisation.
+
+- partial OID: `1.1.2`
+- complete OID: `1.3.6.1.4.1.53611.1.1.2`
+
 ### 1.2 - Attribute types
 
 A "branch" for all custom LDAP attribute types.
