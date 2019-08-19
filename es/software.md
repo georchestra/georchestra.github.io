@@ -45,8 +45,8 @@ Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un ap
 
 Version       | Docs                                                                                          | Released      | End of life
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
-19.04         | [Release](https://github.com/georchestra/georchestra/releases/tag/v19.04)                     | 2018-02-07    | 2020-04
-18.06         | [Release](https://github.com/georchestra/georchestra/releases/tag/v18.06)                     | 2018-02-07    | 2019-06
+19.04         | [Release](https://github.com/georchestra/georchestra/releases/tag/v19.04)                     | 2019-04-12    | 2020-04
+18.06         | [Release](https://github.com/georchestra/georchestra/releases/tag/v18.06)                     | 2018-07-20    | 2019-07
 17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | **2019-02**
 16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | **2018-02**
 15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | **2017-02**
