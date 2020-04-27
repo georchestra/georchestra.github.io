@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "annulation du geOcom 2020"
+title: "geOcom 2020 canceled"
 date: 2020-04-27 14:00:00
-lang: fr
+lang: en
 uid: 2020-04-27
 ---
 
