@@ -49,3 +49,4 @@ El comité directivo cuenta con 13 miembros:
  * **Hervé Squividant**, profesor & investigador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](http://metropole.rennes.bzh/)
  * **Jean-Pascal Klipfel**, operador SDI, [CIGAL](https://www.cigalsace.org/portail/)
+ * **Jean Pommier**, desarrollador y consultor, [Pi-Geosolutions](http://www.pi-geosolutions.fr/)
