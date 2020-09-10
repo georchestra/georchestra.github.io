@@ -52,3 +52,4 @@ Le comité de pilotage est composé de 13 membres :
  * **Hervé Squividant**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, géographe, chargé de mission, [Rennes Métropole](http://metropole.rennes.bzh/)
  * **Jean-Pascal Klipfel**, gestionnaire d'IDS, [CIGAL](https://www.cigalsace.org/portail/)
+ * **Jean Pommier**, développeur et consultant, [Pi-Geosolutions](http://www.pi-geosolutions.fr/)
