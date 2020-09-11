@@ -46,4 +46,4 @@ The steering committee features 13 members:
  * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](https://geobretagne.fr)
  * **Hervé Squividant**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
- * **Jean Pommier**, software developer & consultant at [Pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](http://www.pi-geosolutions.fr/)
