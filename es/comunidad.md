@@ -6,7 +6,7 @@ uid: community
 permalink: /es/comunidad.html
 ---
 
-geOrchestra es un proyecto impulsado por la comunidad. Cualquier persona puede contribuir, y cada contribución puede ser reutilizado libremente por todos.
+geOrchestra es un proyecto impulsado por la comunidad. Cualquier persona puede contribuir, y cada contribución puede ser reutilizada libremente por todos.
 
 Las contribuciones pueden ser de diferentes formas:
 
@@ -28,13 +28,14 @@ Nivel Estatal:
 
 Nivel SubNacional:
 
- * Bretagne (Francia), en asociación con [GeoBretagne](https://geobretagne.fr) 
+ * Bretagne (Francia), en asociación con [GeoBretagne](https://geobretagne.fr)
  * Aquitaine (Francia) con el proyecto [PIGMA](https://www.pigma.org) realizado por  [GIP ATGeRI](https://www.gipatgeri.fr/)
- * Picardie (Francia) con el proyecto [GéoPicardie](http://www.geopicardie.fr/portail/) 
+ * Picardie (Francia) con el proyecto [GéoPicardie](http://www.geopicardie.fr/portail/)
  * Alsace (Francia) en asociación con [CIGAL](https://www.cigalsace.org/portail/)
  * Auvergne (Francia) con [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/).
  * Nord-Pas-de-Calais (Francia) con [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
  * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
+ * [Región de Prešov](https://geopresovregion.sk/) (Slovakia)
 
 Nivel Urbano:
 
@@ -73,17 +74,17 @@ Organizaciones internacionales:
 
 La [lista de contribuidores](https://github.com/orgs/georchestra/people) solo permite dar una visión parcial.
 
-El ecosistema GitHub permite amplias contribuciones principalmente a través del principio de "Pull Request". Estas contribuciones son intensamente revisados y probados, que finalmente llevan a su aceptación e integración ("merge").
+El ecosistema GitHub permite amplias contribuciones principalmente a través del principio de "Pull Request". Estas contribuciones son intensamente revisadas y probadas, que finalmente llevan a su aceptación e integración ("merge").
 
 
 ## Cómo puedo encontrar ayuda ?
 
-Nosotros encantados de darle una mano en el canal de [#georchestra](https://kiwiirc.com/client/irc.freenode.net/georchestra) (**freenode** IRC server).
+Seremos encantados de darle una mano en el canal de [#georchestra](https://kiwiirc.com/client/irc.freenode.net/georchestra) (**freenode** IRC server).
 
 El Proyecto cuenta con dos **listas de correos**, al que puede unirse libremente para pedir ayuda:
 
  * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) es la lista de propósito general sobre geOrchestra,
- * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) es la lista mas técnica y orientado al desarrollo
+ * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) es la lista mas técnica y orientada al desarrollo
 
 Usar psc@georchestra.org para llegar al Project Steering Committee.<br />
 No se prestará apoyo en esta dirección.

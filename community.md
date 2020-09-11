@@ -36,6 +36,7 @@ Subnational level:
  * Auvergne (France) with [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/)
  * Nord-Pas-de-Calais (France), with [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
  * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
+ * [Prešov Region](https://geopresovregion.sk/) (Slovakia)
 
 Urban area level:
 
@@ -88,4 +89,3 @@ The project runs two **mailing lists**, which you can freely join to ask for hel
 
 Use psc@georchestra.org to reach the Project Steering Committee.<br />
 No support will be provided at this address.
-
