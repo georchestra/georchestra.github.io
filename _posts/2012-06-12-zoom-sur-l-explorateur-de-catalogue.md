@@ -15,7 +15,7 @@ plus intuitive. L'explorateur de catalogues est né de ce besoin.
 
 <!--more-->
 
-<img style="max-width: 800px;" src="http://blog.georchestra.org/public/mapfishapp-cswbrowser.png" width="519" height="328" alt="mapfishapp cswbrowser" />
+<img style="max-width: 800px;" src="/public/mapfishapp-cswbrowser.png" width="519" height="328" alt="mapfishapp cswbrowser" />
 
 Son cheminement :
 <ul>

@@ -12,7 +12,7 @@ Esta nueva versión brinda varias mejoras clave:
 
  * soporte completo del nuevo Debian 8 "Jessie", lo que significa una vida útil más larga para tu servidor.
  * se pueden utilizar los artefactos GeoServer estándar, en vez del "GeoServer con sabor a geOrchestra". Permite incorporar las nuevas funcionalidades de GeoServer más rapidamente, pero también facilitará la vida de tu administrador cuando se descubra una vulnerabilidad en GeoServer.
- * pruebasse realizan pruebas de integración a [cada modificación](https://github.com/georchestra/georchestra/blob/15.06/.travis.yml) del código de geOrchestra, gracias al servicio gratis de [travis-ci](https://travis-ci.org/georchestra/georchestra).
+ * pruebasse realizan pruebas de integración a [cada modificación](https://github.com/georchestra/georchestra/) del código de geOrchestra, gracias al servicio gratis de [travis-ci](https://travis-ci.org/georchestra/georchestra).
  * artefactos más livianos. Logramos reducir el peso entre 20% a 50% excluyendo la documentación, los ejemplos y las pruebas inutiles del archivo WAR. Con eso se reduce el ancho de banda (y el tiempo!) necesario para recuperar los artefactos de nuestra plataforma de integración continua autoalojado.
 
 <img src="/public/posts/2015-07-13/travis.png" alt="Plataforma de integración continua travis-ci" />

@@ -16,7 +16,7 @@ l'Agrocampus Ouest, centre de formation et de recherche de Rennes, France.</p>
 <p>Le meeting est organisé par
 <strong>GéoBretagne</strong> et <strong>Agrocampus Ouest</strong> et
 se déroulera sur le site d'<strong>Agrocampus Ouest, 65 rue de Saint-Brieuc,
-Rennes</strong> (bâtiment 16 UP PSN, voir <a href="http://www.agrocampus-ouest.fr/infoglueDeliverLive/footer/plans-acces/campus-rennes" hreflang="fr">plan</a>).</p>
+Rennes</strong> (bâtiment 16 UP PSN, voir <a href="#" hreflang="fr">plan</a>).</p>
 <h2>Objectifs</h2>
 Un logiciel libre vit par sa communauté d'utilisateurs et de contributeurs.
 geOrchestra est utilisé dans des contextes divers : administrations et
@@ -73,13 +73,13 @@ Bordeaux</p>
 <ul>
 <li><a href="http://osm.org/go/eri001oXY--" hreflang="fr">plan d'accès
 (OpenStreetMap)</a></li>
-<li><a hreflang="fr" href="http://www.agrocampus-ouest.fr/infoglueDeliverLive/footer/plans-acces/rocade-rennes">
+<li><a hreflang="fr" href="#">
 plan d'accès depuis la rocade (Agrocampus Ouest)</a></li>
-<li><a href="http://www.agrocampus-ouest.fr/infoglueDeliverLive/footer/plans-acces/campus-rennes" hreflang="fr">plan de l'Agrocampus Ouest</a></li>
+<li><a href="#" hreflang="fr">plan de l'Agrocampus Ouest</a></li>
 <li><a href="http://www.breizhgo.com/" hreflang="fr">itinéraire transports en
 commun Bretagne (BreizhGo)</a></li>
 <li><a href="http://www.voyages-sncf.com/" hreflang="fr">horaires train (SNCF)</a></li>
-<li><a href="http://www.rennes.aeroport.fr/Tous-les-vols/Vols-directs" hreflang="fr">vols directs</a></li>
+<li><a href="#" hreflang="fr">vols directs</a></li>
 <li>nous contacter si vous avez des difficultés à venir :<br />
 geocom at georchestra point org</li>
 </ul>
