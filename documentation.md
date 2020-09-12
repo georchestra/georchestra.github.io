@@ -11,9 +11,9 @@ Please refer to the [README](https://github.com/georchestra/georchestra/blob/mas
 
 The **reference manuals** of the underlying standalone modules are also valuable sources of information:
 
- * on the [GeoServer website](http://docs.geoserver.org/2.12.x/en/user/) for the 2.12 version,
- * on the [GeoNetwork website](https://www.geonetwork-opensource.org/manuals/3.4.x/en/) for the 3.4 version,
- * on the [GeoWebCache website](http://geowebcache.org/docs/1.8.1/) for the 1.8 version.
+ * on the [GeoServer website](http://docs.geoserver.org/2.16.x/en/user/) for the 2.16 version,
+ * on the [GeoNetwork website](https://www.geonetwork-opensource.org/manuals/3.8.x/en/) for the 3.8 version,
+ * on the [GeoWebCache website](https://www.geowebcache.org/docs/current/index.html) for the 1.16 version.
 
 ## OID registry
 

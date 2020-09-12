@@ -11,9 +11,9 @@ Vous pouvez y accéder depuis le fichier [README](https://github.com/georchestra
 
 Par ailleurs, il est toujours utile de consulter les **documentations publiques** de référence des différents projets communautaires sous-jacents:
 
- * sur le [site de GeoServer](http://docs.geoserver.org/2.12.x/en/user/) pour la version 2.12,
- * sur le [site de GeoNetwork](https://www.geonetwork-opensource.org/manuals/3.4.x/fr/) pour la version 3.4,
- * sur le [site de GeoWebCache](http://geowebcache.org/docs/1.8.1/) pour la version 1.8.
+ * sur le [site de GeoServer](http://docs.geoserver.org/2.16.x/en/user/) pour la version 2.16,
+ * sur le [site de GeoNetwork](https://www.geonetwork-opensource.org/manuals/3.8.x/fr/) pour la version 3.8,
+ * sur le [site de GeoWebCache](https://www.geowebcache.org/docs/current/index.html) pour la version 1.16.
 
 ## Registre OID
 
