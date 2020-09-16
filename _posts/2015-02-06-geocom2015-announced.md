@@ -22,7 +22,7 @@ Then followed the first GeoCom (2013) in Rennes, France, hosted by [Agrocampus O
 
 <img src="/public/AGROCAMPUS.jpg" width="320" alt="agrocampus ouest 2013" />
 
-In 2014, [CRAIG brought us together](http://www.craig.fr/reunions/1229-georchestra-community-meeting) in Clermont Ferrand, France. There we found a diversified community with a will to stress on the support to managers. This resulted in a documentation work and an effort to make the installation process simpler.
+In 2014, [CRAIG brought us together](#) in Clermont Ferrand, France. There we found a diversified community with a will to stress on the support to managers. This resulted in a documentation work and an effort to make the installation process simpler.
 
 <img src="/public/posts/2015-02-06/geocom2014.png" width="320" alt="craig 2014" />
 

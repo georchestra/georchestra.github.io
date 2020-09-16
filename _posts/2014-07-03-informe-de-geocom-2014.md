@@ -17,7 +17,7 @@ Desgraciadamente, la webconferencia no funcionó y los sentimos mucho por l@s qu
 
 <!--more-->
 
-Restitución de temas tratados: encuentre las presentaciones en la [pagina del l'evento](http://www.craig.fr/reunions/1229-georchestra-community-meeting), puesta en línea por el CRAIG. 
+Restitución de temas tratados: encuentre las presentaciones en la [pagina del l'evento](#), puesta en línea por el CRAIG. 
 
 ## Los Visualizadores
 
