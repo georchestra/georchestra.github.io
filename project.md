@@ -21,7 +21,7 @@ Initially hosted on a Brittany-hosted software repository, the source code final
 
 ## Meetings
 
-Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap. 
+Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap.
 
 Previous events took place:
 
@@ -34,19 +34,13 @@ Previous events took place:
 
 ## Steering committee
 
-The steering committee features 13 members:
+The steering committee features 8 members:
 
  * **Fabrice Phung**, SDI operator at [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
- * **François Van Der Biest**, developer & release manager at [Camptocamp](http://www.camptocamp.com/)
+ * **François Van Der Biest**, product owner & project manager at [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, developer & sysadmin at [Camptocamp](http://www.camptocamp.com/)
- * **Sylvain Lesage**, SDI operator & developer at [ADSIB](http://www.adsib.gob.bo/)
- * **Rod Béra**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Landry Breuil**, SDI operator & sysadmin at [CRAIG](http://craig.fr/),
- * **Louca Lerch**, geographer at [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
- * **Nicolas Chavent**, geographer, OpenStreetMap, IDS Francophone Libre (IFL)
  * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](https://geobretagne.fr)
- * **Ernest Chiarello**, SDI operator & sysadmin at [UMR ThéMA](http://thema.univ-fcomte.fr/)
- * **Hervé Squividant**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
- * **Jean-Pascal Klipfel**, SDI operator at [CIGAL](https://www.cigalsace.org/portail/)
- * **Jean Pommier**, software developer & consultant at [Pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Pierre Jégo**, software developer & consultant at [JDev](https://jdev.fr/)
+ * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](http://www.pi-geosolutions.fr/)

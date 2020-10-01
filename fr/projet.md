@@ -34,22 +34,16 @@ Les éditions précédentes du "geOcom" se sont tenues :
  * à la Maison de la Région (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
  * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand en 2014,
  * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
- 
+
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 13 membres :
+Le comité de pilotage est composé de 8 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](https://geobretagne.fr)
- * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
+ * **François Van Der Biest**, responsable produit et chef de projet, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
- * **Sylvain Lesage**, gestionnaire d'IDS & développeur, [ADSIB](http://www.adsib.gob.bo/)
- * **Rod Béra**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
- * **Nicolas Chavent**, géographe, OpenStreetMap,  IDS Francophone Libre (IFL)
  * **Stéphane Mével-Viannay**, chef de projet [GéoBretagne](https://geobretagne.fr)
- * **Ernest Chiarello**, gestionnaire d'IDS & administrateur système, [UMR ThéMA](http://thema.univ-fcomte.fr/)
- * **Hervé Squividant**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, géographe, chargé de mission, [Rennes Métropole](http://metropole.rennes.bzh/)
- * **Jean-Pascal Klipfel**, gestionnaire d'IDS, [CIGAL](https://www.cigalsace.org/portail/)
- * **Jean Pommier**, développeur et consultant, [Pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
+ * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](http://www.pi-geosolutions.fr/)
