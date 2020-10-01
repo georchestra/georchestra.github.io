@@ -34,16 +34,13 @@ Previous events took place:
 
 ## Steering committee
 
-The steering committee features 13 members:
+The steering committee features 8 members:
 
  * **Fabrice Phung**, SDI operator at [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
- * **François Van Der Biest**, developer & release manager at [Camptocamp](http://www.camptocamp.com/)
+ * **François Van Der Biest**, product owner & project manager at [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, developer & sysadmin at [Camptocamp](http://www.camptocamp.com/)
- * **Rod Béra**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Landry Breuil**, SDI operator & sysadmin at [CRAIG](http://craig.fr/),
- * **Louca Lerch**, geographer at [GeoBolivia](http://geo.gob.bo/) and [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
- * **Nicolas Chavent**, geographer, OpenStreetMap, IDS Francophone Libre (IFL)
  * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](https://geobretagne.fr)
- * **Hervé Squividant**, researcher & teacher at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Pierre Jégo**, software developer & consultant at [JDev](https://jdev.fr/)
  * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](http://www.pi-geosolutions.fr/)

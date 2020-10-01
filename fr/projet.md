@@ -37,16 +37,13 @@ Les éditions précédentes du "geOcom" se sont tenues :
 
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 13 membres :
+Le comité de pilotage est composé de 8 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](https://geobretagne.fr)
- * **François Van Der Biest**, développeur & release manager, [Camptocamp](http://www.camptocamp.com/)
+ * **François Van Der Biest**, responsable produit et chef de projet, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
- * **Rod Béra**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, géographe, [GeoBolivia](http://geo.gob.bo/) et [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/).
- * **Nicolas Chavent**, géographe, OpenStreetMap,  IDS Francophone Libre (IFL)
  * **Stéphane Mével-Viannay**, chef de projet [GéoBretagne](https://geobretagne.fr)
- * **Hervé Squividant**, enseignant chercheur, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, géographe, chargé de mission, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
  * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](http://www.pi-geosolutions.fr/)

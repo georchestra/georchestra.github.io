@@ -34,16 +34,13 @@ Eventos anteriores:
 
 ## Comité Directivo
 
-El comité directivo cuenta con 13 miembros:
+El comité directivo cuenta con 8 miembros:
 
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
- * **François Van Der Biest**, desarrollador & director de versiones, [Camptocamp](http://www.camptocamp.com/)
+ * **François Van Der Biest**, jefe de proyecto, [Camptocamp](http://www.camptocamp.com/)
  * **Pierre Mauduit**, desarrollador & administrador de sistemas, [Camptocamp](http://www.camptocamp.com/)
- * **Rod Béra**, investigador & capacitador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
- * **Louca Lerch**, geógrafo, [GeoBolivia](http://geo.gob.bo/) y [Université de Genève](https://www.unige.ch/sciences-societe/faculte/departements/dgeo/)
- * **Nicolas Chavent**, geógrafo, OpenStreetMap,  IDS Francophone Libre (IFL)
  * **Stéphane Mével-Viannay**, jefe de proyecto [GéoBretagne](https://geobretagne.fr)
- * **Hervé Squividant**, profesor & investigador, [Agrocampus Ouest](http://www.agrocampus-ouest.fr/)
  * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Pierre Jégo**, desarrollador y consultor, [JDev](https://jdev.fr/)
  * **Jean Pommier**, desarrollador y consultor, [pi-Geosolutions](http://www.pi-geosolutions.fr/)
