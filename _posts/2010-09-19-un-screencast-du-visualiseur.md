@@ -10,10 +10,6 @@ uid: 2010-09-19
 
 <!--more-->
 
-<div style="text-align: center;"><object type="application/x-shockwave-flash" data="http://blog.georchestra.org/?pf=player_flv.swf" width="500" height="376"><param name="movie" value="http://blog.georchestra.org/?pf=player_flv.swf" />
-<param name="wmode" value="transparent" />
-<param name="allowFullScreen" value="true" />
-<param name="FlashVars" value="title=geOrchestra%20:%20visualiseur%20styleur%20requeteur&amp;margin=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;buttonovercolor=ff9900&amp;slidercolor1=cccccc&amp;slidercolor2=999999&amp;sliderovercolor=0066cc&amp;flv=http://blog.georchestra.org/public/screencasts/mapfishapp.flv&amp;width=400&amp;height=300" /></object></div>
 <p>Les étapes suivies dans cette démo et les dessous techniques :</p>
 <ul>
 <li><strong>00:10 - déplacements et recentrage de la carte</strong></li>
