@@ -19,4 +19,4 @@ Next to this core are independant and interoperable modules to build your own Sp
 
 Modules interact using [OGC](http://en.wikipedia.org/wiki/Open_Geospatial_Consortium) interfaces or [REST APIs](http://en.wikipedia.org/wiki/Representational_State_Transfer).
 
-Initially covering Brittany, then France, geOrchestra now spreads worldwide with SDIs in Bolivia, Nicaragua, Switzerland and India.
+Initially covering Brittany, then France, geOrchestra now spreads worldwide with SDIs in Bolivia, Nicaragua, Germany and India.
