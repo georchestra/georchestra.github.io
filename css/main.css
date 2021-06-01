@@ -22,6 +22,10 @@ a         { color: #2a7ae2; text-decoration: none; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
+strong {
+  font-weight:600;
+}
+
 /* Utility */
 
 .wrap:before,
@@ -524,5 +528,5 @@ table tr:last-child td:last-child {
 table tr:hover td {
 	background: #f2f2f2;
 	background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#f0f0f0));
-	background: -moz-linear-gradient(top,  #f2f2f2,  #f0f0f0);	
+	background: -moz-linear-gradient(top,  #f2f2f2,  #f0f0f0);
 }
