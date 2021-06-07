@@ -85,7 +85,7 @@ Ces contributions externes au code sont toujours relues et testées de manière 
 ## Comment obtenir de l'aide ?
 
 
-Pour un coup de main ou pour obtenir un renseignement rapidement, n'hésitez pas à nous joindre sur le canal **[#georchestra](https://kiwiirc.com/client/irc.freenode.net/georchestra)** (serveur IRC **freenode**).
+Pour un coup de main ou pour obtenir un renseignement rapidement, n'hésitez pas à nous joindre sur le canal **[#georchestra](https://kiwiirc.com/client/irc.libera.chat/georchestra)** (serveur IRC **libera.chat**).
 
 Sinon, le projet dispose de deux **listes de discussions**, que vous pouvez rejoindre librement pour poser des questions :
 
