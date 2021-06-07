@@ -79,7 +79,7 @@ El ecosistema GitHub permite amplias contribuciones principalmente a través del
 
 ## Cómo puedo encontrar ayuda ?
 
-Seremos encantados de darle una mano en el canal de [#georchestra](https://kiwiirc.com/client/irc.freenode.net/georchestra) (**freenode** IRC server).
+Seremos encantados de darle una mano en el canal de [#georchestra](https://kiwiirc.com/client/irc.libera.chat/georchestra) (**libera.chat** IRC server).
 
 El Proyecto cuenta con dos **listas de correos**, al que puede unirse libremente para pedir ayuda:
 
