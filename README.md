@@ -12,7 +12,7 @@ Build
 The site is built on GitHub pages, but if you want to run it locally, you first have to [install jekyll](http://jekyllrb.com/docs/installation/) and its dependencies:
 ```
 sudo apt-get install ruby-dev nodejs
-sudo gem install jekyll
+sudo gem install jekyll bundler
 ```
 
 Finally:
