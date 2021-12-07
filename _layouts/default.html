@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}" prefix="og: http://ogp.me/ns#">
-  {% include post_url %}{% include page_url %}
-  {% include head.html %}
-
-    <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
+   {% include post_url %}{% include page_url %}
+   {% include head.html %}
+   <body class="d-flex flex-column h-100">
+      <main>
+         {% include header.html %}
+         <div class="container py-5">
+            {{ content }}
+         </div>
+      </main>
+      <div class="container-fluid" id="footer">
+         <div class="container">
+            {% include footer.html %}
+         </div>
       </div>
-    </div>
-
-    {% include footer.html %}
-
-{% include ga %}
-
-    </body>
+      {% include ga %}
+   </body>
 </html>
