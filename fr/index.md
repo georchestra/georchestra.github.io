@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 lang: fr
 uid: index
 excerpt: geOrchestra est une Infrastructure de Données Géographiques (IDG) libre, modulaire, intéropérable et sécurisée
