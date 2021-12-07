@@ -1,0 +1,139 @@
+<!-- Section IDS -->
+<section>
+	<div class="container">
+		<div class="row flex-lg-row-reverse align-items-center g-5 py-5 mb-5">
+			<div class="col-10 col-sm-8 col-lg-6">
+				<img src="{{ '/public/home/georchestra_interface.png' | prepend: site.baseurl }}" class="img-fluid rounded-3 shadow-lg mb-4" alt="Bootstrap Themes" loading="lazy">
+			</div>
+			<div class="col-lg-6">
+				<h1 class="display display-3 lh-1 mb-3" style="color:var(--bs-primary);">GeOrchestra Spatial Data Infrastructure</h1>
+				<p class="lead mb-4">geOrchestra est une Infrastructure de Données Spatiales <b>libre, interopérable et modulaire,</b> créée en 2009 pour répondre aux exigences de la directive INSPIRE en Europe.</p>
+				<div class="d-grid gap-2 d-md-flex justify-content-md-start">
+					<button type="button" class="btn btn-lg btn-primary me-md-2"><a href="/fr/projet.html" style="color:inherit;text-decoration: none;"> En savoir plus</a></button>
+					<button type="button" class="btn btn-lg btn-outline-secondary "><i class="bi bi-download"></i> <a href="https://packages.georchestra.org/" style="color:inherit;text-decoration: none;">Télécharger</a></button>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /.Section IDS -->
+<!-- Section Historique -->
+<section>
+	<div class="container-fluid py-5" style="background-color: var(--bs-secondary); color:white;">
+		<div class="container" >
+			<div class="row py-5">
+				<div class="col-md-3 align-self-center">
+					<img src="{{ '/public/home/icon_historique.svg' | prepend: site.baseurl }}" style="width: 150px;" alt="GeOrchestra img">
+				</div>
+				<div class="col-md-9">
+					<h1 class="display mb-3">Historique</h1>
+					<p class="">Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l’Infrastructure de Données Spatiales de la Bretagne était en cours de développement. La maîtrise d’oeuvre et la maîtrise d’ouvrage ont décidé de placer le code source du projet sous licence libre afin d’en faire profiter le plus grand nombre. Un comité de pilotage (“PSC”) s’est constitué pour construire le projet libre, animer sa communauté, encadrer ses évolutions.<br><br>
+						Le choix de l’ouverture sous licence GPL était judicieux puisque, par la suite, un grand nombre d’acteurs ont pu étudier, installer et adapter tout ou partie de la suite logicielle pour leurs propres besoins.<br><br>              
+						Initialement hébergé sur un dépôt de sources en Bretagne, le code source du projet a été migré vers GitHub au cours de l’année 2012. Ceci a amélioré l’accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /.Section Historique -->
+<!-- Section Communauté -->
+<section>
+	<div class="container-fluid" id="community">
+		<div class="container" >
+			<div class="row py-5" style="height: 600px;">
+				<div class="align-self-center">
+					<h1 class="display display-3 mb-5" style="color:var(--bs-secondary);">made <b>by people</b> for people</h1>
+					<button type="button" class="btn btn-lg btn-secondary "><a href="/fr/communaute.html" style="color:inherit;text-decoration: none;">Découvrir</a></button>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /.Section Communauté -->
+<!-- Section IDS à la carte -->
+<section>
+	<div class="container py-5 my-5" id="icon-grid">
+		<h1 class="display" style="color:var(--bs-primary);">Une IDS à la carte</h1>
+		<p class="lead">Au coeur de geOrchestra se trouve un proxy de sécurité et un système d’authentification unique. Cette base est complétée par une suite de modules indépendants et interopérables, parmi lesquels il est possible de choisir pour composer une Infrastructure de Données Spatiales “à la carte” :</p>
+		<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-2">
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/geonetwork_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">GeoNetwork</h4>
+					<p>un catalogue de métadonnées</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/geoserver_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">GeoServer</h4>
+					<p>un serveur cartographique</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/geofence_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">GeoFence</h4>
+					<p>un module de gestion avancée des droits d’accès aux données</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/geowebcache_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">GeoWebCache</h4>
+					<p>un serveur de tuiles</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/mapstore_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">MapStore</h4>
+					<p>un visualiseur de données géographiques avancé</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/ldapadmin_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">Console</h4>
+					<p>une console d’administration des utilisateurs, roles et organismes</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/analytics_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">Analytics</h4>
+					<p>un module présentant les statistiques d’utilisation de l’IDS</p>
+				</div>
+			</div>
+			<div class="col d-flex align-items-start">
+				<img  class="rounded-1 me-3" src="{{ '/public/icons/datafeeder_icon.svg' | prepend: site.baseurl }}" style="width: 3em;">
+				<div>
+					<h4 class="mb-0">DataFeeder</h4>
+					<p>un assistant d'intégration des données</p>
+				</div>
+			</div>
+		</div>
+		<p class="lead">et plusieurs autres modules permettant d’administrer la solution.</p>
+		<p class="lead" style="color: var(--bs-primary)!important;font-weight: 600;"><a href="/fr/logiciel.html" style="color:inherit;text-decoration: none;"></i> En savoir plus </a><i class="bi bi-arrow-right"></i></p>
+	</div>
+</section>
+<!-- /.Section IDS à la carte -->
+<!-- Section Actu -->
+<section>
+	<div class="container-fluid py-5" style="background-color: var(--bs-secondary); color:white;">
+		<div class="container" >
+			<div class="row justify-content-center text-center align-items-center">
+				<div class="col-xl-8 col-lg-9 col-md-10" >
+					<img class="mb-3" src="{{ '/public/home/geocom.svg' | prepend: site.baseurl }}" style="width: 25em;">
+					<div class="mb-4">
+						<h4 class="display px-xl-5">Les rencontres GeOrchestra</h4>
+						<p class="lead px-xl-5">Perros-Guirec // 16 - 17 - 18 mai 2022</p>
+						<!--<button type="button" class="btn btn-lg btn-light"><a href="" style="color:var(--bs-secondary);text-decoration: none;">S'inscrire</a></button>-->
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /.Section Actu -->
