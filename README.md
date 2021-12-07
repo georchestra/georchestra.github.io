@@ -23,7 +23,7 @@ sudo apt-get install ruby-full build-essential
 gem install jekyll bundler
 ```
 
-If you need to install `nodejs`, replace `VERSION` by (available nodejs release)[https://nodejs.org/en/about/releases/] number:
+If you need to install `nodejs`, replace `VERSION` by [nodejs release number](https://nodejs.org/en/about/releases/):
 
 ```
 curl -fsSL https://deb.nodesource.com/setup_VERSION.x | bash -
