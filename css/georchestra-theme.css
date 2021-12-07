@@ -10340,7 +10340,7 @@ a.nav-link {
 
 #community {
     min-height: 600px;
-    background-image: url('/assets/brand/community.png');
+    background-image: url('/public/home/community.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; 
