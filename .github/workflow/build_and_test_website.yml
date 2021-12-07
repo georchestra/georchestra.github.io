@@ -1,0 +1,28 @@
+name: geOrchestra main site
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --safe"
+    - name: Check HTML
+      uses: chabad360/htmlproofer@master
+      with:
+        # The directory to scan
+        directory: "${{ github.workspace }}/_site"
+        # To do not check old blog entry
+        arguments: --allow_hash_href --only_4xx --file_ignore /blog/201[0-7]/ 
+        
