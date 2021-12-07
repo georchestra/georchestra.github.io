@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}" prefix="og: http://ogp.me/ns#">
+   {% include post_url %}{% include page_url %}
+   {% include head.html %}
+   <body class="d-flex flex-column h-100">
+      <main>
+         {% include header.html %}
+         <div class="pt-5">
+            {% if page.lang == "en" or page.lang == "" %}
+            {% include home/en_home.html %}
+            {% endif %}
+            {% if page.lang == "fr" %}
+            {% include home/fr_home.html %}
+            {% endif %}
+            {% if page.lang == "es" %}
+            {% include home/es_home.html %}
+            {% endif %}            
+         </div>
+      </main>
+      <div class="container-fluid" id="footer">
+         <div class="container">
+            {% include footer.html %}
+         </div>
+      </div>
+      {% include ga %}
+   </body>
+</html>
