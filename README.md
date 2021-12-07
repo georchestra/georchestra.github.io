@@ -6,24 +6,47 @@ georchestra.github.io
 This is the source of the multilingual [geOrchestra website](http://www.georchestra.org/), based on the original [Jekyll](http://jekyllrb.com/) [site template](https://github.com/jekyll/jekyll/tree/master/lib/site_template).
 
 
+Prerequisites
+-----
+
+The site is built on GitHub pages, but if you want to run it locally, you first have to install :
+
+- ruby 3.0 with gem (installed with ruby)
+
+```
+sudo apt-get install ruby-full build-essential
+```
+
+- jekyll 4.2.x ([more details here](https://jekyllrb.com/docs/installation/))
+
+```
+gem install jekyll bundler
+```
+
+If you need to install `nodejs`, replace `VERSION` by (available nodejs release)[https://nodejs.org/en/about/releases/] number:
+
+```
+curl -fsSL https://deb.nodesource.com/setup_VERSION.x | bash -
+apt-get install -y nodejs
+```
+
 Build
 -----
 
-The site is built on GitHub pages, but if you want to run it locally, you first have to [install jekyll](http://jekyllrb.com/docs/installation/) and its dependencies:
-```
-sudo apt-get install ruby-dev nodejs
-sudo gem install jekyll bundler
-```
+To built this site and run it locally :
 
-Finally:
 ```
 git clone https://github.com/georchestra/georchestra.github.io.git 
 cd georchestra.github.io
 jekyll serve --watch
 ```
 
-The site can now be browsed on http://0.0.0.0:4001/ and edited live.
+The site can now be browsed on http://localhost:4001/ and edited live.
 
+To only build the site :
+```
+jekyll build
+```
 
 Contributing
 ------------
