@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 lang: es
 uid: index
 excerpt: geOrchestra es una Infraestructura de Datos Espaciales (IDE) libre, modular, interoperable y seguro
