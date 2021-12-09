@@ -12,7 +12,7 @@ geOrchestra fué presentado en varias ocasiones en el [FOSS4G-fr](http://foss4g.
 
 En el programa se pudo ver entre otros:
 
- * "Su infraestructura de Datos Espaciales a la carta con GeOrchestra" [[PDF](https://osgeo-fr.github.io/presentations_foss4gfr/2014/J1_A_14_30_GEORCHESTRA_CAMPTOCAMP/foss4gfr_2014_georchestra_vanderbiest.pdf)] por François Van Der Biest, Camptocamp
+ * "Su infraestructura de Datos Espaciales a la carta con geOrchestra" [[PDF](https://osgeo-fr.github.io/presentations_foss4gfr/2014/J1_A_14_30_GEORCHESTRA_CAMPTOCAMP/foss4gfr_2014_georchestra_vanderbiest.pdf)] por François Van Der Biest, Camptocamp
  * "Presentación de los últimas herramientas producidas en el marco del partenariado GeoBretagne" [[PDF](https://osgeo-fr.github.io/presentations_foss4gfr/2014/J1_A_15_00_GEOBRETAGNE_REGION_BRETAGNE/foss4gfr_2014_geobretagne_pelhate.pdf)] por Sébastien Pelhate, Région Bretagne
  * "WPS Cuenca Hidrográfica" [[PDF](https://osgeo-fr.github.io/presentations_foss4gfr/2014/J1_B_16_00_AGROCAMPUS_UMRSAS/foss4gfr_2014_wps_bassin_versant_squividant.pdf)] por Hervé Squividant, UMR SAS - Agrocampus Ouest
 

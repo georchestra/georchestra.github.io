@@ -97,7 +97,7 @@ Después de la presentación del proyecto HOT que abre a un contexto mucho más 
 
 ## Code Sprint del sabado
 
-En vez de code sprint, el PSC se dedicó mas bién a analizar y factorizar las tendencias desarrolladas durante el geoCom para definir la hoha de ruta estratégica de GeOrchestra : 
+En vez de code sprint, el PSC se dedicó mas bién a analizar y factorizar las tendencias desarrolladas durante el geoCom para definir la hoha de ruta estratégica de geOrchestra : 
 
 ### Simplicdad
 

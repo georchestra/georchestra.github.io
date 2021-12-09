@@ -20,7 +20,7 @@ El día martes se realizaron una serie de intervenciones en torno a tres temas p
  * [Inspirobot, los metadatos de puntuación](http://slides.com/lecault/inspirobot#/)
  * Monitoreo de servicios
  * [Geonetwork 3](https://docs.google.com/presentation/d/1gi5MkZcPIWDLtG8xTmdGE3zoymXohGac8K-tGug39QQ/)
- * [Capacitación a GeOrchestra](http://slides.com/stlejer-morvrini/deck/fullscreen)
+ * [Capacitación a geOrchestra](http://slides.com/stlejer-morvrini/deck/fullscreen)
  * [La página georchestra.org ](https://docs.google.com/presentation/d/15SqLVcHlhEaMRjzQwOSlck7RqGgWWXcSwNiH5YYEjQw/)
 
 Por último, el miércoles fue dedicada al desarrollo común de la hoja de ruta, que transcribimos aquí.
@@ -50,7 +50,7 @@ En “IDE”,  la letra "I" se refiere a Infraestructuras. Una infraestructura e
 
 ## Flujo de trabajo ergoconómico: simplificar, delegar para ahorrar tiempo
 
-Las evoluciones de GeOrchestra apuntan a ahorrar tiempo para todas las personas: los usuarios, los administradores, los productores de datos.  Volverlo más simple, y así poder delegar más y ahorrar mas tiempo, pero conservando las opciones de configuración fina y personalización necesaria para el alto rendimiento.
+Las evoluciones de geOrchestra apuntan a ahorrar tiempo para todas las personas: los usuarios, los administradores, los productores de datos.  Volverlo más simple, y así poder delegar más y ahorrar mas tiempo, pero conservando las opciones de configuración fina y personalización necesaria para el alto rendimiento.
 
  * delegación del flujo de trabajo para la  publicación (geonetwork, geoservidor, módulo independiente, QGIS …)
  * función de búsqueda unificada de datos, metadatos, contenidos literales

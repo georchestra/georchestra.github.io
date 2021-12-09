@@ -19,13 +19,13 @@ d'une <a href="http://www.jfl2010.fr/programme/#geobretagne">conférence-débat<
 l'Odet à Quimper (<a href="http://osm.org/go/erISLkIw9-">s'y rendre</a>)</p>
 <h4>GeoBretagne vers GeOchestra, un exemple de développement OpenSource en
 Bretagne</h4>
-<p><em>GeOrchestra est la plateforme technique de GeoBretagne, partenariat
+<p><em>geOrchestra est la plateforme technique de GeoBretagne, partenariat
 entre acteurs publics en Bretagne permettant de mutualiser des données
-géographiques. GeOrchestra devait d’une part répondre aux objectifs de
+géographiques. geOrchestra devait d’une part répondre aux objectifs de
 réutilisabilité, de pérennité et d’intéropérabilité, et d’autre part s’appuyer
 sur les principes de mutualisation, partage et subsidiarité. La communauté et
-l’outil GeOrchestra sont ainsi nés, trouvant dans l’opensource une traduction
-naturelle de ces exigences. Cette communauté GeOrchestra a vu le jour en
+l’outil geOrchestra sont ainsi nés, trouvant dans l’opensource une traduction
+naturelle de ces exigences. Cette communauté geOrchestra a vu le jour en
 septembre 2009 sur la forge Adullact
 (http://adullact.net/projects/georchestra/). Celle-ci permet d’accéder aux
 documents descriptifs technique et fonctionnel du projet, au planning des
