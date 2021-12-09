@@ -46,7 +46,7 @@ Des agglomérations:
  * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) en France
  * [Intermunicipal Community of Terras of Trás-os-Montes](https://ide.cim-ttm.pt/mapfishapp/), Portugal
  * [Município de Oeiras](https://oeiras30mais.municipia.pt/), Portugal
- * [Municipality of Nordeste, São Miguel Island](https://sigweb.cmnordeste.pt/), Portugal
+ * [Municipality of Nordeste, São Miguel Island](https://sigweb.cmnordeste.pt/m//index.html?wmc=pirus.wmc), Portugal
 
 Des organismes ou unités de recherche :
 
