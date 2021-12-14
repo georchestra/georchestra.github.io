@@ -10283,6 +10283,17 @@ fieldset:disabled .btn {
 
 /* Propriétés ajoutées */
 
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+    display: none;
+}
+  
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
 .display {
     font-weight: 600;
 }
@@ -10303,7 +10314,7 @@ a.nav-link {
 
 #navbar-lang {
     position: absolute;
-    right: -10%;
+    right: -5%;
     display: flex;
     list-style: none;
     margin: 0;
