@@ -10356,3 +10356,23 @@ a.nav-link {
     background-position: center;
     background-repeat: no-repeat; 
 }
+
+/* Community > Card user */
+
+.user-card {
+    margin-bottom: 10px;
+}
+
+.card-body {
+    padding: 1.5rem;
+}
+
+.card-title {
+    margin: 10px 0px!important;
+    font-weight: 600!important;
+}
+
+.card-link {
+    font-weight: 600;
+    text-decoration: none;
+}
