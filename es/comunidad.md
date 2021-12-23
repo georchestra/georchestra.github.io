@@ -43,7 +43,7 @@ Nivel SubNacional:
 Nivel Urbano:
 
  <div class="row">
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/rennesmetropole.png" name="Rennes Métropole (Francia)" text="" site_url="http://metropole.rennes.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/rennesmetropole.png" name="Rennes Métropole (Francia)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/vienneagglo.png" name="Vienne Condrieu Agglomération (Francia)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/puyvelay.png" name="Le Puy en Velay (Francia)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terras-tras-os-montes.png" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
