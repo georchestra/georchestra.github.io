@@ -10,10 +10,10 @@ El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Sec
 
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
 
- * un [catálogo de datos](https://github.com/georchestra/geonetwork/) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 3.4,
- * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.12.1,
+ * un [catálogo de datos](https://github.com/georchestra/geonetwork/) basado en [GeoNetwork](http://geonetwork-opensource.org/) versión 4.0.6,
+ * un servidor de mapas con: [GeoServer](http://geoserver.org/) versión 2.18.3,
  * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
- * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.8.1,
+ * un servidor de tiles de mapa: [GeoWebCache](http://geowebcache.org/) versión 1.16.2,
  * un [visor de mapas web](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) con consultas, estilos y funciones de edición,
  * un [extractor de datos](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) para extraer, reproyectar y descargar los conjuntos de datos de los servicios OGC,
  * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("ldapadmin"),
@@ -45,8 +45,22 @@ Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un ap
 
 Version       | Docs                                                                                          | Released      | End of life
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
-19.04         | [Release](https://github.com/georchestra/georchestra/releases/tag/v19.04)                     | 2019-04-12    | 2020-04
-18.06         | [Release](https://github.com/georchestra/georchestra/releases/tag/v18.06)                     | 2018-07-20    | 2019-07
+20.1.4        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.4)                     | 2021-09-13    | 2022-09
+20.1.3        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.3)                     | 2021-06-17    | 2022-06
+20.1.2        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.2)                     | 2021-06-17    | **2021-06**
+20.0.8        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.8)                     | 2021-06-17    | 2022-06
+20.1.1        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.1)                     | 2021-02-24    | **2022-02**
+20.0.7        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.7)                     | 2021-02-24    | **2022-02**
+20.1.0        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.0)                     | 2020-11-03    | **2021-11**
+20.0.6        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.6)                     | 2020-08-25    | **2021-08**
+20.0.6        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.5)                     | 2020-07-03    | **2021-07**
+20.0.4        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.4)                     | 2020-06-10    | **2021-06**
+20.0.3        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.3)                     | 2020-05-14    | **2021-05**
+20.0.2        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.2)                     | 2020-04-15    | **2021-04**
+20.0.1        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.1)                     | 2020-02-17    | **2021-02**
+20.0.0        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.0)                     | 2020-02-14    | **2021-02**
+19.04         | [Release](https://github.com/georchestra/georchestra/releases/tag/v19.04)                     | 2019-04-12    | **2020-04**
+18.06         | [Release](https://github.com/georchestra/georchestra/releases/tag/v18.06)                     | 2018-07-20    | **2019-07**
 17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | **2019-02**
 16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | **2018-02**
 15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | **2017-02**
