@@ -25,65 +25,65 @@ Contributions may take several forms:
 State level:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobolivia.png" name="Plurinational state of Bolivia" text="with GeoBolivia" site_url="http://geo.gob.bo/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geotiticaca.png" name="Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa" text="with GeoTiticaca" site_url="http://geotiticaca.org" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="with GeoBolivia" site_url="http://geo.gob.bo/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geotiticaca.jpg" name="Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa" text="with GeoTiticaca" site_url="http://geotiticaca.org" %}
 </div>
 
 
 Subnational level:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobretagne.png" name="Bretagne (France)" text="with GeoBretagne partnership" site_url="https://geobretagne.fr" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/pigma.png" name="Aquitaine (France)" text="with PIGMA project by GIP ATGeRI" site_url="https://www.pigma.org" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geo2france.png" name="Haut de France (France)" text="with Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.png" name="Alsace (France)" text="with DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/craig.png" name="Auvergne-Rhône-Alpes (France)" text="with Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geosantamaria.png" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geopresov.png" name="Prešov Region (Slovakia)" text="with CIGAL partnership" site_url="https://geopresovregion.sk/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/alsace_datageo.png" name="Alsace" text="with Datageo project" site_url="https://datageo.alsace.eu/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/haute_loire.png" name="Département Haute-Loire (France)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/santegraphie.png" name="GCS SESAN & ARS Île-de-France" text="with Santégraphie project" site_url="https://santegraphie.fr/accueil/accueil" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobretagne.jpg" name="Bretagne (France)" text="with GeoBretagne partnership" site_url="https://geobretagne.fr" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/pigma.jpg" name="Aquitaine (France)" text="with PIGMA project by GIP ATGeRI" site_url="https://www.pigma.org" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geo2france.jpg" name="Haut de France (France)" text="with Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.jpg" name="Alsace (France)" text="with DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="with Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="with CIGAL partnership" site_url="https://geopresovregion.sk/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="with Datageo project" site_url="https://datageo.alsace.eu/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (France)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="with Santégraphie project" site_url="https://santegraphie.fr/accueil/accueil" %}
 </div>
 
 
 Urban area level:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/rennesmetropole.png" name="Rennes Métropole (France)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/vienneagglo.png" name="Vienne Condrieu Agglomération (France)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/puyvelay.png" name="Le Puy en Velay (France)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/terras-tras-os-montes.png" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/oeiras30mais.png" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/nordeste.png" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/rennesmetropole.jpg" name="Rennes Métropole (France)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/vienneagglo.jpg" name="Vienne Condrieu Agglomération (France)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/puyvelay.jpg" name="Le Puy en Velay (France)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
 </div>
 
 
 Research and education:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geosas.png" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="with GéoSAS" site_url="https://geosas.fr/web/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/lisah.png" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/silva.png" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/thema.png" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/bbes.png" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="http://bbees.mnhn.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/sisyphe.png" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="http://www.sisyphe.upmc.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/indigeo.png" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="with Indigeo" site_url="http://www.indigeo.fr/" %}  
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/agroenvgeo.png" name="AgroEnvGeo (INRAE)" text="with CATI SIOEA by GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.png" name="Observatoire des Sciences de l’Univers de Rennes" text="with OSURIS" site_url="https://accueil.osuris.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.png" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="with GéoSAS" site_url="https://geosas.fr/web/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/bbes.jpg" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="http://bbees.mnhn.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="http://www.sisyphe.upmc.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="with Indigeo" site_url="http://www.indigeo.fr/" %}  
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="with CATI SIOEA by GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="with OSURIS" site_url="https://accueil.osuris.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
 </div>
 
 Companies:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/terranis.png" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="http://terranis.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="http://terranis.fr/" %}
 </div>
 
 International organizations and associations:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/faobolivia.png" name="FAO representation in Bolivia" text="" site_url="https://www.fao.org/bolivia/es/" %} 
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/ifl.png" name="Les Libres Géographes" text="with IFL project" site_url="https://ifl.francophonelibre.org/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/faobolivia.jpg" name="FAO representation in Bolivia" text="" site_url="https://www.fao.org/bolivia/es/" %} 
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/ifl.jpg" name="Les Libres Géographes" text="with IFL project" site_url="https://ifl.francophonelibre.org/" %}
 </div>
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !
