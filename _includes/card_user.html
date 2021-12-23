@@ -1,0 +1,14 @@
+<div class="col-md-6 col-lg-3 d-flex mb-2">
+    <div class="card user-card">
+        <img src="{{ include.img_url }}" class="card-img-top" alt="Interface web {{ include.name }}">
+        <div class="card-body">
+          <div class="d-flex align-items-start flex-column h-100">
+            <div class="mb-auto">
+              <h5 class="card-title">{{ include.name }}</h5>
+              <p class="card-text">{{ include.text }}</p>
+            </div>                                
+            <a href="{{ include.site_url }}" class="card-link align-items-end mt-2" target="_blank">{{ include.label_site }} <i class="bi bi-arrow-right"></i></a>
+        </div>
+        </div>
+    </div>
+</div>

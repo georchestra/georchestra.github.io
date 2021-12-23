@@ -23,48 +23,64 @@ Las contribuciones pueden ser de diferentes formas:
 
 Nivel Estatal:
 
- * Estado Plurinacional de Bolivia con [GeoBolivia](http://geo.gob.bo/)
- * Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa, con [GeoTiticaca](http://geotiticaca.org)
+<div class="row">
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobolivia.png" name="Estado Plurinacional de Bolivia" text="con GeoBolivia" site_url="http://geo.gob.bo/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geotiticaca.png" name="Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa" text="con GeoTiticaca" site_url="http://geotiticaca.org" %}
+</div>
 
 Nivel SubNacional:
 
- * Bretagne (Francia), en asociación con [GeoBretagne](https://geobretagne.fr)
- * Aquitaine (Francia) con el proyecto [PIGMA](https://www.pigma.org) realizado por  [GIP ATGeRI](https://www.gipatgeri.fr/)
- * Picardie (Francia) con el proyecto [GéoPicardie](http://www.geopicardie.fr/portail/)
- * Alsace (Francia) en asociación con [CIGAL](https://www.cigalsace.org/portail/)
- * Auvergne (Francia) con [Centre Régional Auvergnat de l'Information Géographique](https://craig.fr/).
- * Nord-Pas-de-Calais (Francia) con [Plateforme Publique de l’Information Géographique Nord-Pas de Calais](https://www.ppige-npdc.fr/) (PPIGE)
- * [Santa Maria](http://sigweb.cm-viladoporto.pt/home/) (Açores)
- * [Región de Prešov](https://geopresovregion.sk/) (Slovakia)
+<div class="row">
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobretagne.png" name="Bretagne (Francia)" text="con el proyecto GeoBretagne" site_url="https://geobretagne.fr" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/pigma.png" name="Aquitaine (Francia)" text="con el proyecto PIGMA realizado por GIP ATGeRI" site_url="https://www.pigma.org" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geo2france.png" name="Haut de France (Francia)" text="con el proyecto Géo2France" site_url="https://www.geo2france.fr/portail/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.png" name="Alsace (Francia)" text="en asociación con DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/craig.png" name="Auvergne-Rhône-Alpes (Francia)" text="con Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geosantamaria.png" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geopresov.png" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/alsace_datageo.png" name="Alsace" text="con el proyecto Datageo" site_url="https://datageo.alsace.eu/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/haute_loire.png" name="Département Haute-Loire (Francia)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}   
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/santegraphie.png" name="GCS SESAN & ARS Île-de-France" text="con el proyecto Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
+</div>
 
 Nivel Urbano:
 
- * [Rennes Métropole](http://metropole.rennes.fr/) (Francia)
- * Asociación de Municipios Productivos del Norte (Nicaragua)
- * [ViennAgglo](http://www.paysviennois.fr/) (Francia)
- * [Le Puy en Velay](https://opendata.agglo-lepuyenvelay.fr/) (Francia)
- * [Intermunicipal Community of Terras of Trás-os-Montes](https://ide.cim-ttm.pt/mapfishapp/), Portugal
- * [Município de Oeiras](https://oeiras30mais.municipia.pt/), Portugal
- * [Municipality of Nordeste, São Miguel Island](https://sigweb.cmnordeste.pt/m/index.html?wmc=pirus.wmc), Portugal
+ <div class="row">
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/rennesmetropole.png" name="Rennes Métropole (Francia)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/vienneagglo.png" name="Vienne Condrieu Agglomération (Francia)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/puyvelay.png" name="Le Puy en Velay (Francia)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/terras-tras-os-montes.png" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/oeiras30mais.png" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/nordeste.png" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
+</div>
 
 Investigación y educación:
 
- * [INRA](http://www.inra.fr/) at different places in France (Nancy, Rennes, Montpellier)
-   * [UMR SAS](http://www6.rennes.inra.fr/umrsas/) (INRA - Agrocampus Ouest, Rennes) via [GéoSAS](http://geowww.agrocampus-ouest.fr/web/)
-   * <a href="https://www.umr-lisah.fr/" data-proofer-ignore>UMR LISAH</a> (INRA - IRD - Supagro, Montpellier)
-   * [UMR EEF](https://www6.nancy.inra.fr/eef/) (INRA - Université de Lorraine)
- * [UMR Théma](http://thema.univ-fcomte.fr/) (Besançon)
- * [UMS BBEES](http://bbees.mnhn.fr/) "Musée National d'Histoire Naturelle", Paris
- * [UMR Sisyphe](http://www.sisyphe.upmc.fr/) "Université Pierre et Marie Curie", Paris.
- * [UMR Littoral, Environnement, Télédétection, Géomatique](https://letg.univ-nantes.fr/) via [indigeo](http://www.indigeo.fr/)
+<div class="row">
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geosas.png" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="con GéoSAS" site_url="https://geosas.fr/web/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/lisah.png" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/silva.png" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/thema.png" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/bbes.png" name="UMS BBEES" text="'Musée National d'Histoire Naturelle', Paris" site_url="http://bbees.mnhn.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/sisyphe.png" name="UMR Sisyphe" text="'Université Pierre et Marie Curie', Paris" site_url="http://www.sisyphe.upmc.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/indigeo.png" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="con Indigeo" site_url="http://www.indigeo.fr/" %}  
+   {% include card_user.html label_site="Más información" img_url="../public/community-users/agroenvgeo.png" name="AgroEnvGeo (INRAE)" text="con CATI SIOEA y GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
+   {% include card_user.html label_site="Más información" img_url="../public/community-users/osuris.png" name="Observatoire des Sciences de l’Univers de Rennes" text=" con OSURIS" site_url="https://accueil.osuris.fr/" %}
+   {% include card_user.html label_site="Más información" img_url="../public/community-users/cdgp.png" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
+</div>
 
 Empresas:
 
- * [TerraNIS](http://terranis.fr/), una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente.
+<div class="row">
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.png" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="http://terranis.fr/" %}
+</div>
 
-Organizaciones internacionales:
+Organizaciones internacionales y asociaciones:
 
- * [Representación de la FAO en Bolivia](http://geofao.org.bo/)
+<div class="row">
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/faobolivia.png" name="Representación de la FAO en Bolivia" text="" site_url="https://www.fao.org/bolivia/es/" %}  
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/ifl.png" name="Les Libres Géographes" text="con el proyecto IFL" site_url="https://ifl.francophonelibre.org/" %}
+</div>
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
 
