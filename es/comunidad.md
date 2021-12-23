@@ -35,8 +35,6 @@ Nivel SubNacional:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/pigma.png" name="Aquitaine (Francia)" text="con el proyecto PIGMA realizado por GIP ATGeRI" site_url="https://www.pigma.org" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geo2france.png" name="Haut de France (Francia)" text="con el proyecto Géo2France" site_url="https://www.geo2france.fr/portail/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.png" name="Alsace (Francia)" text="en asociación con DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
-</div>
-<div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/craig.png" name="Auvergne-Rhône-Alpes (Francia)" text="con Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geosantamaria.png" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geopresov.png" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
@@ -49,8 +47,6 @@ Nivel Urbano:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/vienneagglo.png" name="Vienne Condrieu Agglomération (Francia)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/puyvelay.png" name="Le Puy en Velay (Francia)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/no_img2.png" name="Asociación de Municipios Productivos del Norte (Nicaragua)" text="" site_url="" %}
-</div>
-<div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terras-tras-os-montes.png" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/oeiras30mais.png" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/nordeste.png" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
@@ -63,8 +59,6 @@ Investigación y educación:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/lisah.png" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/silva.png" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/thema.png" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
-</div>
-<div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/bbes.png" name="UMS BBEES" text="'Musée National d'Histoire Naturelle', Paris" site_url="http://bbees.mnhn.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/sisyphe.png" name="UMR Sisyphe" text="'Université Pierre et Marie Curie', Paris" site_url="http://www.sisyphe.upmc.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/indigeo.png" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="con Indigeo" site_url="http://www.indigeo.fr/" %}
