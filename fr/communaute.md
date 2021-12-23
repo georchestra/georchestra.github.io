@@ -47,7 +47,6 @@ Des agglomérations:
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/rennesmetropole.png" name="Rennes Métropole (France)" text="" site_url="http://metropole.rennes.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/vienneagglo.png" name="Vienne Condrieu Agglomération (France)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/puyvelay.png" name="Le Puy en Velay (France)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/no_img2.png" name="Asociación de Municipios Productivos del Norte (Nicaragua)" text="" site_url="" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terras-tras-os-montes.png" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/oeiras30mais.png" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/nordeste.png" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
