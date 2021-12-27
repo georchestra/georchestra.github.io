@@ -32,14 +32,14 @@ Des États :
 Des régions et des départements :
 
 <div class="row">
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobretagne.jpg" name="Bretagne (France)" text="via le partenariat GeoBretagne" site_url="https://geobretagne.fr" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/pigma.jpg" name="Aquitaine (France)" text="via le projet PIGMA mis en place par le GIP ATGeRI" site_url="https://www.pigma.org" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geo2france.jpg" name="Haut de France (France)" text="via le partenariat Géo2France" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/datagrandest.jpg" name="Alsace (France)" text="via le partenariat DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="grâce au GIP du Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobretagne.jpg" name="Région Bretagne (France)" text="via le partenariat GeoBretagne" site_url="https://geobretagne.fr" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/pigma.jpg" name="Région Aquitaine (France)" text="via le projet PIGMA mis en place par le GIP ATGeRI" site_url="https://www.pigma.org" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geo2france.jpg" name="Région Haut de France (France)" text="via le partenariat Géo2France" site_url="https://www.geo2france.fr/portail/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/datagrandest.jpg" name="Région Grand Est (France)" text="via le partenariat DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/craig.jpg" name="Région Auvergne-Rhône-Alpes (France)" text="grâce au GIP du Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="via le projet Datageo" site_url="https://datageo.alsace.eu/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geopresov.jpg" name="Région Prešov (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/alsace_datageo.jpg" name="Collectivité européenne d'Alsace" text="via le projet Datageo" site_url="https://datageo.alsace.eu/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (France)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN et ARS Île-de-France" text="avec la plateforme Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
 </div>
@@ -73,6 +73,7 @@ Des organismes ou unités de recherche :
 Entreprises:
 
 <div class="row">
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." site_url="https://www.telekom.com/en" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement" site_url="http://terranis.fr/" %}
 </div>
 

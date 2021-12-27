@@ -34,7 +34,7 @@ Nivel SubNacional:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geobretagne.jpg" name="Bretagne (Francia)" text="con el proyecto GeoBretagne" site_url="https://geobretagne.fr" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/pigma.jpg" name="Aquitaine (Francia)" text="con el proyecto PIGMA realizado por GIP ATGeRI" site_url="https://www.pigma.org" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geo2france.jpg" name="Haut de France (Francia)" text="con el proyecto Géo2France" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.jpg" name="Alsace (Francia)" text="en asociación con DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (Francia)" text="en asociación con DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (Francia)" text="con Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
@@ -72,6 +72,7 @@ Investigación y educación:
 Empresas:
 
 <div class="row">
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." site_url="https://www.telekom.com/en" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="http://terranis.fr/" %}
 </div>
 

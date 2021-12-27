@@ -36,7 +36,7 @@ Subnational level:
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geobretagne.jpg" name="Bretagne (France)" text="with GeoBretagne partnership" site_url="https://geobretagne.fr" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/pigma.jpg" name="Aquitaine (France)" text="with PIGMA project by GIP ATGeRI" site_url="https://www.pigma.org" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geo2france.jpg" name="Haut de France (France)" text="with Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.jpg" name="Alsace (France)" text="with DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.jpg" name="Grand Est (France)" text="with DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="with Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="with CIGAL partnership" site_url="https://geopresovregion.sk/" %}
@@ -76,6 +76,7 @@ Research and education:
 Companies:
 
 <div class="row">
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." site_url="https://www.telekom.com/en" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="http://terranis.fr/" %}
 </div>
 
