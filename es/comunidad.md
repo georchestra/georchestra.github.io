@@ -72,7 +72,7 @@ Investigación y educación:
 Empresas:
 
 <div class="row">
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." site_url="https://www.telekom.com/en" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." site_url="https://www.telekom.com/en" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="http://terranis.fr/" %}
 </div>
 
