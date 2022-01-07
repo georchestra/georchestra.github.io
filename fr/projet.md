@@ -28,6 +28,8 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 
 Les éditions précédentes du "geOcom" se sont tenues :
 
+ * en ligne pour l'édition 2021,
+ * à La ville et la [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019,
  * à l'Hôtel de région Hauts de France ([Géopicardie](http://www.geopicardie.fr/portail/)), Amiens, en 2018,
  * à [CampToCamp](https://www.camptocamp.com), Chambéry, en 2017,
  * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016,
@@ -47,3 +49,4 @@ Le comité de pilotage est composé de 8 membres :
  * **Maël Reboux**, géographe, chargé de mission, [Rennes Métropole](http://metropole.rennes.bzh/)
  * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
  * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Catherine Piton-Morales**, cheffe de projets [Rennes Métropole](https://metropole.rennes.fr//) 
