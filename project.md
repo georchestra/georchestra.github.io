@@ -25,6 +25,8 @@ Every year, users and developers from the community meet in a different place to
 
 Previous events took place:
 
+ * online for the 2021 edition
+ * at the city and [communauté d’agglomération](https://opendata.agglo-lepuyenvelay.fr/) du Puy-en-Velay, Auvergne, France, en 2019,
  * at the "Hotel de Région" (location of the [Géopicardie](https://www.geopicardie.fr/portail/) partnership), Amiens, France, in 2018,
  * at [CampToCamp](https://www.camptocamp.com/), Chambéry, France, in 2017,
  * at the "Maison de l'Agriculture et de la Forêt d'Aquitaine" (location of the [PIGMA](https://www.pigma.org/) partnership), Bordeaux, France, in 2016,
@@ -44,3 +46,4 @@ The steering committee features 8 members:
  * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
  * **Pierre Jégo**, software developer & consultant at [JDev](https://jdev.fr/)
  * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Catherine Piton-Morales**, project manager [Rennes Métropole](https://metropole.rennes.fr/) 
