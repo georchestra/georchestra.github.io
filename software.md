@@ -45,10 +45,16 @@ They are supported for 12 months, though older releases may have different suppo
 
 Version       | Docs                                                                                          | Released      | End of life
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
-20.1.4        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.4)                     | 2021-09-13    | 2022-09
-20.1.3        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.3)                     | 2021-06-17    | 2022-06
+22.0.2        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.2)                     | 2022-05-04    | **2023-05**
+20.1.7        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.7)                     | 2022-05-04    | **2023-05**
+22.0.1        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.1)                     | 2022-04-29    | **2023-04**
+20.1.6        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.6)                     | 2022-04-28    | **2023-04**
+22.0.0        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.0)                     | 2022-03-24    | **2023-03**
+20.1.5        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.5)                     | 2022-02-11    | **2023-02**
+20.1.4        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.4)                     | 2021-09-13    | **2022-09**
+20.1.3        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.3)                     | 2021-06-17    | **2022-06**
 20.1.2        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.2)                     | 2021-06-17    | **2021-06**
-20.0.8        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.8)                     | 2021-06-17    | 2022-06
+20.0.8        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.8)                     | 2021-06-17    | **2022-06**
 20.1.1        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.1)                     | 2021-02-24    | **2022-02**
 20.0.7        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.0.7)                     | 2021-02-24    | **2022-02**
 20.1.0        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.0)                     | 2020-11-03    | **2021-11**
