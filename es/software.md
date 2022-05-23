@@ -43,7 +43,7 @@ La plataforma geOrchestra brinda servicios web estándar, para descubrir ([CSW](
 [Lanzamientos](https://github.com/georchestra/georchestra/releases) se publican cada 6 meses, a raiz de un [calendario previsto](https://github.com/georchestra/georchestra/milestones).
 Estan apoyados por 12 meses, sin embargo versiones anteriores pueden tener un apoyo diferente.
 
-Version       | Docs                                                                                          | Sortie        | Fin de vie
+Version       | Docs                                                                                          | Salida        | Fecha de vencimiento
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
 22.0.2        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.2)                     | 2022-05-04    | **2023-05**
 20.1.7        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.7)                     | 2022-05-04    | **2023-05**
@@ -69,14 +69,14 @@ Version       | Docs                                                            
 17.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v17.12)                     | 2018-02-07    | **2019-02**
 16.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v16.12)                     | 2017-02-20    | **2018-02**
 15.12         | [Release](https://github.com/georchestra/georchestra/releases/tag/v15.12)                     | 2016-02-24    | **2017-02**
-15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-fr/)                                                | 2015-07-10    | **2016-07**
-14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-est-disponible/)                                    | 2015-01-30    | **2016-01**
-14.06         | [Blog](/blog/2014/07/10/version-14.06/)                                                       | 2014-07-10    | **2015-07**
-14.01         | [Blog](/blog/2014/02/03/version-14.01/)                                                       | 2014-01-30    | **2015-01**
+15.06         | [Blog](/blog/2015/07/13/georchestra-15.06-es/)                                                | 2015-07-10    | **2016-07**
+14.12         | [Blog](/blog/2015/01/30/georchestra-14.12-esta-disponible/)                                    | 2015-01-30    | **2016-01**
+14.06         | [Blog](/blog/2014/07/10/version-14.06-es/)                                                       | 2014-07-10    | **2015-07**
+14.01         | [Blog](/blog/2014/02/03/release-14.01/)                                                       | 2014-01-30    | **2015-01**
 13.09         | [Blog](/blog/2013/10/02/georchestra-version-13.09/)                                           | 2013-10-02    | **2014-10**
 13.06         | [Notes](https://github.com/georchestra/georchestra/) | 2013-06-27    | **2014-06**
 13.02         | [Notes](https://github.com/georchestra/georchestra/) | 2013-03-25    | **2014-03**
-12.11         | [Blog](/blog/2012/12/16/georchestra-12.11-bolivia-est-disponible/)                            | 2012-12-13    | **2013-12**
+12.11         | [Blog](/blog/2012/12/16/georchestra-12.11-bolivia/)                            | 2012-12-13    | **2013-12**
 12.06         | [Blog](/blog/2011/12/17/pigma-nouvelle-plateforme-georchestra/)                               | 2012-07-25    | **2013-07**
 11.10         | -                                                                                             | 2011-12-16    | **2012-12**
 
