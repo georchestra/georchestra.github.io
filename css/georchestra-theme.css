@@ -10376,3 +10376,14 @@ a.nav-link {
     font-weight: 600;
     text-decoration: none;
 }
+
+/* Geocom Page */
+
+#geocomTab button {
+    text-align: inherit;
+    padding: 15px 20px;
+}
+
+#cardPresentation img {
+    display: none;
+}
