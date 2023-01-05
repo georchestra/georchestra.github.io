@@ -7,9 +7,22 @@ excerpt: Historique, valeurs, rencontres et comité de pilotage du projet
 permalink: /fr/projet.html
 ---
 
-## Valeurs
+## Valeurs, objectifs, évolutivité
 
-Les valeurs du projet geOrchestra : **Ouverture**, **Modularité**, **Interopérabilité**.
+**geOrchestra est un projet d’infrastructure de données géolocalisées dont les caractéristiques fondatrices sont : libre, modulaire, interopérable. Ce projet est conduit par une communauté.**
+
+Par infrastructure de données géolocalisées, on entend un système qui reçoit, émet, stocke et traite des données repérées dans l’espace et dans le temps.
+
+Par libre, on entend un ensemble de logiciels que chacun peut copier, utiliser, comprendre et modifier. On entend aussi que cet ensemble bénéficie d’apports d’autres projets libres, et doit réciproquement enrichir ces projets. La documentation fait partie de l’ensemble.
+
+Par modulaire et interopérable, on entend un système qui est prioritairement conçu pour échanger des données avec des systèmes tiers au moyen d’interfaces standardisées, et qui a la capacité d’évoluer en intégrant des modules qui respectent les mêmes standards.
+
+Par communauté, on entend les administrations publiques, équipes de recherche, sociétés privées, éditeurs de logiciels, fournisseurs de service, individus, ayant l’objectif de cogérer ensemble un commun au bénéfice du plus grand nombre, et dans le respect de principes qui garantissent le statut de commun.
+
+**geOrchestra est représenté par un comité de pilotage qui garantit le respect des caractéristiques fondatrices en fixant les règles de contribution au code source, en faisant respecter le droit à la parole au sein de la communauté, en proposant un procédé de prise de décision ouvert et transparent avec la recherche systématique de consensus.**
+
+Toutes ces valeurs et règles ont pris corps au travers d'un [manifeste](https://github.com/georchestra/manifest/blob/main/MANIFEST.FR.md) validé en 2022 par la communauté et de la création d'un processus permettant de formuler des Propositions d'Évolution ([geOrchestra Improvement Proposal](https://github.com/georchestra/improvement-proposals) - GIP) qui sont examinées par le comité de pilotage.
+
 
 ## Historique
 
@@ -21,6 +34,7 @@ Le choix de l'ouverture sous licence [GPL](http://fr.wikipedia.org/wiki/Licence_
 
 Initialement hébergé sur un dépôt de sources en Bretagne, le code source du projet a été migré vers [GitHub](https://github.com/georchestra) au cours de l'année 2012.
 Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
+
 
 ## Rencontres
 
@@ -37,6 +51,7 @@ Les éditions précédentes du "geOcom" se sont tenues :
  * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand en 2014,
  * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
 
+
 ## Comité de pilotage
 
 Le comité de pilotage est composé de 8 membres :
@@ -46,7 +61,7 @@ Le comité de pilotage est composé de 8 membres :
  * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
  * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
  * **Stéphane Mével-Viannay**, chef de projet [GéoBretagne](https://geobretagne.fr)
- * **Maël Reboux**, géographe, chargé de mission, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Maël Reboux**, géomaticien, chef de projet, [Rennes Métropole](http://metropole.rennes.bzh/)
  * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
  * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](http://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, cheffe de projets [Rennes Métropole](https://metropole.rennes.fr//) 
