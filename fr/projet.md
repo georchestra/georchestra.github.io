@@ -24,7 +24,7 @@ Par communauté, on entend les administrations publiques, équipes de recherche,
 Toutes ces valeurs et règles ont pris corps au travers d'un [manifeste](https://github.com/georchestra/manifest/blob/main/MANIFEST.FR.md) validé en 2022 par la communauté et de la création d'un processus permettant de formuler des Propositions d'Évolution ([geOrchestra Improvement Proposal](https://github.com/georchestra/improvement-proposals) - GIP) qui sont examinées par le comité de pilotage.
 
 
-[## Historique](historique)
+## Historique
 
 Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructure de Données Spatiales de la Bretagne était en cours de développement.
 La maîtrise d'oeuvre et la maîtrise d'ouvrage ont décidé de placer le code source du projet sous licence libre afin d'en faire profiter le plus grand nombre.
