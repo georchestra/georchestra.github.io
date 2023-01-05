@@ -27,7 +27,7 @@ Toutes ces valeurs et règles ont pris corps au travers d'un [manifeste](https:/
 ## Historique
 
 Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructure de Données Spatiales de la Bretagne était en cours de développement.
-La maîtrise d'oeuvre et la maîtrise d'ouvrage ont décidé de placer le code source du projet sous licence libre afin d'en faire profiter le plus grand nombre.
+La maîtrise d'œuvre et la maîtrise d'ouvrage ont décidé de placer le code source du projet sous licence libre afin d'en faire profiter le plus grand nombre.
 Un comité de pilotage ("PSC") s'est constitué pour construire le projet libre, animer sa communauté, encadrer ses évolutions.
 
 Le choix de l'ouverture sous licence [GPL](http://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) était judicieux puisque, par la suite, un grand nombre d'acteurs ont pu étudier, installer et adapter tout ou partie de la suite logicielle pour leurs propres besoins.
