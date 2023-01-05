@@ -33,12 +33,13 @@ Subsequently, many people studied, adapted, and translated geOrchestra modules f
 Initially hosted on a Brittany-hosted software repository, the source code finally moved to [GitHub](https://github.com/georchestra) in 2012. This greatly improved code accessibility and obviously made contributions easier. The commit rates grew up dramatically.
 
 
-## Meetings
+## Yearly meetings
 
 Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap.
 
-Previous events took place:
+Previous geOcom events took place:
 
+ * Perros-Guirec en 2022, at the invitation of [JDEV](https://jdev.fr/)
  * online for the 2021 edition
  * at the city and [communauté d’agglomération](https://opendata.agglo-lepuyenvelay.fr/) du Puy-en-Velay, Auvergne, France, en 2019,
  * at the "Hotel de Région" (location of the [Géopicardie](https://www.geopicardie.fr/portail/) partnership), Amiens, France, in 2018,

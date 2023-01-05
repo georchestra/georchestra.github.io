@@ -36,12 +36,13 @@ Initialement hébergé sur un dépôt de sources en Bretagne, le code source du 
 Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
 
 
-## Rencontres
+## Rencontres annuelles
 
 Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
 
-Les éditions précédentes du "geOcom" se sont tenues :
+Les éditions précédentes du geOcom se sont tenues :
 
+ * au centre des congrès de Perros-Guirec en 2022, sur invitation de [JDEV](https://jdev.fr/)
  * en ligne pour l'édition 2021,
  * à La ville et la [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019,
  * à l'Hôtel de région Hauts de France ([Géopicardie](http://www.geopicardie.fr/portail/)), Amiens, en 2018,
