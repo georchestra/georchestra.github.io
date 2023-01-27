@@ -34,12 +34,11 @@ Subnational level:
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geobretagne.jpg" name="Bretagne (France)" text="with GeoBretagne partnership" site_url="https://geobretagne.fr" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/pigma.jpg" name="Aquitaine (France)" text="with PIGMA project by GIP ATGeRI" site_url="https://www.pigma.org" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geo2france.jpg" name="Haut de France (France)" text="with Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.jpg" name="Grand Est (France)" text="with DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="with Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geo2france.jpg" name="Haut de France (France)" text="Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.jpg" name="Grand Est (France)" text="DataGrandEst project" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="with CIGAL partnership" site_url="https://geopresovregion.sk/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="with Datageo project" site_url="https://datageo.alsace.eu/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (France)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="with Santégraphie project" site_url="https://santegraphie.fr/accueil/accueil" %}

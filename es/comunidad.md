@@ -31,16 +31,15 @@ Nivel Estatal:
 Nivel SubNacional:
 
 <div class="row">
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobretagne.jpg" name="Bretagne (Francia)" text="con el proyecto GeoBretagne" site_url="https://geobretagne.fr" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/pigma.jpg" name="Aquitaine (Francia)" text="con el proyecto PIGMA realizado por GIP ATGeRI" site_url="https://www.pigma.org" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/geo2france.jpg" name="Haut de France (Francia)" text="con el proyecto Géo2France" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (Francia)" text="en asociación con DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (Francia)" text="con Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobretagne.jpg" name="Bretagne (Francia)" text="Proyecto GeoBretagne" site_url="https://geobretagne.fr" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geo2france.jpg" name="Haut de France (Francia)" text="Proyecto Géo2France" site_url="https://www.geo2france.fr/portail/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (Francia)" text="Proyecto DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (Francia)" text="Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="con el proyecto Datageo" site_url="https://datageo.alsace.eu/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (Francia)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}   
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="con el proyecto Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="Proyecto Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
 </div>
 
 Nivel Urbano:

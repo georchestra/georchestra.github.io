@@ -33,9 +33,8 @@ Des régions et des départements :
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobretagne.jpg" name="Région Bretagne (France)" text="via le partenariat GeoBretagne" site_url="https://geobretagne.fr" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/pigma.jpg" name="Région Aquitaine (France)" text="via le projet PIGMA mis en place par le GIP ATGeRI" site_url="https://www.pigma.org" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geo2france.jpg" name="Région Haut de France (France)" text="via le partenariat Géo2France" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/datagrandest.jpg" name="Région Grand Est (France)" text="via le partenariat DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geo2france.jpg" name="Région Haut de France (France)" text="Projet Géo2France" site_url="https://www.geo2france.fr/portail/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/datagrandest.jpg" name="Région Grand Est (France)" text="Projet DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/craig.jpg" name="Région Auvergne-Rhône-Alpes (France)" text="grâce au GIP du Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geopresov.jpg" name="Région Prešov (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
