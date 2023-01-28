@@ -45,6 +45,9 @@ They are supported for 12 months, though older releases may have different suppo
 
 Version       | Docs                                                                                          | Released      | End of life
 ------------- | ----------------------------------------------------------------------------------------------|---------------|-------------
+22.0.5        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.5)                     | 2023-01-27    | **2024-01**
+22.0.4        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.4)                     | 2022-10-04    | **2023-10**
+22.0.3        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.3)                     | 2022-09-30    | **2023-09**
 22.0.2        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.2)                     | 2022-05-04    | **2023-05**
 20.1.7        | [Release](https://github.com/georchestra/georchestra/releases/tag/20.1.7)                     | 2022-05-04    | **2023-05**
 22.0.1        | [Release](https://github.com/georchestra/georchestra/releases/tag/22.0.1)                     | 2022-04-29    | **2023-04**
