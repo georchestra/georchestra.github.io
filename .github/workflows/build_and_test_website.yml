@@ -24,5 +24,5 @@ jobs:
         # The directory to scan
         directory: "${{ github.workspace }}/_site"
         # To do not check old blog entry
-        arguments: --allow_hash_href --only_4xx --file_ignore /blog/201[0-7]/ 
+        arguments: --allow_hash_href --only_4xx --ignore_files /blog/201[0-7]/ 
         
