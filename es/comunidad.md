@@ -25,7 +25,6 @@ Nivel Estatal:
 
 <div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geobolivia.jpg" name="Estado Plurinacional de Bolivia" text="con GeoBolivia" site_url="http://geo.gob.bo/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/geotiticaca.jpg" name="Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa" text="con GeoTiticaca" site_url="http://geotiticaca.org" %}
 </div>
 
 Nivel SubNacional:
@@ -72,7 +71,7 @@ Investigación y educación:
 Empresas:
 
 <div class="row">
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." site_url="https://www.telekom.com/en" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." site_url="" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="http://terranis.fr/" %}
 </div>
 
