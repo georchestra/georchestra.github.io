@@ -26,7 +26,6 @@ Des États :
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="avec le projet GeoBolivia" site_url="http://geo.gob.bo/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geotiticaca.jpg" name="Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa" text="via GeoTiticaca" site_url="http://geotiticaca.org" %}
 </div>
 
 Des régions et des départements :
@@ -73,7 +72,7 @@ Des organismes ou unités de recherche :
 Entreprises:
 
 <div class="row">
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." site_url="https://www.telekom.com/en" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." site_url="" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement" site_url="http://terranis.fr/" %}
 </div>
 

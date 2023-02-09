@@ -26,7 +26,6 @@ State level:
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="with GeoBolivia" site_url="http://geo.gob.bo/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geotiticaca.jpg" name="Autoridad Binacional Autónoma del Sistema Hídrico del Lago Titicaca, Río Desaguadero, Lago Poopó, Salar de Coipasa" text="with GeoTiticaca" site_url="http://geotiticaca.org" %}
 </div>
 
 
@@ -76,7 +75,7 @@ Research and education:
 Companies:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." site_url="https://www.telekom.com/en" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." site_url="" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="http://terranis.fr/" %}
 </div>
 
