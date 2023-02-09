@@ -9,7 +9,7 @@ uid: 2013-10-02
 <p>The Project Steering Committee of geOrchestra is proud to announce the
 release of geOrchestra 13.09. In this sixth release you will find a number of
 new features, improvements and corrections. geOrchestra 13.09 is available at
-http://sdi.georchestra.org/.
+https://sdi.georchestra.org/.
 </p>
 
 <!--more-->
@@ -74,5 +74,5 @@ a more centralised configuration, as well as keeping separate modules.</p>
 <h2>On the community side</h2>
 <p>As usual <a href="https://github.com/georchestra/" hreflang="en">the sources
 are on free access</a> with the bugtracker and all contributors' branches. The
-code (save external dependencies) <a href="http://www.ohloh.net/p/georchestra" hreflang="en">is periodically analysed by Ohloh</a>. The geOrchestra community
+code (save external dependencies) <a href="https://www.ohloh.net/p/georchestra" hreflang="en">is periodically analysed by Ohloh</a>. The geOrchestra community
 is well and thriving!</p>

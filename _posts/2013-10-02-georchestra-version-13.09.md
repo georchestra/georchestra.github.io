@@ -9,7 +9,7 @@ uid: 2013-10-02
 <p>Le comité de pilotage geOrchestra est heureux de vous annoncer la sortie de
 geOrchestra 13.09. Cette sixième version millésimée apporte de nombreuses
 nouveautés, améliorations et corrections. La version 13.09 geOrchestra est en
-démonstration sur http://sdi.georchestra.org/.</p>
+démonstration sur https://sdi.georchestra.org/.</p>
 
 <!--more-->
 
@@ -87,6 +87,6 @@ la configuration tout en conservant des modules séparés.</p>
 <h2>Côté communauté</h2>
 <p>Comme toujours, <a href="https://github.com/georchestra/" hreflang="en">le
 code source est en accès libre</a> ainsi que le bugtracker et toutes les
-branches des contributeurs. Le code hors dépendances externes est <a href="http://www.ohloh.net/p/georchestra" hreflang="en">analysé périodiquement par
+branches des contributeurs. Le code hors dépendances externes est <a href="https://www.ohloh.net/p/georchestra" hreflang="en">analysé périodiquement par
 Ohloh</a> . La communauté est en bonne santé !</p>
 <p><a href="/public/screenshots/13.09/georchestra_ohloh.png"><img src="/public/screenshots/13.09/georchestra_ohloh.png" alt="geOrchestra on Ohloh" style="display:block; margin:0 auto;" title="geOrchestra on Ohloh, oct. 2013" /></a></p>

@@ -25,7 +25,7 @@ Toutes les formes de contributions sont les bienvenues :
 Des États :
 
 <div class="row">
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="avec le projet GeoBolivia" site_url="http://geo.gob.bo/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="avec le projet GeoBolivia" site_url="https://geo.gob.bo/" %}
 </div>
 
 Des régions et des départements :
@@ -35,7 +35,7 @@ Des régions et des départements :
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geo2france.jpg" name="Région Haut de France (France)" text="Projet Géo2France" site_url="https://www.geo2france.fr/portail/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/datagrandest.jpg" name="Région Grand Est (France)" text="Projet DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/craig.jpg" name="Région Auvergne-Rhône-Alpes (France)" text="grâce au GIP du Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="https://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geopresov.jpg" name="Région Prešov (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/alsace_datageo.jpg" name="Collectivité européenne d'Alsace" text="via le projet Datageo" site_url="https://datageo.alsace.eu/" %}
@@ -60,10 +60,10 @@ Des organismes ou unités de recherche :
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="via GéoSAS" site_url="https://geosas.fr/web/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="Musée National d'Histoire Naturelle, Paris" site_url="http://bbees.mnhn.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="Université Pierre et Marie Curie, Paris" site_url="http://www.sisyphe.upmc.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="via Indigeo" site_url="http://www.indigeo.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="Musée National d'Histoire Naturelle, Paris" site_url="https://bbees.mnhn.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="Université Pierre et Marie Curie, Paris" site_url="https://www.sisyphe.upmc.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="via Indigeo" site_url="https://www.indigeo.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="via le CATI SIOEA puis GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="OSURIS – Géoportail pour la recherche, la visualisation et le téléchargement de données spatialisées" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
@@ -73,7 +73,7 @@ Entreprises:
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." site_url="" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement" site_url="http://terranis.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement" site_url="https://terranis.fr/" %}
 </div>
 
 Organisations internationales et associations:

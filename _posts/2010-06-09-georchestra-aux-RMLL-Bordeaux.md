@@ -6,7 +6,7 @@ lang: fr
 uid: 2010-06-09
 ---
 
-<p>Dans le cadre des <a href="http://2010.rmll.info/" hreflang="fr">Rencontres Mondiales du Logiciel Libre 2010</a>, la démarche geOrchestra sera présentée le 7 juillet 2010 à Bordeaux avec une <a href="http://2010.rmll.info/GeoBretagne-vers-GeOchestra.html" hreflang="fr">conférence de 40 minutes</a></p>
+<p>Dans le cadre des <a href="https://2010.rmll.info/" hreflang="fr">Rencontres Mondiales du Logiciel Libre 2010</a>, la démarche geOrchestra sera présentée le 7 juillet 2010 à Bordeaux avec une <a href="https://2010.rmll.info/GeoBretagne-vers-GeOchestra.html" hreflang="fr">conférence de 40 minutes</a></p>
 
 <!--more-->
 

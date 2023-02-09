@@ -19,8 +19,8 @@ uid: 2010-09-19
 affichées par mapfishapp. Le chargement par tuile permet de travailler avec une
 grande surface d'affichage, et soulage le travail du serveur lorsque les fonds
 sont prétuilés - c'est le cas ici pour les photographies aériennes. Le service
-en ligne <a href="http://www.geonames.org/">geonames</a> est utilisé pour
-recentrer la carte sur un toponyme. <a href="http://www.geonames.org/">geonames</a> est une base de données en ligne
+en ligne <a href="https://www.geonames.org/">geonames</a> est utilisé pour
+recentrer la carte sur un toponyme. <a href="https://www.geonames.org/">geonames</a> est une base de données en ligne
 librement accessible et contenant plus de 7 millions de toponymes sur le monde
 entier.</p>
 </blockquote>

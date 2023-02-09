@@ -32,7 +32,7 @@ l'internationalisation, et sont traduits en français, espagnol et anglais
 <li>niveau de zoom incorrect sur restauration WMC,</li>
 <li>restauration des SLD dans un WMC,</li>
 </ul>
-<p>D'autres détails ici : http://applis-bretagne.fr/redmine/versions/show/96 - N'hésitez pas à
+<p>D'autres détails ici : https://applis-bretagne.fr/redmine/versions/show/96 - N'hésitez pas à
 télécharger, installer et rapporter les problèmes sur la liste
 georchestra@googlegroups.com. Le lien de téléchargement est <a href="https://github.com/georchestra/georchestra/archive/12.11.tar.gz" hreflang="en">https://github.com/georchestra/georchestra/archive/12.11.tar.gz</a></p>
 

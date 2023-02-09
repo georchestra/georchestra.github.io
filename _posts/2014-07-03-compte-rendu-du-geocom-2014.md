@@ -64,8 +64,8 @@ Une méthode à effets (et coûts) croissants est exposée : supervision, limite
 
 Les lectures toujours indispensables :
 
-* [GeoServer in production](http://docs.geoserver.org/stable/en/user/production/index.html) - doc officielle
-* [GeoServer on steroids](http://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/)
+* [GeoServer in production](https://docs.geoserver.org/stable/en/user/production/index.html) - doc officielle
+* [GeoServer on steroids](https://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/)
 
 => tendances : ajout d'une [offre Nagios](https://github.com/georchestra/nagios) à geOrchestra, partager les test cases.
 

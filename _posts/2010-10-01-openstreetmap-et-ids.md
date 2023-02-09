@@ -7,9 +7,9 @@ uid: 2010-10-01-b
 ---
 
 <p><img src="/public/icons/osm_logo.png" alt="openstreetmap" style="width:70px;float:left; margin: 0 1em 1em 0;" title="openstreetmap, sept. 2010" /> On ne
-présente plus <a href="http://www.openstreetmap.fr/">OpenStreetMap</a>, le
+présente plus <a href="https://www.openstreetmap.fr/">OpenStreetMap</a>, le
 projet de données libres qui rivalise avec les fournisseurs de données
-propriétaires. La suite d'outils OpenStreetMap utilisant <a href="http://www.postgis.fr/">postGIS</a>, ses données sont donc naturellement
+propriétaires. La suite d'outils OpenStreetMap utilisant <a href="https://www.postgis.fr/">postGIS</a>, ses données sont donc naturellement
 exposées aux services OGC et IDS comme geOrchestra.</p>
 
 <!--more-->
@@ -21,7 +21,7 @@ des rendus de haute qualité, exposés en WMS ou WFS, et dans les projections
 utilisées par les SIG.</p>
 <p><a href="https://github.com/mapserver/basemaps">mapserver-utils</a> a
 décortiqué la sémiologie des cartes OpenStreetMap pour en ensuite construire
-une suite de styles mapserver. <a href="http://blog.geoserver.org/2009/01/30/geoserver-and-openstreetmap/">Des
+une suite de styles mapserver. <a href="https://blog.geoserver.org/2009/01/30/geoserver-and-openstreetmap/">Des
 initiatives similaires</a> existent dans le monde geoserver.</p>
 <h3>170 classes</h3>
 <p>Pierre Mauduit a réutilisé ce travail pour produire trois styles visibles
@@ -33,10 +33,10 @@ sur qualitystreetmap.org : osm, google et bing. Ils offrent un rendu agréable 
 problématique est de conserver un niveau de performance acceptable tout en ne
 compromettant pas l'interopérabilité de la solution.</p>
 <ul>
-<li>import initial des données : téléchargement sur <a href="http://download.geofabrik.de/osm/europe/">geofabrik</a> au format osm.bz2.
+<li>import initial des données : téléchargement sur <a href="https://download.geofabrik.de/osm/europe/">geofabrik</a> au format osm.bz2.
 Bien noter la référence temporelle du lot téléchargé, cette information sera
 utilisée pour mettre en oeuvre les mises à jour périodiques. Chargement dans la
-base postGIS avec <a href="http://wiki.openstreetmap.org/wiki/Osm2pgsql">osm2pgsql</a> compilé depuis les
+base postGIS avec <a href="https://wiki.openstreetmap.org/wiki/Osm2pgsql">osm2pgsql</a> compilé depuis les
 sources (le paquet lenny est obsolète).</li>
 </ul>
 <ul>
@@ -44,12 +44,12 @@ sources (le paquet lenny est obsolète).</li>
 les attributs utilisés pour la classification.</li>
 </ul>
 <ul>
-<li>publication en WMS. On utilise la bibliothèque <a href="http://www.antigrain.com/">AGG</a> et <a href="http://mapserver.org/mapfile/outputformat.html">mapserver compilé avec
+<li>publication en WMS. On utilise la bibliothèque <a href="https://www.antigrain.com/">AGG</a> et <a href="https://mapserver.org/mapfile/outputformat.html">mapserver compilé avec
 l'option --with-experimental-png</a> qui divise la taille des tuiles par 2 ou 3
 grâce à l'optimisation (invisible) de la palette.</li>
 </ul>
 <ul>
-<li>tuilage avec <a href="http://geowebcache.org/">geowebcache</a>. Le test
+<li>tuilage avec <a href="https://geowebcache.org/">geowebcache</a>. Le test
 portant sur la projection EPSG:2154, on choisit d'utiliser pour grille de
 tuilage l'emprise maximale proposée par cette projection et on prend les seuils
 de zoom (&lt;scaleDenominators&gt; en terminologie geowebcache). Voici la
@@ -106,10 +106,10 @@ pour chaque seuil de zoom.</li>
 <h3>Le résultat</h3>
 <p>La vidéo suivante illustre (imparfaitement) le rendu d'openstreetmap à
 toutes les échelles.</p>
-<div style="text-align: center;"><object type="application/x-shockwave-flash" data="http://blog.georchestra.org/?pf=player_flv.swf" width="400" height="280"><param name="movie" value="http://blog.georchestra.org/?pf=player_flv.swf" />
+<div style="text-align: center;"><object type="application/x-shockwave-flash" data="https://blog.georchestra.org/?pf=player_flv.swf" width="400" height="280"><param name="movie" value="https://blog.georchestra.org/?pf=player_flv.swf" />
 <param name="wmode" value="transparent" />
 <param name="allowFullScreen" value="true" />
-<param name="FlashVars" value="title=test%20OpenStreetMap&amp;margin=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;buttonovercolor=ff9900&amp;slidercolor1=cccccc&amp;slidercolor2=999999&amp;sliderovercolor=0066cc&amp;flv=http://blog.georchestra.org/public/screencasts/test-osm.flv&amp;width=400&amp;height=300" /></object></div>
+<param name="FlashVars" value="title=test%20OpenStreetMap&amp;margin=1&amp;showvolume=1&amp;showtime=1&amp;showfullscreen=1&amp;buttonovercolor=ff9900&amp;slidercolor1=cccccc&amp;slidercolor2=999999&amp;sliderovercolor=0066cc&amp;flv=https://blog.georchestra.org/public/screencasts/test-osm.flv&amp;width=400&amp;height=300" /></object></div>
 <p>Avec le processus de téléchargement, de mise à jour et de rendu des données,
 OpenStreetMap, <strong>geOrchestra se dote d'un référentiel cartographique
 libre, performant, prêt à l'emploi dans les projections utilisées par les

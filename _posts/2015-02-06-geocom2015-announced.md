@@ -14,11 +14,11 @@ uid: 2015-02-06
 
 geOrchestra as a project was decidedly built a community from its very start. To us this means that users, contributers, funders, developers, teachers, and researchers, all have their say in order to set the project's roadmap.
 
-Project [GeoBolivia](http://geo.gob.bo/) who invited the PSC in 2012 made us aware of the interest of gathering the community, as the aims of ours SDIs are different and complementary at the same time.
+Project [GeoBolivia](https://geo.gob.bo/) who invited the PSC in 2012 made us aware of the interest of gathering the community, as the aims of ours SDIs are different and complementary at the same time.
 
 <img src="/public/posts/2015-02-06/equipogeobolivia-48779.jpg" width="320" alt="bolivia 2012" />
 
-Then followed the first GeoCom (2013) in Rennes, France, hosted by [Agrocampus Ouest](http://geowww.agrocampus-ouest.fr/). Exposing together state, regional, council, and research, SDIs genuinely fuelled our reflections, from which stemmed the implementation of professional add-ons and a dedication to share different tools for different audiences.
+Then followed the first GeoCom (2013) in Rennes, France, hosted by [Agrocampus Ouest](https://geowww.agrocampus-ouest.fr/). Exposing together state, regional, council, and research, SDIs genuinely fuelled our reflections, from which stemmed the implementation of professional add-ons and a dedication to share different tools for different audiences.
 
 <img src="/public/AGROCAMPUS.jpg" width="320" alt="agrocampus ouest 2013" />
 
@@ -29,7 +29,7 @@ In 2014, [CRAIG brought us together](#) in Clermont Ferrand, France. There we fo
 
 ## Heading to Alsace
 
-We happily announce the same dynamic for 2015. The [CIGAL](http://www.cigalsace.org/) (Cooperation Geographic Information in Alsace) partnership have agreed (many thanks to them!) to host GeoCom 2015 in Strasbourg, France. The proposed dates are 22-24 june. The event is obviously free and everyone interested in geOrchestra are warmly invited.
+We happily announce the same dynamic for 2015. The [CIGAL](https://www.cigalsace.org/) (Cooperation Geographic Information in Alsace) partnership have agreed (many thanks to them!) to host GeoCom 2015 in Strasbourg, France. The proposed dates are 22-24 june. The event is obviously free and everyone interested in geOrchestra are warmly invited.
 
 We need you to take your part in topic build-up to better target on expectations and consequently influence the roadmap. Thank you in advance for filling-in the <a href="https://sdi.georchestra.org/limesurvey/index.php/446666/lang-en" data-proofer-ignore>following poll</a>.
 

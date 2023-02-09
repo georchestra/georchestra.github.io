@@ -26,4 +26,4 @@ In the following weeks, we'll check that integration with the other components o
 
 For the most adventurous of you, it is possible to test this new build by checking out the [2.5.1-georchestra](https://github.com/georchestra/geoserver/tree/2.5.1-georchestra) branch in the [georchestra/geoserver](https://github.com/georchestra/geoserver/) repository with help from the [#677](https://github.com/georchestra/georchestra/issues/677) issue.  
 
-This is work from Florent Gravin, [Camptocamp](http://www.camptocamp.com/geospatial/), with support from [GeoBretagne](http://cms.geobretagne.fr/). GeoFence was not tested with this new GeoServer build.
+This is work from Florent Gravin, [Camptocamp](https://www.camptocamp.com/geospatial/), with support from [GeoBretagne](https://cms.geobretagne.fr/). GeoFence was not tested with this new GeoServer build.

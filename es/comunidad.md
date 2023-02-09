@@ -24,7 +24,7 @@ Las contribuciones pueden ser de diferentes formas:
 Nivel Estatal:
 
 <div class="row">
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobolivia.jpg" name="Estado Plurinacional de Bolivia" text="con GeoBolivia" site_url="http://geo.gob.bo/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobolivia.jpg" name="Estado Plurinacional de Bolivia" text="con GeoBolivia" site_url="https://geo.gob.bo/" %}
 </div>
 
 Nivel SubNacional:
@@ -34,7 +34,7 @@ Nivel SubNacional:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geo2france.jpg" name="Haut de France (Francia)" text="Proyecto Géo2France" site_url="https://www.geo2france.fr/portail/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (Francia)" text="Proyecto DataGrandEst" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (Francia)" text="Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="https://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="con el proyecto Datageo" site_url="https://datageo.alsace.eu/" %}
@@ -59,10 +59,10 @@ Investigación y educación:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="con GéoSAS" site_url="https://geosas.fr/web/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="'Musée National d'Histoire Naturelle', Paris" site_url="http://bbees.mnhn.fr/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="'Université Pierre et Marie Curie', Paris" site_url="http://www.sisyphe.upmc.fr/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="con Indigeo" site_url="http://www.indigeo.fr/" %}  
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="'Musée National d'Histoire Naturelle', Paris" site_url="https://bbees.mnhn.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="con Indigeo" site_url="https://www.indigeo.fr/" %}  
    {% include card_user.html label_site="Más información" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="con CATI SIOEA y GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
    {% include card_user.html label_site="Más información" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text=" con OSURIS" site_url="https://accueil.osuris.fr/" %}
    {% include card_user.html label_site="Más información" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
@@ -72,7 +72,7 @@ Empresas:
 
 <div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." site_url="" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="http://terranis.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="https://terranis.fr/" %}
 </div>
 
 Organizaciones internacionales y asociaciones:

@@ -30,6 +30,6 @@ atelier Roadmap</a> (jeudi 30 mai matin)</li>
 <li><a href="https://docs.google.com/document/d/1Q4aav1i133MS6YE2tUlo9JHIC8rLY7AIH5QyrrOL2gE/edit">
 synthèse des ateliers et organisation de la communauté</a> (jeudi 30 mai
 matin)</li>
-<li>les photos sur <a href="http://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/" title="http://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/">http://www.flickr.com/photos/fvande...</a></li>
+<li>les photos sur <a href="https://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/" title="https://www.flickr.com/photos/fvanderbiest/sets/72157633849726599/">https://www.flickr.com/photos/fvande...</a></li>
 <li>le reportage complet sur la plateforme PIGMA</li>
 </ul>

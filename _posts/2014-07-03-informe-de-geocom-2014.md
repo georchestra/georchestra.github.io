@@ -65,8 +65,8 @@ El módulo GeoFence opcional permite un control extremadamente preciso para limi
 Un método con efectos (y costos) crecientes es expuesto: la supervisión, los límites de seguridad, optimización http / images / estilos / datos, tiling, navegadores modernos, escalabilidad horizontal / vertical del alojamiento. Para la continuidad del servicio, balanceo de carga GeoServer y el reinicio automático dan muy buenos resultados y reducen en gran medida la carga administrativa.
 
 Lecturas indispensables:
-* GeoServer in production http://docs.geoserver.org/stable/en/user/production/index.html
-* GeoServer on steroid http://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/
+* GeoServer in production https://docs.geoserver.org/stable/en/user/production/index.html
+* GeoServer on steroid https://blog.geoserver.org/2013/10/02/geoserver-foss4g-2013/
 
 => tendencias : adición de una [oferta Nagios](https://github.com/georchestra/nagios) a geOrchestra, compartir los test cases.
 

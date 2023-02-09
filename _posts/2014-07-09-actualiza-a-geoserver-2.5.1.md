@@ -24,4 +24,4 @@ Esta mejora se embarcará con geOrchestra 14.12, al final del año. En las próx
 
 Para los más aventureros como tú, es posible probar esta nueva construcción revisando en la rama [2.5.1-georchestra](https://github.com/georchestra/geoserver/tree/2.5.1-georchestra) en el repositorio [georchestra/geoserver](https://github.com/georchestra/geoserver/) con la ayuda de la edición [#677](https://github.com/georchestra/georchestra/issues/677).
 
-Este es un trabajo de Florent Gravin, [Camptocamp](#), con el apoyo de [GeoBretagne](http://cms.geobretagne.fr/). GeoFence no ha sido probado con esta nueva construcción GeoServer.
+Este es un trabajo de Florent Gravin, [Camptocamp](#), con el apoyo de [GeoBretagne](https://cms.geobretagne.fr/). GeoFence no ha sido probado con esta nueva construcción GeoServer.

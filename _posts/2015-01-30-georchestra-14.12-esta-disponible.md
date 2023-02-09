@@ -76,8 +76,8 @@ Además, el proyecto ahora proporciona ejemplos de configuración para el direct
 El despliegue de una geOrchestra IDS ahora se puede hacer en 4 partes (!):
 
  * para el desarrollo o para una necesidad de una sola vez para demostrar que es posible utilizar **contenedores Docker** , creados a partir de las recetas que se ofrecen en la presentación [geOrchestra/docker](https://github.com/georchestra/docker).
- * para el despliegue rápido de todos los componentes de los IDS, incluyendo geofence, ahora es posible utilizar el [ansible playbook](https://github.com/landryb/georchestra-ansible) aportado por Landry Breuil, de [CRAIG](http://craig.fr/).
- * para la implementación del middleware necesario para IDS (Apache, Tomcat, PostgreSQL, OpenLDAP), se hizo un poco más de <a href="https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master" data-proofer-ignore>ansible playbook</a> aportado por Daniel Quisbert de [GeoBolivia](http://geo.gob.bo/) y Juan Coronel, Daniel Jiménez de [ADSIB](http://www.adsib.gob.bo/).
+ * para el despliegue rápido de todos los componentes de los IDS, incluyendo geofence, ahora es posible utilizar el [ansible playbook](https://github.com/landryb/georchestra-ansible) aportado por Landry Breuil, de [CRAIG](https://craig.fr/).
+ * para la implementación del middleware necesario para IDS (Apache, Tomcat, PostgreSQL, OpenLDAP), se hizo un poco más de <a href="https://gitlab.geo.gob.bo/adsib/georchestra_ansible/tree/master" data-proofer-ignore>ansible playbook</a> aportado por Daniel Quisbert de [GeoBolivia](https://geo.gob.bo/) y Juan Coronel, Daniel Jiménez de [ADSIB](https://www.adsib.gob.bo/).
  * como siempre, por la construcción del WAR del proyecto en un perfil personalizado y desplegarlos en una infraestructura dedicada, a raíz de la [documentación actualizada](https://github.com/georchestra/georchestra/blob/master/README.md). La arquitectura propuesta se basa en varias instancias tomcat por defecto y **permite la escalabilidad** de IDS.
 
 ## Comunidad

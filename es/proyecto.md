@@ -29,18 +29,18 @@ Eventos anteriores:
   * en [CampToCamp](https://www.camptocamp.com), Chambéry, Francia, 2017,
   * en "Maison de l'Agriculture et de la Forêt d'Aquitaine" (asociación [PIGMA](https://www.pigma.org/)), Bordeaux, Francia, in 2016,
   * en "Maison de la Région" ([CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, Francia, 2015,
-  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand, Francia, 2014,
-  * en [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, Francia, 2013.
+  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](https://craig.fr/)), Clermont-Ferrand, Francia, 2014,
+  * en [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes, Francia, 2013.
 
 ## Comité Directivo
 
 El comité directivo cuenta con 8 miembros:
 
- * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](http://www.bretagne.developpement-durable.gouv.fr/)
- * **François Van Der Biest**, jefe de proyecto, [Camptocamp](http://www.camptocamp.com/)
- * **Pierre Mauduit**, desarrollador & administrador de sistemas, [Camptocamp](http://www.camptocamp.com/)
- * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](http://craig.fr/),
+ * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](https://www.bretagne.developpement-durable.gouv.fr/)
+ * **François Van Der Biest**, jefe de proyecto, [Camptocamp](https://www.camptocamp.com/)
+ * **Pierre Mauduit**, desarrollador & administrador de sistemas, [Camptocamp](https://www.camptocamp.com/)
+ * **Landry Breuil**, operador SDI & administrador de sistemas, [CRAIG](https://craig.fr/),
  * **Stéphane Mével-Viannay**, jefe de proyecto [GéoBretagne](https://geobretagne.fr)
- * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](https://metropole.rennes.bzh/)
  * **Pierre Jégo**, desarrollador y consultor, [JDev](https://jdev.fr/)
- * **Jean Pommier**, desarrollador y consultor, [pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Jean Pommier**, desarrollador y consultor, [pi-Geosolutions](https://www.pi-geosolutions.fr/)

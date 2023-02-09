@@ -30,7 +30,7 @@ Le projet geOrchestra a débuté en 2009 lorsque la version 2 de l'Infrastructur
 La maîtrise d'œuvre et la maîtrise d'ouvrage ont décidé de placer le code source du projet sous licence libre afin d'en faire profiter le plus grand nombre.
 Un comité de pilotage ("PSC") s'est constitué pour construire le projet libre, animer sa communauté, encadrer ses évolutions.
 
-Le choix de l'ouverture sous licence [GPL](http://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) était judicieux puisque, par la suite, un grand nombre d'acteurs ont pu étudier, installer et adapter tout ou partie de la suite logicielle pour leurs propres besoins.
+Le choix de l'ouverture sous licence [GPL](https://fr.wikipedia.org/wiki/Licence_publique_g%C3%A9n%C3%A9rale_GNU) était judicieux puisque, par la suite, un grand nombre d'acteurs ont pu étudier, installer et adapter tout ou partie de la suite logicielle pour leurs propres besoins.
 
 Initialement hébergé sur un dépôt de sources en Bretagne, le code source du projet a été migré vers [GitHub](https://github.com/georchestra) au cours de l'année 2012.
 Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
@@ -45,12 +45,12 @@ Les éditions précédentes du geOcom se sont tenues :
  * au centre des congrès de Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/geocom-2022.html), sur invitation de [JDEV](https://jdev.fr/)
  * en ligne pour l'édition 2021,
  * à La ville et la [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019,
- * à l'Hôtel de région Hauts de France ([Géopicardie](http://www.geopicardie.fr/portail/)), Amiens, en 2018,
+ * à l'Hôtel de région Hauts de France ([Géopicardie](https://www.geopicardie.fr/portail/)), Amiens, en 2018,
  * à [CampToCamp](https://www.camptocamp.com), Chambéry, en 2017,
  * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016,
- * à la Maison de la Région (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](http://www.cigalsace.org/portail/)), Strasbourg, en 2015,
- * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](http://craig.fr/)), Clermont-Ferrand en 2014,
- * à [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
+ * à la Maison de la Région (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, en 2015,
+ * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](https://craig.fr/)), Clermont-Ferrand en 2014,
+ * à [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
 
 
 ## Comité de pilotage
@@ -58,11 +58,11 @@ Les éditions précédentes du geOcom se sont tenues :
 Le comité de pilotage est composé de 8 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](https://geobretagne.fr)
- * **François Van Der Biest**, responsable produit et chef de projet, [Camptocamp](http://www.camptocamp.com/)
- * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](http://www.camptocamp.com/)
- * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](http://craig.fr/),
+ * **François Van Der Biest**, responsable produit et chef de projet, [Camptocamp](https://www.camptocamp.com/)
+ * **Pierre Mauduit**, développeur & administrateur système, [Camptocamp](https://www.camptocamp.com/)
+ * **Landry Breuil**, gestionnaire d'IDS & administrateur système, [CRAIG](https://craig.fr/),
  * **Stéphane Mével-Viannay**, chef de projet [GéoBretagne](https://geobretagne.fr)
- * **Maël Reboux**, géomaticien, chef de projet, [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Maël Reboux**, géomaticien, chef de projet, [Rennes Métropole](https://metropole.rennes.bzh/)
  * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
- * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, cheffe de projets [Rennes Métropole](https://metropole.rennes.fr//) 

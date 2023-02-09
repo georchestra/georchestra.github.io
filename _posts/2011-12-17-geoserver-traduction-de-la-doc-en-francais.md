@@ -6,7 +6,7 @@ lang: fr
 uid: 2011-12-17-22-44
 ---
 
-<a href="http://geoserver.org/">GeoServer</a> dispose d'une interface graphique en français et d'un <a href="http://docs.geoserver.org/stable/en/user/">manuel utilisateur</a> précis et détaillé, mais jusqu'alors non francisé. Les contributeurs geOrchestra ont bien entamé sa traduction française. 
+<a href="https://geoserver.org/">GeoServer</a> dispose d'une interface graphique en français et d'un <a href="https://docs.geoserver.org/stable/en/user/">manuel utilisateur</a> précis et détaillé, mais jusqu'alors non francisé. Les contributeurs geOrchestra ont bien entamé sa traduction française. 
 
 <!--more-->
 
