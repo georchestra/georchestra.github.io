@@ -6,14 +6,14 @@ uid: software
 permalink: /software.html
 ---
 
-geOrchestra's core relies on a security proxy based on [Spring Security](http://projects.spring.io/spring-security/) and on a [single-sign-on system](http://en.wikipedia.org/wiki/Single_sign-on) using [CAS](http://www.jasig.org/cas).
+geOrchestra's core relies on a security proxy based on [Spring Security](https://projects.spring.io/spring-security/) and on a [single-sign-on system](https://en.wikipedia.org/wiki/Single_sign-on) using [CAS](https://www.jasig.org/cas).
 
 geOrchestra provides independant and interoperable modules to build your own custom spatial data infrastructure:
 
- * a [data catalog](https://github.com/georchestra/geonetwork/) based on [GeoNetwork](http://geonetwork-opensource.org/) version 4.0.6,
- * a map and feature server: [GeoServer](http://geoserver.org/) version 2.18.3,
+ * a [data catalog](https://github.com/georchestra/geonetwork/) based on [GeoNetwork](https://geonetwork-opensource.org/) version 4.0.6,
+ * a map and feature server: [GeoServer](https://geoserver.org/) version 2.18.3,
  * an [advanced data access list manager](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
- * a map tiles server: [GeoWebCache](http://geowebcache.org/) version 1.16.2,
+ * a map tiles server: [GeoWebCache](https://geowebcache.org/) version 1.16.2,
  * an [advanced web map viewer](https://github.com/georchestra/georchestra/blob/master/mapfishapp/README.md) with query, styling, editing functions,
  * a [data extractor](https://github.com/georchestra/georchestra/blob/master/extractorapp/README.md) to extract, reproject and download datasets from OGC services,
  * a [user, orgs & roles manager](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("ldapadmin"),
@@ -24,19 +24,19 @@ geOrchestra provides independant and interoperable modules to build your own cus
 All geOrchestra modules are available under the terms of the [GNU GPL v3](https://github.com/georchestra/georchestra/blob/master/LICENSE.txt) license, except:
 
  * JASIG CAS - [Apache License, version 2.0](https://github.com/Jasig/cas/blob/master/LICENSE),
- * GeoNetwork & GeoServer - [GPL v2](http://www.gnu.org/licenses/gpl-2.0.html),
- * GeoWebCache - [LGPL](http://www.gnu.org/licenses/lgpl.html).
+ * GeoNetwork & GeoServer - [GPL v2](https://www.gnu.org/licenses/gpl-2.0.html),
+ * GeoWebCache - [LGPL](https://www.gnu.org/licenses/lgpl.html).
 
-Our main libraries are using a mix of licenses, compatible with the [Open Source definition](http://opensource.org/osd):
+Our main libraries are using a mix of licenses, compatible with the [Open Source definition](https://opensource.org/osd):
 
- * GeoTools - [LGPL](http://www.gnu.org/licenses/lgpl.html),
+ * GeoTools - [LGPL](https://www.gnu.org/licenses/lgpl.html),
  * OpenLayers & GeoExt - BSD-style,
  * ExtJS - [GPL v3](https://github.com/probonogeek/extjs/blob/3.x/license.txt),
  * proj4js - [MIT](https://github.com/proj4js/proj4js/blob/master/LICENSE.md).
 
 #### Web Services
 
-A geOrchestra platform advertises standard web services to discover ([CSW](http://www.opengeospatial.org/standards/cat)), view ([WMS](http://www.opengeospatial.org/standards/wms), [WMTS](http://www.opengeospatial.org/standards/wmts)), symbolize ([SLD](http://www.opengeospatial.org/standards/sld)), query and download ([WFS](http://www.opengeospatial.org/standards/wfs)), edit ([WFS-T](http://www.opengeospatial.org/standards/wfs)), and even process ([WPS](http://www.opengeospatial.org/standards/wps)) geographical features. It also provides powerful web applications making use of these services (and eventually combining them). It interoperates perfectly with GIS softwares such as [QGIS](http://www.qgis.org/) and [ArcGIS](http://www.arcgis.com/).
+A geOrchestra platform advertises standard web services to discover ([CSW](https://www.opengeospatial.org/standards/cat)), view ([WMS](https://www.opengeospatial.org/standards/wms), [WMTS](https://www.opengeospatial.org/standards/wmts)), symbolize ([SLD](https://www.opengeospatial.org/standards/sld)), query and download ([WFS](https://www.opengeospatial.org/standards/wfs)), edit ([WFS-T](https://www.opengeospatial.org/standards/wfs)), and even process ([WPS](https://www.opengeospatial.org/standards/wps)) geographical features. It also provides powerful web applications making use of these services (and eventually combining them). It interoperates perfectly with GIS softwares such as [QGIS](https://www.qgis.org/) and [ArcGIS](https://www.arcgis.com/).
 
 #### Releases
 

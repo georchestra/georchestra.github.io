@@ -36,7 +36,7 @@ dans le <a href="https://docs.google.com/forms/d/1aGFMtLFFsMX9ibFhmLjiwl7AhONxA
 <div>Moment d'échange entre utilisateurs, administrateurs, développeurs,
 PSC</div>
 <div>Dîner communauté à proximité au restaurant le Knock - 48 rue de
-Saint-Brieuc (cf. <a href="http://www.openstreetmap.org/?lat=48.112655&amp;lon=-1.703063&amp;zoom=18&amp;layers=M">
+Saint-Brieuc (cf. <a href="https://www.openstreetmap.org/?lat=48.112655&amp;lon=-1.703063&amp;zoom=18&amp;layers=M">
 plan</a>) avec une formule entrée+plat+dessert à 16,50€ (boissons non
 incluses).</div>
 <h3>jeudi 30 mai matin</h3>
@@ -71,14 +71,14 @@ Bordeaux</p>
 <div>Ressources :</div>
 <div>
 <ul>
-<li><a href="http://osm.org/go/eri001oXY--" hreflang="fr">plan d'accès
+<li><a href="https://osm.org/go/eri001oXY--" hreflang="fr">plan d'accès
 (OpenStreetMap)</a></li>
 <li><a hreflang="fr" href="#">
 plan d'accès depuis la rocade (Agrocampus Ouest)</a></li>
 <li><a href="#" hreflang="fr">plan de l'Agrocampus Ouest</a></li>
-<li><a href="http://www.breizhgo.com/" hreflang="fr">itinéraire transports en
+<li><a href="https://www.breizhgo.com/" hreflang="fr">itinéraire transports en
 commun Bretagne (BreizhGo)</a></li>
-<li><a href="http://www.voyages-sncf.com/" hreflang="fr">horaires train (SNCF)</a></li>
+<li><a href="https://www.voyages-sncf.com/" hreflang="fr">horaires train (SNCF)</a></li>
 <li><a href="#" hreflang="fr">vols directs</a></li>
 <li>nous contacter si vous avez des difficultés à venir :<br />
 geocom at georchestra point org</li>
@@ -87,10 +87,10 @@ geocom at georchestra point org</li>
 <h2>Dormir</h2>
 <div>
 <ul>
-<li><a href="http://www.sejours-affaires.com/residence-hoteliere-aparthotel-rennes-191.html" hreflang="fr">Séjour Affaire Villa Camilla</a> WIFI. A 400m du GeoCom</li>
+<li><a href="https://www.sejours-affaires.com/residence-hoteliere-aparthotel-rennes-191.html" hreflang="fr">Séjour Affaire Villa Camilla</a> WIFI. A 400m du GeoCom</li>
 <li><a href="https://www.hotel-bb.com/reservation-hotel/booking#step2?hotelId=4512&amp;arrival=29/05/13&amp;nightsNumber=1" hreflang="fr">hôtel B&amp;B Rennes Ouest Villejean Champeaux</a> 48€ +
 5,90€ petit déjeuner. WIFI.  A 850m du GeoCom</li>
-<li><a href="http://www.appartcity.com/apparthotel-rennes-ouest/_R_12_23_/accueil-residence.htm" hreflang="fr">Appart City Rennes Ouest</a> ** à partir de 45€.
+<li><a href="https://www.appartcity.com/apparthotel-rennes-ouest/_R_12_23_/accueil-residence.htm" hreflang="fr">Appart City Rennes Ouest</a> ** à partir de 45€.
 A 850m du GeoCom</li>
 <li>nous contacter si vous ne trouvez pas d'hébergement :<br />
 geocom at georchestra point org</li>

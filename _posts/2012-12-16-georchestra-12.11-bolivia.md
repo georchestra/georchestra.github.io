@@ -31,6 +31,6 @@ equipo GeoBolivia).</li>
 <li>nivel de zoom incorrecto a la restauración de un contexto WMC,</li>
 <li>restauración de estilos SLD en un contexto WMS,</li>
 </ul>
-<p>Más detalles aquí: http://applis-bretagne.fr/redmine/versions/show/96 - No duden en
+<p>Más detalles aquí: https://applis-bretagne.fr/redmine/versions/show/96 - No duden en
 descargar, instalar y reportar los problemas sobre la lista
 georchestra@googlegroups.com. El vínculo de descarga es <a href="https://github.com/georchestra/georchestra/archive/12.11.tar.gz" hreflang="en">https://github.com/georchestra/georchestra/archive/12.11.tar.gz</a></p>

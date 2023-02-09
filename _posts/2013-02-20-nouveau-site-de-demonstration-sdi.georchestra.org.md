@@ -7,7 +7,7 @@ uid: 2013-02-20
 ---
 
 <p>Nous avons un site dédié pour les démos !</p>
-<p>http://sdi.georchestra.org publiera les modules selon un calendrier
+<p>https://sdi.georchestra.org publiera les modules selon un calendrier
 régulier afin de tester et évaluer les nouvelles fonctionnalités. Nous
 utilisons <a href="https://sdi.georchestra.org/ci/" hreflang="en" data-proofer-ignore>une
 intégration continue avec Jenkins</a> pour maintenir un dépôt local des

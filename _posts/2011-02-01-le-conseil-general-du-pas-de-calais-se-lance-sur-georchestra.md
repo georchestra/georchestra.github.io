@@ -6,7 +6,7 @@ lang: fr
 uid: 2011-02-01
 ---
 
-<p>Le Conseil Général du Pas-de-Calais vient de publier un MAPA relatif au développement d'une application métier basée sur geOrchestra afin de répondre aux besoins de son Centre Départemental d'Archéologie (<a href="http://archeologie.pasdecalais.fr" hreflang="fr">http://archeologie.pasdecalais.fr</a>).</p>
+<p>Le Conseil Général du Pas-de-Calais vient de publier un MAPA relatif au développement d'une application métier basée sur geOrchestra afin de répondre aux besoins de son Centre Départemental d'Archéologie (<a href="https://archeologie.pasdecalais.fr" hreflang="fr">https://archeologie.pasdecalais.fr</a>).</p>
 
 <!--more-->
 

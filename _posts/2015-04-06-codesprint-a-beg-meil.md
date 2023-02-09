@@ -28,4 +28,4 @@ Le sprint se déroulera dans les locaux de l'[Agrocampus Ouest à Beg Meil](http
 
 Un hébergement est possible (38.50€) et les repas peuvent être pris sur place (11€), à réserver avant. 
 
-Tous les contributeurs et développeurs geOrchestra sont invités à se joindre à l'événement. Pour les inscriptions et réservations, c'est par ici : [http://plan.kwiqlink.com/WERJO6BUMZ7907UV](http://plan.kwiqlink.com/WERJO6BUMZ7907UV).
+Tous les contributeurs et développeurs geOrchestra sont invités à se joindre à l'événement. Pour les inscriptions et réservations, c'est par ici : [https://plan.kwiqlink.com/WERJO6BUMZ7907UV](https://plan.kwiqlink.com/WERJO6BUMZ7907UV).

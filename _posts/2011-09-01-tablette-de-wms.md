@@ -10,7 +10,7 @@ uid: 2011-09-01-21-26
 <p>Non, geOrchestra n'a pas été porté sur mobile (mais ça vient). Cet écran
 présente la superposition d'un flux WMS (PLU, parcelles cadastrales) avec un
 fond bing maps, le tout sur une tablette Asus/Android. Ceci grâce à
-l'application <a href="http://locus.asamm.cz/" hreflang="en">Locus</a>
+l'application <a href="https://locus.asamm.cz/" hreflang="en">Locus</a>
 disponible sur l'android market en versions gratuite et pro. D'une stabilité
 remarquable et regorgeant de fonctions pratiques (openstreetmap offline,
 réalité augmentée, interface avec les logiciels de navigation...), Locus permet

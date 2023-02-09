@@ -46,20 +46,20 @@ Previous geOcom events took place:
  * at [CampToCamp](https://www.camptocamp.com/), Chambéry, France, in 2017,
  * at the "Maison de l'Agriculture et de la Forêt d'Aquitaine" (location of the [PIGMA](https://www.pigma.org/) partnership), Bordeaux, France, in 2016,
  * at the "Maison de la Région" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015,
- * at "Centre Régional Auvergnat de l'Information Géographique" ([CRAIG](http://craig.fr/)), Clermont-Ferrand, France for 2014,
- * at [Agrocampus Ouest](http://www.agrocampus-ouest.fr/), Rennes, France, for 2013.
+ * at "Centre Régional Auvergnat de l'Information Géographique" ([CRAIG](https://craig.fr/)), Clermont-Ferrand, France for 2014,
+ * at [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes, France, for 2013.
 
 
 ## Steering committee
 
 The steering committee features 8 members:
 
- * **Fabrice Phung**, SDI operator at [DREAL, French State](http://www.bretagne.developpement-durable.gouv.fr/)
- * **François Van Der Biest**, product owner & project manager at [Camptocamp](http://www.camptocamp.com/)
- * **Pierre Mauduit**, developer & sysadmin at [Camptocamp](http://www.camptocamp.com/)
- * **Landry Breuil**, SDI operator & sysadmin at [CRAIG](http://craig.fr/),
+ * **Fabrice Phung**, SDI operator at [DREAL, French State](https://www.bretagne.developpement-durable.gouv.fr/)
+ * **François Van Der Biest**, product owner & project manager at [Camptocamp](https://www.camptocamp.com/)
+ * **Pierre Mauduit**, developer & sysadmin at [Camptocamp](https://www.camptocamp.com/)
+ * **Landry Breuil**, SDI operator & sysadmin at [CRAIG](https://craig.fr/),
  * **Stéphane Mével-Viannay**, project manager at [GéoBretagne](https://geobretagne.fr)
- * **Maël Reboux**, geographer, project manager at [Rennes Métropole](http://metropole.rennes.bzh/)
+ * **Maël Reboux**, geographer, project manager at [Rennes Métropole](https://metropole.rennes.bzh/)
  * **Pierre Jégo**, software developer & consultant at [JDev](https://jdev.fr/)
- * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](http://www.pi-geosolutions.fr/)
+ * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, project manager [Rennes Métropole](https://metropole.rennes.fr/) 

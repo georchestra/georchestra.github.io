@@ -7,7 +7,7 @@ lang: fr
 uid: 2014-05-22
 ---
 
-geOrchestra a été présenté à plusieurs reprises au [FOSS4G-fr](http://foss4g.osgeo.fr/) 2014 qui s'est tenu dans les locaux de l'ENSG à Marne-la-Vallée du 20 au 22 mai.
+geOrchestra a été présenté à plusieurs reprises au [FOSS4G-fr](https://foss4g.osgeo.fr/) 2014 qui s'est tenu dans les locaux de l'ENSG à Marne-la-Vallée du 20 au 22 mai.
 
 <!--more-->
 

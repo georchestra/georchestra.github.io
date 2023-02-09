@@ -36,7 +36,7 @@ Ce répertoire gagnera à être placé sous contrôle de version. On disposera a
 
 Le chemin vers ce répertoire doit être précisé dans chaque serveur tomcat au moyen de la variable `CATALINA_OPTS` et du paramètre `georchestra.datadir=/path/to/datadir`. On peut donc faire coexister plusieurs configurations sur un même système, chacune ayant son propre "datadir".
 
-Les applications génériques sont construites périodiquement par [l'intégration continue](https://build.georchestra.org/ci/job/georchestra-generic-wars/) qui a été renforcée à cette occasion. Vous pouvez les télécharger sur [http://build.georchestra.org/](http://build.georchestra.org/). L'intégration continue alimente aussi des dépôts deb et rpm, permettant au système de télécharger les nouvelles versions d'applications lors de ses mises à jour.
+Les applications génériques sont construites périodiquement par [l'intégration continue](https://build.georchestra.org/ci/job/georchestra-generic-wars/) qui a été renforcée à cette occasion. Vous pouvez les télécharger sur [https://build.georchestra.org/](https://build.georchestra.org/). L'intégration continue alimente aussi des dépôts deb et rpm, permettant au système de télécharger les nouvelles versions d'applications lors de ses mises à jour.
 
 ## Comment déployer
 

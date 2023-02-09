@@ -17,7 +17,7 @@ ensemble de nombres à référence spatiale d'un autre ensemble (p. ex., pour
 calculer la différence entre le nombre de cas d'influenza entre deux saisons)
 ou aussi compliqué qu'un modèle de changement climatique mondial.&quot;</em>
 <br />
-<strong>Source</strong> : <a href="http://www.geoconnections.org/fr/communities/developers/standards/web_processing_service" hreflang="fr">geoconnections.org</a>
+<strong>Source</strong> : <a href="https://www.geoconnections.org/fr/communities/developers/standards/web_processing_service" hreflang="fr">geoconnections.org</a>
 
 <!--more-->
 
@@ -27,7 +27,7 @@ Ceux-ci concernent l'accès à des modèles de calcul sur des bassins versants.
 Mieux qu'un long discours, nous vous proposons de retrouver ci-dessous le fruit
 de leur travail sur cette vidéo et de découvrir comment avec QGIS, on peut très
 simplement utiliser toute la puissance de calcul de services WPS :</p>
-<object type="application/x-shockwave-flash" style="width:480px; height:390px;" data="http://www.youtube.com/v/3kKD1610gng"><param name="movie" value="http://www.youtube.com/v/3kKD1610gng" /></object>
+<object type="application/x-shockwave-flash" style="width:480px; height:390px;" data="https://www.youtube.com/v/3kKD1610gng"><param name="movie" value="https://www.youtube.com/v/3kKD1610gng" /></object>
 
 <p>Merci à Hervé Squividant pour cette vidéo et ce travail.</p>
 <p>Une perspective est de pouvoir implémenter cette architecture dans geOrchestra.</p>

@@ -3,7 +3,7 @@ georchestra.github.io
 
 [![Build Status](https://travis-ci.org/georchestra/georchestra.github.io.svg?branch=master)](https://travis-ci.org/georchestra/georchestra.github.io)
 
-This is the source of the multilingual [geOrchestra website](http://www.georchestra.org/), based on the original [Jekyll](http://jekyllrb.com/) [site template](https://github.com/jekyll/jekyll/tree/master/lib/site_template).
+This is the source of the multilingual [geOrchestra website](https://www.georchestra.org/), based on the original [Jekyll](https://jekyllrb.com/) [site template](https://github.com/jekyll/jekyll/tree/master/lib/site_template).
 
 
 Prerequisites

@@ -25,7 +25,7 @@ Contributions may take several forms:
 State level:
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="with GeoBolivia" site_url="http://geo.gob.bo/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="with GeoBolivia" site_url="https://geo.gob.bo/" %}
 </div>
 
 
@@ -36,7 +36,7 @@ Subnational level:
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geo2france.jpg" name="Haut de France (France)" text="Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/datagrandest.jpg" name="Grand Est (France)" text="DataGrandEst project" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="http://sigweb.cm-viladoporto.pt/home/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="https://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://www.geoportalksk.sk/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="with Datageo project" site_url="https://datageo.alsace.eu/" %}
@@ -63,10 +63,10 @@ Research and education:
   {% include card_user.html label_site="Learn more" img_url="public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="with GéoSAS" site_url="https://geosas.fr/web/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="http://thema.univ-fcomte.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/bbes.jpg" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="http://bbees.mnhn.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="http://www.sisyphe.upmc.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="with Indigeo" site_url="http://www.indigeo.fr/" %}  
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/bbes.jpg" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="https://bbees.mnhn.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="with Indigeo" site_url="https://portail.indigeo.fr/" %}  
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="with CATI SIOEA by GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="with OSURIS" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
@@ -76,7 +76,7 @@ Companies:
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." site_url="" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="http://terranis.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="https://terranis.fr/" %}
 </div>
 
 International organizations and associations:

@@ -6,8 +6,8 @@ lang: fr
 uid: 2010-09-01
 ---
 
-<p><a href="http://hudson-ci.org/" hreflang="en">Hudson</a> est un outil simple
-et performant d'<a href="http://fr.wikipedia.org/wiki/Int%C3%A9gration_continue">intégration
+<p><a href="https://hudson-ci.org/" hreflang="en">Hudson</a> est un outil simple
+et performant d'<a href="https://fr.wikipedia.org/wiki/Int%C3%A9gration_continue">intégration
 continue</a>. Branché sur le dépôt svn de geOrchestra,
 Hudson construit maintenant quotidiennement les branches du visualiseur
 mapfishapp et propose en

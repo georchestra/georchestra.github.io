@@ -9,7 +9,7 @@ uid: 2014-06-25
 
 Checkout our brand new geOrchestra website !
 
-Based on free software ([Jekyll](http://jekyllrb.com/)), it features a **mobile-friendly** blog and static pages at the same place, with **full multilingual content** (English, French & Spanish).
+Based on free software ([Jekyll](https://jekyllrb.com/)), it features a **mobile-friendly** blog and static pages at the same place, with **full multilingual content** (English, French & Spanish).
 
 <!--more-->
 

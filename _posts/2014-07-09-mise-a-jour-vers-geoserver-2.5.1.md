@@ -25,4 +25,4 @@ Cette évolution sera livrée avec geOrchestra 14.12.
 En effet, dans les semaines à venir, nous allons vérifier la bonne intégration de cette nouvelle version avec l'ensemble des composants de la suite geOrchestra.  
 Pour les plus aventureux d'entre vous, il est d'ores et déjà possible de tester en utilisant la branche [2.5.1-georchestra](https://github.com/georchestra/geoserver/tree/2.5.1-georchestra) du dépôt [georchestra/geoserver](https://github.com/georchestra/geoserver/) et en se référant au ticket d'évolution [#677](https://github.com/georchestra/georchestra/issues/677).  
 
-C'est une réalisation de Florent Gravin, [Camptocamp](http://www.camptocamp.com/geospatial/), sur financement [GeoBretagne](http://cms.geobretagne.fr/). Dans ce cadre, l'intégration avec GeoFence n'a pas été testée.
+C'est une réalisation de Florent Gravin, [Camptocamp](https://www.camptocamp.com/geospatial/), sur financement [GeoBretagne](https://cms.geobretagne.fr/). Dans ce cadre, l'intégration avec GeoFence n'a pas été testée.

@@ -59,7 +59,7 @@ A suivre, la mise en oeuvre de ce principe sur l'ensemble des modules pour la 15
 Nous avons réalisé que les administrateurs de données consultent un grand nombre de sources d'informations pour analyser le fonctionnement de l'IDS :
 journaux d'erreurs provenant des diverses applications, indicateurs de disponibilité, trafics, charge... de façon peu efficace et chronophage.
 Un groupe de sprinteurs a montré que la pile [Logstash](https://www.elastic.co/products/logstash)/[Graylog](https://www.graylog.org/) améliore l'accessibilité et l'utilisation des capteurs.
-Nous avons de plus vu que l'extension [monitor/audit](http://docs.geoserver.org/stable/en/user/extensions/monitoring/index.html) de GeoServer 
+Nous avons de plus vu que l'extension [monitor/audit](https://docs.geoserver.org/stable/en/user/extensions/monitoring/index.html) de GeoServer 
 permet le calcul instantané de métriques comme la répartition des requêtes par namespace.
 Nous avons enfin joué avec [Logstalgia](https://github.com/acaudwell/Logstalgia) qui représente le trafic sous la forme d'une (violente) partie de [pong](https://fr.wikipedia.org/wiki/Pong).
 

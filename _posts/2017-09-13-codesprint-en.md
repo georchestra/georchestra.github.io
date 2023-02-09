@@ -36,4 +36,4 @@ Contact us : psc.georchestra@gmail.com
 
 Twitter : @georchestra
 
-http://www.georchestra.org/blog.html
+https://www.georchestra.org/blog.html

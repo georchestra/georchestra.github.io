@@ -13,7 +13,7 @@ projets qui misent sur les nouvelles technologies pour développer un territoire
 ou améliorer les services et relations aux citoyens. </p>
 
 <p> Cette année, le partenariat GéoBretagne décroche un label pour son portail d’information
-géographique <a href="http://www.geobretagne.fr">www.geobretagne.fr</a>,
+géographique <a href="https://www.geobretagne.fr">www.geobretagne.fr</a>,
 développé avec la solution libre geOrchestra. 
 
 <!--more-->
@@ -21,5 +21,5 @@ développé avec la solution libre geOrchestra.
 Il fait partie des <strong>25 projets retenus</strong> sur les 100 projets concourants et figure dans la catégorie <strong>&quot;Performance et outils collaboratifs&quot;</strong>.</p>
 
 <p><em>Liens sur le web :</em></p>
-<p>http://www.interconnectes.com/fr/live2010/ (Atelier 18 : sig au coeur de l'organisation/)</p>
-<p><a href="http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes">http://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes</a></p>
+<p>https://www.interconnectes.com/fr/live2010/ (Atelier 18 : sig au coeur de l'organisation/)</p>
+<p><a href="https://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes">https://www.collaboratif-info.fr/actualite/25-territoires-innovants-decrochent-le-label-2010-des-interconnectes</a></p>
