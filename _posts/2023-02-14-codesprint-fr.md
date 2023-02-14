@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Code Sprint au Ti Lab"
-date: 2023-02-14 14:00:00
+date: 2023-02-14 12:00:00
 lang: fr
 uid: 2023-02-14
 ---
