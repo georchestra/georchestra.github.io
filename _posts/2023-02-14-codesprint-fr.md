@@ -8,6 +8,8 @@ uid: 2023-02-14
 
 Les 7, 8 et 9 Février s'est tenu le meeting des contributeurs geOrchestra au [Ti Lab](https://www.bretagne.bzh/actualites/ti-lab-laboratoire-regional-dinnovation-publique/), à Rennes. Les sociétés [Camptocamp](https://www.camptocamp.com/fr), [Jdev](https://jdev.fr/) et [pi-Geosolutions](http://www.pi-geosolutions.fr/), les plateformes [CRAIG](https://www.craig.fr/), [Data Grand Est](https://www.datagrandest.fr/portail/fr), [Rennes Métropole](https://public.sig.rennesmetropole.fr/header/), [GéoBretagne](https://geobretagne.fr/), ainsi que les membres du PSC ont travaillé sur des objectifs fixés selon les désirs de chacun. Après que l'ensemble du groupe a proposé les profils utilisateurs qui ont constitué le fil rouge du codesprint, six équipes se sont formées.
 
+<!--more-->
+
 Une équipe a produit une maquette de site pour le projet, afin de refléter ce qu'apporte geOrchestra à chaque profil.
 
 Une équipe a proposé une [nouvelle page d'accueil](https://github.com/georchestra/homepage) pour mieux aiguiller les utilisateurs. Cette page sera entièrement personnalisable pour chaque plateforme.
