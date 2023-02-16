@@ -50,7 +50,7 @@ Urban area level:
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="public/community-users/rennesmetropole.jpg" name="Rennes Métropole (France)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/vienneagglo.jpg" name="Vienne Condrieu Agglomération (France)" text="" site_url="https://www.vienne-condrieu-agglomeration.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/puyvelay.jpg" name="Communauté d'Agglomération du Puy-en-Velay" text="" site_url="https://geoportail.lepuyenvelay.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/puyvelay.jpg" name="Communauté d'Agglomération du Puy-en-Velay (France)" text="" site_url="https://geoportail.lepuyenvelay.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
