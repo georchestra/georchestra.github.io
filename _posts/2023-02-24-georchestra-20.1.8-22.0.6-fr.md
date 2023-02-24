@@ -10,7 +10,7 @@ Suite à [l'annonce le 20 février dernier d'une vulnérabilité dans GeoServer]
 
 La communauté geOrchestra a travaillé immédiatement afin de mettre à jour GeoServer dans les 2 branches stables de geOrchestra et les mettre à disposition sous toutes les méthodes de diffusion.
 
-**Les versions [20.1.8](https://github.com/georchestra/georchestra/releases/tag/20.1.8) et geOrchestra [22.0.6](https://github.com/georchestra/georchestra/releases/tag/22.0.6) embarque donc un GeoServer 2.18.7 à jour.**
+**Les versions [20.1.8](https://github.com/georchestra/georchestra/releases/tag/20.1.8) et geOrchestra [22.0.6](https://github.com/georchestra/georchestra/releases/tag/22.0.6) embarquent donc un GeoServer 2.18.7 à jour.**
 
 <!--more-->
 
