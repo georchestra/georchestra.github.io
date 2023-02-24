@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "geOrchestra 20.1.8 et 22.0.6"
-date: 2023-02-24 12:00:00
+date: 2023-02-24 10:00:00
 lang: fr
 uid: 2023-02-14
 ---
