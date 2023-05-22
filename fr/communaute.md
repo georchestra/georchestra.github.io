@@ -10,7 +10,7 @@ Le projet geOrchestra est un projet communautaire : chacun y trouvera ce que d'a
 
 Toutes les formes de contributions sont les bienvenues :
 
- * participation aux [listes](https://groups.google.com/group/georchestra?hl=fr) [de discussion](https://groups.google.com/group/georchestra-dev?hl=fr),
+ * participation aux listes de discussion : [la liste généraliste](https://groups.google.com/g/georchestra?hl=fr) ou [la liste développeurs](https://groups.google.com/g/georchestra-dev?hl=fr),
  * rédaction de [documentation](https://github.com/georchestra/georchestra/blob/master/README.md),
  * amélioration de [ce site web](https://github.com/georchestra/georchestra.github.io),
  * [rapport de bugs](https://github.com/georchestra/georchestra/issues) et propositions de nouvelles fonctionnalités,

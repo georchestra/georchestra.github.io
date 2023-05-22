@@ -11,7 +11,7 @@ Anyone can contribute, and each contribution may be reused freely by everyone.
 
 Contributions may take several forms:
 
- * participation to the [mailing lists](https://groups.google.com/group/georchestra?hl=en),
+ * participation to the mailing lists : [the main list](https://groups.google.com/g/georchestra?hl=en) or [the developpers list](https://groups.google.com/g/georchestra-dev?hl=en)
  * writing or improving the [documentation](https://github.com/georchestra/georchestra/blob/master/README.md),
  * helping improve [this website](https://github.com/georchestra/georchestra.github.io),
  * creating [bug reports](https://github.com/georchestra/georchestra/issues) and submitting enhancement requests,
