@@ -11,7 +11,7 @@ Anyone can contribute, and each contribution may be reused freely by everyone.
 
 Contributions may take several forms:
 
- * participation to the mailing lists : [the main list](https://groups.google.com/g/georchestra?hl=en) or [the developpers list](https://groups.google.com/g/georchestra-dev?hl=en)
+ * participation to the mailing lists : [the main list](https://groups.google.com/g/georchestra?hl=en) or [the developers list](https://groups.google.com/g/georchestra-dev?hl=en)
  * writing or improving the [documentation](https://github.com/georchestra/georchestra/blob/master/README.md),
  * helping improve [this website](https://github.com/georchestra/georchestra.github.io),
  * creating [bug reports](https://github.com/georchestra/georchestra/issues) and submitting enhancement requests,
@@ -104,7 +104,7 @@ We are always pleased to give a hand on the [#georchestra](https://kiwiirc.com/c
 The project runs two **mailing lists**, which you can freely join to ask for help:
 
  * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) is the main mailing list for users and data admin as well,
- * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the developpers and sysadmin mailing list
+ * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the developers and sysadmin mailing list
 
 Use psc@georchestra.org to reach the Project Steering Committee.<br />
 No support will be provided at this address.
