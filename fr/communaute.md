@@ -21,13 +21,6 @@ Toutes les formes de contributions sont les bienvenues :
 
 ## Qui utilise geOrchestra ?
 
-
-Des États :
-
-<div class="row">
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="avec le projet GeoBolivia" site_url="https://geo.gob.bo/" %}
-</div>
-
 Des régions et des départements :
 
 <div class="row">
