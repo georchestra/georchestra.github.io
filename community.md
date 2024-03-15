@@ -22,13 +22,6 @@ Contributions may take several forms:
 
 ## Who's using geOrchestra ?
 
-State level:
-
-<div class="row">
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/geobolivia.jpg" name="Plurinational state of Bolivia" text="with GeoBolivia" site_url="https://geo.gob.bo/" %}
-</div>
-
-
 Subnational level:
 
 <div class="row">
