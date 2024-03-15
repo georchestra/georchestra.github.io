@@ -21,12 +21,6 @@ Las contribuciones pueden ser de diferentes formas:
 
 ## Quién esta usando geOrchestra?
 
-Nivel Estatal:
-
-<div class="row">
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/geobolivia.jpg" name="Estado Plurinacional de Bolivia" text="con GeoBolivia" site_url="https://geo.gob.bo/" %}
-</div>
-
 Nivel SubNacional:
 
 <div class="row">
