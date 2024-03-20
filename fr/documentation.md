@@ -6,19 +6,39 @@ uid: documentation
 permalink: /fr/documentation.html
 ---
 
-La documentation d'installation et de configuration est centralisée sur le [dépôt du code source](https://github.com/georchestra/georchestra/), en langue anglaise.
-Vous pouvez y accéder depuis le fichier [README](https://github.com/georchestra/georchestra/blob/master/README.md) à la racine du projet.
+<p class="lead">
+    Depuis cette page accédez à la documentation d'installation et d'utilisation de la plateforme geOrchestra.
+</p>
 
-Par ailleurs, il est toujours utile de consulter les **documentations publiques** de référence des différents projets communautaires sous-jacents:
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/favicon.ico" name="geOrchestra" text="Guide d'installation" site_url="https://github.com/georchestra/georchestra/blob/master/docs/index.md" %}   
+</div>
 
- * sur le [site de GeoServer](https://docs.geoserver.org/maintain/en/user/) pour la version 2.20,
- * sur le [site de GeoNetwork](https://www.geonetwork-opensource.org/manuals/4.0.x/en/) pour la version 4,
- * sur le [site de GeoWebCache](https://www.geowebcache.org/docs/current/index.html) pour la version 1.16.
+## Les différents composants de geOrchestra
 
-## Registre OID
+### Visualiser
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="Un visualiseur de données géographiques avancé" site_url="https://docs.georchestra.org/mapstore2/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Cadastre" text="Un plugin pour la consultation du cadastre" site_url="https://docs.georchestra.org/cadastrapp/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Urbanisme" text="Un plugin pour la consultation des documents d'urbanisme" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
+</div>
 
-Le projet geOrchestra [a reçu](https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers)
-un *Object Identifier* (OID): `1.3.6.1.4.1.53611`. C'est particulièrement utile
-pour gérer les objets LDAP spécifiques à geOrchestra. Sous ce OID racine, la
-communauté geOrchestra administre son propre
-[registre OID]({{ site.baseurl }}{% link oid.md %}) (en anglais).
+### Fournir
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Datafeeder" text="Un assistant d'intégration des données" site_url="https://georchestra-user-guide.readthedocs.io/en/latest/setup/datafeeder/" %}   
+</div>
+
+### Publier
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/geonetwork_icon.svg" name="GeoNetwork" text="Un  catalogue de métadonnées" site_url="https://geonetwork-opensource.org/manuals/3.12.x/fr/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="GeoServer" text="Un puissant serveur de données géographiques respectant les standards WxS de l'OGC" site_url="https://docs.geoserver.org/stable/en/user/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="GeoWebCache" text="Un serveur de tuiles" site_url="https://www.osgeo.org/projects/geowebcache/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="Data API" text="Une API open data respectant les nouveaux standards 'Features API' de l'OGC" site_url="https://github.com/georchestra/data-api" %}        
+</div>
+
+### Administrer
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/geofence_icon.svg" name="GeoFence" text="Un module de gestion avancée des droits d’accès aux données" site_url="https://github.com/NielsCharlier/geofence" %}
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Console" text="Une console d’administration des utilisateurs, rôles et organismes" site_url="https://github.com/georchestra/georchestra/tree/master/console" %}
+    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="Un module présentant les statistiques d’utilisation de la plateforme" site_url="https://github.com/georchestra/analytics" %}     
+</div>

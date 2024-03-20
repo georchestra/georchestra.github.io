@@ -6,19 +6,39 @@ uid: documentation
 permalink: /documentation.html
 ---
 
-The installation and configuration documentation is now part of the [source repository](https://github.com/georchestra/georchestra/).  
-Please refer to the [README](https://github.com/georchestra/georchestra/blob/master/README.md) and explore the links.
+<p class="lead">
+    From this page you can access the installation and user documentation for the geOrchestra platform.
+</p>
 
-The **reference manuals** of the underlying standalone modules are also valuable sources of information:
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/favicon.ico" name="geOrchestra" text="Installation guide" site_url="https://github.com/georchestra/georchestra/blob/master/docs/index.md" %}   
+</div>
 
- * on the [GeoServer website](https://docs.geoserver.org/maintain/en/user/) for the 2.20 version,
- * on the [GeoNetwork website](https://www.geonetwork-opensource.org/manuals/4.0.x/en/) for the 4 version,
- * on the [GeoWebCache website](https://www.geowebcache.org/docs/current/index.html) for the 1.16 version.
+## The different components of geOrchestra
 
-## OID registry
+### View
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="An advanced geographic data viewer" site_url="https://docs.georchestra.org/mapstore2/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Land registry plugin" text="A plugin for land registry consultation" site_url="https://docs.georchestra.org/cadastrapp/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Urban planning plugin" text="A plugin for consulting planning documents" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
+</div>
 
-The geOrchestra project [has been assigned](https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers)
-an Object Identifier (OID): `1.3.6.1.4.1.53611`. It is particularly useful to
-manage custom LDAP objects specific to geOrchestra. Below this root OID, the
-geOrchestra community maintains its own
-[OID registry]({{ site.baseurl }}{% link oid.md %}).
+### Supply
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Datafeeder" text="A data integration wizard" site_url="https://georchestra-user-guide.readthedocs.io/en/latest/setup/datafeeder/" %}   
+</div>
+
+### Publish
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/geonetwork_icon.svg" name="GeoNetwork" text="A metadata catalogue" site_url="https://geonetwork-opensource.org/manuals/3.12.x/fr/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="GeoServer" text="A powerful geographic data server that complies with OGC WxS standards" site_url="https://docs.geoserver.org/stable/en/user/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="GeoWebCache" text="A tile server" site_url="https://www.osgeo.org/projects/geowebcache/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="Data API" text="An open data API complying with the new OGC 'Features API' standards" site_url="https://github.com/georchestra/data-api" %}        
+</div>
+
+### Manage
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/geofence_icon.svg" name="GeoFence" text="A module for advanced management of data access rights" site_url="https://github.com/NielsCharlier/geofence" %}
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Console" text="An administration console for users, roles and organisations" site_url="https://github.com/georchestra/georchestra/tree/master/console" %}
+    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="A module presenting statistics on use of the platform" site_url="https://github.com/georchestra/analytics" %}     
+</div>
