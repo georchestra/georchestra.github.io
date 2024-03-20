@@ -10291,6 +10291,10 @@ fieldset:disabled .btn {
 body::-webkit-scrollbar {
     display: none;
 }
+
+a{
+    word-break: break-all;
+}
   
 /* Hide scrollbar for IE, Edge and Firefox */
 body {
