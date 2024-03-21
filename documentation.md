@@ -20,6 +20,7 @@ permalink: /documentation.html
 <div class="row py-2 d-flex align-items-stretch">
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="An advanced geographic data viewer" site_url="https://docs.georchestra.org/mapstore2/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Land registry plugin" text="A plugin for land registry consultation" site_url="https://docs.georchestra.org/cadastrapp/" %}
+    {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="Mviewer" text="A geographic data viewer for the public" site_url="https://mviewerdoc.readthedocs.io/fr/latest/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Urban planning plugin" text="A plugin for consulting planning documents" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
 </div>
 
@@ -40,5 +41,6 @@ permalink: /documentation.html
 <div class="row py-2 d-flex align-items-stretch">
     {% include card_doc_tool.html img_url="/public/icons/geofence_icon.svg" name="GeoFence" text="A module for advanced management of data access rights" site_url="https://github.com/NielsCharlier/geofence" %}
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Console" text="An administration console for users, roles and organisations" site_url="https://github.com/georchestra/georchestra/tree/master/console" %}
-    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="A module presenting statistics on use of the platform" site_url="https://github.com/georchestra/analytics" %}     
+    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="A module presenting statistics on use of the platform" site_url="https://github.com/georchestra/analytics" %}  
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="An mviewer application generator" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}   
 </div>

@@ -20,6 +20,7 @@ permalink: /fr/documentation.html
 <div class="row py-2 d-flex align-items-stretch">
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="Un visualiseur de données géographiques avancé" site_url="https://docs.georchestra.org/mapstore2/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Cadastre" text="Un plugin pour la consultation du cadastre" site_url="https://docs.georchestra.org/cadastrapp/" %}
+    {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="Mviewer" text="Un visualiseur de données géographiques destiné au grand public" site_url="https://mviewerdoc.readthedocs.io/fr/latest/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Urbanisme" text="Un plugin pour la consultation des documents d'urbanisme" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
 </div>
 
@@ -41,4 +42,5 @@ permalink: /fr/documentation.html
     {% include card_doc_tool.html img_url="/public/icons/geofence_icon.svg" name="GeoFence" text="Un module de gestion avancée des droits d’accès aux données" site_url="https://github.com/NielsCharlier/geofence" %}
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Console" text="Une console d’administration des utilisateurs, rôles et organismes" site_url="https://github.com/georchestra/georchestra/tree/master/console" %}
     {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="Un module présentant les statistiques d’utilisation de la plateforme" site_url="https://github.com/georchestra/analytics" %}     
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un générateur d'applications mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}
 </div>
