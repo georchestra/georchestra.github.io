@@ -10395,3 +10395,34 @@ a.nav-link {
 #cardPresentation img {
     display: none;
 }
+
+/* Documentation > card tool */
+.card-tool-doc {
+    display: flex;
+    background-color: var(--bs-gray-100);
+    color: #495057!important;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-start;
+    padding: 1em;
+    border-radius: 0.3em;
+    text-decoration: none;
+    margin: 0 0.5em 0.5em 0;
+    height: 100%;
+}
+
+.card-tool-doc:hover {
+    text-decoration: none;
+    background-color: #cea0cb26;
+}
+
+.card-tool-doc p{
+    line-height:1.1;
+    margin:0;
+}
+
+.card-tool-doc h4{    
+    margin: 0 0 5px 0;
+}

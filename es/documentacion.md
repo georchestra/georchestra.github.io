@@ -6,19 +6,42 @@ uid: documentation
 permalink: /es/documentacion.html
 ---
 
-La documentación de la instalación y configuratión es ahora parte del repositorio de [código fuente](https://github.com/georchestra/georchestra/), en idioma Inglés.
-Puede acceder a ella desde el archivo [README](https://github.com/georchestra/georchestra/blob/master/README.md) en la raíz del proyecto.
+<p class="lead">
+    Desde esta página puede acceder a la documentación de instalación y uso de la plataforma geOrchestra.
+</p>
 
-Los **manuales de referencia** de los módulos independientes subyacentes también son valiosas fuentes de información:
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/favicon.ico" name="geOrchestra" text="Guía de instalación" site_url="https://github.com/georchestra/georchestra/blob/master/docs/index.md" %}   
+</div>
 
-  * En el [sitio web de GeoServer](https://docs.geoserver.org/maintain/en/user/) para la versión 2.20,
-  * En el [sitio web de GeoNetwork](https://www.geonetwork-opensource.org/manuals/4.0.x/en/) para la versión 4,
-  * En el [sitio web de GeoWebCache](https://www.geowebcache.org/docs/current/index.html) para la versión 1.16.
+## Los componentes de geOrchestra
 
-## Registro OID
+### Ver
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="Un visor avanzado de datos geográficos" site_url="https://docs.georchestra.org/mapstore2/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin del registro de la propiedad" text="Un complemento para la consulta del catastro" site_url="https://docs.georchestra.org/cadastrapp/" %}
+    {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="Mviewer" text="Un visor de datos geográficos para el público" site_url="https://mviewerdoc.readthedocs.io/fr/latest/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin de urbanismo" text="Un plugin para consultar documentos de planificación" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
+</div>
 
-El proyecto geOrchestra [recibió](https://www.iana.org/assignments/enterprise-numbers/enterprise-numbers)
-un *Object Identifier* (OID): `1.3.6.1.4.1.53611`. Es particularmente util para
-para manejar los objetos LDAP específicos a geOrchestra. Por debajo de este OID
-raíz, la comunidad geOrchestra administra su propio
-[registro OID]({{ site.baseurl }}{% link oid.md %}) (en inglés).
+### Suministro
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Datafeeder" text="Un asistente de integración de datos" site_url="https://georchestra-user-guide.readthedocs.io/en/latest/setup/datafeeder/" %}   
+</div>
+
+### Publicar
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/geonetwork_icon.svg" name="GeoNetwork" text="Un catálogo de metadatos" site_url="https://geonetwork-opensource.org/manuals/3.12.x/fr/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="GeoServer" text="Un servidor de datos geográficos que cumple las normas WxS del OGC" site_url="https://docs.geoserver.org/stable/en/user/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="GeoWebCache" text="Un servidor de azulejos" site_url="https://www.osgeo.org/projects/geowebcache/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="Data API" text="Una API de datos abierta que cumple las nuevas normas 'Features API' del OGC" site_url="https://github.com/georchestra/data-api" %}        
+</div>
+
+### Administrar
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/geofence_icon.svg" name="GeoFence" text="Un módulo para la gestión avanzada de los derechos de acceso a los datos" site_url="https://github.com/NielsCharlier/geofence" %}
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Console" text="Una consola de administración para usuarios, funciones y organizaciones" site_url="https://github.com/georchestra/georchestra/tree/master/console" %}
+    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="Un módulo que presenta estadísticas sobre el uso de la plataforma" site_url="https://github.com/georchestra/analytics" %}   
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un generador de aplicaciones mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}  
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un generador de aplicaciones mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %} 
+</div>
