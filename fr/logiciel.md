@@ -14,8 +14,8 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
  * un serveur cartographique : [GeoServer](https://geoserver.org/) version 2.22.5,
  * un [module de gestion avancée des droits d'accès aux données](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md) : [GeoFence](https://github.com/geoserver/geofence),
  * un serveur de tuiles : [GeoWebCache](https://geowebcache.org/) version 1.16.2,
- * un [visualiseur de données géographiques avancé](https://mapstore.geosolutionsgroup.com/mapstore/#/) qui remplit également la fonction d'éditeur d'objets géographiques,
- * une [console d'administration des utilisateurs, roles et organismes](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("ldapadmin"),
+ * un [visualiseur de données géographiques avancé](https://docs.mapstore.geosolutionsgroup.com) qui remplit également la fonction d'éditeur d'objets géographiques,
+ * une [console d'administration des utilisateurs, roles et organismes](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("console"),
  * un [module présentant les statistiques d'utilisation](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) de l'IDS ("analytics").
 
 #### License
@@ -24,6 +24,7 @@ Les modules de geOrchestra sont tous disponibles selon les termes de la licence 
 
  * JASIG CAS - [Apache License, version 2.0](https://github.com/Jasig/cas/blob/master/LICENSE),
  * GeoNetwork & GeoServer - [GPL v2](https://www.gnu.org/licenses/gpl-2.0.html),
+ * MapStore2 - [BSD](https://github.com/geosolutions-it/MapStore2/blob/master/LICENSE.txt),
  * GeoWebCache - [LGPL](https://www.gnu.org/licenses/lgpl.html).
 
 Les librairies principales utilisent une variété de licenses compatibles avec la definition de l'[Open Source](https://opensource.org/osd) :
