@@ -53,7 +53,8 @@ Le standard OGC 3D Tiles est supporté par le visualiseur MapStore : terrain 3D,
 
 ## Préparation du geOcom
 
-La communication pour le geoCom 2024 a été préparée et lancée, le formulaire d'inscription est [https://www.helloasso.com/associations/georchestra/evenements/geocom-2024](en ligne).
+La communication pour la rencontre annuelle des utilisateurs et développeurs, le geoCom 2024 a été préparée et lancée, avec un superbe visuel pour l'illustrer (cf ci-dessous).
+le formulaire d'inscription est [en ligne](https://www.helloasso.com/associations/georchestra/evenements/geocom-2024).
 
 
 <img src="/public/geocom2024/geocom2024_affiche_small.jpg" alt="Affiche geOcom 2024" width="480px" height="auto">
