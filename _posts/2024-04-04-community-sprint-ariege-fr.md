@@ -31,7 +31,7 @@ Pour l'alimentation en données par leurs producteurs : cinq cas d'utilisation o
 
 Les blocages d'interopérabilité constatés entre GeoIDE et geOrchestra ont été décortiqués. Il s'agit maintenant de trouver un compromis permettant la consultation transparente des données GeoIDE dans geOrchestra.
 
-Les services statistiques ont souvent recours à GéoCLIP pour publier leurs indicateurs (observatoires des territoires par exemple). Les données y sont bien rangées et accessibles par API. geOrchestra et ses visualiseurs pourrait recenser, covisualiser ou intégrer automatiquement ces données, économisant ainsi l'effort de publication. Les versions récentes de GéoCLIP (4.12) permettent le moissonnage avec un bon rendu dans le datahub (exemple Hauts de France :  https://www.geo2france.fr/datahub/dataset/act_lieu.pt_popactxx_trans_5)
+Les services statistiques ont souvent recours à GéoCLIP pour publier leurs indicateurs (observatoires des territoires par exemple). Les données y sont bien rangées et accessibles par API. geOrchestra et ses visualiseurs pourrait recenser, covisualiser ou intégrer automatiquement ces données, économisant ainsi l'effort de publication. Les versions récentes de GéoCLIP (4.12) permettent le moissonnage avec un bon rendu dans le datahub (exemple avec le jeu de données "[Part de la population active de 15 ans ou plus ayant un emploi et utilisant les transports en commun](https://www.geo2france.fr/datahub/dataset/act_lieu.pt_popactxx_trans_5)", publié sur l'infrastructure de la Région Hauts-de-France)
 
 <img src="/public/ariege2024/datahub.png" alt="datahub geo2france" width="480px" height="auto">
 
