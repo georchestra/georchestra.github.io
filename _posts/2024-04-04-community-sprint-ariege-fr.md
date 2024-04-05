@@ -48,7 +48,7 @@ geOrchestra est constitué de modules indépendants gérés par leurs propres co
 
 ## Un terrain 3D France métropolitaine
 
-Le standard OGC 3D Tiles est supporté par le visualiseur MapStore : terrain 3D, placage des données, interrogation, annotations. georchestra.org propose un flux 'terrain' tuilé sur la France métropolitaine entière afin que la communauté explore son usage. Il peut être exploité simplement dans n'importe quelle instance mapstore comme 'support de relief' plutôt que le globe ellipsoïde plat proposé par défaut, cf https://docs.mapstore.geosolutionsgroup.com/en/latest/developer-guide/maps-configuration/#cesium-terrain-provider. Le calcul de plusieurs jours (dont un MNT COG France entière à 5m) a commencé lors des rencontres. Des tests seront fait pour trouver un moyen de mixer ce flux 'terrain' à 5m avec des modèles locaux encore plus précis.
+Le standard OGC 3D Tiles est supporté par le visualiseur MapStore : terrain 3D, placage des données, interrogation, annotations. georchestra.org propose un flux 'terrain' tuilé sur la France métropolitaine entière afin que la communauté explore son usage. Il peut être exploité simplement dans n'importe quelle instance mapstore comme 'support de relief' [plutôt que le globe ellipsoïde plat proposé par défaut](https://docs.mapstore.geosolutionsgroup.com/en/latest/developer-guide/maps-configuration/#cesium-terrain-provider). Le calcul de plusieurs jours (dont un MNT COG France entière à 5m) a commencé lors des rencontres. Des tests seront fait pour trouver un moyen de mixer ce flux 'terrain' à 5m avec des modèles locaux encore plus précis.
 
 
 ## Préparation du geOcom
@@ -74,21 +74,21 @@ La communauté s'est donc positionnée pour une incubation du projet par l'OSGeo
 Des contributions ont été apportées au support des dernières versions de GeoServer 2.24 et 2.25, au proxy de sécurité, à Mviewer, à la migration d'Apache http server vers Nginx, à l'instance demo.georchestra.org, à la documentation... 
 
 Pour les curieux ou les techniques :
- * debian package for georchestra-gateway - https://github.com/georchestra/georchestra-gateway/pull/111
- * ansible - test gateway as replacement for tomcat@proxycas - https://github.com/georchestra/ansible/issues/128
- * ansible - assets from datahub fails until datadir is cloned - https://github.com/georchestra/ansible/issues/130
- * ansible - updated datahub config - https://github.com/georchestra/ansible/issues/111
- * ansible - ldap custom schema fails at first run - https://github.com/georchestra/ansible/issues/129
- * ansible - playbook does not run under ansible >= 2.16.4 https://github.com/georchestra/ansible/issues/131
- * documentation - https://github.com/georchestra/georchestra/pull/4213
- * "please test geoserver 2.25-RC" - https://github.com/georchestra/georchestra/issues/4204
- * geoserver 2.25.x - https://github.com/georchestra/georchestra/pull/4211
- * geoserver 2.24.x - https://github.com/georchestra/georchestra/pull/4205
- * new header does not work with SP - https://github.com/georchestra/georchestra/issues/4210
- * SP - harmonize /whoami with gateway - https://github.com/georchestra/georchestra/pull/4212
- * Removing deb packages ? - https://github.com/georchestra/georchestra/issues/2957
- * harvesting data.gouv.fr - https://github.com/georchestra/georchestra/issues/4182
- * WIP for better csw-dcat harvesting - https://github.com/georchestra/geonetwork/pull/288
+ * debian package for georchestra-gateway - [georchestra/georchestra-gateway#111](https://github.com/georchestra/georchestra-gateway/pull/111)
+ * ansible - test gateway as replacement for tomcat@proxycas - [georchestra/ansible#128](https://github.com/georchestra/ansible/issues/128)
+ * ansible - assets from datahub fails until datadir is cloned - [georchestra/ansible#130](https://github.com/georchestra/ansible/issues/130)
+ * ansible - updated datahub config - [georchestra/ansible#111](https://github.com/georchestra/ansible/issues/111)
+ * ansible - ldap custom schema fails at first run - [georchestra/ansible#129](https://github.com/georchestra/ansible/issues/129)
+ * ansible - playbook does not run under ansible >= 2.16.4 - [georchestra/ansible#131](https://github.com/georchestra/ansible/issues/131)
+ * documentation - [georchestra/georchestra#4213](https://github.com/georchestra/georchestra/pull/4213)
+ * "please test geoserver 2.25-RC" - [georchestra/georchestra#4204](https://github.com/georchestra/georchestra/issues/4204)
+ * geoserver 2.25.x - [georchestra/georchestra#4211](https://github.com/georchestra/georchestra/pull/4211)
+ * geoserver 2.24.x - [georchestra/georchestra#4205](https://github.com/georchestra/georchestra/pull/4205)
+ * new header does not work with SP - [georchestra/georchestra#4210](https://github.com/georchestra/georchestra/issues/4210)
+ * SP - harmonize /whoami with gateway - [georchestra/georchestra#4212](https://github.com/georchestra/georchestra/pull/4212)
+ * Removing deb packages ? - [georchestra/georchestra#2957](https://github.com/georchestra/georchestra/issues/2957)
+ * harvesting data.gouv.fr - [georchestra/georchestra#4182](https://github.com/georchestra/georchestra/issues/4182)
+ * WIP for better csw-dcat harvesting - [georchestra/geonetwork#288](https://github.com/georchestra/geonetwork/pull/288)
 
 
 ## Visualisateur cartographique 
