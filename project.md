@@ -39,6 +39,7 @@ Every year, users and developers from the community meet in a different place to
 
 Previous geOcom events took place:
 
+ * Lille in [2024](https://www.georchestra.org/fr/geocom2024/), at the invitation of the [Métropole européenne de Lille](https://www.lillemetropole.fr/)
  * Saint-Mandé for the [2023](https://www.georchestra.org/fr/geocom2023/) edition
  * Perros-Guirec in [2022](https://www.georchestra.org/fr/geocom2022/), at the invitation of [JDEV](https://jdev.fr/)
  * online for the 2021 edition

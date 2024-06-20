@@ -26,6 +26,7 @@ Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar dife
 
 Eventos anteriores:
 
+  * en Lille en [2024](https://www.georchestra.org/fr/geocom2024/), por invitación del [Métropole européenne de Lille](https://www.lillemetropole.fr/)
   * en Saint-Mandé en [2023](https://www.georchestra.org/fr/geocom2023/)
   * en Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/)
   * en [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019

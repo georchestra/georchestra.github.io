@@ -1,0 +1,32 @@
+
+/public/geocom2024/presentations/jour_1/01 - FVB - Évolutions récentes de l’écosystème geOrchestra et point sur geOrchestra version 24.pdf
+/public/geocom2024/presentations/jour_1/02 - FG - Nouvelle interface de saisie pour GeoNetwork.pdf
+/public/geocom2024/presentations/jour_1/04 - LB - Le moissonnage par data.gouv.fr_.pdf
+/public/geocom2024/presentations/jour_1/05 - SMV - Moisonnage plateformes nationales.pdf
+/public/geocom2024/presentations/jour_1/06 - JP - Community meeting d_hiver mars 2024 Ariège.pdf
+/public/geocom2024/presentations/jour_2/01 - TKR - Comment construire des applications de catalogage personnalisées avec GeoNetwork.pdf
+/public/geocom2024/presentations/jour_2/02 - TdP - MapStore.pdf
+/public/geocom2024/presentations/jour_2/03 - OJ - Mapstore-mviewer JOP 2024.pdf
+/public/geocom2024/presentations/jour_2/04 - JBD - Observatoire dechets Hauts de France.mkv
+/public/geocom2024/presentations/jour_2/04 - JBD - Observatoire dechets Hauts de France.pdf
+/public/geocom2024/presentations/jour_2/05 - FNS - Migration Security Proxy vers Gateway.pdf
+/public/geocom2024/presentations/jour_2/06 - PM - Intégration Idp tiers dans geOrchestra.pdf
+/public/geocom2024/presentations/jour_2/07 - FG - Mise en œuvre d’une nouvelle API de données standardisée dans geOrchestra.pdf
+/public/geocom2024/presentations/jour_2/08 - TdP - 3D MapStore.pdf
+/public/geocom2024/presentations/jour_2/09 - LB - 3D dans geOrchestra.pdf
+/public/geocom2024/presentations/jour_2/10 - NR - ZAE Hauts de France.pdf
+/public/geocom2024/presentations/jour_2/11 - JP - Amélioration des statistiques d’usage.pdf
+/public/geocom2024/presentations/jour_2/12 - Géo2France - Hébergement souverain.pdf
+/public/geocom2024/presentations/jour_3/01 - FG - Intelligence artificielle  comment discuter avec votre infrastructure de données.pdf
+/public/geocom2024/presentations/jour_3/02 - Grenoble AM - outil synchro DB -GeoServer.pdf
+/public/geocom2024/presentations/jour_3/05 - PT - Plugin Urbamap.pdf
+/public/geocom2024/presentations/jour_3/07 - RG - Développement de plugins dans MapStore  état de l’art.pdf
+/public/geocom2024/presentations/jour_3/08- PM - gardening.pdf
+/public/geocom2024/presentations/jour_3/09 - JML - Retex migration de GeoNode vers geOrchestra.pdf
+/public/geocom2024/presentations/jour_3/10 - CM - commande groupée MapStore.pdf
+/public/geocom2024/presentations/jour_3/11 - FG - Stellio.pdf
+/public/geocom2024/presentations/jour_3/12 - Géo2F - eXo comme plate-forme collaborative.pdf
+
+
+
+
