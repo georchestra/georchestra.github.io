@@ -61,7 +61,6 @@ Research and education:
   {% include card_user.html label_site="Learn more" img_url="public/community-users/bbes.jpg" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="https://bbees.mnhn.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="with Indigeo" site_url="https://portail.indigeo.fr/" %}  
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="with CATI SIOEA by GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="with OSURIS" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="with GeoDE" site_url="https://geode.cirad.fr/" %}
