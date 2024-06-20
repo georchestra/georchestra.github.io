@@ -44,7 +44,8 @@ Nivel Urbano:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/puyvelay.jpg" name="Le Puy en Velay (Francia)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}  
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/mel.jpg" name="Métropole Européenne de Lille (France)" text="con dataMEL, el portal de datos abiertos" site_url="https://data.lillemetropole.fr/" %}
 </div>
 
 Investigación y educación:
@@ -56,10 +57,12 @@ Investigación y educación:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="'Musée National d'Histoire Naturelle', Paris" site_url="https://bbees.mnhn.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="con Indigeo" site_url="https://www.indigeo.fr/" %}  
-   {% include card_user.html label_site="Más información" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="con CATI SIOEA y GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="con Indigeo" site_url="https://www.indigeo.fr/" %} 
    {% include card_user.html label_site="Más información" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text=" con OSURIS" site_url="https://accueil.osuris.fr/" %}
    {% include card_user.html label_site="Más información" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
+   {% include card_user.html label_site="Más información" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="con GeoDE" site_url="https://geode.cirad.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/inrae.jpg" name="INRAE" text="con Geodata INRAE" site_url="https://geodata.inrae.fr/" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/ird.jpg" name="IRD" text="con DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
 </div>
 
 Empresas:
