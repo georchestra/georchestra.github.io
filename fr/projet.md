@@ -43,7 +43,7 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 Les éditions précédentes du geOcom se sont tenues :
 
  * à l'IGN à Saint-Mandé en [2023](https://www.georchestra.org/fr/geocom2023/)
- * au centre des congrès de Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/geocom-2022.html), sur invitation de [JDEV](https://jdev.fr/)
+ * au centre des congrès de Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/), sur invitation de [JDEV](https://jdev.fr/)
  * en ligne pour l'édition 2021,
  * à La ville et la [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019,
  * à l'Hôtel de région Hauts de France ([Géopicardie](https://www.geopicardie.fr/portail/)), Amiens, en 2018,
