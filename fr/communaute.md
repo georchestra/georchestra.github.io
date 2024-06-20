@@ -45,6 +45,8 @@ Des agglomérations:
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/mel.jpg" name="Métropole Européenne de Lille (France)" text="via dataMEL, le portail open data" site_url="https://data.lillemetropole.fr/" %}
+  
 </div>
 
 Des organismes ou unités de recherche :
@@ -60,6 +62,9 @@ Des organismes ou unités de recherche :
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="via le CATI SIOEA puis GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="OSURIS – Géoportail pour la recherche, la visualisation et le téléchargement de données spatialisées" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="via GeoDE" site_url="https://geode.cirad.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/inrae.jpg" name="INRAE" text="via Geodata INRAE" site_url="https://geodata.inrae.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/ird.jpg" name="IRD" text="via DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
 </div>
 
 Entreprises:

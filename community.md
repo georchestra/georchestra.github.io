@@ -46,7 +46,8 @@ Urban area level:
   {% include card_user.html label_site="Learn more" img_url="public/community-users/puyvelay.jpg" name="Communauté d'Agglomération du Puy-en-Velay (France)" text="" site_url="https://geoportail.lepuyenvelay.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
   {% include card_user.html label_site="Learn more" img_url="public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
-  {% include card_user.html label_site="Learn more" img_url="public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}
+  {% include card_user.html label_site="Learn more" img_url="public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}  
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/mel.jpg" name="Métropole Européenne de Lille (France)" text="with dataMEL, the open data portal" site_url="https://data.lillemetropole.fr/" %}
 </div>
 
 
@@ -63,6 +64,9 @@ Research and education:
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/agroenvgeo.jpg" name="AgroEnvGeo (INRAE)" text="with CATI SIOEA by GEDEOP" site_url="https://agroenvgeo.data.inra.fr/mapfishapp/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="with OSURIS" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="with GeoDE" site_url="https://geode.cirad.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/inrae.jpg" name="INRAE" text="with Geodata INRAE" site_url="https://geodata.inrae.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/ird.jpg" name="IRD" text="with DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
 </div>
 
 Companies:
