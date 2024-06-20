@@ -26,6 +26,7 @@ Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar dife
 
 Eventos anteriores:
 
+  * en Saint-Mandé en [2023](https://www.georchestra.org/fr/geocom2023/)
   * en [CampToCamp](https://www.camptocamp.com), Chambéry, Francia, 2017,
   * en "Maison de l'Agriculture et de la Forêt d'Aquitaine" (asociación [PIGMA](https://www.pigma.org/)), Bordeaux, Francia, in 2016,
   * en "Maison de la Région" ([CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, Francia, 2015,
