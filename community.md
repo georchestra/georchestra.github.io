@@ -94,7 +94,7 @@ The GitHub ecosystem allows wide contributions via the "Pull Request" principle.
 
 ## How to find help ?
 
-We are always pleased to give a hand on the [#georchestra](https://kiwiirc.com/client/irc.libera.chat/georchestra) channel (**libera.chat** IRC server) or [Matrix](https://app.element.io/#/room/#georchestra:libera.chat).
+We are always pleased to give a hand on the [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) channel (**osgeo.org** Matrix server).
 
 The project runs two **mailing lists**, which you can freely join to ask for help:
 
