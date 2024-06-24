@@ -57,7 +57,7 @@ Les éditions précédentes du geOcom se sont tenues :
 
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 8 membres :
+Le comité de pilotage est composé de 9 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](https://geobretagne.fr)
  * **François Van Der Biest**, responsable produit et chef de projet, [Camptocamp](https://www.camptocamp.com/)

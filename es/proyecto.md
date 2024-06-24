@@ -39,7 +39,7 @@ Eventos anteriores:
 
 ## Comité Directivo
 
-El comité directivo cuenta con 8 miembros:
+El comité directivo cuenta con 9 miembros:
 
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](https://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, jefe de proyecto, [Camptocamp](https://www.camptocamp.com/)
@@ -49,3 +49,4 @@ El comité directivo cuenta con 8 miembros:
  * **Maël Reboux**, geógrafo, encargado de misión, [Rennes Métropole](https://metropole.rennes.bzh/)
  * **Pierre Jégo**, desarrollador y consultor, [JDev](https://jdev.fr/)
  * **Jean Pommier**, desarrollador y consultor, [pi-Geosolutions](https://www.pi-geosolutions.fr/)
+ * **Catherine Piton-Morales**, jefe de proyecto [Rennes Métropole](https://metropole.rennes.fr//) 

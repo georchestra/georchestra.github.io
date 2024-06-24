@@ -54,7 +54,7 @@ Previous geOcom events took place:
 
 ## Steering committee
 
-The steering committee features 8 members:
+The steering committee features 9 members:
 
  * **Fabrice Phung**, SDI operator at [DREAL, French State](https://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, product owner & project manager at [Camptocamp](https://www.camptocamp.com/)
