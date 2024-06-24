@@ -91,7 +91,7 @@ El ecosistema GitHub permite amplias contribuciones principalmente a través del
 
 ## Cómo puedo encontrar ayuda ?
 
-Seremos encantados de darle una mano en el canal de [#georchestra](https://kiwiirc.com/client/irc.libera.chat/georchestra) (**libera.chat** IRC server) o [Matrix](https://app.element.io/#/room/#georchestra:libera.chat).
+Seremos encantados de darle una mano en el canal de [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) (**osgeo.org** Matrix server).
 
 El Proyecto cuenta con dos **listas de correos**, al que puede unirse libremente para pedir ayuda:
 
