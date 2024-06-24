@@ -11,7 +11,7 @@ permalink: /fr/documentation.html
 </p>
 
 <div class="row py-2 d-flex align-items-stretch">
-    {% include card_doc_tool.html img_url="/favicon.ico" name="geOrchestra" text="Guide d'installation" site_url="https://github.com/georchestra/georchestra/blob/master/docs/index.md" %}   
+    {% include card_doc_tool.html img_url="/favicon.ico" name="geOrchestra" text="Guide d'installation" site_url="https://github.com/georchestra/georchestra/blob/master/docsv1/index.md" %}   
 </div>
 
 ## Les différents composants de geOrchestra
