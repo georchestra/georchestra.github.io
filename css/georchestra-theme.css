@@ -10365,9 +10365,13 @@ a.nav-link {
     background-repeat: no-repeat; 
 }
 
-/* Community > Card user */
+/* Community > Card */
+.presentation-card .bi {
+    font-size: large;
+    color: #85127e;
+}
 
-.user-card {
+.user-card, .presentation-card {
     margin-bottom: 10px;
 }
 
@@ -10383,6 +10387,10 @@ a.nav-link {
 .card-link {
     font-weight: 600;
     text-decoration: none;
+}
+
+.card-action {
+    margin-top: 1em;
 }
 
 /* Geocom Page */
