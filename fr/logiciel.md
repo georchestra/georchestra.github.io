@@ -11,7 +11,7 @@ Au coeur de geOrchestra se trouve un proxy de sécurité basé sur [Spring Secur
 geOrchestra propose en standard une suite de modules, indépendants et interopérables, avec lesquels on compose son Infrastructure de Données Spatiales "à la carte" :
 
  * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/), basé sur [GeoNetwork](https://geonetwork-opensource.org/) version 4.2.8,
- * un serveur cartographique : [GeoServer](https://geoserver.org/) version 2.22.5,
+ * un serveur cartographique : [GeoServer](https://geoserver.org/) version 2.25.2,
  * un [module de gestion avancée des droits d'accès aux données](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md) : [GeoFence](https://github.com/geoserver/geofence),
  * un serveur de tuiles : [GeoWebCache](https://geowebcache.org/) version 1.16.2,
  * un [visualiseur de données géographiques avancé](https://docs.mapstore.geosolutionsgroup.com) qui remplit également la fonction d'éditeur d'objets géographiques,
@@ -39,7 +39,7 @@ Une plateforme geOrchestra expose des services standards de découverte ([CSW](h
 
 #### Versions
 
-Le projet publie une ou deux versions majeures chaque année (par exemple 23.0.0 or 23.1.0). Chacune de ces versions est supportée pendant 12 mois.
+Le projet publie une ou deux versions majeures chaque année (par exemple 24.0.0 or 24.1.0). Chacune de ces versions est supportée pendant 12 mois.
 
 Nous publions également des versions "patch" (ex: 23.0.5) régulièrement, dont l'objet est de corriger les bugs identifiés et d'éventuels problèmes de sécurité.
 

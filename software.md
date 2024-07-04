@@ -11,7 +11,7 @@ geOrchestra's core relies on a security proxy based on [Spring Security](https:/
 geOrchestra provides independant and interoperable modules to build your own custom spatial data infrastructure:
 
  * a [data catalog](https://github.com/georchestra/geonetwork/) based on [GeoNetwork](https://geonetwork-opensource.org/) version 4.2.8,
- * a map and feature server: [GeoServer](https://geoserver.org/) version 2.22.5,
+ * a map and feature server: [GeoServer](https://geoserver.org/) version 2.25.2,
  * an [advanced data access list manager](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
  * a map tiles server: [GeoWebCache](https://geowebcache.org/) version 1.16.2,
  * an [advanced web map viewer](https://docs.mapstore.geosolutionsgroup.com) with query, styling, editing functions,
@@ -38,7 +38,7 @@ A geOrchestra platform advertises standard web services to discover ([CSW](https
 
 #### Releases
 
-The project publishes one or two major releases per year (eg 23.0.0 or 23.1.0). They are supported for 12 months.
+The project publishes one or two major releases per year (eg 24.0.0 or 24.1.0). They are supported for 12 months.
 
 We also publish patch releases (eg 23.0.5) every month or so, to fix bugs and security issues.
 

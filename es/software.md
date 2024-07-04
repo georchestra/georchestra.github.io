@@ -11,7 +11,7 @@ El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Sec
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
 
  * un [catálogo de datos](https://github.com/georchestra/geonetwork/) basado en [GeoNetwork](https://geonetwork-opensource.org/) versión 4.2.8,
- * un servidor de mapas con: [GeoServer](https://geoserver.org/) versión 2.22.5,
+ * un servidor de mapas con: [GeoServer](https://geoserver.org/) versión 2.25.2,
  * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
  * un servidor de tiles de mapa: [GeoWebCache](https://geowebcache.org/) versión 1.16.2,
  * un [visor de mapas web](https://docs.mapstore.geosolutionsgroup.com) con consultas, estilos y funciones de edición,
@@ -38,7 +38,7 @@ La plataforma geOrchestra brinda servicios web estándar, para descubrir ([CSW](
 
 #### Lanzamientos
 
-El proyecto lanza una o dos versiones principales cada año (por ejemplo, 23.0.0 o 23.1.0). Cada una de estas versiones tiene soporte durante 12 meses.
+El proyecto lanza una o dos versiones principales cada año (por ejemplo, 24.0.0 o 24.1.0). Cada una de estas versiones tiene soporte durante 12 meses.
 
 También publicamos periódicamente versiones de "parches" (por ejemplo: 23.0.5), cuyo objetivo es corregir errores identificados y posibles problemas de seguridad.
 
