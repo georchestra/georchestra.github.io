@@ -51,7 +51,7 @@ Investigación y educación:
 
 <div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/inrae.jpg" name="INRAE" text="GeoData INRAE" site_url="https://geodata.inrae.fr/" %}
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %}
+<!--  {% include card_user.html label_site="Más información" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %} -->
   {% include card_user.html label_site="Más información" img_url="../public/community-users/ird.jpg" name="IRD" text="DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="GéoSAS" site_url="https://geosas.fr/web/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
