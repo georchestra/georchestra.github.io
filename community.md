@@ -30,8 +30,8 @@ Subnational level:
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (France)" text="DataGrandEst project" site_url="https://www.datagrandest.fr/portail/fr" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="https://sigweb.cm-viladoporto.pt/home/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://www.geoportalksk.sk/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://www.geoportalksk.sk/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="with Datageo project" site_url="https://datageo.alsace.eu/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (France)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="with Santégraphie project" site_url="https://santegraphie.fr/accueil/accueil" %}
