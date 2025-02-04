@@ -10293,7 +10293,7 @@ body::-webkit-scrollbar {
 }
 
 a{
-    word-break: break-all;
+    word-break: break-word;
 }
   
 /* Hide scrollbar for IE, Edge and Firefox */
