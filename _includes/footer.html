@@ -2,7 +2,7 @@
 	<div class="col-12 col-lg-4 col-xl-6">
 		<img class="mb-3 mt-1" src="{{ '/public/georchestra-logo-white.svg' | prepend: site.baseurl }}" style="width: 160px;" alt="geOrchestra logo">
 		<p class="text">{{ site.description }}</p>
-		<p class="text">© 2021 - <span class="username">{{ site.username }}</span></p>
+		<p class="text">© {{ site.time | date: '%Y' }} - <span class="username">{{ site.username }}</span></p>
 	</div>
 	<div class="col-6 col-lg-4 col-xl-4 contact">
 		<h5>Contactez-nous</h5>
