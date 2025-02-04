@@ -10,8 +10,11 @@ permalink: /fr/documentation.html
     Depuis cette page accédez à la documentation d'installation et d'utilisation de la plateforme geOrchestra.
 </p>
 
+## Documentation principale de geOrchestra
+
 <div class="row py-2 d-flex align-items-stretch">
-    {% include card_doc_tool.html img_url="/favicon.ico" name="geOrchestra" text="Guide d'installation" site_url="https://github.com/georchestra/georchestra/blob/master/docsv1/index.md" %}   
+    {% include card_doc_tool.html img_url="/favicon.ico" name="Guide d'installation" text="Uniquement le guide d'installation, en anglais (sera obsolète été 2025)" site_url="https://github.com/georchestra/georchestra/blob/master/docsv1/index.md" %}
+    {% include card_doc_tool.html img_url="/favicon.ico" name="Guides d'installation et d'administration" text="La nouvelle documentation, en anglais, rédaction en cours" site_url="https://docs.georchestra.org/georchestra/" %}
 </div>
 
 ## Les différents composants de geOrchestra
