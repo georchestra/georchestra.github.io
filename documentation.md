@@ -24,7 +24,8 @@ permalink: /documentation.html
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="An advanced geographic data viewer" site_url="https://docs.georchestra.org/mapstore2/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Land registry plugin" text="A plugin for land registry consultation" site_url="https://docs.georchestra.org/cadastrapp/" %}
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="Mviewer" text="A geographic data viewer for the public" site_url="https://mviewerdoc.readthedocs.io/fr/latest/" %}
-    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Urban planning plugin" text="A plugin for consulting planning documents" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Urban planning plugin" text="A plugin for consulting planning documents" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Superset" text="Dashboards and data visualization in the form of graphs and much more" site_url="https://docs.georchestra.org/superset/latest/" %}
 </div>
 
 ### Supply

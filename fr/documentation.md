@@ -24,7 +24,8 @@ permalink: /fr/documentation.html
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="MapStore2" text="Un visualiseur de données géographiques avancé" site_url="https://docs.georchestra.org/mapstore2/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Cadastre" text="Un plugin pour la consultation du cadastre" site_url="https://docs.georchestra.org/cadastrapp/" %}
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="Mviewer" text="Un visualiseur de données géographiques destiné au grand public" site_url="https://mviewerdoc.readthedocs.io/fr/latest/" %}
-    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Urbanisme" text="Un plugin pour la consultation des documents d'urbanisme" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}    
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin Urbanisme" text="Un plugin pour la consultation des documents d'urbanisme" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Superset" text="Des tableaux de bord et de la visualisation de données sous forme de graphiques et bien plus" site_url="https://docs.georchestra.org/superset/latest/" %}
 </div>
 
 ### Fournir
