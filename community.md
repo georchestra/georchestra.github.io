@@ -41,7 +41,7 @@ Previous geOcom events took place:
 
 ## Who's using geOrchestra ?
 
-Subnational level:
+### Subnational level
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geobretagne.jpg" name="Bretagne (France)" text="with GeoBretagne partnership" site_url="https://geobretagne.fr" %}
@@ -57,39 +57,41 @@ Subnational level:
 </div>
 
 
-Urban area level:
+### Urban area level
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/mel.jpg" name="Métropole Européenne de Lille (France)" text="OpenData portal" site_url="https://data.lillemetropole.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/rennesmetropole.jpg" name="Rennes Métropole (France)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/rennesmetropole.jpg" name="Rennes Métropole (France)" text="" site_url="https://public.sig.rennesmetropole.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/puyvelay.jpg" name="Communauté d'Agglomération du Puy-en-Velay (France)" text="" site_url="https://geoportail.lepuyenvelay.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}  
 </div>
 
 
-Research and education:
+### Research and education:
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/inrae.jpg" name="INRAE" text="GeoData INRAE" site_url="https://geodata.inrae.fr/" %}
 <!--  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %} -->
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/ird.jpg" name="IRD" text="DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="GéoSAS" site_url="https://geosas.fr/web/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/fr/infrastructures-de-donnees/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="https://bbees.mnhn.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}
+  <!--{% include card_user.html label_site="Learn more" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}-->
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/archiseine.jpg" name="ArchiSEINE : Site of archives and historical data on the Seine watershed" text="ArchiSEINE" site_url="https://data.za-seine.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="Indigeo" site_url="https://indigeo.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="OSURIS" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
 </div>
 
-Companies:
+
+### Companies
 
 <div class="row">
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." site_url="" %}
+  {% include card_user.html img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="https://terranis.fr/" %}
 </div>
 

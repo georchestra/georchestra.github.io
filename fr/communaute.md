@@ -40,7 +40,7 @@ Les éditions précédentes du geOcom se sont tenues :
 
 ## Qui utilise geOrchestra ?
 
-Des régions et des départements :
+### Des régions et des départements
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geobretagne.jpg" name="Région Bretagne (France)" text="via le partenariat GeoBretagne" site_url="https://geobretagne.fr" %}
@@ -55,42 +55,47 @@ Des régions et des départements :
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN et ARS Île-de-France" text="avec la plateforme Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
 </div>
 
-Des agglomérations:
+
+### Des agglomérations
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/mel.jpg" name="Métropole Européenne de Lille (France)" text="portail OpenData" site_url="https://data.lillemetropole.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/rennesmetropole.jpg" name="Rennes Métropole (France)" text="" site_url="https://portail.sig.rennesmetropole.fr/header/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/rennesmetropole.jpg" name="Rennes Métropole (France)" text="" site_url="https://public.sig.rennesmetropole.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/puyvelay.jpg" name="Le Puy en Velay (France)" text="" site_url="https://opendata.agglo-lepuyenvelay.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/home/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terras-tras-os-montes.jpg" name="Intermunicipal Community of Terras of Trás-os-Montes (Portugal)" text="" site_url="https://ide.cim-ttm.pt/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/oeiras30mais.jpg" name="Município de Oeiras (Portugal)" text="" site_url="https://oeiras30mais.municipia.pt/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/nordeste.jpg" name="Municipality of Nordeste, São Miguel Island (Portugal)" text="" site_url="https://sigweb.cmnordeste.pt/" %}  
 </div>
 
-Des organismes ou unités de recherche :
+
+### Des organismes ou unités de recherche
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/inrae.jpg" name="INRAE" text="GeoData INRAE" site_url="https://geodata.inrae.fr/" %}
-<!--  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %} -->
+  <!--{% include card_user.html label_site="En savoir plus" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %}-->
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/ird.jpg" name="IRD" text="DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="GéoSAS" site_url="https://geosas.fr/web/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/fr/infrastructures-de-donnees/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="Musée National d'Histoire Naturelle, Paris" site_url="https://bbees.mnhn.fr/" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="Université Pierre et Marie Curie, Paris" site_url="https://www.sisyphe.upmc.fr/" %}
+  <!--{% include card_user.html label_site="En savoir plus" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="Université Pierre et Marie Curie, Paris" site_url="https://www.sisyphe.upmc.fr/" %}-->
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/archiseine.jpg" name="ArchiSEINE : Site d'archives et de données historiques sur le bassin versant de la Seine" text="ArchiSEINE" site_url="https://data.za-seine.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="Indigeo" site_url="https://indigeo.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="OSURIS – Géoportail pour la recherche, la visualisation et le téléchargement de données spatialisées" site_url="https://accueil.osuris.fr/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
 </div>
 
-Entreprises:
+
+### Des entreprises
 
 <div class="row">
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." site_url="" %}
+  {% include card_user.html img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement" site_url="https://terranis.fr/" %}
 </div>
 
-Organisations internationales et associations:
+
+### Des organisations internationales et associations
 
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/faobolivia.jpg" name="Représentation de la FAO en Bolivie" text="" site_url="https://www.fao.org/bolivia/es/" %}
