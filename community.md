@@ -26,9 +26,10 @@ Every year, users and developers from the community meet in a different place to
 
 Previous geOcom events took place:
 
- * Lille in [2024](https://www.georchestra.org/fr/geocom2024/), at the invitation of the [Métropole européenne de Lille](https://www.lillemetropole.fr/)
- * Saint-Mandé for the [2023](https://www.georchestra.org/fr/geocom2023/) edition
- * Perros-Guirec in [2022](https://www.georchestra.org/fr/geocom2022/), at the invitation of [JDEV](https://jdev.fr/)
+ * Rennes in [2025](/en/geocom2025), at the invitation of [Rennes Métropole](https://metropole.rennes.fr/)
+ * Lille in [2024](/fr/geocom2024/), at the invitation of the [Métropole européenne de Lille](https://www.lillemetropole.fr/)
+ * Saint-Mandé for the [2023](/fr/geocom2023/) edition
+ * Perros-Guirec in [2022](/fr/geocom2022/), at the invitation of [JDEV](https://jdev.fr/)
  * online for the 2021 edition
  * at the city and [communauté d’agglomération](https://opendata.agglo-lepuyenvelay.fr/) du Puy-en-Velay, Auvergne, France, en 2019,
  * at the "Hotel de Région" (location of the [Géopicardie](https://www.geopicardie.fr/portail/) partnership), Amiens, France, in 2018,

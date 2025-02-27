@@ -25,6 +25,7 @@ Chaque année, la communauté des utilisateurs et développeurs se réunit en un
 
 Les éditions précédentes du geOcom se sont tenues :
 
+ * à Rennes en [2025](/fr/geocom2025), sur invitation de [Rennes Métropole](https://metropole.rennes.fr/)
  * à Lille en [2024](https://www.georchestra.org/fr/geocom2024/), sur invitation de la [Métropole européenne de Lille](https://www.lillemetropole.fr/)
  * à l'IGN à Saint-Mandé en [2023](https://www.georchestra.org/fr/geocom2023/)
  * au centre des congrès de Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/), sur invitation de [JDEV](https://jdev.fr/)
