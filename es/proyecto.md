@@ -20,22 +20,6 @@ Inicialmente alojado sobre un repositorio de software en Bretaña, y finalmente 
 
 Con el código mucho mas accesible y por lo tanto mas fácil de contribuir. Los commits incrementaron espectacularmente.
 
-## Reuniones
-
-Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas prácticas y elaborar un plan de trabajo.
-
-Eventos anteriores:
-
-  * en Lille en [2024](https://www.georchestra.org/fr/geocom2024/), por invitación del [Métropole européenne de Lille](https://www.lillemetropole.fr/)
-  * en Saint-Mandé en [2023](https://www.georchestra.org/fr/geocom2023/)
-  * en Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/)
-  * en [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019
-  * en Hôtel de région Hauts de France ([Géopicardie](https://www.geopicardie.fr/portail/)), Amiens, en 2018,
-  * en [CampToCamp](https://www.camptocamp.com), Chambéry, Francia, 2017,
-  * en "Maison de l'Agriculture et de la Forêt d'Aquitaine" (asociación [PIGMA](https://www.pigma.org/)), Bordeaux, Francia, in 2016,
-  * en "Maison de la Région" ([CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, Francia, 2015,
-  * en Centre Régional Auvergnat de l'Information Géographique ([CRAIG](https://craig.fr/)), Clermont-Ferrand, Francia, 2014,
-  * en [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes, Francia, 2013.
 
 ## Comité Directivo
 

@@ -36,25 +36,6 @@ Initialement hébergé sur un dépôt de sources en Bretagne, le code source du 
 Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieurs importants. La facilité de contribution de GitHub a également accéléré les développements.
 
 
-## Rencontres annuelles
-
-Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
-
-Les éditions précédentes du geOcom se sont tenues :
-
- * à Lille en [2024](https://www.georchestra.org/fr/geocom2024/), sur invitation de la [Métropole européenne de Lille](https://www.lillemetropole.fr/)
- * à l'IGN à Saint-Mandé en [2023](https://www.georchestra.org/fr/geocom2023/)
- * au centre des congrès de Perros-Guirec en [2022](https://www.georchestra.org/fr/geocom2022/), sur invitation de [JDEV](https://jdev.fr/)
- * en ligne pour l'édition 2021,
- * à La ville et la [communauté d’agglomération du Puy-en-Velay](https://opendata.agglo-lepuyenvelay.fr/) en 2019,
- * à l'Hôtel de région Hauts de France ([Géopicardie](https://www.geopicardie.fr/portail/)), Amiens, en 2018,
- * à [CampToCamp](https://www.camptocamp.com), Chambéry, en 2017,
- * à la Maison de la Forêt et de l'Agriculture ([PIGMA](https://www.pigma.org)) de Bordeaux en 2016,
- * à la Maison de la Région (partenariat [CIGAL - Coopération pour l'information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, en 2015,
- * au Centre Régional Auvergnat de l'Information Géographique ([CRAIG](https://craig.fr/)), Clermont-Ferrand en 2014,
- * à [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
-
-
 ## Comité de pilotage
 
 Le comité de pilotage est composé de 9 membres :

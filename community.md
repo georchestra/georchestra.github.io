@@ -20,6 +20,25 @@ Contributions may take several forms:
  * funding for [new features](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
 
 
+## Yearly meetings
+
+Every year, users and developers from the community meet in a different place to share experiences, sum up good practices and elaborate the roadmap.
+
+Previous geOcom events took place:
+
+ * Lille in [2024](https://www.georchestra.org/fr/geocom2024/), at the invitation of the [Métropole européenne de Lille](https://www.lillemetropole.fr/)
+ * Saint-Mandé for the [2023](https://www.georchestra.org/fr/geocom2023/) edition
+ * Perros-Guirec in [2022](https://www.georchestra.org/fr/geocom2022/), at the invitation of [JDEV](https://jdev.fr/)
+ * online for the 2021 edition
+ * at the city and [communauté d’agglomération](https://opendata.agglo-lepuyenvelay.fr/) du Puy-en-Velay, Auvergne, France, en 2019,
+ * at the "Hotel de Région" (location of the [Géopicardie](https://www.geopicardie.fr/portail/) partnership), Amiens, France, in 2018,
+ * at [CampToCamp](https://www.camptocamp.com/), Chambéry, France, in 2017,
+ * at the "Maison de l'Agriculture et de la Forêt d'Aquitaine" (location of the [PIGMA](https://www.pigma.org/) partnership), Bordeaux, France, in 2016,
+ * at the "Maison de la Région" (partnership [CIGAL - Coopération pour l’information géographique en Alsace](https://www.cigalsace.org/portail/)), Strasbourg, France, in 2015,
+ * at "Centre Régional Auvergnat de l'Information Géographique" ([CRAIG](https://craig.fr/)), Clermont-Ferrand, France for 2014,
+ * at [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes, France, for 2013.
+ 
+
 ## Who's using geOrchestra ?
 
 Subnational level:
