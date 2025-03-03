@@ -85,7 +85,7 @@ external identity provider, in the form of a character string.
 ### 1.2.5 - orgUniqueId
 
 A LDAP attribute, representing a unique identifier for a geOrchestra organisation
-(e.g. can be the french SIRET number).
+(e.g. can be the French SIRET number).
 
 - partial OID: `1.2.5`
 - complete OID: `1.3.6.1.4.1.53611.1.2.5`
