@@ -324,6 +324,10 @@ th {
     text-align: -webkit-match-parent
 }
 
+td.left {
+    text-align: left;
+}
+
 thead,
 tbody,
 tfoot,
