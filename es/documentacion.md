@@ -15,6 +15,8 @@ permalink: /es/documentacion.html
 <div class="row py-2 d-flex align-items-stretch">
     {% include card_doc_tool.html img_url="/favicon.ico" name="Installation guide" text="Solo guía de instalación, en inglés (quedará obsoleta antes del verano de 2025)" site_url="https://github.com/georchestra/georchestra/blob/master/docsv1/index.md" %}
     {% include card_doc_tool.html img_url="/favicon.ico" name="Guías de instalación y administración" text="Nueva documentación, en inglés, actualmente en redacción" site_url="https://docs.georchestra.org/georchestra/" %}
+    <br />
+    {% include card_doc_tool.html img_url="/favicon.ico" name="Gateway" text="La Gateway, el punto de entrada central para todos los servicios de geOrchestra" site_url="https://docs.georchestra.org/gateway/" %}
 </div>
 
 ## Los componentes de geOrchestra
