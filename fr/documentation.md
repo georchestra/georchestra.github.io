@@ -47,6 +47,6 @@ permalink: /fr/documentation.html
 <div class="row py-2 d-flex align-items-stretch">
     {% include card_doc_tool.html img_url="/public/icons/geofence_icon.svg" name="GeoFence" text="Un module de gestion avancée des droits d’accès aux données" site_url="https://github.com/NielsCharlier/geofence" %}
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Console" text="Une console d’administration des utilisateurs, rôles et organismes" site_url="https://github.com/georchestra/georchestra/tree/master/console" %}
-    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="Un module présentant les statistiques d’utilisation de la plateforme" site_url="https://github.com/georchestra/analytics" %}     
+    {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="Un module présentant les statistiques d’utilisation de la plateforme" site_url="https://docs.georchestra.org/analytics/" %}     
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un générateur d'applications mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}
 </div>
