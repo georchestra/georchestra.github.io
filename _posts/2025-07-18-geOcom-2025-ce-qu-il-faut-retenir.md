@@ -6,8 +6,6 @@ lang: fr
 uid: 2025-07-18
 ---
 
-# 🌍 geOcom 2025 – Ce qu’il faut retenir
-
 L’édition 2025 du **geOcom** a réuni pendant trois jours à Rennes plus de **100 participant·es** : utilisateurs, développeurs, collectivités, bureaux d’études, chercheurs, agents publics… tous réunis autour de **geOrchestra**, la plateforme libre, modulaire et interopérable dédiée à la gestion et la diffusion de données territoriales. Merci à toutes et tous pour votre présence, vos retours d’expérience, vos contributions, et vos idées !
 
 <!--more-->
