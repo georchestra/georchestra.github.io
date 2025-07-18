@@ -10,7 +10,9 @@ uid: 2025-07-18
 
 L’édition 2025 du **geOcom** a réuni pendant trois jours à Rennes plus de **100 participant·es** : utilisateurs, développeurs, collectivités, bureaux d’études, chercheurs, agents publics… tous réunis autour de **geOrchestra**, la plateforme libre, modulaire et interopérable dédiée à la gestion et la diffusion de données territoriales. Merci à toutes et tous pour votre présence, vos retours d’expérience, vos contributions, et vos idées !
 
-# 🤝 Une rencontre conviviale et fédératrice
+<!--more-->
+
+## 🤝 Une rencontre conviviale et fédératrice
 
 Le geOcom 2025, ce n’était pas seulement un programme dense : c’était aussi **une ambiance chaleureuse et collaborative**, propice aux échanges informels et à l’émergence de nouvelles coopérations.
 Quelques moments marquants :
@@ -22,7 +24,7 @@ Quelques moments marquants :
 * Des retours énergisants tels que **“J'ai beaucoup apprécié l'ensemble des interventions et souhaite définitivement participer aux prochains événements !”** ou encore **“J’ai été bluffé par le degré de maturité de la plateforme et par les nombreuses briques accessibles”**.
 
 
-# 🔧 Des évolutions techniques majeures
+## 🔧 Des évolutions techniques majeures
 
 La version **geOrchestra 25.0** marque un tournant avec :
 
@@ -32,7 +34,7 @@ La version **geOrchestra 25.0** marque un tournant avec :
 
 
 
-# 📡 Des usages concrets, pour tous les territoires
+## 📡 Des usages concrets, pour tous les territoires
 
 Des témoignages ont illustré la **richesse des usages** de geOrchestra :
 
@@ -44,16 +46,16 @@ Des témoignages ont illustré la **richesse des usages** de geOrchestra :
 
 
 
-# 💬 Une communauté active et structurée
+## 💬 Une communauté active et structurée
 
-geOcom 2025 a confirmé la force du collectif :
+Le geOcom 2025 a confirmé la force du collectif :
 
 * **Co-développement** et mutualisation (Metadata Editor, Maelstro, Superset…),
 * Discussions ouvertes sur la **gouvernance**, le **design system**, et l’**interopérabilité**,
 * Travaux prospectifs sur les usages de l’**IA pour la découvrabilité des données**,
 * Volonté commune de poursuivre **au-delà du géospatial**, vers la **plateforme de données territoriale**.
 
-# 🚀 Perspectives pour 2025–2026
+## 🚀 Perspectives pour 2025–2026
 
 Parmi les priorités évoquées :
 
@@ -63,9 +65,9 @@ Parmi les priorités évoquées :
 * Vers une **feuille de route participative** pour geOrchestra 26.0,
 * Structuration progressive de la **communauté des développeur·ses**.
 
-# 💡 En résumé
+## 💡 En résumé
 
-**geOcom 2025**, c’était :
+Le **geOcom 2025**, c’était :
 
 * 3 jours de rencontres intenses,
 * Une trentaine de sessions thématiques,
