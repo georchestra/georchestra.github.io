@@ -13,7 +13,6 @@ permalink: /documentation.html
 ## geOrchestra main documentation
 
 <div class="row py-2 d-flex align-items-stretch">
-    {% include card_doc_tool.html img_url="/favicon.ico" name="Installation guide" text="Only installation guide (to be deprecated before summer 2025)" site_url="https://github.com/georchestra/georchestra/blob/master/docsv1/index.md" %}
     {% include card_doc_tool.html img_url="/favicon.ico" name="Installation and administration guide" text="All new documentation, work in progress" site_url="https://docs.georchestra.org/georchestra/" %}
     <br />
     {% include card_doc_tool.html img_url="/favicon.ico" name="Gateway" text="The Gateway, the central entry point for all geOrchestra services" site_url="https://docs.georchestra.org/gateway/" %}
