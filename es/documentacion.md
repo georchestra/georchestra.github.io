@@ -27,7 +27,7 @@ permalink: /es/documentacion.html
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin del registro de la propiedad" text="Un complemento para la consulta del catastro" site_url="https://docs.georchestra.org/cadastrapp/" %}
     {% include card_doc_tool.html img_url="/public/icons/mapstore_icon.svg" name="Mviewer" text="Un visor de datos geográficos para el público" site_url="https://mviewerdoc.readthedocs.io/fr/latest/" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Plugin de urbanismo" text="Un plugin para consultar documentos de planificación" site_url="https://docs.georchestra.org/mapstore2-urbanisme/fr/latest/" %}
-    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Superset" text="Cuadros de mando y visualización de datos en forma de gráficos y mucho más" site_url="https://docs.georchestra.org/superset/latest/" %}
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Superset" text="Cuadros de mando y visualización de datos en forma de gráficos y mucho más" site_url="https://docs.georchestra.org/superset/en/latest/" %}
 </div>
 
 ### Suministro
