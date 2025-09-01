@@ -13,7 +13,7 @@ permalink: /documentation.html
 ## geOrchestra main documentation
 
 <div class="row py-2 d-flex align-items-stretch">
-    {% include card_doc_tool.html img_url="/favicon.ico" name="Installation and administration guide" text="All new documentation, work in progress" site_url="https://docs.georchestra.org/georchestra/" %}
+    {% include card_doc_tool.html img_url="/favicon.ico" name="Installation and administration guide" text="Documentation" site_url="https://docs.georchestra.org/georchestra/" %}
     <br />
     {% include card_doc_tool.html img_url="/favicon.ico" name="Gateway" text="The Gateway, the central entry point for all geOrchestra services" site_url="https://docs.georchestra.org/gateway/" %}
 </div>
