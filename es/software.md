@@ -10,11 +10,11 @@ El núcleo de geOrchestra se basa en un proxy de seguridad basado en [Spring Sec
 
 geOrchestra ofrece módulos independientes e interoperables para construir su propia infraestructura de datos espaciales que cuenta con:
 
- * un [catálogo de datos](https://github.com/georchestra/geonetwork/) basado en [GeoNetwork](https://geonetwork-opensource.org/) versión 4.2.8,
- * un servidor de mapas con: [GeoServer](https://geoserver.org/) versión 2.25.2,
+ * un [catálogo de datos](https://github.com/georchestra/geonetwork/) basado en [GeoNetwork](https://geonetwork-opensource.org/) versión 4.4,
+ * un servidor de mapas con: [GeoServer](https://geoserver.org/) versión 2.27,
  * un [gestor avanzado de listas de acceso a datos](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
- * un servidor de tiles de mapa: [GeoWebCache](https://geowebcache.org/) versión 1.16.2,
- * un [visor de mapas web](https://docs.mapstore.geosolutionsgroup.com) con consultas, estilos y funciones de edición,
+ * un servidor de tiles de mapa: [GeoWebCache](https://geowebcache.org/) versión 1.27,
+ * un [visor de mapas web](https://docs.mapstore.geosolutionsgroup.com) con consultas, estilos y funciones de edición versión 2024.02,
  * un [usuario y administrador de grupo](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("console"),
  * un [modulo para ver las estadísticas de uso de datos](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
@@ -42,4 +42,7 @@ El proyecto lanza una o dos versiones principales cada año (por ejemplo, 24.0.0
 
 También publicamos periódicamente versiones de "parches" (por ejemplo: 23.0.5), cuyo objetivo es corregir errores identificados y posibles problemas de seguridad.
 
-Nuestros [lanzamientos](https://github.com/georchestra/georchestra/releases) se pueden encontrar en github : [https://github.com/georchestra/georchestra/releases](https://github.com/georchestra/georchestra/releases)
+Nuestras versiones se pueden encontrar en GitHub: [https://github.com/georchestra/georchestra/releases](https://github.com/georchestra/georchestra/releases).
+
+Lea [esta página](https://docs.georchestra.org/georchestra/developer_guide/version_number/) para comprender nuestra numeración de versiones.
+

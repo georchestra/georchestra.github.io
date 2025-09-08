@@ -10,11 +10,11 @@ geOrchestra's core relies on a security proxy based on [Spring Security](https:/
 
 geOrchestra provides independant and interoperable modules to build your own custom spatial data infrastructure:
 
- * a [data catalog](https://github.com/georchestra/geonetwork/) based on [GeoNetwork](https://geonetwork-opensource.org/) version 4.2.8,
- * a map and feature server: [GeoServer](https://geoserver.org/) version 2.25.2,
+ * a [data catalog](https://github.com/georchestra/geonetwork/) based on [GeoNetwork](https://geonetwork-opensource.org/) version 4.4,
+ * a map and feature server: [GeoServer](https://geoserver.org/) version 2.27,
  * an [advanced data access list manager](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md): [GeoFence](https://github.com/geoserver/geofence),
- * a map tiles server: [GeoWebCache](https://geowebcache.org/) version 1.16.2,
- * an [advanced web map viewer](https://docs.mapstore.geosolutionsgroup.com) with query, styling, editing functions,
+ * a map tiles server: [GeoWebCache](https://geowebcache.org/) version 1.27,
+ * an [advanced web map viewer](https://docs.mapstore.geosolutionsgroup.com) with query, styling, editing functions version 2024.02,
  * a [user, orgs & roles manager](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("console"),
  * a [module to display data usage statistics](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) ("analytics").
 
@@ -42,4 +42,7 @@ The project publishes one or two major releases per year (eg 24.0.0 or 24.1.0). 
 
 We also publish patch releases (eg 23.0.5) every month or so, to fix bugs and security issues.
 
-[Releases](https://github.com/georchestra/georchestra/releases) can be found on github: [https://github.com/georchestra/georchestra/releases](https://github.com/georchestra/georchestra/releases)
+Our releases can be found on GitHub: [https://github.com/georchestra/georchestra/releases](https://github.com/georchestra/georchestra/releases).
+
+Read [this page](https://docs.georchestra.org/georchestra/developer_guide/version_number/) to understand our version numbering.
+
