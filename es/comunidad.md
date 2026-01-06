@@ -19,6 +19,32 @@ Las contribuciones pueden ser de diferentes formas:
  * financiando [nuevas características](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
 
 
+
+## Quién desarrolla geOrchestra ?
+
+
+La [lista de contribuidores](https://github.com/orgs/georchestra/people) solo permite dar una visión parcial.
+
+El ecosistema GitHub permite amplias contribuciones principalmente a través del principio de "Pull Request".
+Estas contribuciones son intensamente revisadas y probadas, que finalmente llevan a su aceptación e integración ("merge").
+
+
+
+## Cómo puedo encontrar ayuda ?
+
+Seremos encantados de darle una mano en el canal de [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) (**osgeo.org** Matrix server).
+
+El Proyecto cuenta con dos **listas de correos**, al que puede unirse libremente para pedir ayuda:
+
+ * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) es la lista de propósito general sobre geOrchestra,
+ * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) es la lista mas técnica y orientada al desarrollo
+
+Usar psc@georchestra.org para llegar al Project Steering Committee.<br />
+No se prestará apoyo en esta dirección.
+
+
+
+
 ## Reuniones
 
 Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar diferente para compartir experiencias, resumir las buenas prácticas y elaborar un plan de trabajo.
@@ -103,23 +129,3 @@ Organizaciones internacionales y asociaciones:
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
 
-
-## Quién desarrolla geOrchestra ?
-
-
-La [lista de contribuidores](https://github.com/orgs/georchestra/people) solo permite dar una visión parcial.
-
-El ecosistema GitHub permite amplias contribuciones principalmente a través del principio de "Pull Request". Estas contribuciones son intensamente revisadas y probadas, que finalmente llevan a su aceptación e integración ("merge").
-
-
-## Cómo puedo encontrar ayuda ?
-
-Seremos encantados de darle una mano en el canal de [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) (**osgeo.org** Matrix server).
-
-El Proyecto cuenta con dos **listas de correos**, al que puede unirse libremente para pedir ayuda:
-
- * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) es la lista de propósito general sobre geOrchestra,
- * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) es la lista mas técnica y orientada al desarrollo
-
-Usar psc@georchestra.org para llegar al Project Steering Committee.<br />
-No se prestará apoyo en esta dirección.

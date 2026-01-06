@@ -6,8 +6,7 @@ uid: community
 permalink: /community.html
 ---
 
-geOrchestra is a community-driven project.  
-Anyone can contribute, and each contribution may be reused freely by everyone.
+geOrchestra is a community-driven project. Anyone can contribute, and each contribution may be reused freely by everyone.
 
 Contributions may take several forms:
 
@@ -18,6 +17,32 @@ Contributions may take several forms:
  * reporting security issues (in that case, please **do not fill a bug report** and instead send a mail to <psc@georchestra.org>),
  * contributions to the code, either patches or "[pull requests](https://help.github.com/articles/creating-a-pull-request)",
  * funding for [new features](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
+
+
+
+## Who develops geOrchestra ?
+
+
+The [commiters list](https://github.com/orgs/georchestra/people) only gives a partial view.
+
+The GitHub ecosystem allows wide contributions via the "Pull Request" principle.
+These contributions are always intensively reviewed and tested, eventually leading to their acceptance and integration ("merge").
+
+
+
+## How to find help ?
+
+We are always pleased to give a hand on the [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) channel (**osgeo.org** Matrix server).
+
+The project runs two **mailing lists**, which you can freely join to ask for help:
+
+ * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) is the main mailing list for users and data admin as well,
+ * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the developers and sysadmin mailing list
+
+Use psc@georchestra.org to reach the Project Steering Committee.<br />
+No support will be provided at this address.
+
+
 
 
 ## Yearly meetings
@@ -105,23 +130,3 @@ International organizations and associations:
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !
 
-
-## Who develops geOrchestra ?
-
-
-The [commiters list](https://github.com/orgs/georchestra/people) only gives a partial view.
-
-The GitHub ecosystem allows wide contributions via the "Pull Request" principle. These contributions are always intensively reviewed and tested, eventually leading to their acceptance and integration ("merge").
-
-
-## How to find help ?
-
-We are always pleased to give a hand on the [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) channel (**osgeo.org** Matrix server).
-
-The project runs two **mailing lists**, which you can freely join to ask for help:
-
- * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) is the main mailing list for users and data admin as well,
- * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) is the developers and sysadmin mailing list
-
-Use psc@georchestra.org to reach the Project Steering Committee.<br />
-No support will be provided at this address.

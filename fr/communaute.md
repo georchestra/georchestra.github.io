@@ -19,6 +19,32 @@ Toutes les formes de contributions sont les bienvenues :
  * financement de [nouvelles fonctionnalités](https://github.com/georchestra/georchestra/issues?direction=desc&labels=enhancement&page=1&sort=updated&state=open).
 
 
+
+## Qui développe geOrchestra ?
+
+
+La [liste des commiters](https://github.com/orgs/georchestra/people) n'offre qu'un aperçu des contributeurs réguliers.
+
+L'écosystème GitHub autorise en effet les contributions de manière très large, via le système des "Pull Request".
+Ces contributions externes au code sont toujours relues et testées de manière intensive, ce qui conduit soit à leur acceptation et intégration au code ("merge"), soit à une demande de retravail.
+
+
+
+## Comment obtenir de l'aide ?
+
+
+Pour un coup de main ou pour obtenir un renseignement rapidement, n'hésitez pas à nous joindre sur le canal **[#georchestra](https://matrix.to/#/#georchestra:osgeo.org)** (serveur Matrix **osgeo.org**).
+
+Sinon, le projet dispose de deux **listes de discussions**, que vous pouvez rejoindre librement pour poser des questions :
+
+ * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) est la liste des utilisateurs et administrateurs de données,
+ * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) est la liste des développeurs et des administrateurs système.
+
+Pour **contacter le Project Steering Committee**, utilisez l'adresse psc@georchestra.org.<br />
+Aucun support ne sera fourni à cette adresse.
+
+
+
 ## Rencontres annuelles
 
 Chaque année, la communauté des utilisateurs et développeurs se réunit en un lieu différent pour partager les expériences, capitaliser les ressources et définir les priorités en terme de développements.
@@ -108,25 +134,3 @@ Les éditions précédentes du geOcom se sont tenues :
 Contactez nous pour vous faire connaître !
 
 
-## Qui développe geOrchestra ?
-
-
-La [liste des commiters](https://github.com/orgs/georchestra/people) n'offre qu'un aperçu des contributeurs réguliers.
-
-L'écosystème GitHub autorise en effet les contributions de manière très large, via le système des "Pull Request".
-Ces contributions externes au code sont toujours relues et testées de manière intensive, ce qui conduit soit à leur acceptation et intégration au code ("merge"), soit à une demande de retravail.
-
-
-
-## Comment obtenir de l'aide ?
-
-
-Pour un coup de main ou pour obtenir un renseignement rapidement, n'hésitez pas à nous joindre sur le canal **[#georchestra](https://matrix.to/#/#georchestra:osgeo.org)** (serveur Matrix **osgeo.org**).
-
-Sinon, le projet dispose de deux **listes de discussions**, que vous pouvez rejoindre librement pour poser des questions :
-
- * [georchestra@googlegroups.com](https://groups.google.com/group/georchestra?hl=fr) est la liste des utilisateurs et administrateurs de données,
- * [georchestra-dev@googlegroups.com](https://groups.google.com/group/georchestra-dev?hl=fr) est la liste des développeurs et des administrateurs système.
-
-Pour **contacter le Project Steering Committee**, utilisez l'adresse psc@georchestra.org.<br />
-Aucun support ne sera fourni à cette adresse.
