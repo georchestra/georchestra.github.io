@@ -6,7 +6,7 @@ lang: fr
 uid: 2024-04-04
 ---
 
-La rencontre de la communauté geOrchestra s'est tenue en Ariège du 19 au 21 mars 2023. Dans l'esprit du manifeste du projet, développeurs (Camptocamp, JDEV, Pi-Geosolutions) et administrateurs des plateformes de données (DataGrandEst, GéoBretagne, CRAIG, INRAE, Rennes Métropole) ont participé à l'évolution de geOrchestra.
+La rencontre de la communauté geOrchestra s'est tenue en Ariège du 19 au 21 mars 2024. Dans l'esprit du manifeste du projet, développeurs (Camptocamp, JDEV, Pi-Geosolutions) et administrateurs des plateformes de données (DataGrandEst, GéoBretagne, CRAIG, INRAE, Rennes Métropole) ont participé à l'évolution de geOrchestra.
 
 Les participants ont d'abord élaboré une vision commune : une meilleure expérience producteur pour publier des données de tous types, et utilisateur pour y accéder ; une meilleure supervision des données pour l'administrateur ; une communauté davantage tournée vers l'international.
 
