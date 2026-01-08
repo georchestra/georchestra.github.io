@@ -79,7 +79,7 @@ Les éditions précédentes du geOcom se sont tenues :
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://www.geoportalksk.sk/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/alsace_datageo.jpg" name="Collectivité européenne d'Alsace" text="via le projet Datageo" site_url="https://datageo.alsace.eu/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (France)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN et ARS Île-de-France" text="avec la plateforme Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
+  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN et ARS Île-de-France" text="avec la plateforme Santégraphie" site_url="https://santegraphie.fr/accueil" %}
 </div>
 
 

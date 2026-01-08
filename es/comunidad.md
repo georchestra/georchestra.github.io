@@ -78,7 +78,7 @@ Eventos anteriores:
   {% include card_user.html label_site="Más información" img_url="../public/community-users/geoportalksk.jpg" name="Košice self-governing region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/alsace_datageo.jpg" name="Alsace" text="con el proyecto Datageo" site_url="https://datageo.alsace.eu/" %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/haute_loire.jpg" name="Département Haute-Loire (Francia)" text="" site_url="https://sig.hauteloire.fr/geonetwork/srv/fre/catalog.search#/home" %}   
-  {% include card_user.html label_site="Más información" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="Proyecto Santégraphie" site_url="https://santegraphie.fr/accueil/accueil" %}
+  {% include card_user.html label_site="Más información" img_url="../public/community-users/santegraphie.jpg" name="GCS SESAN & ARS Île-de-France" text="Proyecto Santégraphie" site_url="https://santegraphie.fr/accueil" %}
 </div>
 
 
