@@ -24,7 +24,7 @@ N'oublions pas que le suivi des usages d'une plateforme est au coeur des besoins
 
 Il a donc été décidé de considérer un remplacement complet de ce module.
 
-Depuis le geOcom 2023 de la communauté, un groupe de travail se penche sur le sujet. Les choix techniques, en effet, ne sont pa évidents. Plusieurs restitutions ont eu lieu : [geOcom 2023](https://www.georchestra.org/public/geocom2023/presentation/AmeliorationsStatsUsages.pdf), [geOcom 2024](https://www.georchestra.org/public/geocom2024/presentations/jour_2/11%20-%20JP%20-%20Am%C3%A9lioration%20des%20statistiques%20d%E2%80%99usage.pdf), [geOcom 2025](https://www.georchestra.org/public/geocom2025/presentations/jour_2_matin/01_JP_NR_Superset_de_la_dataviz_dans_geOrchestra.pdf).
+Depuis le geOcom 2023 de la communauté, un groupe de travail se penche sur le sujet. Les choix techniques, en effet, ne sont pas évidents. Plusieurs restitutions ont eu lieu : [geOcom 2023](https://www.georchestra.org/public/geocom2023/presentation/AmeliorationsStatsUsages.pdf), [geOcom 2024](https://www.georchestra.org/public/geocom2024/presentations/jour_2/11%20-%20JP%20-%20Am%C3%A9lioration%20des%20statistiques%20d%E2%80%99usage.pdf), [geOcom 2025](https://www.georchestra.org/public/geocom2025/presentations/jour_2_matin/01_JP_NR_Superset_de_la_dataviz_dans_geOrchestra.pdf).
 
 Fin 2024, un financement de la région Haut-de-France a permis de lancer l'écriture de ce nouveau module, complétée par un financement de la MEL pour la couverture d'OGC API Feature (en cours).
 
@@ -55,7 +55,7 @@ La notion clef ici, c'est donc la **_flexibilité_** de la solution. Nous avons 
 
 La contrepartie de ce choix, c'est que pour que toutes ces briques fonctionnent entre elles de la façon attendue, on doit méticuleusement les assembler et les configurer. [Le repo du nouveau module analytics](https://github.com/georchestra/analytics) et [la documentation](https://docs.georchestra.org/analytics/en/latest/) assortie vous fourniront des valeurs standard, mais, chaque plateforme ayant ses spécificités, il faudra sans doute vérifier chaque étape dans la mise en place et la configuration.
 
-J'ai beaucoup travaillé sur la documentation, que j'espère suffisamment eshaustive, mais il faudra la lire attentivement.
+J'ai beaucoup travaillé sur la documentation, que j'espère suffisamment exhaustive, mais il faudra la lire attentivement.
 
 Nul doute que ce nouveau module sera abondamment discuté et sans doute amendé à l'occasion de [la rencontre d'hiver de la communauté](https://www.georchestra.org/blog/2026/01/08/community-meeting-2026-registration-fr/) dans 2 mois.
 
