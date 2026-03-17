@@ -119,6 +119,7 @@ Les éditions précédentes du geOcom se sont tenues :
 <div class="row">
   {% include card_user.html img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="La Deutsche Telekom AG est la plus grande société allemande et européenne de télécommunications." %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="une société spécialisée dans la conception, le développement et la commercialisation de services de géoinformation dans les domaines de l’agriculture et de l’environnement" site_url="https://terranis.fr/" %}
+  {% include card_user.html label_site="En savoir plus (restreint au Brésil)" img_url="../public/community-users/cdhu.jpg" name="Companhia de Desenvolvimento Habitacional e Urbano  (São Paulo - Brésil)" text="CDHU est une société de logement social, dans l'état de São Paulo, Brésil" site_url="https://geo.cdhu.sp.gov.br" %}
 </div>
 
 

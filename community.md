@@ -119,6 +119,7 @@ Previous geOcom events took place:
 <div class="row">
   {% include card_user.html img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG is a German telecommunications company headquartered in Bonn and by revenue the largest telecommunications provider in Europe." %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="a French company specialized in the design, development and commercialization of geoinformation services in agriculture and environment domains" site_url="https://terranis.fr/" %}
+  {% include card_user.html label_site="Learn more (Brazil-limited)" img_url="../public/community-users/cdhu.jpg" name="Companhia de Desenvolvimento Habitacional e Urbano  (São Paulo - Brazil)" text="CDHU is a Public Housing company: we build houses for low income and vulnerable people in São Paulo State" site_url="https://geo.cdhu.sp.gov.br" %}
 </div>
 
 International organizations and associations:

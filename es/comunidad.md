@@ -118,6 +118,7 @@ Eventos anteriores:
 <div class="row">
   {% include card_user.html img_url="../public/community-users/dt.jpg" name="Deutsche Telekom" text="Deutsche Telekom AG (DTAG abreviada) es una compañía alemana de telecomunicaciones con sede en Bonn y la empresa más grande de Europa proveedora de telecomunicaciones." %}
   {% include card_user.html label_site="Más información" img_url="../public/community-users/terranis.jpg" name="TerraNIS" text="una empresa francesa especializada en el diseño, desarrollo y comercialización de servicios de geoinformación en los sectores de la agricultura y del medio ambiente" site_url="https://terranis.fr/" %}
+  {% include card_user.html label_site="Más información (limitado a Brasil)" img_url="../public/community-users/cdhu.jpg" name="Companhia de Desenvolvimento Habitacional e Urbano  (São Paulo - Brasil)" text="CDHU es una empresa de Vivienda Pública: construimos casas para personas de bajos ingresos y vulnerables en el estado de São Paulo" site_url="https://terranis.fr/" %}
 </div>
 
 Organizaciones internacionales y asociaciones:
