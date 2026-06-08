@@ -14,7 +14,7 @@ The site is built on GitHub pages, but if you want to run it locally, you first 
 - ruby 3.0 with gem (installed with ruby)
 
 ```
-sudo apt-get install ruby-full build-essential
+sudo apt install ruby-full build-essential
 ```
 
 - jekyll 4.2.x ([more details here](https://jekyllrb.com/docs/installation/))
