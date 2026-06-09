@@ -20,7 +20,7 @@ Toutes les formes de contributions sont les bienvenues :
 
 
 
-## Qui développe geOrchestra ?
+## Qui développe geOrchestra ? {#qui-developpe-georchestra}
 
 
 La [liste des commiters](https://github.com/orgs/georchestra/people) n'offre qu'un aperçu des contributeurs réguliers.
@@ -30,7 +30,7 @@ Ces contributions externes au code sont toujours relues et testées de manière 
 
 
 
-## Comment obtenir de l'aide ?
+## Comment obtenir de l'aide ? {#obtenir-de-laide}
 
 
 Pour un coup de main ou pour obtenir un renseignement rapidement, n'hésitez pas à nous joindre sur le canal **[#georchestra](https://matrix.to/#/#georchestra:osgeo.org)** (serveur Matrix **osgeo.org**).
@@ -65,7 +65,7 @@ Les éditions précédentes du geOcom se sont tenues :
  * à [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes pour l'édition 2013.
 
 
-## Qui utilise geOrchestra ?
+## Qui utilise geOrchestra ? {#qui-utilise-georchestra}
 
 ### Des régions et des départements
 

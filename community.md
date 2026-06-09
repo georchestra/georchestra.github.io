@@ -20,7 +20,7 @@ Contributions may take several forms:
 
 
 
-## Who develops geOrchestra ?
+## Who develops geOrchestra ? {#who-develops-georchestra}
 
 
 The [commiters list](https://github.com/orgs/georchestra/people) only gives a partial view.
@@ -30,7 +30,7 @@ These contributions are always intensively reviewed and tested, eventually leadi
 
 
 
-## How to find help ?
+## How to find help ? {#how-to-find-help}
 
 We are always pleased to give a hand on the [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) channel (**osgeo.org** Matrix server).
 
@@ -65,7 +65,7 @@ Previous geOcom events took place:
  * at [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes, France, for 2013.
  
 
-## Who's using geOrchestra ?
+## Who's using geOrchestra ? {#whos-using-georchestra}
 
 ### Subnational level
 

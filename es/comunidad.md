@@ -20,7 +20,7 @@ Las contribuciones pueden ser de diferentes formas:
 
 
 
-## Quién desarrolla geOrchestra ?
+## Quién desarrolla geOrchestra ? {#quien-desarrolla-georchestra}
 
 
 La [lista de contribuidores](https://github.com/orgs/georchestra/people) solo permite dar una visión parcial.
@@ -30,7 +30,7 @@ Estas contribuciones son intensamente revisadas y probadas, que finalmente lleva
 
 
 
-## Cómo puedo encontrar ayuda ?
+## Cómo puedo encontrar ayuda ? {#como-encontrar-ayuda}
 
 Seremos encantados de darle una mano en el canal de [#georchestra](https://matrix.to/#/#georchestra:osgeo.org) (**osgeo.org** Matrix server).
 
@@ -64,7 +64,7 @@ Eventos anteriores:
   * en [Agrocampus Ouest](https://www.agrocampus-ouest.fr/), Rennes, Francia, 2013.
 
 
-## Quién esta usando geOrchestra?
+## Quién esta usando geOrchestra? {#quien-usa-georchestra}
 
 ### Nivel SubNacional
 
