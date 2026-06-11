@@ -38,7 +38,7 @@ To built this site and run it locally :
 ```
 git clone https://github.com/georchestra/georchestra.github.io.git 
 cd georchestra.github.io
-jekyll serve --watch --incremental
+jekyll serve --watch --incremental --force_polling
 ```
 
 The site can now be browsed on http://localhost:4001/ and edited live.
