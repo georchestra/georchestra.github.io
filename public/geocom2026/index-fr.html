@@ -940,15 +940,101 @@ Je souhaite entendre la salle et mettre à contribution les participants et ente
 
 
 
+<h3>Vendredi</h3>
 
-<br />
-<br />
+<h4>Restitution détaillée des community sprints (Ariège + Strasbourg)</h4>
 
-<h2 id="recueil"><a id="recueil">Recueil besoins utilisateurs</a></h2>
+<div class="row">
 
-<div class="row mt-5">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdJrRicvjcMX3UPGyEfzT9apyPTkCwjv_YeUUm1VtJtHDM1Ug/viewform" target="_blank">
-    <img class="img-fluid" src="/public/geocom2026/qr_code_recueil_besoins.png" alt="qr_code_recueil_besoins" style="max-width: 300px;">
-  </a>
+  {% include card_presentation.html label_site="Visualiser"
+    name="Où en est-on de la réorganisation du code source ?"
+    text="État des lieux de la réorganisation du code source de geOrchestra.
+    <br /><br />
+    Florian NECAS - Camptocamp"
+    presentation_url="/public/geocom2026/presentations/03_01_necas_code_base_reorganisation.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="3 ans de geOrchestra Improvement Proposal"
+    text="Petite synthèse rapide du dispositif.
+    <br /><br />
+    Maël REBOUX - PSC geOrchestra"
+    presentation_url="/public/geocom2026/presentations/03_02_reboux_evaluation_gip.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="Mise à jour de sécurité et RGAA : une nouvelle console"
+    text="Depuis les dernières versions de geOrchestra, plusieurs travaux importants ont été menés autour de deux axes majeurs : le renforcement de la sécurité des applications et l'amélioration de l'accessibilité numérique (RGAA).
+    <br /><br />
+    Pierre JEGO - JDEV"
+    presentation_url="/public/geocom2026/presentations/03_03_jego_securite_rgaa_nouvelle_console.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
 </div>
 
+
+<h4>Évolutions de l'architecture de geOrchestra</h4>
+
+<div class="row">
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="Comment concilier authentification distante (France Connect, Pro Connect, etc) et accès aux données privées via QGIS ou autres ?"
+    text="Nous exposerons le besoin et la proposition d'un gestionnaire de jetons révocables pour l'accès sécurisé aux services.
+    <br /><br />
+    Florian NECAS - Camptocamp"
+    presentation_url="/public/geocom2026/presentations/03_04_necas_auth_distante_et_qgis.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="Déploiement d'un geOrchestra de production en toute simplicité"
+    text="A-t-on trouvé le juste milieu entre complexité de mise en œuvre, factorisation des efforts et disponibilité de la plateforme ? Une nouvelle manière de déployer geOrchestra avec Docker Swarm.
+    <br /><br />
+    Jean-Michel CREPEL - Camptocamp"
+    presentation_url="/public/geocom2026/presentations/03_05_crepel_deploiement_docker_swarm.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="Un SPOF de moins !"
+    text="Nous montrerons comment nous avons mis en œuvre le load balancing du point névralgique de geOrchestra (Security Proxy ou Gateway) afin de diminuer le temps d'indisponibilité d'une plateforme et éviter les nuisances de type perte de session utilisateur à l'occasion d'une mise à jour.
+    <br /><br />
+    Florian NECAS - Camptocamp"
+    presentation_url="/public/geocom2026/presentations/03_06_necas_un_spof_de_moins.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+</div>
+
+
+<h4>Vie de la communauté</h4>
+
+<div class="row">
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="J'intègre la communauté GeoServer"
+    text="Sur le style d'un témoignage «Vis ma vie».
+    <br /><br />
+    Pierre MAUDUIT - Camptocamp"
+    presentation_url="/public/geocom2026/presentations/03_07_mauduit_communaute_geoserver.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+  {% include card_presentation.html label_site="Visualiser"
+    name="GeoServer + GDAL : ça booste. Oui mais…"
+    text="Gestion de la mémoire & transparence des rasters en bordure (gestion du canal alpha) : solutions potentielles, effort communautaire de cofinancement.
+    <br /><br />
+    Pierre MAUDUIT - Camptocamp"
+    presentation_url="/public/geocom2026/presentations/03_08_mauduit_geoserver3_gdal_oui_mais.pdf"
+    video_url="https://www.youtube.com/@georchestra/videos"
+  %}
+
+</div>
+
+
+
+<br />
+<br />
