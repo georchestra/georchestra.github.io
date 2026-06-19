@@ -71,8 +71,8 @@ Previous geOcom events took place:
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geobretagne.jpg" name="Bretagne (France)" text="with GeoBretagne partnership" site_url="https://geobretagne.fr" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/geo2france.jpg" name="Haut de France (France)" text="Géo2France project" site_url="https://www.geo2france.fr/portail/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (France)" text="DataGrandEst project" site_url="https://www.datagrandest.fr/portail/fr" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/geo2france.jpg" name="Haut de France (France)" text="Géo2France project" site_url="https://www.geo2france.fr/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/datagrandest.jpg" name="Grand Est (France)" text="DataGrandEst project" site_url="https://www.datagrandest.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/craig.jpg" name="Auvergne-Rhône-Alpes (France)" text="Centre Régional Auvergnat de l'Information Géographique" site_url="https://www.craig.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geosantamaria.jpg" name="Santa Maria (Açores)" text="" site_url="https://sigweb.cm-viladoporto.pt/home/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geopresov.jpg" name="Prešov Region (Slovakia)" text="" site_url="https://geopresovregion.sk/" %}
@@ -99,18 +99,14 @@ Previous geOcom events took place:
 
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/inrae.jpg" name="INRAE" text="GeoData INRAE" site_url="https://geodata.inrae.fr/" %}
-<!--  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %} -->
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cirad.jpg" name="CIRAD" text="GeoDE" site_url="https://geode.cirad.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/ird.jpg" name="IRD" text="DataSuds-geo" site_url="https://datasuds-geo.ird.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/geosas.jpg" name="UMR SAS (INRAE - Agrocampus Ouest, Rennes)" text="GéoSAS" site_url="https://geosas.fr/web/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/lisah.jpg" name="UMR LISAH (INRAE - IRD - Supagro, Montpellier)" text="" site_url="https://www.umr-lisah.fr/fr/infrastructures-de-donnees/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/silva.jpg" name="UMR Silva (INRAE - Université de Lorraine)" text="" site_url="https://www6.nancy.inrae.fr/silva" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/thema.jpg" name="UMR Théma (Besançon - Université de Bourgogne)" text="" site_url="https://thema.univ-fcomte.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/bbes.jpg" name="UMS BBEES" text="at the French 'Musée National d'Histoire Naturelle', Paris" site_url="https://bbees.mnhn.fr/" %}
   <!--{% include card_user.html label_site="Learn more" img_url="../public/community-users/sisyphe.jpg" name="UMR Sisyphe" text="at 'Université Pierre et Marie Curie', Paris" site_url="https://www.sisyphe.upmc.fr/" %}-->
-  {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/archiseine.jpg" name="ArchiSEINE : Site of archives and historical data on the Seine watershed" text="ArchiSEINE" site_url="https://data.za-seine.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/indigeo.jpg" name="UMR Littoral, Environnement, Télédétection, Géomatique (CNRS - Nantes, Brest, Rennes, Caen)" text="Indigeo" site_url="https://indigeo.fr/" %}
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/osuris.jpg" name="Observatoire des Sciences de l’Univers de Rennes" text="OSURIS" site_url="https://accueil.osuris.fr/" %}
-  {% include card_user.html label_site="Learn more" img_url="../public/community-users/cdgp.jpg" name="CDGP" text="Data Center for Deep Geothermal Energy" site_url="https://cdgp.u-strasbg.fr/" %}
 </div>
 
 
