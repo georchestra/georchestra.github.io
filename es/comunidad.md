@@ -51,6 +51,7 @@ Cada año, usuarios y desarrolladores de la comunidad se reunen en un lugar dife
 
 Eventos anteriores:
 
+  * Strasbourg en [2026](/fr/geocom2026/), por invitación del [Région Grand Est](https://www.grandest.fr/)
   * Rennes en [2025](/es/geocom2025), por invitación del [Rennes Métropole](https://metropole.rennes.fr/)
   * en Lille en [2024](/fr/geocom2024/), por invitación del [Métropole européenne de Lille](https://www.lillemetropole.fr/)
   * en Saint-Mandé en [2023](/fr/geocom2023/)
