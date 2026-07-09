@@ -31,7 +31,7 @@ permalink: /es/documentacion.html
 
 ### Suministro
 <div class="row py-2 d-flex align-items-stretch">
-    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Datafeeder" text="Un asistente de integración de datos" site_url="https://docs.georchestra.org/georchestra/install_guide/apps/datafeeder/" %}   
+    {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="Datafeeder" text="Un asistente de integración de datos" site_url="https://docs.georchestra.org/datafeeder/" %}   
 </div>
 
 ### Publicar
