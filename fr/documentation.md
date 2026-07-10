@@ -36,7 +36,7 @@ permalink: /fr/documentation.html
 
 ### Publier
 <div class="row py-2 d-flex align-items-stretch">
-    {% include card_doc_tool.html img_url="/public/icons/geonetwork_icon.svg" name="GeoNetwork" text="Un  catalogue de métadonnées" site_url="https://geonetwork-opensource.org/manuals/3.12.x/fr/" %}
+    {% include card_doc_tool.html img_url="/public/icons/geonetwork_icon.svg" name="GeoNetwork" text="Un  catalogue de métadonnées" site_url="https://geonetwork-opensource.org/docs.html" %}
     {% include card_doc_tool.html img_url="/public/icons/datafeeder_icon.svg" name="GeoServer" text="Un puissant serveur de données géographiques respectant les standards WxS de l'OGC" site_url="https://docs.geoserver.org/stable/en/user/" %}
     {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="GeoWebCache" text="Un serveur de tuiles" site_url="https://www.osgeo.org/projects/geowebcache/" %}
     {% include card_doc_tool.html img_url="/public/icons/geowebcache_icon.svg" name="Data API" text="Une API open data respectant les nouveaux standards 'Features API' de l'OGC" site_url="https://github.com/georchestra/data-api" %}        
