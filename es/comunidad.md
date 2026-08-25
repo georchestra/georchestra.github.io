@@ -123,6 +123,7 @@ Organizaciones internacionales y asociaciones:
 <div class="row">
   {% include card_user.html label_site="Más información" img_url="../public/community-users/faobolivia.jpg" name="Representación de la FAO en Bolivia" text="" site_url="https://www.fao.org/bolivia/es/" %}  
   {% include card_user.html label_site="Más información" img_url="../public/community-users/ifl.jpg" name="Les Libres Géographes" text="con el proyecto IFL" site_url="https://ifl.francophonelibre.org/" %}
+  {% include card_user.html label_site="Learn more" img_url="https://geoportal.georhena.eu/public/logo.svg" name="GeoRhena" text="" site_url="https://geoportal.georhena.eu/" %}
 </div>
 
 ... y mucho más que aún desconocemos al respecto. Por favor, póngase en contacto con nosotros para registrar su geOrchestra !
