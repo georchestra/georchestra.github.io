@@ -124,7 +124,7 @@ International organizations and associations:
 <div class="row">
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/faobolivia.jpg" name="FAO representation in Bolivia" text="" site_url="https://www.fao.org/bolivia/es/" %} 
   {% include card_user.html label_site="Learn more" img_url="../public/community-users/ifl.jpg" name="Les Libres Géographes" text="with IFL project" site_url="https://ifl.francophonelibre.org/" %}
-  {% include card_user.html label_site="Learn more" img_url="https://geoportal.georhena.eu/public/logo.svg" name="GeoRhena" text="" site_url="https://geoportal.georhena.eu/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/georhena.jpg" name="GeoRhena" text="" site_url="https://geoportal.georhena.eu/" %}
 </div>
 
 ... and many more we don't know about. Please contact us to register your geOrchestra !

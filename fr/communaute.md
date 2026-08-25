@@ -125,7 +125,7 @@ Les éditions précédentes du geOcom se sont tenues :
 <div class="row">
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/faobolivia.jpg" name="Représentation de la FAO en Bolivie" text="" site_url="https://www.fao.org/bolivia/es/" %}
   {% include card_user.html label_site="En savoir plus" img_url="../public/community-users/ifl.jpg" name="Les Libres Géographes" text="via le projet IFL" site_url="https://ifl.francophonelibre.org/" %}
-  {% include card_user.html label_site="Learn more" img_url="https://geoportal.georhena.eu/public/logo.svg" name="GeoRhena" text="" site_url="https://geoportal.georhena.eu/" %}
+  {% include card_user.html label_site="Learn more" img_url="../public/community-users/georhena.jpg" name="GeoRhena" text="" site_url="https://geoportal.georhena.eu/" %}
 </div>
 
 ... et bien d'autres encore.
