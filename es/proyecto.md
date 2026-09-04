@@ -34,3 +34,4 @@ El comité directivo cuenta con 9 miembros:
  * **Pierre Jégo**, desarrollador y consultor, [JDev](https://jdev.fr/)
  * **Jean Pommier**, desarrollador y consultor, [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, jefe de proyecto [Rennes Métropole](https://metropole.rennes.fr//) 
+ * **Romain Bouvier**, operador SDI & ingeniero geomático, [CIRAD](https://www.cirad.fr/)
