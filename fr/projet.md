@@ -38,7 +38,7 @@ Ceci a amélioré l'accès au code, et, de fait, engendré des apports extérieu
 
 ## Comité de pilotage
 
-Le comité de pilotage est composé de 9 membres :
+Le comité de pilotage est composé de 10 membres :
 
  * **Fabrice Phung**, gestionnaire d'IDS & chef de projet [GéoBretagne](https://geobretagne.fr)
  * **François Van Der Biest**, responsable produit et chef de projet, [Camptocamp](https://www.camptocamp.com/)
@@ -49,3 +49,4 @@ Le comité de pilotage est composé de 9 membres :
  * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
  * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, cheffe de projets [Rennes Métropole](https://metropole.rennes.fr//) 
+ * **Romain Bouvier**, gestionnaire d'IDS & géomaticien au [CIRAD](https://www.cirad.fr/)

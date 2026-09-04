@@ -23,7 +23,7 @@ Con el código mucho mas accesible y por lo tanto mas fácil de contribuir. Los 
 
 ## Comité Directivo
 
-El comité directivo cuenta con 9 miembros:
+El comité directivo cuenta con 10 miembros:
 
  * **Fabrice Phung**, operador SDI, [DREAL, Estado Francés](https://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, jefe de proyecto, [Camptocamp](https://www.camptocamp.com/)
@@ -34,3 +34,4 @@ El comité directivo cuenta con 9 miembros:
  * **Pierre Jégo**, desarrollador y consultor, [JDev](https://jdev.fr/)
  * **Jean Pommier**, desarrollador y consultor, [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, jefe de proyecto [Rennes Métropole](https://metropole.rennes.fr//) 
+ * **Romain Bouvier**, operador SDI & ingeniero geomático, [CIRAD](https://www.cirad.fr/)
