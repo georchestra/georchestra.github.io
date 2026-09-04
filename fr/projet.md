@@ -49,3 +49,4 @@ Le comité de pilotage est composé de 9 membres :
  * **Pierre Jégo**, développeur et consultant, [JDev](https://jdev.fr/)
  * **Jean Pommier**, développeur et consultant, [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, cheffe de projets [Rennes Métropole](https://metropole.rennes.fr//) 
+ * **Romain Bouvier**, gestionnaire d'IDS & géomaticien au [CIRAD](https://www.cirad.fr/)
