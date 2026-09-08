@@ -35,7 +35,7 @@ Initially hosted on a Brittany-hosted software repository, the source code final
 
 ## Steering committee
 
-The steering committee features 9 members:
+The steering committee features 10 members:
 
  * **Fabrice Phung**, SDI operator at [DREAL, French State](https://www.bretagne.developpement-durable.gouv.fr/)
  * **François Van Der Biest**, product owner & project manager at [Camptocamp](https://www.camptocamp.com/)
@@ -46,3 +46,4 @@ The steering committee features 9 members:
  * **Pierre Jégo**, software developer & consultant at [JDev](https://jdev.fr/)
  * **Jean Pommier**, software developer & consultant at [pi-Geosolutions](https://www.pi-geosolutions.fr/)
  * **Catherine Piton-Morales**, project manager [Rennes Métropole](https://metropole.rennes.fr/) 
+ * **Romain Bouvier**, SDI operator & geomatics engineer at [CIRAD](https://www.cirad.fr/)
