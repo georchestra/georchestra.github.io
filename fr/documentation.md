@@ -49,3 +49,8 @@ permalink: /fr/documentation.html
     {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="Un module présentant les statistiques d’utilisation de la plateforme" site_url="https://docs.georchestra.org/analytics/" %}     
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un générateur d'applications mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}
 </div>
+
+### Autres ressources
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="geo-utils" text="De nombreuses astuces, scripts et bibliothèques permettant de simplifier l’administration et l’automatisation de la plateforme Orchestra." site_url="https://docs.georchestra.org/geo-utils/" %}
+</div>

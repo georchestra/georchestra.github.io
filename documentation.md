@@ -49,3 +49,8 @@ permalink: /documentation.html
     {% include card_doc_tool.html img_url="/public/icons/analytics_icon.svg" name="Analytics" text="A module presenting statistics on use of the platform" site_url="https://docs.georchestra.org/analytics/" %}  
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="An mviewer application generator" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}   
 </div>
+
+### Other resources
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="geo-utils" text="Many tips / scripts / librairies in order to simplify administration / automation of geOrchestra plateform." site_url="https://docs.georchestra.org/geo-utils/" %}
+</div>

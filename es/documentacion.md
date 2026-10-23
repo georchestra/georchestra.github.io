@@ -50,3 +50,8 @@ permalink: /es/documentacion.html
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un generador de aplicaciones mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %}  
     {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="Mviewer Studio" text="Un generador de aplicaciones mviewer" site_url="https://mviewerstudio.readthedocs.io/fr/stable/index.html" %} 
 </div>
+
+### Otros recursos
+<div class="row py-2 d-flex align-items-stretch">
+    {% include card_doc_tool.html img_url="/public/icons/ldapadmin_icon.svg" name="geo-utils" text="Numerosos consejos, scripts y librerías para simplificar la administración y automatización de la plataforma Orchestra." site_url="https://docs.georchestra.org/geo-utils/" %}
+</div>
