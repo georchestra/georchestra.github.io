@@ -13,7 +13,7 @@ Junto a este núcleo cuenta con módulos independientes e interoperables para co
 
   * un catálogo de metadatos basado en [GeoNetwork](https://geonetwork-opensource.org/),
   * un servidor de mapas y características: [GeoServer](https://geoserver.org/),
-  * un servidor de mapas en mosaicos: [GeoWebCache](https://geowebcache.org/),
+  * un servidor de mapas en mosaicos: [GeoWebCache](https://geowebcache.osgeo.org),
   * un avanzado visualizador Web de mapas,
   * un extractor de datos,
   * y varios otros módulos orientados a administración.

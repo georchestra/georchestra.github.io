@@ -12,7 +12,7 @@ Next to this core are independant and interoperable modules to build your own Sp
 
  * a metadata catalog based on [GeoNetwork](https://geonetwork-opensource.org/),
  * a map and features server: [GeoServer](https://geoserver.org/),
- * a map tile server: [GeoWebCache](https://geowebcache.org/),
+ * a map tile server: [GeoWebCache](https://geowebcache.osgeo.org),
  * an advanced web map viewer,
  * a data extractor,
  * and several other admin-oriented modules.

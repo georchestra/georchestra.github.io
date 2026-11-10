@@ -13,7 +13,7 @@ geOrchestra propose en standard une suite de modules, indépendants et interopé
  * un [catalogue de métadonnées](https://github.com/georchestra/geonetwork/), basé sur [GeoNetwork](https://geonetwork-opensource.org/) version 4.4,
  * un serveur cartographique : [GeoServer](https://geoserver.org/) version 2.27,
  * un [module de gestion avancée des droits d'accès aux données](https://github.com/georchestra/geofence/blob/georchestra/georchestra.md) : [GeoFence](https://github.com/geoserver/geofence),
- * un serveur de tuiles : [GeoWebCache](https://geowebcache.org/) version 1.27,
+ * un serveur de tuiles : [GeoWebCache](https://geowebcache.osgeo.org) version 1.27,
  * un [visualiseur de données géographiques avancé](https://docs.mapstore.geosolutionsgroup.com) qui remplit également la fonction d'éditeur d'objets géographiques version 2024.02,
  * une [console d'administration des utilisateurs, roles et organismes](https://github.com/georchestra/georchestra/blob/master/console/README.md) ("console"),
  * un [module présentant les statistiques d'utilisation](https://github.com/georchestra/georchestra/blob/master/analytics/README.md) de l'IDS ("analytics").
@@ -45,4 +45,3 @@ Nous publions également des versions "patch" (ex: 23.0.5) régulièrement, dont
 Nos livraisons de versions se trouvent sur github : [https://github.com/georchestra/georchestra/releases](https://github.com/georchestra/georchestra/releases).
 
 Lire [cette page](https://docs.georchestra.org/georchestra/developer_guide/version_number/) pour comprendre notre numérotation de versions.
-

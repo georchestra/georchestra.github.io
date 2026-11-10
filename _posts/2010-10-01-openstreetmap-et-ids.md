@@ -49,7 +49,7 @@ l'option --with-experimental-png</a> qui divise la taille des tuiles par 2 ou 3
 grâce à l'optimisation (invisible) de la palette.</li>
 </ul>
 <ul>
-<li>tuilage avec <a href="https://geowebcache.org/">geowebcache</a>. Le test
+<li>tuilage avec <a href="https://geowebcache.osgeo.org">geowebcache</a>. Le test
 portant sur la projection EPSG:2154, on choisit d'utiliser pour grille de
 tuilage l'emprise maximale proposée par cette projection et on prend les seuils
 de zoom (&lt;scaleDenominators&gt; en terminologie geowebcache). Voici la
