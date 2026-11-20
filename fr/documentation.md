@@ -16,6 +16,8 @@ permalink: /fr/documentation.html
     {% include card_doc_tool.html img_url="/favicon.ico" name="Guides d'installation et d'administration" text="Documentation, en anglais" site_url="https://docs.georchestra.org/georchestra/" %}
     <br />
     {% include card_doc_tool.html img_url="/favicon.ico" name="Gateway" text="La Gateway, le point d'entrée central pour tous les services geOrchestra" site_url="https://docs.georchestra.org/gateway/" %}
+    <br />
+    {% include card_doc_tool.html img_url="/favicon.ico" name="Header" text="Un composant web qui fournit un en-tête et une barre de navigation communs aux applications" site_url="https://docs.georchestra.org/header/" %}
 </div>
 
 ## Les différents composants de geOrchestra
