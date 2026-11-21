@@ -6,7 +6,7 @@
         _paq.push(['trackPageView']);
         _paq.push(['enableLinkTracking']);
         (function() {
-          var u="https://piwik.breizhpositive.bzh/";
+          var u="https://stats.breizhpositive.bzh/";
           _paq.push(['setTrackerUrl', u+'matomo.php']);
           _paq.push(['setSiteId', '9']);
           var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
